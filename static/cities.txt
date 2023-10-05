@@ -1,0 +1,31 @@
+Austria | Vienna
+Belgium | Brussels
+Czech Republic | Prague
+Denmark | Copenhagen
+Denmark | Aarhus
+Estonia | Tallinn
+Finland | Helsinki
+France | Paris
+France | Lyon
+Germany | Berlin
+Germany | Hamburg
+Germany | Munich
+Greece | Athens
+Hungary | Budapest
+Ireland | Dublin
+Ireland | Cork
+Italy | Milan
+Luxembourg | Luxembourg City
+Netherlands | Amsterdam
+Netherlands | Rotterdam
+Norway | Oslo
+Poland | Warsaw
+Portugal | Lisbon
+Romania | Bucharest
+Spain | Madrid
+Spain | Barcelona
+Sweden | Stockholm
+Sweden | Gothenburg
+Switzerland | Zurich
+UK | London
+UK | Manchester
