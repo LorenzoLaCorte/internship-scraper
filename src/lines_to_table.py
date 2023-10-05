@@ -2,14 +2,21 @@ import configparser
 import pandas as pd
 
 config = configparser.ConfigParser()
-config.read('config.ini')
+config.read('../config.ini')
 
 GITHUB_REPO = config.get('SETTINGS', 'GITHUB_REPO')
 LINES_FILE = config.get('SETTINGS', 'LINES_FILE')
 TABLE_FILE = config.get('SETTINGS', 'TABLE_FILE')
 
 
-def parse_lines():
+def render_table(data):
+    df = pd.DataFrame(data)
+    df = df.drop_duplicates(subset=['URL'])
+    df.to_markdown(TABLE_FILE, index=False)
+    print("DataFrame exported to Table.md successfully.")
+
+
+def render_lines():
     data = []
 
     try:
@@ -23,11 +30,7 @@ def parse_lines():
                 else:
                     print("Invalid line format:", line)
         
-        df = pd.DataFrame(data)
-        df = df.drop_duplicates(subset=['URL'])
-        df.to_markdown(TABLE_FILE, index=False)
-
-        print("DataFrame exported to Table.md successfully.")
+        render_table(data)
     
     except FileNotFoundError:
         print(f"File '{LINES_FILE}' not found.")

@@ -4,10 +4,16 @@ import configparser
 import time
 
 config = configparser.ConfigParser()
-config.read('config.ini')
+config.read('../config.ini')
 
 SCAPED_LINES_FILE = config.get('SETTINGS', 'SCAPED_LINES_FILE')
-TABLE_FILE = config.get('SETTINGS', 'TABLE_FILE')
+CITIES = config.get('SETTINGS', 'CITIES')
+
+
+def filter_results(jobs):
+    # mantain rows which have keywords in the title: ("software") and ("engineer" or "engineering") and ("intern" or "internship")
+    # jobs = jobs.loc[("software" in jobs['job_title']) & (("engineer" in jobs['job_title']) | ("engineering" in jobs['column_name'])) & (("intern" in jobs['job_title']) | ("internship" in jobs['column_name']))]
+    return jobs
 
 def scrape_city(city, country, results=10, max_attempts=3, retry_delay=2):
     attempts = 0
@@ -21,9 +27,12 @@ def scrape_city(city, country, results=10, max_attempts=3, retry_delay=2):
                 results_wanted=results,
                 country_indeed=country
             )
-
             print(f"Successfully scraped: {city}, {country}")
-            return jobs
+
+            filtered_jobs = filter_results(jobs)
+            print(f"Successfully filtered")
+            
+            return filtered_jobs
         except Exception as e:
             attempts += 1
             print(f"Error while scraping {city}, {country}: {str(e)}")
@@ -35,13 +44,13 @@ def scrape_city(city, country, results=10, max_attempts=3, retry_delay=2):
     return None
 
 
-def scrape_cities():
+def scrape_cities(result_per_city, retries):
     all_rows = pd.DataFrame()
 
-    with open(TABLE_FILE, 'r') as file:
+    with open(CITIES, 'r') as file:
         for line in file:
             country, city = line.strip().split(' | ')
-            df = scrape_city(city, country)
+            df = scrape_city(city, country, result_per_city, retries)
             all_rows = pd.concat([all_rows, df], axis=1)
     
     selected_columns = ['company', 'title', 'location', 'job_url']

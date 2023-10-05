@@ -3,7 +3,7 @@ import requests
 from bs4 import BeautifulSoup
 
 config = configparser.ConfigParser()
-config.read('config.ini')
+config.read('../config.ini')
 
 LINKEDIN_FILE = config.get('SETTINGS', 'LINKEDIN_FILE')
 LINES_FILE = config.get('SETTINGS', 'LINES_FILE')
@@ -35,7 +35,7 @@ def scrape_link(url):
         print("Failed to retrieve the web page")
 
 
-def parse_file():
+def scrape_linkedin_file():
     try:
         with open(LINKEDIN_FILE, "r") as file:
             for url in file:
@@ -45,5 +45,3 @@ def parse_file():
         print(f"File '{LINKEDIN_FILE}' not found.")
     except Exception as e:
         print(f"An error occurred: {e}")
-
-parse_file()
