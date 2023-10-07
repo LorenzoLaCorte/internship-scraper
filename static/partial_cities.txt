@@ -1,1 +1,10 @@
+Czech Republic | Prague
+Germany | Munich
+Hungary | Budapest
+Ireland | Dublin
+Italy | Milan
+Netherlands | Amsterdam
+Norway | Oslo
 Spain | Madrid
+Switzerland | Zurich
+UK | London

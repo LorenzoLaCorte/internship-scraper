@@ -1,18 +1,20 @@
 import configparser
 import requests
 from bs4 import BeautifulSoup
+import re
+
 
 config = configparser.ConfigParser()
 config.read('../config.ini')
 
-LINKEDIN_FILE = config.get('SETTINGS', 'LINKEDIN_FILE')
-LINES_FILE = config.get('SETTINGS', 'LINES_FILE')
+LINKEDIN_FILE = config.get('RESOURCES', 'LINKEDIN_FILE')
+CONTRIBUTE_LINES_FILE = config.get('RESOURCES', 'CONTRIBUTE_LINES_FILE')
 
 
 def write_line(company, job_title, place, url):
-    with open(LINES_FILE, "a") as file:
+    with open(CONTRIBUTE_LINES_FILE, "a") as file:
         file.write(f"{company} | {job_title} | {place} | {url}\n")
-        print(f"Writing line: {company} | {job_title} | {place} | {url}\n")
+        print(f"Writing line: {company} | {job_title} | {place} | {url}")
 
 
 def scrape_link(url):
@@ -36,12 +38,20 @@ def scrape_link(url):
 
 
 def scrape_linkedin_file():
+    all_urls = set() # collect all existent urls of contribute_lines
     try:
+        with open(CONTRIBUTE_LINES_FILE, "r") as file:
+            for line in file:
+                parts = line.strip().split(' | ')
+                if len(parts) == 4:
+                    company, job_title, place, url = parts
+                    all_urls.add(url)
+                else:
+                    print("Invalid line format:", line)
         with open(LINKEDIN_FILE, "r") as file:
             for url in file:
-                print(f"Parsing url: {url}")
-                scrape_link(url)
-    except FileNotFoundError:
-        print(f"File '{LINKEDIN_FILE}' not found.")
+                if not url in all_urls:
+                    print(f"Parsing url: {url}")
+                    scrape_link(url)
     except Exception as e:
         print(f"An error occurred: {e}")
