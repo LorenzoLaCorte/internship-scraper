@@ -1,0 +1,406 @@
+Apple
+Microsoft
+Samsung
+Alphabet
+AT&T
+Amazon
+Verizon
+China Mobile
+Disney
+Facebook
+Alibaba
+Intel
+Softbank
+IBM
+Tencent
+Telegraph
+Cisco
+Oracle
+Deutsche Telekom
+Taiwan Semiconductor
+KDDI
+SAP
+Telefónica
+América Móvil
+Hon Hai Precision
+Dell
+Orange
+China Telecom
+Hynix
+Accenture
+Broadcom
+Micron
+Qualcomm
+PayPal
+China Unicom
+HP
+BCE
+Tata Consultancy
+Automatic Data
+BT Group
+Mitsubishi
+Canon
+Booking
+Saudi Telecom
+JD
+Texas Instruments
+Netflix
+Philips
+Etisalat
+Baidu
+ASML Holding
+Salesforce
+Applied Materials
+Recruit
+SingTel
+Adobe
+Xiaomi
+Telstra
+VMware
+TE Connectivity
+SK
+Murata
+Cognizant
+NVIDIA
+eBay
+Telenor
+Vodafone
+SK Telecom
+Vivendi
+Naspers
+Infosys
+China Tower
+Swisscom
+Corning
+Fidelity National
+Rogers
+Nintendo
+Kyocera
+NXP
+DISH Network
+Rakuten
+Altice Europe
+TELUS
+Capgemini
+Activision Blizzard
+Analog Devices
+Lam Research
+DXC Technology
+Legend Holding
+Lenovo
+NetEase
+Tokyo Electron
+Keyence
+Telkom
+Nokia
+Fortive
+Ericsson
+Fiserv
+Fujitsu
+Hewlett Packard
+Aclima
+Adjust
+Adobe
+Affirm
+Afterpay
+Airbnb
+Airtable
+Algolia
+Amplitude
+Andela
+Anduril
+App Annie
+AppZen
+Arctic Wolf
+Asana
+Atlassian
+Attentive
+Auth0
+Autodesk
+Behance
+Benchling
+Better
+BetterCloud
+Blend
+BlockFi
+Bolt
+Branch
+Braze
+Brex
+Bright Health
+Buffer
+Built
+Calendly
+Calm
+Cameo
+CampusLogic
+Capsule
+Carbon
+Carta
+Cedar
+Cerebras
+Chainalysis
+Chartboost
+Checkr
+Chime
+ChowNow
+CircleCI
+Clearbanc
+Clever
+Coalition
+Cockroach Labs
+Code42
+Coder
+Coinbase
+Coinsquare
+CommonBond
+Confluent
+Convoy
+Coursera
+Craft
+Cruise
+Current
+Cybereason
+DataBricks
+Datadog
+Dataiku
+Dave
+Deliverr
+Digit
+Discord
+DocuSign
+Domino
+Doordash
+Dremio
+Dribbble
+Dropbox
+DuckDuckGo
+Duolingo
+Earnin
+Ebay
+Eightfold
+Envoy
+Everlaw
+Faire
+Farmers Business Network
+Fictiv
+Figma
+Figure
+FinancialForce
+Fivetran
+FLEXE
+Flexport
+Flywire
+ForgeRock
+Forter
+Fountain
+Freshworks
+Front
+Fullstory
+Fundbox
+Fuze
+G2
+Garmin
+Gatsby
+Gem
+GitHub
+GitLab
+Gladly
+Glossier
+GOAT
+Gong
+Google
+Grafana
+Grammarly
+Greenhouse
+Greenlight
+GrubHub
+Guild Education
+Gusto
+Handshake
+Harness
+HashiCorp
+Health IQ
+Heap Analytics
+HelloSign
+Highspot
+Hippo Insurance
+HireVue
+Hopper
+Hyperscience
+Ibotta
+Imgur
+Imply
+inDriver
+Innovium
+Instacart
+Intercom
+Intuit
+InVision
+Ionic
+ipsy
+Iterable
+JotForm
+Juniper Square
+Justworks
+Khan Academy
+Klarna
+Komodo Health
+Kong
+Kustomer
+Later
+LaunchDarkly
+LendingHome
+LinkedIn
+Linode
+Lyft
+Lyra Health
+MailChimp
+MarkForged
+Mattermost
+Medium
+MessageBird
+Meta
+Minted
+Miro
+Modsy
+Monday
+Moveworks
+Mozilla
+mParticle
+N3twork
+Narvar
+Netflix
+Netlify
+Newsela
+Next Insurance
+Nextdoor
+nference
+Notion
+OfferUp
+Okta
+Olive
+OneSource Virtual
+OneTrust
+Opendoor
+Oscar Health
+Outdoorsy
+Outreach
+Owl Labs
+Pagerduty
+PandaDoc
+PayPal
+Pendo
+Perceptyx
+Pinterest
+Pipe
+Plaid
+Podium
+Pond5
+Postman
+Postmark
+Prodege
+Public
+Pulimi
+Pusher
+Qualia
+Quora
+ReadMe
+Reddit
+Redhat
+Redis Labs
+Rent the Runway
+ReTool
+Robinhood
+Rokt
+Salesforce
+Salsify
+Samsara
+Scale AI
+SendBird
+SentinelOne
+Sentry
+ServiceTitan
+Sezzle
+Shippo
+Shipt
+Shopify
+Side
+Sketch
+Skydio
+Slack
+Sonder
+Soundcloud
+Splunk
+Spotify
+SpotOn
+Sprinklr
+Square
+Stash
+Stedi
+Stoplight
+Stord
+Strava
+Stream
+StreamSets
+Stripe
+SurveyMonkey
+Synack
+Sysdig
+Talkdesk
+Tally
+Tastemade
+Tastyworks
+Teachable
+Teamwork
+Tekion
+Tesla
+The Zebra
+Thompson Reuters
+ThoughtSpot
+TikTok
+Tinder
+Toggl
+TripActions
+Turo
+Twilio
+Twitter
+Typeform
+Uber
+Udacity
+Udemy
+Ujet
+Unqork
+Upgrade
+Upsie
+Upwork
+Varsity Tutors
+Vectra
+Venafi
+Vercel
+Verkada
+Visa
+VMware
+VSCO
+Wayfair
+Wealthfront
+Wealthsimple
+Webflow
+Weee!
+Wheel
+WHOOP
+Wish
+WordPress
+WorkBoard
+Workrise
+WP Engine
+XANT
+YapStone
+Yelp
+Yumi
+Zapier
+Zendesk
+Zenoti
+Zest AI
+Zoom
+Zynga
