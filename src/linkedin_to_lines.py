@@ -13,8 +13,8 @@ CONTRIBUTE_LINES_FILE = config.get('RESOURCES', 'CONTRIBUTE_LINES_FILE')
 
 def write_line(company, job_title, place, url):
     with open(CONTRIBUTE_LINES_FILE, "a") as file:
-        file.write(f"{company} | {job_title} | {place} | {url}\n")
-        print(f"Writing line: {company} | {job_title} | {place} | {url}")
+        file.write(f"\n{company} | {job_title} | {place} | {url}")
+        # print(f"Writing line: {company} | {job_title} | {place} | {url}") # Debug
 
 
 def scrape_link(url):
