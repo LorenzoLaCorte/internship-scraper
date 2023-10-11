@@ -14,13 +14,13 @@ company_list = []
 
 with open(COMPANIES, 'r') as file:
     for company in file:
-        company_list.append(company.strip())
+        company_list.append(company.lower().strip())
 
 
 def render_table(data):
     df = pd.DataFrame(data)
     df = df.drop_duplicates(subset=['URL'])
-    df['CustomOrder'] = df['Company'].apply(lambda x: company_list.index(x) if x in company_list else None)
+    df['CustomOrder'] = df['Company'].apply(lambda x: company_list.index(x.split(" ")[0].lower()) if x.split(" ")[0].lower() in company_list else None)
     df = df.sort_values(by='CustomOrder')
     df = df.drop(columns=['CustomOrder'])
     df.to_markdown(TABLE_FILE, index=False)
