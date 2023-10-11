@@ -4,8 +4,7 @@ import pandas as pd
 config = configparser.ConfigParser()
 config.read('../config.ini')
 
-GITHUB_REPO = config.get('RESOURCES', 'GITHUB_REPO', fallback="")
-CONTRIBUTE_LINES_FILE = config.get('RESOURCES', 'CONTRIBUTE_LINES_FILE', fallback="contribute/contribute_lines.txt")
+CONTRIBUTE_LINES_FILE = config.get('RESOURCES', 'CONTRIBUTE_LINES_FILE', fallback="output/contribute_lines.txt")
 SCRAPED_LINES_FILE = config.get('RESOURCES', 'SCRAPED_LINES_FILE', fallback="output/scraped_lines.txt")
 TABLE_FILE = config.get('RESOURCES', 'TABLE_FILE', fallback="output/table.md")
 COMPANIES = config.get('RESOURCES', 'COMPANIES', fallback="static/companies.txt")
@@ -50,5 +49,3 @@ def render_lines():
     contribute_lines = render_file(CONTRIBUTE_LINES_FILE)
     scraped_lines = render_file(SCRAPED_LINES_FILE)
     render_table(contribute_lines+scraped_lines)
-
-render_lines()

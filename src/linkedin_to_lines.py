@@ -7,8 +7,8 @@ import re
 config = configparser.ConfigParser()
 config.read('../config.ini')
 
-LINKEDIN_FILE = config.get('RESOURCES', 'LINKEDIN_FILE')
-CONTRIBUTE_LINES_FILE = config.get('RESOURCES', 'CONTRIBUTE_LINES_FILE')
+REPO_LINKEDIN = config.get('RESOURCES', 'REPO_LINKEDIN', fallback='https://raw.githubusercontent.com/LorenzoLaCorte/european-tech-internships-2024/main/contribute/linkedin.txt')
+CONTRIBUTE_LINES_FILE = config.get('RESOURCES', 'CONTRIBUTE_LINES_FILE', fallback='output/contribute_lines.txt')
 
 
 def write_line(company, job_title, place, url):
@@ -48,10 +48,16 @@ def scrape_linkedin_file():
                     all_urls.add(url)
                 else:
                     print("Invalid line format:", line)
-        with open(LINKEDIN_FILE, "r") as file:
-            for url in file:
+
+    
+        response = requests.get(REPO_LINKEDIN)
+        if response.status_code == 200:
+            file_urls = response.text.splitlines()
+            for url in file_urls:
                 if not url in all_urls:
                     print(f"Parsing url: {url}")
                     scrape_link(url)
+        else:
+            print(f"Failed to fetch content from {REPO_LINKEDIN}. Status code: {response.status_code}")
     except Exception as e:
         print(f"An error occurred: {e}")

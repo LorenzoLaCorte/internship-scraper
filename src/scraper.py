@@ -1,9 +1,11 @@
-from jobspy import scrape_jobs
 import pandas as pd
 import configparser
 import time
 
+from JobSpy.src.jobspy import scrape_jobs
 from collections import defaultdict
+
+from JobSpy.src.jobspy.scrapers.exceptions import IndeedException, LinkedInException
 
 config = configparser.ConfigParser()
 config.read('../config.ini')
@@ -15,13 +17,13 @@ MAX_ATTEMPTS = config.getint('RETRIES', 'MAX_ATTEMPTS', fallback=3)
 RETRY_DELAY = config.getint('RETRIES', 'RETRY_DELAY', fallback=3)
 
 QUERIES_RESULTS = {"software engineering intern": DEFAULT_RESULTS,
-                    "software engineer intern": DEFAULT_RESULTS, 
-                    "software engineering internship": DEFAULT_RESULTS, 
-                    "software engineer internship": DEFAULT_RESULTS, 
+                    # "software engineer intern": DEFAULT_RESULTS, 
+                    # "software engineering internship": DEFAULT_RESULTS, 
+                    # "software engineer internship": DEFAULT_RESULTS, 
                     "engineering intern": DEFAULT_RESULTS*2}
 
 query_stats = defaultdict(list[int])
-
+exceptions_stats = defaultdict(int)
 
 def filter_results(jobs):
     return jobs[((jobs['title'].str.lower().str.contains('engineer')) | (jobs['title'].str.lower().str.contains('engineering')) | (jobs['title'].str.lower().str.contains('developer')) | (jobs['title'].str.lower().str.contains('development')))
@@ -33,7 +35,7 @@ def scrape_city(city, country, query, results, max_attempts, retry_delay):
     attempts = 0
     while attempts < max_attempts:
         try:
-            jobs: pd.DataFrame = scrape_jobs(
+            jobs = scrape_jobs(
                 site_name=["linkedin", "indeed"],
                 search_term=query,
                 location=city,
@@ -60,9 +62,15 @@ def scrape_city(city, country, query, results, max_attempts, retry_delay):
 
             return filtered_jobs
         
+        except LinkedInException:
+            exceptions_stats[(city, query, "Linkedin")] += 1
+            print(f"Error while scraping {city}, {country}: Linkedin Exception")
+        except IndeedException:
+            exceptions_stats[(city, query, "Indeed")] += 1
+            print(f"Error while scraping {city}, {country}: Linkedin Exception")
         except Exception as e:
             attempts += 1
-            print(f"Error while scraping {city}, {country}: {str(e)}")
+            print(f"Error while scraping {city}, {country}: {type(e).__name__}: {str(e)}")
             if attempts < max_attempts:
                 print(f"Retrying in {retry_delay} seconds...")
                 time.sleep(retry_delay)
@@ -111,6 +119,7 @@ def print_stats():
         print(f"Mean Number of Results: {sum(stat_lists[0])/len(stat_lists[0])}")
         print(f"Mean Number of Filtered Results: {sum(stat_lists[1])/len(stat_lists[1])}")
         print(f"Efficiency of the Query: {sum(stat_lists[1])/sum(stat_lists[0])}")
+        print(f"Exception Stats: {exceptions_stats}")
 
 
 def scrape_cities():
