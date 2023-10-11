@@ -288,6 +288,7 @@ Johnson & Johnson
 JotForm
 Juniper Square
 Justworks
+Kahoot!
 KBC Group
 KDDI
 KEYS
@@ -314,6 +315,7 @@ LendingHome
 Lenovo
 LinkedIn
 Linode
+Logitech
 Lloyds Banking Group
 Lyft
 Lyra Health
