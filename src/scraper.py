@@ -26,7 +26,7 @@ query_stats = defaultdict(list[int])
 exceptions_stats = defaultdict(int)
 
 def filter_results(jobs):
-    return jobs[((jobs['title'].str.lower().str.contains('engineer')) | (jobs['title'].str.lower().str.contains('engineering')) | (jobs['title'].str.lower().str.contains('developer')) | (jobs['title'].str.lower().str.contains('development')))
+    return jobs[((jobs['title'].str.lower().str.contains('engineer')) | (jobs['title'].str.lower().str.contains('engineering')) | (jobs['title'].str.lower().str.contains('software developer')) | (jobs['title'].str.lower().str.contains('software development')))
                 & ((jobs['title'].str.lower().str.contains('intern')) | (jobs['title'].str.lower().str.contains('internship')))]
 
 
