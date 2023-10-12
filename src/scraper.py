@@ -17,9 +17,9 @@ MAX_ATTEMPTS = config.getint('RETRIES', 'MAX_ATTEMPTS', fallback=3)
 RETRY_DELAY = config.getint('RETRIES', 'RETRY_DELAY', fallback=3)
 
 QUERIES_RESULTS = {"software engineering intern": DEFAULT_RESULTS,
-                    # "software engineer intern": DEFAULT_RESULTS, 
-                    # "software engineering internship": DEFAULT_RESULTS, 
-                    # "software engineer internship": DEFAULT_RESULTS, 
+                    "software engineer intern": DEFAULT_RESULTS, 
+                    "software engineering internship": DEFAULT_RESULTS, 
+                    "software engineer internship": DEFAULT_RESULTS, 
                     "engineering intern": DEFAULT_RESULTS*2}
 
 query_stats = defaultdict(list[int])
@@ -62,14 +62,9 @@ def scrape_city(city, country, query, results, max_attempts, retry_delay):
 
             return filtered_jobs
         
-        except LinkedInException:
-            exceptions_stats[(city, query, "Linkedin")] += 1
-            print(f"Error while scraping {city}, {country}: Linkedin Exception")
-        except IndeedException:
-            exceptions_stats[(city, query, "Indeed")] += 1
-            print(f"Error while scraping {city}, {country}: Linkedin Exception")
         except Exception as e:
             attempts += 1
+            exceptions_stats[(city, query, type(e).__name__)] += 1
             print(f"Error while scraping {city}, {country}: {type(e).__name__}: {str(e)}")
             if attempts < max_attempts:
                 print(f"Retrying in {retry_delay} seconds...")
@@ -87,7 +82,7 @@ def write_results(all_rows):
     selected_columns = ['company', 'title', 'location', 'job_url']
 
     try:
-        with open(SCRAPED_LINES_FILE, 'w') as file:
+        with open(SCRAPED_LINES_FILE, 'a') as file:
             for _, row in all_rows[selected_columns].iterrows():
                 if not row.isna().any():
                     company = row["company"] if isinstance(row["company"], str) else row["company"].iloc[0]
@@ -99,7 +94,7 @@ def write_results(all_rows):
                     if company and title and location and job_url:
                         written_lines += 1
                         file.write(f'{company} | {title} | {location} | {job_url}\n')
-                        print(f"Writing line: {company} | {title} | {location} | {job_url}")
+                        # print(f"Writing line: {company} | {title} | {location} | {job_url}")
                     else:
                         empty_values_rows += 1
                 else:
