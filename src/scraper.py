@@ -26,8 +26,9 @@ query_stats = defaultdict(list[int])
 exceptions_stats = defaultdict(int)
 
 def filter_results(jobs):
-    return jobs[((jobs['title'].str.lower().str.contains('engineer')) | (jobs['title'].str.lower().str.contains('engineering')) | (jobs['title'].str.lower().str.contains('software developer')) | (jobs['title'].str.lower().str.contains('software development')))
-                & ((jobs['title'].str.lower().str.contains('intern')) | (jobs['title'].str.lower().str.contains('internship')))]
+    return jobs[    ((jobs['title'].str.lower().str.contains('software')) | (jobs['title'].str.lower().str.contains('cloud')))
+                &   ((jobs['title'].str.lower().str.contains('engineer')) | (jobs['title'].str.lower().str.contains('engineering')) | (jobs['title'].str.lower().str.contains('developer')) | (jobs['title'].str.lower().str.contains('development')))
+                &   ((jobs['title'].str.lower().str.contains('intern')) | (jobs['title'].str.lower().str.contains('internship')))]
 
 
 def scrape_city(city, country, query, results, max_attempts, retry_delay):
@@ -49,7 +50,7 @@ def scrape_city(city, country, query, results, max_attempts, retry_delay):
             print(f"Number of results remaining after filtering: {len(filtered_jobs)}")
 
             # if query has empty locations, replace them with the city
-            filtered_jobs_copy = filtered_jobs.copy()  # Create a copy of the DataFrame
+            filtered_jobs_copy = filtered_jobs.copy() 
             filtered_jobs_copy.loc[filtered_jobs_copy['location'] == '', 'location'] = city + ', ' + country
             filtered_jobs = filtered_jobs_copy
 
@@ -90,11 +91,9 @@ def write_results(all_rows):
                     location = row["location"] if isinstance(row["location"], str) else row["location"].iloc[0]
                     job_url = row["job_url"] if isinstance(row["job_url"], str) else row["job_url"].iloc[0]
                     
-                    # TODO: if company or title or location aren't present but job_url yes, insert it in contribute_ linkeding or indeed to scrape it
                     if company and title and location and job_url:
                         written_lines += 1
                         file.write(f'{company} | {title} | {location} | {job_url}\n')
-                        # print(f"Writing line: {company} | {title} | {location} | {job_url}")
                     else:
                         empty_values_rows += 1
                 else:
