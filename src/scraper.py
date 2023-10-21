@@ -17,10 +17,10 @@ CITIES_NO_INDEED = config.get('RESOURCES', 'CITIES_NO_INDEED', fallback='static/
 DEFAULT_RESULTS = config.getint('RESULTS', 'DEFAULT_RESULTS', fallback=20)
 
 QUERIES_RESULTS = {"software engineering intern": DEFAULT_RESULTS,
-                    # "software engineer internship": DEFAULT_RESULTS,
-                    # "software developer internship": DEFAULT_RESULTS,
-                    # "cloud engineering intern": DEFAULT_RESULTS
-                    }
+                    "software engineer internship": DEFAULT_RESULTS,
+                    "software developer internship": DEFAULT_RESULTS,
+                    "cloud engineering intern": DEFAULT_RESULTS
+                }
 
 query_stats = defaultdict(list[int])
 exceptions_stats = defaultdict(int)
@@ -43,7 +43,7 @@ def scrape_city(city, country, query, results, no_indeed):
             )
         else:
             jobs = scrape_jobs(
-                site_name=["linkedin", "indeed"],
+                site_name=["linkedin"], #, "indeed"], # Temporary not available
                 search_term=query,
                 location=city,
                 results_wanted=results,
@@ -55,7 +55,7 @@ def scrape_city(city, country, query, results, no_indeed):
         if jobs.empty:
             return jobs
 
-        # jobs.to_csv(f'../debug/{city}-{query}.txt', index=False) # DEBUG
+        jobs.to_csv(f'../debug/{city}-{query}.txt', index=False) # DEBUG
 
         filtered_jobs = filter_results(jobs)
         print(f"Number of results remaining after filtering: {len(filtered_jobs)}")
