@@ -3,7 +3,6 @@ Belgium | Brussels
 Czech Republic | Prague
 Denmark | Copenhagen
 Denmark | Aarhus
-Estonia | Tallinn
 Finland | Helsinki
 France | Paris
 France | Lyon
@@ -16,10 +15,6 @@ Hungary | Budapest
 Ireland | Dublin
 Ireland | Cork
 Italy | Milan
-Italy | Rome
-Italy | Bari
-Italy | Asti
-Latvia | Riga
 Luxembourg | Luxembourg City
 Netherlands | Amsterdam
 Netherlands | Rotterdam

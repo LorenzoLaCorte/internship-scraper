@@ -1,76 +1,86 @@
 import pandas as pd
 import configparser
-import time
+import logging as logger
 
-from JobSpy.src.jobspy import scrape_jobs
+from jobspy import scrape_jobs
+
 from collections import defaultdict
 
-from JobSpy.src.jobspy.scrapers.exceptions import IndeedException, LinkedInException
+from jobspy.scrapers.exceptions import IndeedException, LinkedInException
 
 config = configparser.ConfigParser()
 config.read('../config.ini')
 
 SCRAPED_LINES_FILE = config.get('RESOURCES', 'SCRAPED_LINES_FILE', fallback='output/scraped_lines.txt')
-CITIES = config.get('RESOURCES', 'CITIES', fallback='static/partial_cities.txt')
+CITIES = config.get('RESOURCES', 'CITIES', fallback='static/cities.txt')
+CITIES_NO_INDEED = config.get('RESOURCES', 'CITIES_NO_INDEED', fallback='static/cities_no_indeed.txt')
 DEFAULT_RESULTS = config.getint('RESULTS', 'DEFAULT_RESULTS', fallback=20)
-MAX_ATTEMPTS = config.getint('RETRIES', 'MAX_ATTEMPTS', fallback=3)
-RETRY_DELAY = config.getint('RETRIES', 'RETRY_DELAY', fallback=3)
 
 QUERIES_RESULTS = {"software engineering intern": DEFAULT_RESULTS,
-                    "software engineer intern": DEFAULT_RESULTS, 
-                    "software engineering internship": DEFAULT_RESULTS, 
-                    "software engineer internship": DEFAULT_RESULTS, 
-                    "engineering intern": DEFAULT_RESULTS*2}
+                    "software engineer internship": DEFAULT_RESULTS,
+                    "software developer internship": DEFAULT_RESULTS,
+                    "cloud engineering intern": DEFAULT_RESULTS
+                }
 
 query_stats = defaultdict(list[int])
 exceptions_stats = defaultdict(int)
 
 def filter_results(jobs):
-    return jobs[((jobs['title'].str.lower().str.contains('engineer')) | (jobs['title'].str.lower().str.contains('engineering')) | (jobs['title'].str.lower().str.contains('software developer')) | (jobs['title'].str.lower().str.contains('software development')))
-                & ((jobs['title'].str.lower().str.contains('intern')) | (jobs['title'].str.lower().str.contains('internship')))]
+    return jobs[    ((jobs['title'].str.lower().str.contains('software')) | (jobs['title'].str.lower().str.contains('cloud')))
+                &   ((jobs['title'].str.lower().str.contains('engineer')) | (jobs['title'].str.lower().str.contains('engineering')) | (jobs['title'].str.lower().str.contains('developer')) | (jobs['title'].str.lower().str.contains('development')))
+                &   ((jobs['title'].str.lower().str.contains('intern')) | (jobs['title'].str.lower().str.contains('internship')))]
 
 
-def scrape_city(city, country, query, results, max_attempts, retry_delay):
+def scrape_city(city, country, query, results, no_indeed):
     print(f"Scraping in {city}, {country} with query: {query}")
-    attempts = 0
-    while attempts < max_attempts:
-        try:
+    try:
+        if no_indeed:
             jobs = scrape_jobs(
-                site_name=["linkedin", "indeed"],
+                site_name=["linkedin"],
                 search_term=query,
                 location=city,
                 results_wanted=results,
-                country_indeed=country
             )
-            print(f"Number of results: {len(jobs)}")
-            jobs.to_csv(f'../debug/{city}-{query}.txt', index=False) # DEBUG
-
-            filtered_jobs = filter_results(jobs)
-            print(f"Number of results remaining after filtering: {len(filtered_jobs)}")
-
-            # if query has empty locations, replace them with the city
-            filtered_jobs_copy = filtered_jobs.copy()  # Create a copy of the DataFrame
-            filtered_jobs_copy.loc[filtered_jobs_copy['location'] == '', 'location'] = city + ', ' + country
-            filtered_jobs = filtered_jobs_copy
-
-            if len(query_stats[query]) == 0:
-                query_stats[query].append([len(jobs)])
-                query_stats[query].append([len(filtered_jobs)])
-            else:
-                query_stats[query][0].append(len(jobs))
-                query_stats[query][1].append(len(filtered_jobs))
-
-            return filtered_jobs
+        else:
+            jobs = scrape_jobs(
+                site_name=["linkedin"], #, "indeed"], # Temporary not available
+                search_term=query,
+                location=city,
+                results_wanted=results,
+                country_indeed=country,
+            )
         
-        except Exception as e:
-            attempts += 1
-            exceptions_stats[(city, query, type(e).__name__)] += 1
-            print(f"Error while scraping {city}, {country}: {type(e).__name__}: {str(e)}")
-            if attempts < max_attempts:
-                print(f"Retrying in {retry_delay} seconds...")
-                time.sleep(retry_delay)
+        print(f"Number of results: {len(jobs)}")
+
+        if jobs.empty:
+            return jobs
+
+        jobs.to_csv(f'../debug/{city}-{query}.txt', index=False) # DEBUG
+
+        filtered_jobs = filter_results(jobs)
+        print(f"Number of results remaining after filtering: {len(filtered_jobs)}")
+
+        # if query has empty locations (always with linkedin), replace them with the city
+        filtered_jobs_copy = filtered_jobs.copy() 
+        filtered_jobs_copy.loc[filtered_jobs_copy['location'] == '', 'location'] = city + ', ' + country
+        filtered_jobs = filtered_jobs_copy
+
+        # stats
+        if len(query_stats[query]) == 0:
+            query_stats[query].append([len(jobs)])
+            query_stats[query].append([len(filtered_jobs)])
+        else:
+            query_stats[query][0].append(len(jobs))
+            query_stats[query][1].append(len(filtered_jobs))
+
+        return filtered_jobs
     
-    print(f"Failed to scrape {city}, {country}, {query}, after {max_attempts} attempts.")
+    except Exception as e:
+        logger.exception(e)
+        exceptions_stats[(city, query, type(e).__name__)] += 1
+        print(f"Error while scraping {city}, {country}: {type(e).__name__}: {str(e)}")
+        print(f"Failed to scrape {city}, {country}, {query}")
+
     return None
 
 
@@ -90,11 +100,9 @@ def write_results(all_rows):
                     location = row["location"] if isinstance(row["location"], str) else row["location"].iloc[0]
                     job_url = row["job_url"] if isinstance(row["job_url"], str) else row["job_url"].iloc[0]
                     
-                    # TODO: if company or title or location aren't present but job_url yes, insert it in contribute_ linkeding or indeed to scrape it
                     if company and title and location and job_url:
                         written_lines += 1
                         file.write(f'{company} | {title} | {location} | {job_url}\n')
-                        # print(f"Writing line: {company} | {title} | {location} | {job_url}")
                     else:
                         empty_values_rows += 1
                 else:
@@ -117,15 +125,23 @@ def print_stats():
         print(f"Exception Stats: {exceptions_stats}")
 
 
-def scrape_cities():
-    all_rows = pd.DataFrame()
-
-    with open(CITIES, 'r') as file:
+def scrape_cities_file(filename, no_indeed=False):
+    rows = pd.DataFrame()
+    with open(filename, 'r') as file:
         for line in file:
             country, city = line.strip().split(' | ')
             for query, results in QUERIES_RESULTS.items():
-                df = scrape_city(city, country, query, results, MAX_ATTEMPTS, RETRY_DELAY)
-                all_rows = pd.concat([all_rows, df], axis=0)
-    
+                df = scrape_city(city, country, query, results, no_indeed)
+                rows = pd.concat([rows, df], axis=0)
+    return rows
+
+def scrape_cities():
+    all_rows = pd.DataFrame()
+
+    rows1 = scrape_cities_file(CITIES)
+    rows2 = scrape_cities_file(CITIES_NO_INDEED, no_indeed=True)
+
+    all_rows = pd.concat([rows1, rows2], axis=0)
+
     print_stats()
     write_results(all_rows)
