@@ -1,0 +1,22 @@
+{
+    "include": [
+      "**/*.py",
+      "**/*.pyi"
+    ],
+    "exclude": [
+      "**/__pycache__",
+      ".git",
+      "dist",
+      "build"
+    ],
+    "reportMissingImports": true,
+    "reportOptionalMemberAccess": false,
+    "reportOptionalCall": false,
+    "reportOptionalOperand": false,
+    "typeCheckingMode": "strict",
+    "useLibraryCodeForTypes": true,
+    "stubPath": "stubs",
+    "pythonVersion": "3.11",
+    "pythonPlatform": "Linux",
+    "watch": true
+}

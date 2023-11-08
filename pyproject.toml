@@ -1,0 +1,120 @@
+[tool.poetry]
+name = "internship-scraper"
+version = "0.1.0"
+description = ""
+authors = ["LorenzoLaCorte <lorenzolacorte99@gmail.com>", "fabifont <me@fabifont.dev>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.11,<3.13"
+jobpilot = "^0.4.0"
+
+
+[tool.poetry.group.dev.dependencies]
+ruff = "^0.1.4"
+black = "^23.10.1"
+pre-commit = "^3.5.0"
+deptry = "^0.12.0"
+commitizen = "^3.12.0"
+mypy = "^1.6.1"
+pyright = "^1.1.334"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+
+[tool.ruff]
+target-version = "py311"
+line-length = 88
+select = [
+    # flake8 defaults
+    "C", "E", "F", "W",
+    "B",     # flake8-bugbear
+    "D",     # flake8-docstrings
+    "ANN",   # flake8-annotations
+    "Q",     # flake8-quotes
+    "ASYNC", # flake8-async
+    "BLE",   # flake8-blind-except
+    "FBT",   # flake8-boolean-trap
+    "S",     # flake8-bandit
+    "A",     # flake8-builtins
+    "COM",   # flake8-commas
+    "C4",    # flake8-comprehensions
+    "DTZ",   # flake8-datetimez
+    "T10",   # flake8-debugger
+    "EM",    # flake8-errmsg
+    "FA",    # flake8-future-annotations
+    "ISC",   # flake8-implicit-str-concat
+    "ICN",   # flake8-import-conventions
+    "G",     # flake8-logging-format
+    "PIE",   # flake8-pie
+    "T20",   # flake8-print
+    "PYI",   # flake8-pyi
+    "RSE",   # flake8-raise
+    "RET",   # flake8-return
+    "SLF",   # flake8-self
+    "SLOT",  # flake8-slot
+    "SIM",   # flake8-simplify
+    "TID",   # flake8-tidy-imports
+    "TCH",   # flake8-type-checking
+    "INT",   # flake8-gettext
+    "ARG",   # flake8-unused-arguments
+    "PTH",   # flake8-use-pathlib
+    "FIX",   # flake8-fixme
+    "C90",   # mccabe
+    "PGH",   # pygrep-hooks
+    "TRY",   # tryceratops
+    "FLY",   # flynt
+    "PERF",  # perflint
+    "RUF",   # ruf
+    "UP",    # pyupgrade
+    "I",     # isort
+    "N",     # pep8-naming
+]
+ignore = [
+    "D",      # docstrings
+    "ANN101", # missing type annotation for self and cls
+    "FBT",    # boolean params
+    "G004",   # logging using f-strings
+    "S311",   # pseudo-random genetators
+    "S101",   # assertions
+    "PGH003"  # specific rules for type ignore
+]
+fix = true
+fixable = ["ALL"]
+exclude = [
+    ".git",
+    "__pycache__",
+    "build",
+    "dist",
+    "temp"
+]
+
+[tool.ruff.flake8-type-checking]
+strict = true
+
+
+[tool.black]
+target-version = ["py311"]
+line-length = 88
+include = '\.pyi?$'
+exclude = '''
+/(
+    \.eggs
+  | \.git
+  | \.hg
+  | \.mypy_cache
+  | \.tox
+  | \.venv
+  | _build
+  | buck-out
+  | build
+  | dist
+)/
+'''
+
+
+[tool.commitizen]
+version = "0.1.0"
+update_changelog_on_bump = true
