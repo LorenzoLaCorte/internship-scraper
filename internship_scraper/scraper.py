@@ -1,6 +1,7 @@
 from jobpilot.scrapers import LinkedInScraper, ScraperInput
 
 from internship_scraper.constants import (
+    COMPANIES,
     EUROPEAN_CITIES,
     EUROPEAN_COUNTRIES,
     JOB_CATEGORIES,
@@ -14,16 +15,19 @@ async def find_internships() -> None:
     scraper = LinkedInScraper()
 
     keywords: list[str] = []
+    extra_keywords: list[str] = []
 
     for category in JOB_CATEGORIES:
-        keywords += [f"{category} {job_type}" for job_type in JOB_TYPES]
+        for job_type in JOB_TYPES:
+            new_keyword = f"{category} {job_type}"
+            keywords.append(new_keyword)
+            extra_keywords += [f"{company} {new_keyword}" for company in COMPANIES]
 
         for title in JOB_TITLES:
-            keywords.append(f"{category} {title}")
-            keywords += [f"{category} {title} {job_type}" for job_type in JOB_TYPES]
-
-    for title in JOB_TITLES:
-        keywords += [f"{title} {job_type}" for job_type in JOB_TYPES]
+            for job_type in JOB_TYPES:
+                new_keyword = f"{category} {title} {job_type}"
+                keywords.append(new_keyword)
+                extra_keywords += [f"{company} {new_keyword}" for company in COMPANIES]
 
     for location in EUROPEAN_CITIES:
         for keyword in keywords:
@@ -38,5 +42,11 @@ async def find_internships() -> None:
             dump_results(
                 await scraper.scrape(
                     ScraperInput(keywords=keyword, location=location, limit=1000),
+                ),
+            )
+        for keyword in extra_keywords:
+            dump_results(
+                await scraper.scrape(
+                    ScraperInput(keywords=keyword, location=location, limit=50),
                 ),
             )

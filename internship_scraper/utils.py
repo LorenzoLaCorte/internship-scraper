@@ -20,6 +20,9 @@ def dump_results(jobs: list[Job]) -> None:
         content = f.read()
 
         for job in jobs:
-            line = f"{job.company.name} | {job.title} | {job.location} | {job.link}\n"
-            if line not in content:
+            line = (
+                f"{job.company.name.replace('|', '')} | {job.title.replace('|', '')} |"
+                f" {str(job.location).replace('|', '')} | {job.link.replace('|', '')}\n"
+            )
+            if line not in content and job.link not in content:
                 f.write(line)
