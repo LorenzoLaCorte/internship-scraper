@@ -2,9 +2,16 @@ from __future__ import annotations
 
 from typing import TYPE_CHECKING
 
-from internship_scraper.constants import OUTPUT_DIR, RESULTS_FILE
+from internship_scraper.constants import (
+    FILTERED_RESULTS_FILE,
+    OUTPUT_DIR,
+    RESULTS_FILE,
+    RESULTS_HEADER,
+)
 
 if TYPE_CHECKING:
+    from pathlib import Path
+
     from jobpilot.models import Job
 
 
@@ -12,7 +19,10 @@ def setup_output() -> None:
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     if not RESULTS_FILE.exists():
         with RESULTS_FILE.open("w") as f:
-            f.write("company | title | location | link\n")
+            f.write(RESULTS_HEADER)
+    if not FILTERED_RESULTS_FILE.exists():
+        with FILTERED_RESULTS_FILE.open("w") as f:
+            f.write(RESULTS_HEADER)
 
 
 def dump_results(jobs: list[Job]) -> None:
@@ -21,8 +31,34 @@ def dump_results(jobs: list[Job]) -> None:
 
         for job in jobs:
             line = (
-                f"{job.company.name.replace('|', '')} | {job.title.replace('|', '')} |"
-                f" {str(job.location).replace('|', '')} | {job.link.replace('|', '')}\n"
+                f"{job.company.name.replace('|', '')}|{job.title.replace('|', '')}|"
+                f"{str(job.location).replace('|', '')}|{job.link.replace('|', '')}\n"
             )
             if line not in content and job.link not in content:
                 f.write(line)
+
+
+def dump_filtered_results(lines: list[str]) -> None:
+    with FILTERED_RESULTS_FILE.open("r+") as f:
+        content = f.read()
+
+        for line in lines:
+            if line not in content:
+                f.write(f"{line}\n")
+
+
+def csv_to_markdown_table(csv_file: Path, md_file: Path) -> None:
+    markdown_lines: list[str] = []
+
+    with csv_file.open("r") as f:
+        lines = f.read().splitlines()
+
+        headers = lines[0]
+        columns = len(headers.split("|"))
+        markdown_lines.append(f"|{headers}|")
+        markdown_lines.append(f"|{'|'.join(['---'] * columns)}|")
+        if len(lines) > 1:
+            markdown_lines += [f"|{line}|" for line in lines[1:]]
+
+    with md_file.open("w") as f:
+        f.write("\n".join(markdown_lines))

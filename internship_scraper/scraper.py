@@ -29,24 +29,31 @@ async def find_internships() -> None:
                 keywords.append(new_keyword)
                 extra_keywords += [f"{company} {new_keyword}" for company in COMPANIES]
 
+    for location in EUROPEAN_COUNTRIES:
+        for keyword in extra_keywords:
+            dump_results(
+                await scraper.scrape(
+                    ScraperInput(keywords=keyword, location=location, limit=50),
+                    max_retries=20,
+                    retry_delay=2,
+                    concurrent=False,
+                ),
+            )
+        for keyword in keywords:
+            dump_results(
+                await scraper.scrape(
+                    ScraperInput(keywords=keyword, location=location, limit=1000),
+                    max_retries=20,
+                    retry_delay=3,
+                ),
+            )
+
     for location in EUROPEAN_CITIES:
         for keyword in keywords:
             dump_results(
                 await scraper.scrape(
                     ScraperInput(keywords=keyword, location=location, limit=200),
-                ),
-            )
-
-    for location in EUROPEAN_COUNTRIES:
-        for keyword in keywords:
-            dump_results(
-                await scraper.scrape(
-                    ScraperInput(keywords=keyword, location=location, limit=1000),
-                ),
-            )
-        for keyword in extra_keywords:
-            dump_results(
-                await scraper.scrape(
-                    ScraperInput(keywords=keyword, location=location, limit=50),
+                    max_retries=20,
+                    retry_delay=3,
                 ),
             )

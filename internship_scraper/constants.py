@@ -4,7 +4,10 @@ PROJECT_ROOT = Path(__file__).parent.parent
 
 OUTPUT_DIR = PROJECT_ROOT / "output"
 RESULTS_FILE = OUTPUT_DIR / "results.csv"
+FILTERED_RESULTS_FILE = OUTPUT_DIR / "filtered_results.csv"
 TABLE_FILE = OUTPUT_DIR / "table.md"
+
+RESULTS_HEADER = "company|title|location|link\n"
 
 JOB_CATEGORIES = ["software", "cloud"]
 JOB_TITLES = ["engineer", "engineering", "developer", "development"]
