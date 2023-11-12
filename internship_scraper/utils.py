@@ -3,6 +3,7 @@ from __future__ import annotations
 from typing import TYPE_CHECKING
 
 from internship_scraper.constants import (
+    COMPANIES,
     FILTERED_RESULTS_FILE,
     OUTPUT_DIR,
     RESULTS_FILE,
@@ -48,17 +49,26 @@ def dump_filtered_results(lines: list[str]) -> None:
 
 
 def csv_to_markdown_table(csv_file: Path, md_file: Path) -> None:
-    markdown_lines: list[str] = []
+    header_lines: list[str] = []
+    prior_job_lines: list[str] = []
+    job_lines: list[str] = []
 
     with csv_file.open("r") as f:
         lines = f.read().splitlines()
 
         headers = lines[0]
         columns = len(headers.split("|"))
-        markdown_lines.append(f"|{headers}|")
-        markdown_lines.append(f"|{'|'.join(['---'] * columns)}|")
+        header_lines.append(f"|{headers}|")
+        header_lines.append(f"|{'|'.join(['---'] * columns)}|")
         if len(lines) > 1:
-            markdown_lines += [f"|{line}|" for line in lines[1:]]
+            for line in lines[1:]:
+                if any([word in COMPANIES for word in line.split("|")[0].split(" ")]):
+                    prior_job_lines += [f"|{line}|"]
+                else:
+                    job_lines += [f"|{line}|"]
+        
+        prior_job_lines.sort()
+        job_lines.sort()
 
     with md_file.open("w") as f:
-        f.write("\n".join(markdown_lines))
+        f.write("\n".join(header_lines+prior_job_lines+job_lines))
