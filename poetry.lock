@@ -469,13 +469,13 @@ i18n = ["Babel (>=2.7)"]
 
 [[package]]
 name = "jobpilot"
-version = "0.5.0"
+version = "0.5.1"
 description = "Job scraper"
 optional = false
 python-versions = ">=3.11,<4.0"
 files = [
-    {file = "jobpilot-0.5.0-py3-none-any.whl", hash = "sha256:6cfa10fb51803a8f3eb0470fed49d1ba6bfc1886434fdf1c6ab20f307e71212c"},
-    {file = "jobpilot-0.5.0.tar.gz", hash = "sha256:1b371af27964696568b515df57d412342de39440d58dbf1f6354e770d1beb8d2"},
+    {file = "jobpilot-0.5.1-py3-none-any.whl", hash = "sha256:070323c949e9f444006111544319cffe3d3ddc06345884c0a7d5d6a430a66c2d"},
+    {file = "jobpilot-0.5.1.tar.gz", hash = "sha256:2a5975ad6363d274ac16f68a10a5095aa8e402fce6456676e83c7c7bd6b2aeb2"},
 ]
 
 [package.dependencies]
@@ -1211,4 +1211,4 @@ testing = ["big-O", "jaraco.functools", "jaraco.itertools", "more-itertools", "p
 [metadata]
 lock-version = "2.0"
 python-versions = ">=3.11,<3.13"
-content-hash = "459d5d1711b93ae8db6fd9307d6e476069d160bf392907b2bb5d603e4d32d8de"
+content-hash = "3a94f571ab85507cc8a2d11e196f4f21d156218fc3d01b1476b09fb006faa871"
