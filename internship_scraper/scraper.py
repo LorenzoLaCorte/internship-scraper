@@ -1,7 +1,10 @@
+import asyncio
+
 from jobpilot.scrapers import LinkedInScraper, ScraperInput
 
 from internship_scraper.constants import (
     COMPANIES,
+    EUROPEAN_AREA,
     EUROPEAN_CITIES,
     EUROPEAN_COUNTRIES,
     JOB_CATEGORIES,
@@ -11,7 +14,7 @@ from internship_scraper.constants import (
 from internship_scraper.utils import dump_results
 
 
-async def find_internships() -> None:
+async def find_internships() -> None:  # noqa: C901
     scraper = LinkedInScraper()
 
     keywords: list[str] = []
@@ -29,31 +32,64 @@ async def find_internships() -> None:
                 keywords.append(new_keyword)
                 extra_keywords += [f"{company} {new_keyword}" for company in COMPANIES]
 
-    for location in EUROPEAN_COUNTRIES:
-        for keyword in extra_keywords:
-            dump_results(
-                await scraper.scrape(
+    for keyword in extra_keywords:
+        results = await asyncio.gather(
+            *[
+                scraper.scrape(
                     ScraperInput(keywords=keyword, location=location, limit=50),
-                    max_retries=20,
-                    retry_delay=2,
                     concurrent=False,
-                ),
-            )
-        for keyword in keywords:
+                    retry_delay=1,
+                )
+                for location in EUROPEAN_COUNTRIES
+            ],
+        )
+
+        for result in results:
+            dump_results(result)
+
+        results = await asyncio.gather(
+            *[
+                scraper.scrape(
+                    ScraperInput(keywords=keyword, location=location, limit=25),
+                    concurrent=False,
+                    retry_delay=1,
+                )
+                for location in EUROPEAN_CITIES
+            ],
+        )
+
+        for result in results:
+            dump_results(result)
+
+        dump_results(
+            await scraper.scrape(
+                ScraperInput(keywords=keyword, location=EUROPEAN_AREA, limit=1000),
+                max_retries=20,
+                retry_delay=1,
+            ),
+        )
+
+    for keyword in keywords:
+        for location in EUROPEAN_COUNTRIES:
             dump_results(
                 await scraper.scrape(
                     ScraperInput(keywords=keyword, location=location, limit=1000),
                     max_retries=20,
-                    retry_delay=3,
+                    retry_delay=1,
                 ),
             )
-
-    for location in EUROPEAN_CITIES:
-        for keyword in keywords:
+        for location in EUROPEAN_CITIES:
             dump_results(
                 await scraper.scrape(
                     ScraperInput(keywords=keyword, location=location, limit=200),
                     max_retries=20,
-                    retry_delay=3,
+                    retry_delay=1,
                 ),
             )
+        dump_results(
+            await scraper.scrape(
+                ScraperInput(keywords=keyword, location=EUROPEAN_AREA, limit=1000),
+                max_retries=20,
+                retry_delay=1,
+            ),
+        )

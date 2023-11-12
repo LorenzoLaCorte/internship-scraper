@@ -70,6 +70,8 @@ COMPANIES = [
     "zoom",
 ]
 
+EUROPEAN_AREA = "european economic area"
+
 EUROPEAN_COUNTRIES = [
     "albania",
     "andorra",
@@ -122,7 +124,6 @@ EUROPEAN_COUNTRIES = [
     "united kingdom",
     "uk",
     "vatican",
-    "european economic area",
 ]
 
 EUROPEAN_CITIES = [
