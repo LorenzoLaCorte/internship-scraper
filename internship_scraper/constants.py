@@ -9,67 +9,24 @@ TABLE_FILE = OUTPUT_DIR / "table.md"
 
 RESULTS_HEADER = "company|title|location|link\n"
 
-JOB_CATEGORIES = ["software", "cloud"]
-JOB_TITLES = ["engineer", "engineering", "developer", "development"]
+JOB_CATEGORIES = ["software"]
+JOB_TITLES = ["engineer", "developer"]
 JOB_TYPES = ["intern", "internship"]
 
 COMPANIES = [
-    "adobe",
-    "airbnb",
-    "airtable",
-    "akamai",
-    "alphabet",
-    "arm",
     "amazon",
-    "amd",
-    "ansible",
     "apple",
-    "asana",
-    "asml",
-    "atlassian",
-    "broadcom",
-    "cisco",
-    "cloudflare",
-    "coinbase",
-    "datadog",
-    "digitalocean",
-    "docker",
-    "dropbox",
-    "elastic",
-    "github",
-    "gitlab",
-    "grafana",
-    "hashicorp",
     "ibm",
-    "intel",
-    "kubernetes",
-    "linkedin",
-    "lyft",
     "meta",
     "microsoft",
-    "mongodb",
     "netflix",
-    "nvidia",
     "oracle",
     "palantir",
-    "qualcomm",
-    "redis",
-    "salesforce",
-    "samsung",
-    "shopify",
-    "slack",
-    "snowflake",
     "spotify",
-    "splunk",
-    "square",
     "stripe",
     "tesla",
-    "tsmc",
-    "twilio",
     "twitter",
     "uber",
-    "vmware",
-    "zoom",
 ]
 
 EUROPEAN_AREA = "european economic area"
@@ -170,7 +127,7 @@ EUROPEAN_CITIES = [
     "sofia",
     "stockholm",
     "tallinn",
-    "tronheim",
+    "trondheim",
     "valencia",
     "vienna",
     "warsaw",

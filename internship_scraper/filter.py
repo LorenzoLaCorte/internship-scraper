@@ -19,7 +19,7 @@ def filter_internships() -> None:
             title = line["title"]
             city = line["location"].split(", ")[0]
             country = line["location"].split(", ")[-1]
-            print(city, country, (any(city == job_city for job_city in EUROPEAN_CITIES)) or (any(country == job_country for job_country in EUROPEAN_COUNTRIES)))
+            # print(city, country, (any(city == job_city for job_city in EUROPEAN_CITIES)) or (any(country == job_country for job_country in EUROPEAN_COUNTRIES)))
             if (
                 (any(category in title for category in JOB_CATEGORIES))
                 and (any(title in title for title in JOB_TITLES))

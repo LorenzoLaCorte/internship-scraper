@@ -14,13 +14,11 @@ __pycache__
 .coverage
 htmlcov
 
-venv
+.venv
 
 .env
 
 temp
-
-output
 
 # temporary
 internship_scraper/linkedin_to_lines.py
