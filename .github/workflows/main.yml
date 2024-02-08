@@ -21,9 +21,7 @@ jobs:
         python -m pip install --upgrade pip
         pip install poetry
         poetry install
-
-    - name: Run script
-      run: pwd && python main.py
+        pwd && poetry shell && python main.py
 
     - name: Commit and push changes
       run: |
