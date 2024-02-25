@@ -1,6 +1,8 @@
 name: Run Python Script to collect results
 
 on:
+  schedule:
+    - cron: '0 0 * * 5'  # This line schedules the workflow to run at 00:00 every Friday
   workflow_dispatch:
 
 jobs:
@@ -36,5 +38,5 @@ jobs:
         token: ${{ secrets.GITHUB_TOKEN }}
         commit-message: "Update Results"
         title: "Update Results"
-        body: "This PR updates the results."
+        body: ""
         branch: "update-results"
