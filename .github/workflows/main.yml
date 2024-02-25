@@ -9,12 +9,12 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v4
+    - uses: actions/checkout@v2
 
     - name: Set up Python
-      uses: actions/setup-python@v5
+      uses: actions/setup-python@v2
       with:
-        python-version: '3.11' 
+        python-version: '3.x' 
 
     - name: Install Dependencies and Run Script
       run: |
@@ -23,10 +23,18 @@ jobs:
         poetry install
         pwd && poetry run python main.py
 
-    - name: Commit and push changes
+    - name: Commit changes
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add .
         git commit -m "Update Results"
-        git push
+
+    - name: Create Pull Request
+      uses: peter-evans/create-pull-request@v3
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        commit-message: "Update Results"
+        title: "Update Results"
+        body: "This PR updates the results."
+        branch: "update-results"
