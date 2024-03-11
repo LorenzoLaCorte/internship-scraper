@@ -13,13 +13,7 @@ JOB_CATEGORIES = ["software"]
 JOB_TITLES = ["engineer", "engineering", "developer"]
 JOB_TYPES = ["intern", "internship"]
 
-COMPANIES = [
-    "amazon",
-    "apple",
-    "google",
-    "microsoft",
-    "meta",
-    "netflix"    
+COMPANIES = [ 
 ]
 
 EUROPEAN_AREA = "european economic area"
