@@ -2,7 +2,7 @@ name: Run Python Script to collect results
 
 on:
   schedule:
-    - cron: '0 0 * * 5'  # This line schedules the workflow to run at 00:00 every Friday
+    - cron: '0 0 * * 3'  # This line schedules the workflow to run at 00:00 every Wednesday
   workflow_dispatch:
 
 jobs:
@@ -18,11 +18,22 @@ jobs:
       with:
         python-version: '3.x' 
 
-    - name: Install Dependencies and Run Script
+    - name: Install Dependencies
       run: |
         python -m pip install --upgrade pip
         pip install poetry
         poetry install
+
+    - name: Backup output directory
+      run: |
+        timestamp=$(date +%Y%m%d%H%M%S)
+        cp -r output "output_backup_$timestamp"
+
+    - name: Delete output directory
+      run: rm -rf output
+
+    - name: Run Script
+      run: |
         pwd && poetry run python main.py
 
     - name: Commit changes

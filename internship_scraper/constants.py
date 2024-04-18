@@ -11,7 +11,7 @@ RESULTS_HEADER = "company|title|location|link\n"
 
 JOB_CATEGORIES = ["software"]
 JOB_TITLES = ["engineer", "engineering", "developer"]
-JOB_TYPES = ["intern", "internship"]
+JOB_TYPES = ["grad", "graduate"]
 
 COMPANIES = [ 
 ]
