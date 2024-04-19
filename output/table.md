@@ -1,5 +1,6 @@
 |company|title|location|link|
 |---|---|---|---|
+|4c strategies|software developer summer internship|malmo, skåne county, sweden|https://www.linkedin.com/jobs/view/3903588592|
 |abb|full stack software engineer – internship|cracow, małopolskie, poland|https://www.linkedin.com/jobs/view/3840646724|
 |abb|full stack software engineer – internship|katowice, śląskie, poland|https://www.linkedin.com/jobs/view/3820982829|
 |abb|internship (m/f/d) software engineer germany|ladenburg, baden-württemberg, germany|https://www.linkedin.com/jobs/view/3608528845|
@@ -13,6 +14,7 @@
 |accolade, inc.|software engineer intern|prague, prague, worldwide|https://www.linkedin.com/jobs/view/3860161075|
 |accolade, inc.|software engineer intern|prague, prague, worldwide|https://www.linkedin.com/jobs/view/3863894637|
 |acheteur.ch|software engineer intern (60-100%)|vaud, switzerland|https://www.linkedin.com/jobs/view/3834412230|
+|acronis|software development intern|sofia, sofia city, worldwide|https://www.linkedin.com/jobs/view/3901829871|
 |actian|software development intern [gn] - ilmenau / germany|ilmenau, thuringia, germany|https://www.linkedin.com/jobs/view/3840183925|
 |actian|software development intern [gn] - ilmenau / germany|ilmenau, thuringia, germany|https://www.linkedin.com/jobs/view/3852348076|
 |addepar|software engineer intern - data architecture (edi)|edinburgh, scotland, united kingdom|https://www.linkedin.com/jobs/view/3814853187|
@@ -39,6 +41,7 @@
 |akamai technologies|intern - software engineer (reporting)|poland|https://www.linkedin.com/jobs/view/3832746467|
 |akamai technologies|intern - software engineer (sdn)|poland|https://www.linkedin.com/jobs/view/3826627579|
 |alice & bob|software engineer - intern|paris, île-de-france, france|https://www.linkedin.com/jobs/view/3819476331|
+|alice & bob|software engineer intern|paris, île-de-france, france|https://www.linkedin.com/jobs/view/3897782028|
 |alphasense|senior software engineer, internal developer platform, devex team|helsinki, uusimaa, finland|https://www.linkedin.com/jobs/view/3840947296|
 |alphasense|senior software engineer, internal developer platform, devex|helsinki, uusimaa, finland|https://www.linkedin.com/jobs/view/3875827198|
 |altair|software developer intern|thessaloniki, central macedonia, greece|https://www.linkedin.com/jobs/view/3811487281|
@@ -56,6 +59,7 @@
 |amazon|2024 software dev engineer intern|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/3877284802|
 |amazon|2024 software dev engineer intern|iaşi, iaşi, romania|https://www.linkedin.com/jobs/view/3727747159|
 |amazon|2024 software dev engineer intern|iaşi, iaşi, romania|https://www.linkedin.com/jobs/view/3877287309|
+|amazon|2024 software dev engineer intern|madrid, community of madrid, spain|https://www.linkedin.com/jobs/view/3901556324|
 |amazon|2024 software development engineer intern - embedded development (m/w/d)|dresden, saxony, germany|https://www.linkedin.com/jobs/view/3835959269|
 |amazon|2024 software development engineer intern - embedded development (m/w/d)|dresden, saxony, germany|https://www.linkedin.com/jobs/view/3877273184|
 |amazon|software development engineer, amazon business international expansion|madrid, community of madrid, spain|https://www.linkedin.com/jobs/view/3812055469|
@@ -104,6 +108,7 @@
 |autodesk|intern, software engineer (c++/.net) - 12 months|sheffield, england, united kingdom|https://www.linkedin.com/jobs/view/3816169028|
 |autodesk|intern, software engineer (javascript) - 12 months|sheffield, england, united kingdom|https://www.linkedin.com/jobs/view/3816168065|
 |autodesk|intern, software engineer (javascript) - 12 months|sheffield, england, united kingdom|https://www.linkedin.com/jobs/view/3816169027|
+|autodesk|intern, software engineer (starting summer 2024)|birmingham, england, united kingdom|https://www.linkedin.com/jobs/view/3898708048|
 |autodesk|intern, software engineer|ireland|https://www.linkedin.com/jobs/view/3728465638|
 |autodesk|intern, software engineer|ireland|https://www.linkedin.com/jobs/view/3728465647|
 |autodesk|working student intern, software engineering|bonn, north rhine-westphalia, germany|https://www.linkedin.com/jobs/view/3728466662|
@@ -113,6 +118,7 @@
 |axa en france|software engineering analyst intern|paris, île-de-france, france|https://www.linkedin.com/jobs/view/3883575237|
 |axa investment managers|internship – software and applications engineer h/f 6 months|paris, île-de-france, france|https://www.linkedin.com/jobs/view/3727546016|
 |axess intelligence|internship - software development|cologne, north rhine-westphalia, germany|https://www.linkedin.com/jobs/view/3832843224|
+|axiomatic_ai|internships in ai/ml, software development, photonics, electronics, applied physics|barcelona, catalonia, spain|https://www.linkedin.com/jobs/view/3894898813|
 |baker hughes|12 month university placements and internships – software development (cramlington, uk) 2024 opportunities|cramlington, england, united kingdom|https://www.linkedin.com/jobs/view/3729814882|
 |baker hughes|intern service software engineering uttm|north rhine-westphalia, germany|https://www.linkedin.com/jobs/view/3786429357|
 |barracuda|software engineer intern|nottingham, england, united kingdom|https://www.linkedin.com/jobs/view/3834465375|
@@ -123,6 +129,7 @@
 |battery based trading|software development and data science internship opportunity|diemen, north holland, netherlands|https://www.linkedin.com/jobs/view/3885020156|
 |bat|embedded software undergraduate internship - fixed term 12 months|southampton, england, united kingdom|https://www.linkedin.com/jobs/view/3842885050|
 |bending spoons|software engineer, internship (relocate to milan)|berlin, germany|https://www.linkedin.com/jobs/view/3848071339|
+|bending spoons|software engineer, internship (relocate to milan)|bucharest, romania|https://www.linkedin.com/jobs/view/3903410728|
 |bending spoons|software engineer, internship (relocate to milan)|edinburgh, scotland, united kingdom|https://www.linkedin.com/jobs/view/3882691461|
 |bending spoons|software engineer, internship (relocate to milan)|poland|https://www.linkedin.com/jobs/view/3820253846|
 |bending spoons|software engineer, internship (relocate to milan)|poland|https://www.linkedin.com/jobs/view/3894211653|
@@ -130,10 +137,12 @@
 |bending spoons|software engineer, internship (relocate to milan)|united kingdom|https://www.linkedin.com/jobs/view/3820285919|
 |bending spoons|software engineer, internship|barcelona, catalonia, spain|https://www.linkedin.com/jobs/view/3837001436|
 |bending spoons|software engineer, internship|bucharest, romania|https://www.linkedin.com/jobs/view/3853481563|
+|bending spoons|software engineer, internship|granada, andalusia, spain|https://www.linkedin.com/jobs/view/3903412807|
 |bending spoons|software engineer, internship|italy|https://www.linkedin.com/jobs/view/3848082612|
 |bending spoons|software engineer, internship|london, england, united kingdom|https://www.linkedin.com/jobs/view/3843103089|
 |bending spoons|software engineer, internship|milan, lombardy, italy|https://www.linkedin.com/jobs/view/3848088066|
 |bending spoons|software engineer, internship|milan, lombardy, italy|https://www.linkedin.com/jobs/view/3894225440|
+|bending spoons|software engineer, internship|munich, bavaria, germany|https://www.linkedin.com/jobs/view/3903414628|
 |bending spoons|software engineer, internship|málaga, andalusia, spain|https://www.linkedin.com/jobs/view/3869274416|
 |bending spoons|software engineer, internship|padua, veneto, italy|https://www.linkedin.com/jobs/view/3869616091|
 |bending spoons|software engineer, internship|poland|https://www.linkedin.com/jobs/view/3820262350|
@@ -142,8 +151,10 @@
 |bending spoons|software engineer, internship|turin, piedmont, italy|https://www.linkedin.com/jobs/view/3836897449|
 |bending spoons|software engineer, internship|tuscany, italy|https://www.linkedin.com/jobs/view/3882686406|
 |bending spoons|software engineer, internship|warsaw, mazowieckie, poland|https://www.linkedin.com/jobs/view/3836892877|
+|bending spoons|software engineer, internship|warsaw, mazowieckie, poland|https://www.linkedin.com/jobs/view/3903414368|
 |bending spoons|software engineer, internship|wrocław, dolnośląskie, poland|https://www.linkedin.com/jobs/view/3882683989|
 |bertrandt group|software/ system testing internship|sibiu, sibiu, romania|https://www.linkedin.com/jobs/view/3842071128|
+|best egg|software engineering internship|wilmington, germany|https://www.linkedin.com/jobs/view/3874359312|
 |betfair romania development|associate software engineer (java) - betfair international|cluj-napoca, cluj, romania|https://www.linkedin.com/jobs/view/3877112453|
 |betfair romania development|internship full stack software engineer- flutter studios|cluj-napoca, cluj, romania|https://www.linkedin.com/jobs/view/3834546086|
 |betfair romania development|internship software engineer (java) - flutter uk&i|cluj-napoca, cluj, romania|https://www.linkedin.com/jobs/view/3844247386|
@@ -166,6 +177,7 @@
 |boeing|intern software engineer - part time|rzeszów, podkarpackie, poland|https://www.linkedin.com/jobs/view/3849745008|
 |boeing|intern software engineer - part time|warsaw, mazowieckie, poland|https://www.linkedin.com/jobs/view/3849742307|
 |boeing|intern software engineer - part time|warsaw, mazowieckie, poland|https://www.linkedin.com/jobs/view/3856712672|
+|boeing|multi skilled software engineering intern - 6 months internship|istanbul, istanbul, worldwide|https://www.linkedin.com/jobs/view/3905295532|
 |bosch security and safety systems|internship in software design and development – remote possible|grasbrunn, bavaria, germany|https://www.linkedin.com/jobs/view/3792173564|
 |bosch|internship in the software department at bosch ebike abs|kusterdingen, baden-württemberg, germany|https://www.linkedin.com/jobs/view/3861745437|
 |bosch|internship in the software department at bosch ebike abs|kusterdingen, baden-württemberg, germany|https://www.linkedin.com/jobs/view/3888669757|
@@ -182,22 +194,29 @@
 |cariad|intern - strategic automotive software purchasing (m/f/d)|ingolstadt, bavaria, germany|https://www.linkedin.com/jobs/view/3840477015|
 |cariad|intern - strategic automotive software purchasing (m/f/d)|munich, bavaria, germany|https://www.linkedin.com/jobs/view/3840473787|
 |cariad|internship- software development & test adas base service|berlin, germany|https://www.linkedin.com/jobs/view/3893699419|
+|cariad|internship- software development & test adas base service|ingolstadt, bavaria, germany|https://www.linkedin.com/jobs/view/3893699418|
 |cariad|internship- software development & test adas base service|munich, bavaria, germany|https://www.linkedin.com/jobs/view/3893696621|
 |cbre belgium|it software engineer internship|brussels, brussels region, belgium|https://www.linkedin.com/jobs/view/3849232682|
 |cbre|internship it software engineer|brussels, brussels region, belgium|https://www.linkedin.com/jobs/view/3849253360|
 |cbre|internship it software engineer|brussels, brussels region, belgium|https://www.linkedin.com/jobs/view/3887791650|
 |chalmers university of technology|summer internship on development of simulation software|gothenburg, vastra gotaland county, sweden|https://www.linkedin.com/jobs/view/3837616573|
+|chargehorizons gmbh|software engineer - frontend internship|germany|https://www.linkedin.com/jobs/view/3896045993|
 |clear-com|software engineering intern|cambridge, england, united kingdom|https://www.linkedin.com/jobs/view/3757737708|
 |clear-com|software engineering intern|cambridge, england, united kingdom|https://www.linkedin.com/jobs/view/3757744049|
 |clickjobs.io|embedded software engineer intern (12 months)|stonehouse, england, united kingdom|https://www.linkedin.com/jobs/view/3889316682|
 |clickjobs.io|software engineer intern (12 months)|england, united kingdom|https://www.linkedin.com/jobs/view/3887918023|
 |clickjobs.io|software engineer intern|scotland, united kingdom|https://www.linkedin.com/jobs/view/3846534565|
 |clickjobs.io|software engineer intern|scotland, united kingdom|https://www.linkedin.com/jobs/view/3887913192|
+|cloudera|software engineer intern (multiple positions)|budapest, budapest, hungary|https://www.linkedin.com/jobs/view/3899613225|
+|cloudera|software engineer intern (multiple positions)|szeged, csongrád, hungary|https://www.linkedin.com/jobs/view/3899615002|
 |cloudflare|phd research/software engineer intern, bot and fraud detection (summer 2024)|london, england, united kingdom|https://www.linkedin.com/jobs/view/3837146414|
 |cloudflare|phd research/software engineer intern, bot and fraud detection (summer 2024)|united kingdom|https://www.linkedin.com/jobs/view/3837145575|
 |cloudflare|software engineer - intern (summer 2024)|lisboa, lisbon, portugal|https://www.linkedin.com/jobs/view/3830211065|
+|cloudflare|software engineer - intern (summer 2024)|lisboa, lisbon, portugal|https://www.linkedin.com/jobs/view/3904331727|
 |cloudflare|software engineer intern (summer 2024)|london, england, united kingdom|https://www.linkedin.com/jobs/view/3739508882|
+|cloudflare|software engineer intern (summer 2024)|london, england, united kingdom|https://www.linkedin.com/jobs/view/3904332641|
 |cloudflare|software engineer intern - business intelligence|lisboa, lisbon, portugal|https://www.linkedin.com/jobs/view/3871516837|
+|cloudflare|software engineer intern - business intelligence|lisboa, lisbon, portugal|https://www.linkedin.com/jobs/view/3904335327|
 |cm.com|graduation internship software engineering|north brabant, netherlands|https://www.linkedin.com/jobs/view/3849421561|
 |continental|internship software developer c++ for an (iasi)|iaşi, iaşi, romania|https://www.linkedin.com/jobs/view/3828057377|
 |continental|internship software development (tools) sct pmt - sct (tm)|timişoara, timiş, romania|https://www.linkedin.com/jobs/view/3853290259|
@@ -249,6 +268,7 @@
 |earlybird venture capital|analyst intern enterprise software digital west (f/m/d)|munich, bavaria, germany|https://www.linkedin.com/jobs/view/3886539899|
 |earlybird venture capital|software engineer intern at earlybird (f/m/d)|munich, bavaria, germany|https://www.linkedin.com/jobs/view/3886541741|
 |edamame technologies|rust + flutter software engineer intern|france|https://www.linkedin.com/jobs/view/3892096265|
+|egnyte|summer internship: software engineer - c++|poznań, wielkopolskie, poland|https://www.linkedin.com/jobs/view/3885940316|
 |egnyte|summer internship: software engineer - java|poznań, wielkopolskie, poland|https://www.linkedin.com/jobs/view/3886838185|
 |electronic arts (ea)|paid software engineer summer intern|bucharest, bucharest, romania|https://www.linkedin.com/jobs/view/3850617167|
 |electronic arts (ea)|paid software engineer summer intern|bucharest, bucharest, romania|https://www.linkedin.com/jobs/view/3853501990|
@@ -304,6 +324,9 @@
 |fraunhofer iis|student assistant/ intern - software development in the audio division|erlangen, bavaria, germany|https://www.linkedin.com/jobs/view/3670741395|
 |fraunhofer iis|thesis/student job/ internship (m/f/d):  intelligent ip: development of innovative design-software for modern analog-ics in dresden|dresden, saxony, germany|https://www.linkedin.com/jobs/view/3841792536|
 |fraunhofer iis|thesis/student job/ internship (m/f/d): intelligent ip: development of innovative design-software for modern analog-ics in dresden|dresden, saxony, germany|https://www.linkedin.com/jobs/view/3747475262|
+|g-p|intern, software engineering|ireland|https://www.linkedin.com/jobs/view/3904942458|
+|g-p|intern, software engineering|northern ireland, united kingdom|https://www.linkedin.com/jobs/view/3904384446|
+|g-p|software engineering, intern|ireland|https://www.linkedin.com/jobs/view/3904992174|
 |gaia labs llc|aiml - software engineering internship - multiple party computation, mlpt|cambridge, england, united kingdom|https://www.linkedin.com/jobs/view/3832111034|
 |gaia labs llc|aiml - software engineering internship - multiple party computation, mlpt|cambridge, england, united kingdom|https://www.linkedin.com/jobs/view/3881689532|
 |gaia labs llc|apple pay - security intern (software engineer)|southampton, england, united kingdom|https://www.linkedin.com/jobs/view/3837091741|
@@ -334,6 +357,7 @@
 |gopro|embedded software and imaging firmware internship - ui on linux|île-de-france, france|https://www.linkedin.com/jobs/view/3818430057|
 |grammarly|software engineering intern|berlin, germany|https://www.linkedin.com/jobs/view/3835750063|
 |greenstruxure|software engineer intern|grenoble, auvergne-rhône-alpes, france|https://www.linkedin.com/jobs/view/3829142805|
+|gsa capital|software developer - intern|london, england, united kingdom|https://www.linkedin.com/jobs/view/3901507312|
 |guidewire software|software engineer intern|cracow, małopolskie, poland|https://www.linkedin.com/jobs/view/3845878685|
 |hamilton central europe|research & development - software development intern|giarmata, timiş, romania|https://www.linkedin.com/jobs/view/3855671182|
 |heraeus electro-nite|internship / thesis software development|houthalen, flemish region, belgium|https://www.linkedin.com/jobs/view/3817316431|
@@ -343,6 +367,7 @@
 |here technologies|software internship (java/ javascript) (m/f/x)|cracow, małopolskie, poland|https://www.linkedin.com/jobs/view/3856043160|
 |hewlett packard enterprise|software engineering intern (placement year)|bristol, england, united kingdom|https://www.linkedin.com/jobs/view/3726980727|
 |hipo.ro|paid summer internship- software engineer ( java, devops)|ilfov, romania|https://www.linkedin.com/jobs/view/3832646576|
+|hitachi energy|intern in software asset management|cracow, małopolskie, poland|https://www.linkedin.com/jobs/view/3903950668|
 |hitachi energy|internship - software engineer|cracow, małopolskie, poland|https://www.linkedin.com/jobs/view/3894814102|
 |hitachi energy|internship in software systems 80 - 100% (f/m/d)|baden, aargau, switzerland|https://www.linkedin.com/jobs/view/3855181673|
 |hitachi energy|internship in software systems 80 - 100% (f/m/d)|baden, aargau, switzerland|https://www.linkedin.com/jobs/view/3862392675|
@@ -354,6 +379,8 @@
 |hp|software security research intern|bristol, england, united kingdom|https://www.linkedin.com/jobs/view/3831772616|
 |hp|software security research intern|bristol, england, united kingdom|https://www.linkedin.com/jobs/view/3857243670|
 |hp|software security research intern|bristol, england, united kingdom|https://www.linkedin.com/jobs/view/3876208609|
+|hp|software security research intern|bristol, england, united kingdom|https://www.linkedin.com/jobs/view/3903405333|
+|hp|software security research intern|hauts de bienne, france|https://www.linkedin.com/jobs/view/3900774909|
 |hrflow.ai|software engineer internship - ai startup - paris|paris, île-de-france, france|https://www.linkedin.com/jobs/view/3829229297|
 |huawei technologies research & development (uk) ltd|software automation internship|ipswich, england, united kingdom|https://www.linkedin.com/jobs/view/3807932460|
 |ibm|internship in software development or devops|sofia, sofia city, worldwide|https://www.linkedin.com/jobs/view/3881001139|
@@ -366,16 +393,21 @@
 |ilert|working student / intern - software developer|cologne, north rhine-westphalia, germany|https://www.linkedin.com/jobs/view/3893244424|
 |imc trading|software engineer intern|amsterdam, north holland, netherlands|https://www.linkedin.com/jobs/view/3853001056|
 |inbank|software engineer - internship|tallinn, harjumaa, worldwide|https://www.linkedin.com/jobs/view/3846006250|
+|infineon technologies|internship/ thesis: embedded systems - c software engineering (f/m/div)|dresden, saxony, germany|https://www.linkedin.com/jobs/view/3895345262|
 |infineon technologies|internship: pc software development (f/m/div)|ilmenau, thuringia, germany|https://www.linkedin.com/jobs/view/3837048212|
 |infineon technologies|internship: software & ai/ml developer (f/m/div)*|villach, carinthia, austria|https://www.linkedin.com/jobs/view/3686135845|
 |infineon technologies|internship: software developer for chip package board co design (f/m/div)|villach, carinthia, austria|https://www.linkedin.com/jobs/view/3847531063|
 |infineon technologies|internship: software developer for chip package board co design (f/m/div)|villach, carinthia, austria|https://www.linkedin.com/jobs/view/3856009482|
 |infineon technologies|internship: software developer/automation (f/m/div)|klagenfurt, carinthia, austria|https://www.linkedin.com/jobs/view/3834014493|
 |infineon technologies|internship: software framework for component validation (f/m/div)|villach, carinthia, austria|https://www.linkedin.com/jobs/view/3834734695|
+|ing nederland|internship - mobile software engineer|amsterdam, north holland, netherlands|https://www.linkedin.com/jobs/view/3902966781|
+|inpost group|full-stack software engineer (internal application development and automation team)|poland|https://www.linkedin.com/jobs/view/3889407774|
+|inpost italy|full-stack software engineer (internal application development and automation team)|cracow, małopolskie, poland|https://www.linkedin.com/jobs/view/3901101261|
 |instadeep|software engineer intern - high performance simulation|paris, île-de-france, france|https://www.linkedin.com/jobs/view/3797990818|
 |integrify ©|software developer intern|finland|https://www.linkedin.com/jobs/view/3835910119|
 |integrify ©|software developer intern|finland|https://www.linkedin.com/jobs/view/3853460468|
 |integrify ©|software developer intern|finland|https://www.linkedin.com/jobs/view/3889412082|
+|integrify ©|software developer intern|finland|https://www.linkedin.com/jobs/view/3902618561|
 |intel corporation|ai software engineering intern|moirans, auvergne-rhône-alpes, france|https://www.linkedin.com/jobs/view/3834656910|
 |intel corporation|ai software solutions engineering intern|timişoara, timiş, romania|https://www.linkedin.com/jobs/view/3784838254|
 |intel corporation|cloud software engineering intern|tampere, pirkanmaa, finland|https://www.linkedin.com/jobs/view/3784838264|
@@ -406,6 +438,7 @@
 |join momentum|software tester intern (gdi)|london, england, united kingdom|https://www.linkedin.com/jobs/view/3846935940|
 |join.com|lemvos gmbh: robotic software engineer - mandatory internship|augsburg, bavaria, germany|https://www.linkedin.com/jobs/view/3832854066|
 |join.com|robotic software engineer - mandatory internship at lemvos gmbh|augsburg, bavaria, germany|https://www.linkedin.com/jobs/view/3829423431|
+|juniper networks|software engineering intern - amsterdam based|amsterdam, north holland, netherlands|https://www.linkedin.com/jobs/view/3902074007|
 |kalray|a linux kernel software intern|montbonnot-saint-martin, auvergne-rhône-alpes, france|https://www.linkedin.com/jobs/view/3817017838|
 |kalray|a linux kernel software intern|montbonnot-saint-martin, auvergne-rhône-alpes, france|https://www.linkedin.com/jobs/view/3843985273|
 |kamstrup|internship in embedded software development and wireless technology|skanderborg, middle jutland, denmark|https://www.linkedin.com/jobs/view/3819345833|
@@ -415,6 +448,7 @@
 |keysight technologies|r&d software engineer c++/python internship|ghent, flemish region, belgium|https://www.linkedin.com/jobs/view/3742048081|
 |keysight technologies|r&d software engineer internship|ghent, flemish region, belgium|https://www.linkedin.com/jobs/view/3769279290|
 |kineton|software engineer intern|campania, italy|https://www.linkedin.com/jobs/view/3853489504|
+|kineton|software engineer intern|campania, italy|https://www.linkedin.com/jobs/view/3899373287|
 |kla|summer intern - software engineering|newport, wales, united kingdom|https://www.linkedin.com/jobs/view/3853201081|
 |kuka|software developer intern|budapest, budapest, hungary|https://www.linkedin.com/jobs/view/3882860633|
 |kuka|software developer intern|budapest, budapest, hungary|https://www.linkedin.com/jobs/view/3890977618|
@@ -452,6 +486,7 @@
 |mediatek|software applications for cellular communications internship placement|cambourne, england, united kingdom|https://www.linkedin.com/jobs/view/3741665190|
 |medius|software developer intern|cracow, małopolskie, poland|https://www.linkedin.com/jobs/view/3861293840|
 |medius|software developer intern|cracow, małopolskie, poland|https://www.linkedin.com/jobs/view/3889003103|
+|medius|software developer intern|cracow, małopolskie, poland|https://www.linkedin.com/jobs/view/3901311996|
 |mercedes amg high performance powertrains|software engineer intern|greater northampton area, united kingdom|https://www.linkedin.com/jobs/view/3858075224|
 |merkle danmark|software tester intern|aarhus, central denmark region, denmark|https://www.linkedin.com/jobs/view/3845991110|
 |merkle|software tester intern, autumn|århus, middle jutland, denmark|https://www.linkedin.com/jobs/view/3840263372|
@@ -489,21 +524,30 @@
 |mygwork - lgbtq+ business community|2024 software dev engineer intern|gdańsk, pomorskie, poland|https://www.linkedin.com/jobs/view/3852332089|
 |mygwork - lgbtq+ business community|2024 software dev engineer intern|gdańsk, pomorskie, poland|https://www.linkedin.com/jobs/view/3873788082|
 |mygwork - lgbtq+ business community|2024 software dev engineer intern|iaşi, iaşi, romania|https://www.linkedin.com/jobs/view/3852331664|
+|mygwork - lgbtq+ business community|2024 software dev engineer intern|madrid, community of madrid, spain|https://www.linkedin.com/jobs/view/3899583181|
 |mygwork - lgbtq+ business community|2024 summer intern - software engineer - madrid|madrid, community of madrid, spain|https://www.linkedin.com/jobs/view/3852769089|
 |mygwork - lgbtq+ business community|campus - 2024 intern immersion program for 2024 internship programme - undergraduate technology software engineer – 2024 (uk)|london, england, united kingdom|https://www.linkedin.com/jobs/view/3890864839|
 |mygwork - lgbtq+ business community|intern - optics software engineer|eindhoven, north brabant, netherlands|https://www.linkedin.com/jobs/view/3879782253|
+|mygwork - lgbtq+ business community|intern - optics software engineer|eindhoven, north brabant, netherlands|https://www.linkedin.com/jobs/view/3897761323|
 |mygwork - lgbtq+ business community|intern software engineer|eindhoven, north brabant, netherlands|https://www.linkedin.com/jobs/view/3879775984|
 |mygwork - lgbtq+ business community|intern software engineer|eindhoven, north brabant, netherlands|https://www.linkedin.com/jobs/view/3879782263|
+|mygwork - lgbtq+ business community|intern software engineer|eindhoven, north brabant, netherlands|https://www.linkedin.com/jobs/view/3897759678|
+|mygwork - lgbtq+ business community|intern software engineer|eindhoven, north brabant, netherlands|https://www.linkedin.com/jobs/view/3897762186|
 |mygwork - lgbtq+ business community|intern software scientist - x-ray spectroscopy|eindhoven, north brabant, netherlands|https://www.linkedin.com/jobs/view/3879780598|
+|mygwork - lgbtq+ business community|intern software scientist - x-ray spectroscopy|eindhoven, north brabant, netherlands|https://www.linkedin.com/jobs/view/3897763037|
 |mygwork - lgbtq+ business community|intern- software developer|montbonnot-saint-martin, auvergne-rhône-alpes, france|https://www.linkedin.com/jobs/view/3885178742|
 |mygwork - lgbtq+ business community|intern/final graduation assignment firmware-embedded software engineering|eindhoven, north brabant, netherlands|https://www.linkedin.com/jobs/view/3879780577|
+|mygwork - lgbtq+ business community|intern/final graduation assignment firmware-embedded software engineering|eindhoven, north brabant, netherlands|https://www.linkedin.com/jobs/view/3897763021|
 |mygwork - lgbtq+ business community|internship (m/f/d) software engineer germany|ladenburg, baden-württemberg, germany|https://www.linkedin.com/jobs/view/3852336892|
 |mygwork - lgbtq+ business community|internship / msc thesis in industrial software systems (80-100%)|baden, aargau, switzerland|https://www.linkedin.com/jobs/view/3852330735|
 |mygwork - lgbtq+ business community|internship – software engineer specialist|genoa, liguria, italy|https://www.linkedin.com/jobs/view/3852336167|
 |mygwork - lgbtq+ business community|ma summer intern - kyc software engineering associate|london, england, united kingdom|https://www.linkedin.com/jobs/view/3849943539|
 |mygwork - lgbtq+ business community|ma summer intern - kyc software engineering associate|london, england, united kingdom|https://www.linkedin.com/jobs/view/3889960302|
+|mygwork - lgbtq+ business community|software development engineer, eu international technology (intech)|kirchberg, luxembourg, luxembourg|https://www.linkedin.com/jobs/view/3897182680|
 |mygwork - lgbtq+ business community|software engineer intern - backend or fullstack|grenoble, auvergne-rhône-alpes, france|https://www.linkedin.com/jobs/view/3852346029|
+|mygwork - lgbtq+ business community|software engineer intern - backend or fullstack|grenoble, auvergne-rhône-alpes, france|https://www.linkedin.com/jobs/view/3892398047|
 |mygwork - lgbtq+ business community|software engineer intern - front-end or fullstack|paris, île-de-france, france|https://www.linkedin.com/jobs/view/3852339385|
+|mygwork - lgbtq+ business community|software engineer intern|gdańsk, pomorskie, poland|https://www.linkedin.com/jobs/view/3893511426|
 |mygwork - lgbtq+ business community|software engineering internship|tallinn, harjumaa, worldwide|https://www.linkedin.com/jobs/view/3851735803|
 |mygwork|2024 software development engineer intern - embedded development (m/w/d)|dresden, saxony, germany|https://www.linkedin.com/jobs/view/3848236846|
 |mygwork|full stack software engineer – internship|cracow, małopolskie, poland|https://www.linkedin.com/jobs/view/3848264529|
@@ -516,6 +560,7 @@
 |nato communications and information agency (nci agency)|hacker-resistant software & networks internship|the hague, south holland, netherlands|https://www.linkedin.com/jobs/view/3826756662|
 |nato communications and information agency (nci agency)|software developer internship|the hague, south holland, netherlands|https://www.linkedin.com/jobs/view/3826757611|
 |ncr atleos|software intern|dundee, scotland, united kingdom|https://www.linkedin.com/jobs/view/3817600946|
+|nedap|internship – embedded software engineering|groenlo, gelderland, netherlands|https://www.linkedin.com/jobs/view/3900000533|
 |nedap|internship/graduation assignment – embedded software testing & automation|groenlo, gelderland, netherlands|https://www.linkedin.com/jobs/view/3883216303|
 |netcompany-intrasoft|internship in software development|athens, attiki, greece|https://www.linkedin.com/jobs/view/3736569835|
 |netcompany-intrasoft|internship in software development|patras, western greece, greece|https://www.linkedin.com/jobs/view/3736573375|
@@ -536,6 +581,7 @@
 |niantic, inc.|2024 r&d software engineering intern|london, england, united kingdom|https://www.linkedin.com/jobs/view/3788427314|
 |niantic, inc.|2024 software engineering intern|london, england, united kingdom|https://www.linkedin.com/jobs/view/3851230047|
 |north highland|software developer intern|cluj-napoca, cluj, romania|https://www.linkedin.com/jobs/view/3842434528|
+|novanta inc.|intern r&d software (m/f/d)|berlin, berlin, germany|https://www.linkedin.com/jobs/view/3904940167|
 |nutanix|software engineer intern|cambridge, england, united kingdom|https://www.linkedin.com/jobs/view/3810327609|
 |nuvolar works|software qa internship|barcelona, catalonia, spain|https://www.linkedin.com/jobs/view/3805352686|
 |nvidia|hpc and ai software architecture intern|germany|https://www.linkedin.com/jobs/view/3826318391|
@@ -560,6 +606,7 @@
 |odoo|software developer intern|ramillies, walloon region, belgium|https://www.linkedin.com/jobs/view/3846046055|
 |odoo|software developer intern|ramillies, walloon region, belgium|https://www.linkedin.com/jobs/view/3861688935|
 |odoo|software developer intern|ramillies, walloon region, belgium|https://www.linkedin.com/jobs/view/3881189257|
+|odoo|software developer intern|ramillies, walloon region, belgium|https://www.linkedin.com/jobs/view/3900605662|
 |oil and gas job search ltd|back-end software engineer intern (12 months)|abingdon-on-thames, england, united kingdom|https://www.linkedin.com/jobs/view/3882470583|
 |oil and gas job search ltd|embedded software engineer intern|stonehouse, england, united kingdom|https://www.linkedin.com/jobs/view/3882473133|
 |oil and gas job search ltd|full-stack software engineer intern (golang)|abingdon-on-thames, england, united kingdom|https://www.linkedin.com/jobs/view/3882470570|
@@ -576,10 +623,12 @@
 |openclassrooms|software engineer intern - backend or fullstack|paris, île-de-france, france|https://www.linkedin.com/jobs/view/3839998710|
 |opentext|software engineering internship|cluj-napoca, cluj, romania|https://www.linkedin.com/jobs/view/3835574007|
 |openx|software engineer (java/go/erlang) - intern|cracow, małopolskie, poland|https://www.linkedin.com/jobs/view/3883110138|
+|oracle|intern as software developer - part time|prague, prague, worldwide|https://www.linkedin.com/jobs/view/3897399008|
 |orbem|software engineer intern/working student|münchen, bavaria, germany|https://www.linkedin.com/jobs/view/3842985805|
 |orbex|internship - software engineering|forres, scotland, united kingdom|https://www.linkedin.com/jobs/view/3881875130|
 |orion innovation|internship - software developer (hybrid)|bucharest, bucharest, romania|https://www.linkedin.com/jobs/view/3892846491|
 |ow ocean winds|software development intern (full time)|madrid, community of madrid, spain|https://www.linkedin.com/jobs/view/3846578671|
+|ow ocean winds|software development intern (full time)|madrid, community of madrid, spain|https://www.linkedin.com/jobs/view/3899384021|
 |palantir technologies|software engineer, internship|london, england, united kingdom|https://www.linkedin.com/jobs/view/3840767798|
 |palermo studio|software/it intern - paris|paris, île-de-france, france|https://www.linkedin.com/jobs/view/3887833638|
 |panoptyc|software engineering summer intern|lviv, lviv, ukraine|https://www.linkedin.com/jobs/view/3851312926|
@@ -602,10 +651,13 @@
 |precisely|intern software engineer|bielsko-biała, śląskie, poland|https://www.linkedin.com/jobs/view/3840297486|
 |precisely|intern software engineer|bielsko-biała, śląskie, poland|https://www.linkedin.com/jobs/view/3840297487|
 |pretto|ai software engineer intern - research internship - h/f|paris, île-de-france, france|https://www.linkedin.com/jobs/view/3869799674|
+|progress|c# software engineering intern|sofia, sofia city, worldwide|https://www.linkedin.com/jobs/view/3897773474|
+|progress|c++ software engineer intern|sofia, sofia city, worldwide|https://www.linkedin.com/jobs/view/3897195964|
 |pros|software engineer intern|sofia, sofia city, worldwide|https://www.linkedin.com/jobs/view/3879628689|
 |pros|software engineering intern (devops)|sofia, sofia city, worldwide|https://www.linkedin.com/jobs/view/3862276019|
 |pros|software engineering intern|sofia, sofia city, worldwide|https://www.linkedin.com/jobs/view/3862274714|
 |pwc italy|software engineer intern - milano [dig]|milan, lombardy, italy|https://www.linkedin.com/jobs/view/3825896697|
+|qiagen|software configuration (devops) - intern|wrocław, dolnośląskie, poland|https://www.linkedin.com/jobs/view/3901341219|
 |qima|software engineer – internship – lille|lille, hauts-de-france, france|https://www.linkedin.com/jobs/view/3816356853|
 |qima|software engineer – internship – lille|lille, hauts-de-france, france|https://www.linkedin.com/jobs/view/3858854681|
 |qima|software engineer – internship – lille|lille, hauts-de-france, france|https://www.linkedin.com/jobs/view/3858854681|
@@ -619,11 +671,14 @@
 |reactwise|software engineer intern|cambridge, england, united kingdom|https://www.linkedin.com/jobs/view/3874647699|
 |red hat|software engineering internship - cluster management / acs (berlin office, germany) (m/f/d)|berlin, berlin, germany|https://www.linkedin.com/jobs/view/3855183564|
 |red to blue|software engineer intern|cluj-napoca, cluj, romania|https://www.linkedin.com/jobs/view/3883118580|
+|redwire space europe|robotic test and software engineer internship|luxembourg, luxembourg, luxembourg|https://www.linkedin.com/jobs/view/3901599223|
 |relativity|paid software engineer intern - summer 2024 (discovery+)|cracow, małopolskie, poland|https://www.linkedin.com/jobs/view/3841112409|
 |relativity|paid software engineer intern - summer 2024 (enrichment)|cracow, małopolskie, poland|https://www.linkedin.com/jobs/view/3841115249|
 |relativity|paid software engineer intern - summer 2024 (infrastructure)|cracow, małopolskie, poland|https://www.linkedin.com/jobs/view/3841115248|
+|relativity|paid software engineer intern - summer 2024 (infrastructure)|cracow, małopolskie, poland|https://www.linkedin.com/jobs/view/3903918639|
 |relativity|paid software engineer intern - summer 2024 (ingestion)|cracow, małopolskie, poland|https://www.linkedin.com/jobs/view/3841116265|
 |relativity|paid software engineer intern - summer 2024 (matter administration)|cracow, małopolskie, poland|https://www.linkedin.com/jobs/view/3841111886|
+|relativity|paid software engineer intern - summer 2024 (matter administration)|cracow, małopolskie, poland|https://www.linkedin.com/jobs/view/3903919628|
 |relesys|client software supporter associate, internship - copenhagen👨💻🇩🇰|copenhagen, capital region of denmark, denmark|https://www.linkedin.com/jobs/view/3852350188|
 |relesys|client software supporter associate, internship - copenhagen👨💻🇩🇰|copenhagen, capital region of denmark, denmark|https://www.linkedin.com/jobs/view/3858589068|
 |relesys|client software supporter associate, internship - copenhagen👨💻🇩🇰|copenhagen, capital region, denmark|https://www.linkedin.com/jobs/view/3821160786|
@@ -657,11 +712,15 @@
 |revolut|rev-celerator internship programme: ios software engineer|spain|https://www.linkedin.com/jobs/view/3803622450|
 |revolut|rev-celerator internship programme: ios software engineer|united kingdom|https://www.linkedin.com/jobs/view/3803619634|
 |revolut|rev-celerator internship programme: python software engineer|cracow, małopolskie, poland|https://www.linkedin.com/jobs/view/3832684610|
+|revolut|rev-celerator internship programme: python software engineer|cracow, małopolskie, poland|https://www.linkedin.com/jobs/view/3892359856|
 |revolut|rev-celerator internship programme: python software engineer|london, england, united kingdom|https://www.linkedin.com/jobs/view/3832683623|
 |revolut|rev-celerator internship programme: python software engineer|madrid, community of madrid, spain|https://www.linkedin.com/jobs/view/3832688025|
 |revolut|rev-celerator internship programme: python software engineer|poland|https://www.linkedin.com/jobs/view/3832684609|
+|revolut|rev-celerator internship programme: python software engineer|poland|https://www.linkedin.com/jobs/view/3892361636|
 |revolut|rev-celerator internship programme: python software engineer|porto, porto, portugal|https://www.linkedin.com/jobs/view/3832688028|
+|revolut|rev-celerator internship programme: python software engineer|porto, porto, portugal|https://www.linkedin.com/jobs/view/3892358995|
 |revolut|rev-celerator internship programme: python software engineer|portugal|https://www.linkedin.com/jobs/view/3832687128|
+|revolut|rev-celerator internship programme: python software engineer|portugal|https://www.linkedin.com/jobs/view/3892365213|
 |revolut|rev-celerator internship programme: python software engineer|spain|https://www.linkedin.com/jobs/view/3832688027|
 |rina|software developer, intern|aalborg, north denmark region, denmark|https://www.linkedin.com/jobs/view/3850648511|
 |ripe ncc|linux software engineer internship|amsterdam, north holland, netherlands|https://www.linkedin.com/jobs/view/3829863564|
@@ -676,6 +735,7 @@
 |rocket lawyer uk|software engineering intern - mobile (summer 2024)|london, england, united kingdom|https://www.linkedin.com/jobs/view/3816067768|
 |rockwell automation|internship, software development|prague, prague, worldwide|https://www.linkedin.com/jobs/view/3844656658|
 |rockwell automation|internship, software engineer|prague, prague, worldwide|https://www.linkedin.com/jobs/view/3844448218|
+|rockwell automation|internship, software engineer|prague, prague, worldwide|https://www.linkedin.com/jobs/view/3903333390|
 |rohde & schwarz|intern (m/f/d) emc software development|munich, bavaria, germany|https://www.linkedin.com/jobs/view/3644132078|
 |rohde & schwarz|intern (m/f/d) emc software development|munich, bavaria, germany|https://www.linkedin.com/jobs/view/3864505200|
 |rohde & schwarz|intern (m/f/d) software engineering|munich, bavaria, germany|https://www.linkedin.com/jobs/view/3888169392|
@@ -687,6 +747,7 @@
 |roku|software engineer intern, systems|cambridge, england, united kingdom|https://www.linkedin.com/jobs/view/3846568073|
 |rotzinger group|software-programmierer extern / intern (m/w/x)|kaiseraugst, aargau, switzerland|https://www.linkedin.com/jobs/view/3835270568|
 |s&p global|big data software engineer - summer intern|london, england, united kingdom|https://www.linkedin.com/jobs/view/3810928733|
+|s&p global|software engineer intern|gdańsk, pomorskie, poland|https://www.linkedin.com/jobs/view/3896189704|
 |saeki|software engineering intern|bäretswil, zurich, switzerland|https://www.linkedin.com/jobs/view/3834272104|
 |safran - navigation & timing|embedded software engineer (internship) granada, spain|granada, andalusia, spain|https://www.linkedin.com/jobs/view/3843327253|
 |safran - navigation & timing|embedded software engineer (internship) granada, spain|granada, andalusia, spain|https://www.linkedin.com/jobs/view/3882173385|
@@ -700,6 +761,7 @@
 |sap|sap ixp intern (f/m/d) - software development in supply chain management consulting|hamburg, hamburg, germany|https://www.linkedin.com/jobs/view/3788695803|
 |sap|sap ixp intern - devops software build engineer|sofia, sofia city, worldwide|https://www.linkedin.com/jobs/view/3891947575|
 |sap|sap ixp intern - software developer for circular economy cloud applications|sofia, sofia city, worldwide|https://www.linkedin.com/jobs/view/3850984562|
+|sap|sap ixp intern - software developer with java or golang|sofia, sofia city, worldwide|https://www.linkedin.com/jobs/view/3902466137|
 |sap|sap ixp intern - software development|budapest, budapest, hungary|https://www.linkedin.com/jobs/view/3883452259|
 |sap|sap ui technologies ixp intern (f/m/d) - software developer|walldorf, baden-württemberg, germany|https://www.linkedin.com/jobs/view/3890927775|
 |sap|sap ui technologies ixp intern (f/m/d) - software developer|walldorf, baden-württemberg, germany|https://www.linkedin.com/jobs/view/3890930241|
@@ -712,6 +774,7 @@
 |schneider electric|software adoption specialist intern stp24|molins de rei, catalonia, spain|https://www.linkedin.com/jobs/view/3806866090|
 |scholastic|software engineering intern (scholastic technology services)|the broadway, england, united kingdom|https://www.linkedin.com/jobs/view/3841677667|
 |seb eesti|full-stack software developer for baltic internet bank platform  seb, tallinn|tallinn, harjumaa, worldwide|https://www.linkedin.com/jobs/view/3852878707|
+|seb eesti|full-stack software developer for baltic internet bank platform  seb, tallinn|tallinn, harjumaa, worldwide|https://www.linkedin.com/jobs/view/3895300554|
 |seb eesti|youth lab – back-end software engineering intern at crm team  seb, tallinn|tallinn, harjumaa, worldwide|https://www.linkedin.com/jobs/view/3827475155|
 |seb eesti|youth lab – back-end software engineering intern at cross-business team  seb, tallinn|tallinn, harjumaa, worldwide|https://www.linkedin.com/jobs/view/3827471785|
 |seb eesti|youth lab – back-end software engineering intern at customer engagement solutions team  seb, tallinn|tallinn, harjumaa, worldwide|https://www.linkedin.com/jobs/view/3827473475|
@@ -726,6 +789,7 @@
 |servicenow|intern - associate software engineer|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/3782015114|
 |servicenow|intern - associate software engineer|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/3814471593|
 |servicenow|intern - associate software qa engineer|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/3853684723|
+|servicenow|intern - associate software qa engineer|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/3903314412|
 |sesamers|software engineer intern|paris, île-de-france, france|https://www.linkedin.com/jobs/view/3834760769|
 |siemens digital industries software|java software engineer internship|altrincham, england, united kingdom|https://www.linkedin.com/jobs/view/3860274345|
 |siemens digital industries software|java software engineer internship|bridge trafford, england, united kingdom|https://www.linkedin.com/jobs/view/3853755528|
@@ -733,6 +797,7 @@
 |siemens digital industries software|software developer intern|poznań, wielkopolskie, poland|https://www.linkedin.com/jobs/view/3889047780|
 |siemens digital industries software|software engineer summer intern: strategic student program|cambridge, england, united kingdom|https://www.linkedin.com/jobs/view/3863015233|
 |siemens digital industries software|software engineering intern - strategic student program|cambridge, england, united kingdom|https://www.linkedin.com/jobs/view/3846499954|
+|siemens digital industries software|software quality assurance intern|katowice, śląskie, poland|https://www.linkedin.com/jobs/view/3900576220|
 |siemens digital industries software|software quality assurance intern|poznań, wielkopolskie, poland|https://www.linkedin.com/jobs/view/3889047789|
 |siemens eda (siemens digital industries software)|intern c++/python software engineer|katowice, śląskie, poland|https://www.linkedin.com/jobs/view/3871611699|
 |siemens eda (siemens digital industries software)|student intern – tessent software developer|poznań, wielkopolskie, poland|https://www.linkedin.com/jobs/view/3864197067|
@@ -742,7 +807,12 @@
 |siemens|software development internship - summer 2024|braşov, braşov, romania|https://www.linkedin.com/jobs/view/3884031782|
 |siemens|software quality assurance intern|poznań, wielkopolskie, poland|https://www.linkedin.com/jobs/view/3861740170|
 |siemens|sustainable energy and software internship (research & development) (m/f/d)|amadora, lisbon, portugal|https://www.linkedin.com/jobs/view/3803696163|
+|siemens|sustainable energy and software internship (research & development) (m/f/d)|amadora, lisbon, portugal|https://www.linkedin.com/jobs/view/3901328179|
+|silicon labs|embedded software intern (z-wave)|budapest, hungary|https://www.linkedin.com/jobs/view/3892372538|
 |silicon labs|software engineering in test intern|budapest, hungary|https://www.linkedin.com/jobs/view/3825504887|
+|singlestore|software engineer, db engine intern (summer 2024)|lisboa, lisbon, portugal|https://www.linkedin.com/jobs/view/3901733851|
+|singlestore|software engineer, managed service intern (summer 2024)|lisboa, lisbon, portugal|https://www.linkedin.com/jobs/view/3895667915|
+|singlestore|software engineer, platform intern (summer 2024)|lisboa, lisbon, portugal|https://www.linkedin.com/jobs/view/3895668866|
 |sioux technologies|graduation internship system control software|eindhoven, north brabant, netherlands|https://www.linkedin.com/jobs/view/3660783380|
 |skilllab|software quality assurance internship|amsterdam, north holland, netherlands|https://www.linkedin.com/jobs/view/3814076430|
 |slate studios|software/it intern - paris|paris, île-de-france, france|https://www.linkedin.com/jobs/view/3887835094|
@@ -773,9 +843,12 @@
 |sophia genetics|intern software developer|rolle, vaud, switzerland|https://www.linkedin.com/jobs/view/3828194389|
 |sophia genetics|software development engineer - intern|rolle, vaud, switzerland|https://www.linkedin.com/jobs/view/3885786760|
 |sophia genetics|software development engineer - intern|rolle, vaud, switzerland|https://www.linkedin.com/jobs/view/3887233741|
+|soti|software developer intern (8-12 months)|galway, county galway, ireland|https://www.linkedin.com/jobs/view/3901061712|
 |specter automation|intern / working student / thesis im software development (m/w/d)|cologne, north rhine-westphalia, germany|https://www.linkedin.com/jobs/view/3834278077|
 |splunk|software engineer intern - backend/full-stack (poland summer 2024)|cracow, małopolskie, poland|https://www.linkedin.com/jobs/view/3736183439|
 |splunk|software engineer intern - front-end (poland summer 2024)|cracow, małopolskie, poland|https://www.linkedin.com/jobs/view/3736184314|
+|spoton|intern software automation engineer|cracow, małopolskie, poland|https://www.linkedin.com/jobs/view/3903943333|
+|spoton|intern software engineer (go, js)|cracow, małopolskie, poland|https://www.linkedin.com/jobs/view/3901202461|
 |squarespace|software engineering intern - summer|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/3818266799|
 |squarespace|software engineering intern, frontend (javascript) - summer|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/3849089165|
 |stafiz|software testing officer - internship|lisbon, lisbon, portugal|https://www.linkedin.com/jobs/view/3847023123|
@@ -810,6 +883,7 @@
 |tenable|software engineer intern|dublin 2, county dublin, ireland|https://www.linkedin.com/jobs/view/3880132439|
 |tenable|software engineer intern|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/3880131589|
 |tencent|backend software engineer - internship|amsterdam, north holland, netherlands|https://www.linkedin.com/jobs/view/3849396997|
+|tenova|digital software engineer - thesis internship|castellanza, lombardy, italy|https://www.linkedin.com/jobs/view/3894679532|
 |tesla|software developer internship, it applications|amsterdam, north holland, netherlands|https://www.linkedin.com/jobs/view/3889368076|
 |tesla|software developer, it application internship|amsterdam, north holland, netherlands|https://www.linkedin.com/jobs/view/3838634706|
 |tesla|software engineering internship (m/w/d)|berlin, berlin, germany|https://www.linkedin.com/jobs/view/3871751761|
@@ -830,9 +904,13 @@
 |the hub|software internship / praktik hos soundmade.com|copenhagen municipality, capital region of denmark, denmark|https://www.linkedin.com/jobs/view/3873405955|
 |the trade desk|2024 summer intern - software engineer - madrid|madrid, community of madrid, spain|https://www.linkedin.com/jobs/view/3855685508|
 |thermo fisher scientific|intern - optics software engineer|eindhoven, north brabant, netherlands|https://www.linkedin.com/jobs/view/3885942442|
+|thermo fisher scientific|intern - optics software engineer|eindhoven, north brabant, netherlands|https://www.linkedin.com/jobs/view/3897164661|
 |thermo fisher scientific|intern software engineer|eindhoven, north brabant, netherlands|https://www.linkedin.com/jobs/view/3888146306|
+|thermo fisher scientific|intern software engineer|eindhoven, north brabant, netherlands|https://www.linkedin.com/jobs/view/3897166314|
 |thermo fisher scientific|intern software scientist - x-ray spectroscopy|eindhoven, north brabant, netherlands|https://www.linkedin.com/jobs/view/3879268568|
+|thermo fisher scientific|intern software scientist - x-ray spectroscopy|eindhoven, north brabant, netherlands|https://www.linkedin.com/jobs/view/3897167294|
 |thermo fisher scientific|intern/final graduation assignment firmware-embedded software engineering|eindhoven, north brabant, netherlands|https://www.linkedin.com/jobs/view/3879264947|
+|thermo fisher scientific|intern/final graduation assignment firmware-embedded software engineering|eindhoven, north brabant, netherlands|https://www.linkedin.com/jobs/view/3897167372|
 |thought machine|software engineering intern|london, england, united kingdom|https://www.linkedin.com/jobs/view/3853208252|
 |thousandeyes (part of cisco)|software engineering intern - endpoint|london, england, united kingdom|https://www.linkedin.com/jobs/view/3832149739|
 |tiktok|system software engineer, summer intern - 2024 start (fixed-term contract)|london, england, united kingdom|https://www.linkedin.com/jobs/view/3694790569|
@@ -861,7 +939,9 @@
 |u-blox|gnss signal processing software summer intern|tampere, pirkanmaa, finland|https://www.linkedin.com/jobs/view/3832386015|
 |uber|2024 phd software engineering internship, amsterdam|amsterdam, north holland, netherlands|https://www.linkedin.com/jobs/view/3795208376|
 |uber|2024 software engineering internship - aarhus|århus, middle jutland, denmark|https://www.linkedin.com/jobs/view/3790328774|
+|uber|2024 uberstar internship program, software engineering - amsterdam|amsterdam, north holland, netherlands|https://www.linkedin.com/jobs/view/3887844079|
 |ubs|internship 2024, software developer, ubs firmwide stats ecap models|opfikon, zurich, switzerland|https://www.linkedin.com/jobs/view/3781253083|
+|ubs|internship 2024, software developer, ubs risklab services|zurich, zurich, switzerland|https://www.linkedin.com/jobs/view/3902957218|
 |ubs|internship 2024, software engineer|zurich, zurich, switzerland|https://www.linkedin.com/jobs/view/3850610107|
 |ubs|internship 2024, software engineer|zurich, zurich, switzerland|https://www.linkedin.com/jobs/view/3852981600|
 |ubs|summer internship 2024, software engineer|zurich, zurich, switzerland|https://www.linkedin.com/jobs/view/3807073105|
@@ -876,12 +956,15 @@
 |undelucram.ro|software development internship - summer of 2024 - cluj-napoca|cluj-napoca, cluj, romania|https://www.linkedin.com/jobs/view/3843527263|
 |undelucram.ro|software development internship - summer of 2024 - cluj-napoca|cluj-napoca, cluj, romania|https://www.linkedin.com/jobs/view/3881309261|
 |undp careers|software developer internship|copenhagen, capital region of denmark, denmark|https://www.linkedin.com/jobs/view/3855049500|
+|unicontrol|robotic software developer internship|odense, region of southern denmark, denmark|https://www.linkedin.com/jobs/view/3901243217|
+|unicontrol|unity3d/c++ software developer internship|odense, region of southern denmark, denmark|https://www.linkedin.com/jobs/view/3901238862|
 |unio enterprise|software engineer intern / working student (m/f/d)|munich, bavaria, germany|https://www.linkedin.com/jobs/view/3890811009|
 |usertesting|software developer intern|edinburgh, scotland, united kingdom|https://www.linkedin.com/jobs/view/3846211195|
 |usertesting|software engineer intern|barcelona, catalonia, spain|https://www.linkedin.com/jobs/view/3846208540|
 |usertesting|software engineer intern|edinburgh, scotland, united kingdom|https://www.linkedin.com/jobs/view/3846209413|
 |uxma gmbh & co. kg|internship software development from september 2024|kiel, schleswig-holstein, germany|https://www.linkedin.com/jobs/view/3837962695|
 |uxma gmbh & co. kg|internship software development from september 2024|thessalia, greece|https://www.linkedin.com/jobs/view/3837979487|
+|van lanschot kempen|software developer (digital innovation & analytics) – internship|amsterdam, north holland, netherlands|https://www.linkedin.com/jobs/view/3902586805|
 |van lanschot kempen|software developer (investment management) - internship|amsterdam, north holland, netherlands|https://www.linkedin.com/jobs/view/3889451808|
 |verisure|software developer internship|pozuelo de alarcón, community of madrid, spain|https://www.linkedin.com/jobs/view/3863596896|
 |viator|software engineering intern x5 (viator)|oxford, england, united kingdom|https://www.linkedin.com/jobs/view/3852984024|
@@ -904,10 +987,13 @@
 |wiley|software development intern|valbonne, provence-alpes-côte d'azur, france|https://www.linkedin.com/jobs/view/3894800961|
 |wise|software engineering internship|tallinn, harjumaa, worldwide|https://www.linkedin.com/jobs/view/3854041903|
 |wolters kluwer|internship software implementation engineer (6 months or apprenticeship))|bois-colombes, île-de-france, france|https://www.linkedin.com/jobs/view/3872413862|
+|wolters kluwer|junior product software engineer - internship|bitritto, apulia, italy|https://www.linkedin.com/jobs/view/3904885471|
 |worldsensing|intern in embedded software development and mobile applications|barcelona, catalonia, spain|https://www.linkedin.com/jobs/view/3883929613|
 |x2e gmbh|internship semester / mandatory internship embedded software development (m/f/d)|heidelberg, baden-württemberg, germany|https://www.linkedin.com/jobs/view/3831493353|
+|x2e gmbh|internship semester / mandatory internship embedded software development (m/f/d)|heidelberg, baden-württemberg, germany|https://www.linkedin.com/jobs/view/3888047135|
 |x2e gmbh|internship semester / mandatory internship embedded software development (m/f/d)|karlsruhe, baden-württemberg, germany|https://www.linkedin.com/jobs/view/3831490726|
 |x2e gmbh|internship semester / mandatory internship embedded software development (m/f/d)|karlsruhe, baden-württemberg, germany|https://www.linkedin.com/jobs/view/3890669202|
+|xaver|software developer intern - fintech startup with experienced founder team|cologne, north rhine-westphalia, germany|https://www.linkedin.com/jobs/view/3902914841|
 |xenserver|software engineer - intern|cambridge, england, united kingdom|https://www.linkedin.com/jobs/view/3808578865|
 |xm|software developer (java or go) - intern|athens, attiki, greece|https://www.linkedin.com/jobs/view/3871733325|
 |xr extreme reach|software development intern, creative intelligence|london, england, united kingdom|https://www.linkedin.com/jobs/view/3840695828|
