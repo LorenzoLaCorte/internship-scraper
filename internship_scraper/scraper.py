@@ -21,16 +21,19 @@ async def find_internships() -> None:  # noqa: C901
     extra_keywords: list[str] = []
 
     for category in JOB_CATEGORIES:
+        new_keyword = f"{category} {JOB_TITLES[0]} {JOB_TYPES[0]}"
+        extra_keywords += [f"{company} {new_keyword}" for company in COMPANIES]
+
         for job_type in JOB_TYPES:
             new_keyword = f"{category} {job_type}"
             keywords.append(new_keyword)
-            extra_keywords += [f"{company} {new_keyword}" for company in COMPANIES]
+            # extra_keywords += [f"{company} {new_keyword}" for company in COMPANIES]
 
         for title in JOB_TITLES:
             for job_type in JOB_TYPES:
                 new_keyword = f"{category} {title} {job_type}"
                 keywords.append(new_keyword)
-                extra_keywords += [f"{company} {new_keyword}" for company in COMPANIES]
+                # extra_keywords += [f"{company} {new_keyword}" for company in COMPANIES]
 
     for keyword in extra_keywords:
         results = await asyncio.gather(

@@ -14,6 +14,12 @@ JOB_TITLES = ["engineer", "engineering", "developer"]
 JOB_TYPES = ["intern", "internship"]
 
 COMPANIES = [ 
+    "amazon",
+    "apple",
+    "meta",
+    "google",
+    "microsoft",
+    "netflix",
 ]
 
 EUROPEAN_AREA = "european economic area"
