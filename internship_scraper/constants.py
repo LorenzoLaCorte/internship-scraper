@@ -9,17 +9,11 @@ TABLE_FILE = OUTPUT_DIR / "table.md"
 
 RESULTS_HEADER = "company|title|location|link\n"
 
-JOB_CATEGORIES = ["software"]
-JOB_TITLES = ["engineer", "engineering", "developer"]
-JOB_TYPES = ["intern", "internship"]
+JOB_CATEGORIES = ["software", "security", "cloud"]
+JOB_TITLES = ["engineer", "developer"]
+JOB_TYPES = ["junior"]
 
 COMPANIES = [ 
-    "amazon",
-    "apple",
-    "meta",
-    "google",
-    "microsoft",
-    "netflix",
 ]
 
 EUROPEAN_AREA = "european economic area"
