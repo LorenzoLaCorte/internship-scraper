@@ -23,3 +23,5 @@ temp
 # temporary
 internship_scraper/linkedin_to_lines.py
 internship_scraper/lines_to_table.py
+
+clean.py
