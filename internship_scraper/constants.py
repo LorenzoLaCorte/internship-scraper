@@ -9,15 +9,6 @@ TABLE_FILE = OUTPUT_DIR / "table.md"
 
 RESULTS_HEADER = "company|title|location|link\n"
 
-# TODO: the new strategy is filling these three lists from command line, in order for the github action to call it with different arguments
-# TODO: change these to get an input from cmdline
-# TODO: create 2 different github actions for intern and new grad
-# TODO: eventually expand with github actions for research internships / master thesis, phd positions, junior positions
-
-JOB_CATEGORIES = ["software"]
-JOB_TITLES = ["engineer", "engineering", "developer"]
-JOB_TYPES = ["intern", "internship"]
-
 COMPANIES = [ 
     "amazon",
     "apple",

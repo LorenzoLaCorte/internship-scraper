@@ -1,4 +1,4 @@
-name: Run Python Script to collect results
+name: Collect Internship Results
 
 on:
   schedule:
@@ -24,17 +24,12 @@ jobs:
         pip install poetry
         poetry install
 
-    - name: Backup output directory
-      run: |
-        timestamp=$(date +%Y%m%d%H%M%S)
-        cp -r output "output_backup_$timestamp"
-
     - name: Delete output directory
       run: rm -rf output
 
     - name: Run Script
       run: |
-        pwd && poetry run python main.py
+        poetry run python main.py --job_categories "software" --job_titles "engineer" "engineering" "developer" --job_types "intern" 
 
     - name: Commit changes
       run: |
