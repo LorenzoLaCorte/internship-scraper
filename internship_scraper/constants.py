@@ -9,10 +9,6 @@ TABLE_FILE = OUTPUT_DIR / "table.md"
 
 RESULTS_HEADER = "company|title|location|link\n"
 
-JOB_CATEGORIES = ["software"]
-JOB_TITLES = ["engineer", "engineering", "developer"]
-JOB_TYPES = ["intern", "internship"]
-
 COMPANIES = [ 
     "amazon",
     "apple",

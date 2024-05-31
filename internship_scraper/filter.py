@@ -1,9 +1,6 @@
 import csv
 
 from internship_scraper.constants import (
-    JOB_CATEGORIES,
-    JOB_TITLES,
-    JOB_TYPES,
     RESULTS_FILE,
     EUROPEAN_CITIES,
     EUROPEAN_COUNTRIES
@@ -11,7 +8,7 @@ from internship_scraper.constants import (
 from internship_scraper.utils import dump_filtered_results
 
 
-def filter_internships() -> None:
+def filter_internships(job_categories: list[str], job_titles: list[str], job_types: list[str]) -> None:
     with RESULTS_FILE.open("r") as results_file:
         csv_reader = csv.DictReader(results_file, delimiter="|")
         filtered_lines: list[str] = []
@@ -24,9 +21,9 @@ def filter_internships() -> None:
                 print("Error parsing the line")
                 continue
             if (
-                (any(category in title for category in JOB_CATEGORIES))
-                and (any(title in title for title in JOB_TITLES))
-                and (any(job_type in title for job_type in JOB_TYPES))
+                (any(category in title for category in job_categories))
+                and (any(title in title for title in job_titles))
+                and (any(job_type in title for job_type in job_types))
                 and ((any(city == job_city for job_city in EUROPEAN_CITIES))
                     or (any(country == job_country for job_country in EUROPEAN_COUNTRIES)))
             ):

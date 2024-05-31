@@ -7,30 +7,27 @@ from internship_scraper.constants import (
     EUROPEAN_AREA,
     EUROPEAN_CITIES,
     EUROPEAN_COUNTRIES,
-    JOB_CATEGORIES,
-    JOB_TITLES,
-    JOB_TYPES,
 )
 from internship_scraper.utils import dump_results
 
 
-async def find_internships() -> None:  # noqa: C901
+async def find_internships(job_categories: list[str], job_titles: list[str], job_types: list[str]) -> None:  # noqa: C901
     scraper = LinkedInScraper()
 
     keywords: list[str] = []
     extra_keywords: list[str] = []
 
-    for category in JOB_CATEGORIES:
-        new_keyword = f"{category} {JOB_TITLES[0]} {JOB_TYPES[0]}"
+    for category in job_categories:
+        new_keyword = f"{category} {job_titles[0]} {job_types[0]}"
         extra_keywords += [f"{company} {new_keyword}" for company in COMPANIES]
 
-        for job_type in JOB_TYPES:
+        for job_type in job_types:
             new_keyword = f"{category} {job_type}"
             keywords.append(new_keyword)
             # extra_keywords += [f"{company} {new_keyword}" for company in COMPANIES]
 
-        for title in JOB_TITLES:
-            for job_type in JOB_TYPES:
+        for title in job_titles:
+            for job_type in job_types:
                 new_keyword = f"{category} {title} {job_type}"
                 keywords.append(new_keyword)
                 # extra_keywords += [f"{company} {new_keyword}" for company in COMPANIES]
