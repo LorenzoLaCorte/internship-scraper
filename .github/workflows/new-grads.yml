@@ -27,15 +27,15 @@ jobs:
     - name: Clean output directory
       run: rm output/filtered_results.csv output/results.csv output/table.md || true
   
-    - name: Run Script
-      run: |
-        poetry run python main.py --job_categories "software" --job_titles "engineer" "engineering" "developer" --job_types "grad" "graduate" 
+    # - name: Run Script
+    #   run: |
+    #     poetry run python main.py --job_categories "software" --job_titles "engineer" "engineering" "developer" --job_types "grad" "graduate" 
   
     - name: Move output files
       run: |
-        mv -f output/filtered_results.csv output/output-internships/filtered_results.csv
-        mv -f output/results.csv output/output-internships/results.csv
-        mv -f output/table.md output/output-internships/table.md
+        mv -f output/filtered_results.csv output/output-internships/filtered_results.csv || true
+        mv -f output/results.csv output/output-internships/results.csv || true
+        mv -f output/table.md output/output-internships/table.md || true
 
     - name: Commit changes
       run: |
