@@ -24,12 +24,18 @@ jobs:
         pip install poetry
         poetry install
 
-    - name: Delete output directory
-      run: rm -rf output
-
+    - name: Clean output directory
+      run: rm output/filtered_results.csv output/results.csv output/table.md || true
+  
     - name: Run Script
       run: |
-        poetry run python main.py --job_categories "software" --job_titles "engineer" "developer" --job_types "graduate" "grad" 
+        poetry run python main.py --job_categories "software" --job_titles "engineer" "engineering" "developer" --job_types "grad" "graduate" 
+  
+    - name: Move output files
+      run: |
+        mv -f output/filtered_results.csv output/output-internships/filtered_results.csv
+        mv -f output/results.csv output/output-internships/results.csv
+        mv -f output/table.md output/output-internships/table.md
 
     - name: Commit changes
       run: |
@@ -43,6 +49,6 @@ jobs:
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
         commit-message: "Update Results"
-        title: "Update Results"
+        title: "Update New Graduate Results"
         body: ""
         branch: "update-results"
