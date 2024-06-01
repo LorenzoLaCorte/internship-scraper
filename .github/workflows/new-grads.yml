@@ -27,9 +27,9 @@ jobs:
     - name: Clean output directory
       run: rm output/filtered_results.csv output/results.csv output/table.md || true
   
-    # - name: Run Script
-    #   run: |
-    #     poetry run python main.py --job_categories "software" --job_titles "engineer" "engineering" "developer" --job_types "grad" "graduate" 
+    - name: Run Script
+      run: |
+        poetry run python main.py --job_categories "software" --job_titles "engineer" "engineering" "developer" --job_types "grad" "graduate" 
   
     - name: Move output files
       run: |
