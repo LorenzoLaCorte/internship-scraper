@@ -52,4 +52,4 @@ jobs:
         commit-message: "Update Results"
         title: "Update New Graduate Results"
         body: ""
-        branch: "update-results"
+        branch: "update-results-new-grads"

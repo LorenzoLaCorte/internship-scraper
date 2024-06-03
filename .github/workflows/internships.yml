@@ -53,4 +53,4 @@ jobs:
         commit-message: "Update Results"
         title: "Update Internship Results"
         body: ""
-        branch: "update-results"
+        branch: "update-results-internships"
