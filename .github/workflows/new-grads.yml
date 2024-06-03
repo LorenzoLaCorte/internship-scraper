@@ -33,9 +33,10 @@ jobs:
   
     - name: Move output files
       run: |
-        mv -f output/filtered_results.csv output/output-internships/filtered_results.csv || true
-        mv -f output/results.csv output/output-internships/results.csv || true
-        mv -f output/table.md output/output-internships/table.md || true
+        mkdir -p output/output-new-grads
+        mv -f output/filtered_results.csv output/output-new-grads/filtered_results.csv || true
+        mv -f output/results.csv output/output-new-grads/results.csv || true
+        mv -f output/table.md output/output-new-grads/table.md || true
 
     - name: Commit changes
       run: |

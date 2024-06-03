@@ -33,10 +33,12 @@ jobs:
 
     - name: Move output files
       run: |
+        mkdir -p output/output-internships
         mv -f output/filtered_results.csv output/output-internships/filtered_results.csv || true
         mv -f output/results.csv output/output-internships/results.csv || true
         mv -f output/table.md output/output-internships/table.md || true
 
+    # TODO: merge from origin/main before committing
     - name: Commit changes
       run: |
         git config --local user.email "action@github.com"
