@@ -1,0 +1,11 @@
+|company|title|location|link|
+|---|---|---|---|
+|abb|phd candidate for software architecture (abb/kit)|ladenburg, baden-württemberg, germany|https://www.linkedin.com/jobs/view/3928995987|
+|chalmers university of technology|phd student position in software performance engineering|gothenburg, västra götaland county, sweden|https://www.linkedin.com/jobs/view/3920161469|
+|google cloud - minnesota|software engineer, early career, phd|warsaw, mazowieckie, poland|https://www.linkedin.com/jobs/view/3933625251|
+|mygwork - lgbtq+ business community|phd candidate for software architecture (/kit)|ladenburg, baden-württemberg, germany|https://www.linkedin.com/jobs/view/3923670255|
+|novel - accurate force & pressure sensors|software developer / electronical engineer  (master degree required for a required phd enrolement)|munich, bavaria, germany|https://www.linkedin.com/jobs/view/3812329057|
+|rwth aachen university|softwareentwickler/in (bsc, msc, phd) für die integration von augmented reality anwendungen mit wireless engineering|aachen, north rhine-westphalia, germany|https://www.linkedin.com/jobs/view/3938825524|
+|university of luxembourg|phd candidate in artificial intelligence and software engineering|luxembourg|https://www.linkedin.com/jobs/view/3825028827|
+|university of luxembourg|phd candidate in software and system verification, model checking, cyber-physical systems|luxembourg|https://www.linkedin.com/jobs/view/3892890325|
+|vrije universiteit amsterdam (vu amsterdam)|phd position: software architecture for neuro-symbolic ai|amsterdam, north holland, netherlands|https://www.linkedin.com/jobs/view/3924267342|
