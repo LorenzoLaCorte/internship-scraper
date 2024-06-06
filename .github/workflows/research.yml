@@ -1,0 +1,55 @@
+name: Collect Research Internship Results
+
+on:
+  schedule:
+    - cron: '0 0 * * 2'
+  workflow_dispatch:
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x' 
+
+    - name: Install Dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install poetry
+        poetry install
+
+    - name: Clean output directory
+      run: rm output/filtered_results.csv output/results.csv output/table.md || true
+
+    - name: Run Script
+      run: |
+        poetry run python main.py --job_categories " " "" --job_titles "researcher" "research" --job_types "intern" "internship" 
+
+    - name: Move output files
+      run: |
+        mkdir -p output/output-research
+        mv -f output/filtered_results.csv output/output-research/filtered_results.csv || true
+        mv -f output/results.csv output/output-research/results.csv || true
+        mv -f output/table.md output/output-research/table.md || true
+
+    - name: Commit changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add .
+        git commit -m "Update Results"
+
+    - name: Create Pull Request
+      uses: peter-evans/create-pull-request@v3
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        commit-message: "Update Results"
+        title: "Update Research Internship Results"
+        body: ""
+        branch: "update-results-research"
