@@ -6,13 +6,22 @@
 |abb|phd candidate (m/f/d) for software architecture (abb/kit)|ladenburg, baden-württemberg, germany|https://www.linkedin.com/jobs/view/3928995987|
 |amsterdam university college|phd in sovereign norm-compliant cloud services for the digital government|amsterdam, north holland, netherlands|https://www.linkedin.com/jobs/view/3944640558|
 |delft university of technology|nextworkx phd position secure data sharing in federated edge clouds|delft, south holland, netherlands|https://www.linkedin.com/jobs/view/3937917724|
+|delft university of technology|phd position cybersecurity of 6g networks|delft, south holland, netherlands|https://www.linkedin.com/jobs/view/3949399338|
 |delft university of technology|phd position the potential of climate interventions in complex cloud systems|delft, south holland, netherlands|https://www.linkedin.com/jobs/view/3943103286|
+|eindhoven university of technology|phd on software engineering for scientific communities|eindhoven, north brabant, netherlands|https://www.linkedin.com/jobs/view/3952221364|
 |expleo group|young phd - architecte cloud h/f|gironde, nouvelle-aquitaine, france|https://www.linkedin.com/jobs/view/3902057668|
+|expleo group|young phd - architecte cloud h/f|haute-garonne, occitanie, france|https://www.linkedin.com/jobs/view/3952848201|
 |expleo group|young phd - architecte cloud h/f|yvelines, île-de-france, france|https://www.linkedin.com/jobs/view/3869643279|
-|mygwork - lgbtq+ business community|phd candidate (m/f/d) for software architecture (/kit)|ladenburg, baden-württemberg, germany|https://www.linkedin.com/jobs/view/3923670255|
-|novel - accurate force & pressure sensors|software developer / electronical engineer  (master degree required for a required phd enrolement)|munich, bavaria, germany|https://www.linkedin.com/jobs/view/3812329057|
-|rwth aachen university|softwareentwickler/in (bsc, msc, phd) für die integration von augmented reality anwendungen mit wireless engineering|aachen, north rhine-westphalia, germany|https://www.linkedin.com/jobs/view/3938825524|
-|siemens|phd thesis (f/m/d) – leveraging generative ai in green software engineering|garching, bavaria, germany|https://www.linkedin.com/jobs/view/3939077760|
+|huawei|industrial phd students in system software research (m/f/d)|dresden, saxony, germany|https://www.linkedin.com/jobs/view/3664562551|
+|luleå university of technology|phd student in cybersecurity with specialization in artificial intelligence|luleå, norrbotten county, sweden|https://www.linkedin.com/jobs/view/3950338050|
+|luleå university of technology|phd student in cybersecurity with specialization in memory-safe software|luleå, norrbotten county, sweden|https://www.linkedin.com/jobs/view/3950337124|
+|luleå university of technology|phd student in cybersecurity, blockchain and secure access control|luleå, norrbotten county, sweden|https://www.linkedin.com/jobs/view/3952003132|
+|luleå university of technology|phd student in cybersecurity, secure it/ot/iot and cloud security|luleå, norrbotten county, sweden|https://www.linkedin.com/jobs/view/3952089458|
+|novel - accurate force & pressure sensors|industrial phd: elektrotechniker/softwaredevelopment|munich, bavaria, germany|https://www.linkedin.com/jobs/view/3952310450|
+|oil and gas job search ltd|phd candidate (m/f/d) for software architecture (abb/kit)|ladenburg, baden-württemberg, germany|https://www.linkedin.com/jobs/view/3952954124|
+|sandboxaq|phd residency - ai and cybersecurity|canada, england, united kingdom|https://www.linkedin.com/jobs/view/3948743427|
+|siemens|phd thesis – leveraging generative ai along the software development lifecycle (sdlc)|garching, bavaria, germany|https://www.linkedin.com/jobs/view/3939076818|
 |university of amsterdam|phd in sovereign norm-compliant cloud services for the digital government|amsterdam, north holland, netherlands|https://www.linkedin.com/jobs/view/3943508742|
 |university of luxembourg|phd candidate in software and system verification, model checking, cyber-physical systems|luxembourg|https://www.linkedin.com/jobs/view/3892890325|
+|university of twente|phd position on secure cloud|enschede, overijssel, netherlands|https://www.linkedin.com/jobs/view/3949164023|
 |vrije universiteit brussel|phd scholarship in software-defined vehicle: eco functions for evs and avs|ixelles, belgium|https://www.linkedin.com/jobs/view/3945700945|
