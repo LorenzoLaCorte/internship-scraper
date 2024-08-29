@@ -1,27 +1,22 @@
 |company|title|location|link|
 |---|---|---|---|
-|google cloud - minnesota|software engineer, early career, phd|warsaw, mazowieckie, poland|https://www.linkedin.com/jobs/view/3996301254|
 |google|software engineer, early career, phd|warsaw, mazowieckie, poland|https://www.linkedin.com/jobs/view/3872972128|
 |abb|phd candidate (m/f/d) for software architecture (abb/kit)|mannheim, baden-württemberg, germany|https://www.linkedin.com/jobs/view/3977098304|
 |chalmers university of technology|phd student position in software performance engineering|gothenburg, västra götaland county, sweden|https://www.linkedin.com/jobs/view/3920161469|
-|ecocareers|phd software developer|manchester, england, united kingdom|https://www.linkedin.com/jobs/view/4005829101|
 |expleo group|young phd - architecte cloud h/f|gironde, nouvelle-aquitaine, france|https://www.linkedin.com/jobs/view/3902057668|
 |expleo group|young phd - architecte cloud h/f|haute-garonne, occitanie, france|https://www.linkedin.com/jobs/view/3952848201|
-|expleo group|young phd - architecte cloud h/f|mérignac, nouvelle-aquitaine, france|https://www.linkedin.com/jobs/view/3986228309|
-|expleo group|young phd - architecte cloud h/f|toulouse, occitanie, france|https://www.linkedin.com/jobs/view/3986226786|
 |expleo group|young phd - architecte cloud h/f|yvelines, île-de-france, france|https://www.linkedin.com/jobs/view/3869643279|
 |huawei|industrial phd students in system software research (m/f/d)|dresden, saxony, germany|https://www.linkedin.com/jobs/view/3664562551|
 |leiden university|dual-appointment phd candidate and junior system administrator, software optimization and compiler|leiden, south holland, netherlands|https://www.linkedin.com/jobs/view/3982905385|
 |leiden university|phd fellow governance of crisis and cybersecurity|the hague, south holland, netherlands|https://www.linkedin.com/jobs/view/3987369599|
 |lesjeudis|phd position f/m moving-target defense driven by artificial intelligence for cloud composite services|nancy, grand est, france|https://www.linkedin.com/jobs/view/3989056387|
-|lesjeudis|phd position f/m phd: generation of software variants|rennes, brittany, france|https://www.linkedin.com/jobs/view/3984957153|
 |lesjeudis|young phd - architecte cloud h/f|gironde-sur-dropt, nouvelle-aquitaine, france|https://www.linkedin.com/jobs/view/3984958039|
 |lesjeudis|young phd - architecte cloud h/f|montigny-le-bretonneux, île-de-france, france|https://www.linkedin.com/jobs/view/3984959378|
 |lesjeudis|young phd - architecte cloud h/f|toulouse, occitanie, france|https://www.linkedin.com/jobs/view/3984961841|
 |novel - accurate force & pressure sensors|electronical engineer  (master degree required for a required phd enrolement) and software developer|munich, bavaria, germany|https://www.linkedin.com/jobs/view/3812329057|
 |novel - accurate force & pressure sensors|industrial phd: electrical engineer & software development|munich, bavaria, germany|https://www.linkedin.com/jobs/view/3970209922|
-|oil and gas job search ltd|phd position f/m phd: generation of software variants|rennes, brittany, france|https://www.linkedin.com/jobs/view/3981879346|
-|understanding recruitment|phd software developer|united kingdom|https://www.linkedin.com/jobs/view/3996665088|
+|oil and gas job search ltd|phd candidate (m/f/d) for software architecture (abb/kit)|mannheim, baden-württemberg, germany|https://www.linkedin.com/jobs/view/4005096786|
+|the university of sheffield|phd studentship in cybersecurity and ai (university of sheffield, uk)|sheffield, england, united kingdom|https://www.linkedin.com/jobs/view/4011392674|
 |university of luxembourg|phd candidate in artificial intelligence and software engineering|luxembourg|https://www.linkedin.com/jobs/view/3825028827|
-|university of luxembourg|phd candidate in software and system verification, model checking, cyber-physical systems|luxembourg|https://www.linkedin.com/jobs/view/3892890325|
+|university of south-eastern norway|phd position in cybersecurity|kongsberg, viken, norway|https://www.linkedin.com/jobs/view/3969085969|
 |universität innsbruck|phd position in cloud-edge computing|innsbruck, tyrol, austria|https://www.linkedin.com/jobs/view/3995657314|
