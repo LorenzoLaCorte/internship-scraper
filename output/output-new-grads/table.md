@@ -5,74 +5,72 @@
 |amazon web services (aws)|2025 graduate software dev engineer|aachen, north rhine-westphalia, germany|https://www.linkedin.com/jobs/view/4047070341|
 |amazon web services (aws)|2025 graduate software dev engineer|berlin, berlin, germany|https://www.linkedin.com/jobs/view/4047072262|
 |amazon web services (aws)|2025 graduate software dev engineer|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4047072261|
-|amazon web services (aws)|graduate software development engineer – redshift query processing|berlin, germany|https://www.linkedin.com/jobs/view/3929279035|
 |amazon|2024 graduate software dev engineer|barcelona, catalonia, spain|https://www.linkedin.com/jobs/view/3877272888|
-|amazon|2024 graduate software dev engineer|cambridge, england, united kingdom|https://www.linkedin.com/jobs/view/3956054984|
 |amazon|2024 graduate software dev engineer|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/3877292454|
 |amazon|2024 graduate software dev engineer|iaşi, iaşi, romania|https://www.linkedin.com/jobs/view/4031170539|
 |amazon|2024 graduate software dev engineer|london, england, united kingdom|https://www.linkedin.com/jobs/view/3956059179|
 |amazon|2024 graduate software dev engineer|madrid, community of madrid, spain|https://www.linkedin.com/jobs/view/3877276475|
-|amazon|2024 graduate software dev engineer|stockholm, stockholm county, sweden|https://www.linkedin.com/jobs/view/4022479750|
 |amazon|2025 graduate software dev engineer|barcelona, catalonia, spain|https://www.linkedin.com/jobs/view/4040160954|
 |amazon|2025 graduate software dev engineer|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4046085944|
+|amazon|2025 graduate software dev engineer|london, england, united kingdom|https://www.linkedin.com/jobs/view/4051048565|
 |amazon|2025 graduate software dev engineer|madrid, community of madrid, spain|https://www.linkedin.com/jobs/view/4040164410|
 |meta|software engineer - university graduate|london, england, united kingdom|https://www.linkedin.com/jobs/view/4034594818|
 |acre|graduate backend software engineer (immediate start)|london, england, united kingdom|https://www.linkedin.com/jobs/view/4034930363|
-|agência pró|graduate software developer|edinburgh, scotland, united kingdom|https://www.linkedin.com/jobs/view/4048381535|
+|airedale by modine|graduate bms controls software engineer|rawdon, england, united kingdom|https://www.linkedin.com/jobs/view/4026920985|
 |airedale by modine|graduate controls bms software engineer|rawdon, england, united kingdom|https://www.linkedin.com/jobs/view/4035707607|
 |alphasights|graduate software engineer (remote) - uk|london, england, united kingdom|https://www.linkedin.com/jobs/view/4026941452|
+|amadeus|software development engineer graduate|greater london, england, united kingdom|https://www.linkedin.com/jobs/view/4024751896|
+|amiosec|graduate software engineer|tewkesbury, england, united kingdom|https://www.linkedin.com/jobs/view/4036366269|
 |analog devices|fy24 graduate software engineering opportunities|limerick, county limerick, ireland|https://www.linkedin.com/jobs/view/3814645177|
 |analog devices|fy25 graduate software engineering opportunities|limerick, county limerick, ireland|https://www.linkedin.com/jobs/view/4018482472|
 |apadmi|2025 graduate software engineering programme - uk|manchester, england, united kingdom|https://www.linkedin.com/jobs/view/4044574919|
-|arcadis|graduate software developer|london, england, united kingdom|https://www.linkedin.com/jobs/view/4037783353|
-|arcadis|graduate software developer|sheffield, england, united kingdom|https://www.linkedin.com/jobs/view/4019709537|
+|apexon|graduate software engineer|birmingham, england, united kingdom|https://www.linkedin.com/jobs/view/4051783004|
+|apexon|graduate software engineer|sunderland, england, united kingdom|https://www.linkedin.com/jobs/view/4051780444|
 |arista networks|graduate/intern software engineer|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4023293265|
 |arm|graduate graphics software engineer|oslo, oslo, norway|https://www.linkedin.com/jobs/view/4022989483|
-|arup|graduate software developer (5009)|london, england, united kingdom|https://www.linkedin.com/jobs/view/4039350618|
+|arm|graduate software engineer - cpu micro-architecture verification|sophia antipolis, provence-alpes-côte d'azur, france|https://www.linkedin.com/jobs/view/4047678565|
+|atkinsréalis|software graduate scheme|west midlands, england, united kingdom|https://www.linkedin.com/jobs/view/4051238065|
 |autodesk|graduate software engineer (starting q1 2025)|birmingham, england, united kingdom|https://www.linkedin.com/jobs/view/4034617025|
 |autodesk|graduate software engineer (starting q1 2025)|birmingham, england, united kingdom|https://www.linkedin.com/jobs/view/4034617026|
-|aveva|software developer graduate|cambridge, england, united kingdom|https://www.linkedin.com/jobs/view/4041001668|
+|automation consultants|software graduate 2025 - (multiple roles)|reading, england, united kingdom|https://www.linkedin.com/jobs/view/4033013748|
 |bae systems digital intelligence|graduate software engineer|guildford, england, united kingdom|https://www.linkedin.com/jobs/view/4024017386|
-|bae systems|graduate software developer|lancashire, england, united kingdom|https://www.linkedin.com/jobs/view/4023053681|
-|bae systems|graduate software engineer|chelmsford, england, united kingdom|https://www.linkedin.com/jobs/view/4023499105|
 |bae systems|graduate software engineer|east riding of yorkshire, england, united kingdom|https://www.linkedin.com/jobs/view/4023054609|
 |bae systems|graduate software engineer|east riding of yorkshire, england, united kingdom|https://www.linkedin.com/jobs/view/4023059122|
 |bae systems|graduate software engineer|england, united kingdom|https://www.linkedin.com/jobs/view/4044801401|
-|bae systems|graduate software engineer|greater bristol area, united kingdom|https://www.linkedin.com/jobs/view/4023054625|
 |bae systems|graduate software engineer|kent, england, united kingdom|https://www.linkedin.com/jobs/view/4023055571|
+|bae systems|graduate software engineer|lancashire, england, united kingdom|https://www.linkedin.com/jobs/view/4023054607|
+|bae systems|graduate software engineer|lancashire, england, united kingdom|https://www.linkedin.com/jobs/view/4023056562|
 |bae systems|graduate software engineer|surrey, england, united kingdom|https://www.linkedin.com/jobs/view/4024060654|
 |bae systems|undergraduate software engineer|edinburgh, scotland, united kingdom|https://www.linkedin.com/jobs/view/4023499079|
-|bae systems|undergraduate software engineer|somerset, england, united kingdom|https://www.linkedin.com/jobs/view/4023495611|
-|bending spoons|graduate software engineer|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4036343239|
-|bending spoons|graduate software engineer|france|https://www.linkedin.com/jobs/view/4036336947|
-|bending spoons|graduate software engineer|ireland|https://www.linkedin.com/jobs/view/4036345438|
-|bending spoons|graduate software engineer|italy|https://www.linkedin.com/jobs/view/4036350159|
-|bending spoons|graduate software engineer|poland|https://www.linkedin.com/jobs/view/4036347579|
-|bending spoons|graduate software engineer|romania|https://www.linkedin.com/jobs/view/4036350432|
-|bending spoons|graduate software engineer|spain|https://www.linkedin.com/jobs/view/4036352157|
-|bending spoons|graduate software engineer|switzerland|https://www.linkedin.com/jobs/view/4036349733|
-|bewley design|graduate/junior c# software developer|london, england, united kingdom|https://www.linkedin.com/jobs/view/4048382595|
+|bearingpoint|2025 graduate opportunities - software development|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4048684177|
+|bearingpoint|2025 graduate opportunities - software devops|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4048680676|
+|bearingpoint|2025 graduate opportunities - software test|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4048683211|
+|bending spoons|graduate software engineer|ireland|https://www.linkedin.com/jobs/view/4050239919|
+|bending spoons|graduate software engineer|italy|https://www.linkedin.com/jobs/view/4050244501|
+|bending spoons|graduate software engineer|oxford, england, united kingdom|https://www.linkedin.com/jobs/view/4050239941|
+|bending spoons|graduate software engineer|romania|https://www.linkedin.com/jobs/view/4050240942|
 |boss professional services|graduate software engineer|epsom, england, united kingdom|https://www.linkedin.com/jobs/view/4030793550|
 |bridge4people, bridgespinner a/s|graduate scheme 2025 - software engineering|warrington, england, united kingdom|https://www.linkedin.com/jobs/view/4016222933|
+|caci ltd|graduate software engineer 2025 – national security|greater bristol area, united kingdom|https://www.linkedin.com/jobs/view/4032647539|
 |cambridge intelligence|graduate software developer|cambridge, england, united kingdom|https://www.linkedin.com/jobs/view/4034776007|
 |canonical|graduate/associate software engineer - build & release infrastructure|amsterdam, north holland, netherlands|https://www.linkedin.com/jobs/view/4028386182|
 |canonical|graduate/associate software engineer - build & release infrastructure|antwerp, flemish region, belgium|https://www.linkedin.com/jobs/view/4028386157|
 |canonical|graduate/associate software engineer - build & release infrastructure|athens, attiki, greece|https://www.linkedin.com/jobs/view/4028383685|
+|canonical|graduate/associate software engineer - build & release infrastructure|aveiro, aveiro, portugal|https://www.linkedin.com/jobs/view/4028383692|
 |canonical|graduate/associate software engineer - build & release infrastructure|barcelona, catalonia, spain|https://www.linkedin.com/jobs/view/4028384282|
 |canonical|graduate/associate software engineer - build & release infrastructure|berlin, berlin, germany|https://www.linkedin.com/jobs/view/4028386158|
-|canonical|graduate/associate software engineer - build & release infrastructure|bordeaux, nouvelle-aquitaine, france|https://www.linkedin.com/jobs/view/4028386152|
 |canonical|graduate/associate software engineer - build & release infrastructure|brussels, brussels region, belgium|https://www.linkedin.com/jobs/view/4028385272|
 |canonical|graduate/associate software engineer - build & release infrastructure|bucharest, bucharest, romania|https://www.linkedin.com/jobs/view/4028388009|
 |canonical|graduate/associate software engineer - build & release infrastructure|budapest, budapest, hungary|https://www.linkedin.com/jobs/view/4028388037|
 |canonical|graduate/associate software engineer - build & release infrastructure|cluj-napoca, cluj, romania|https://www.linkedin.com/jobs/view/4028382659|
 |canonical|graduate/associate software engineer - build & release infrastructure|coimbra, coimbra, portugal|https://www.linkedin.com/jobs/view/4028382642|
 |canonical|graduate/associate software engineer - build & release infrastructure|cracow, małopolskie, poland|https://www.linkedin.com/jobs/view/4028387031|
+|canonical|graduate/associate software engineer - build & release infrastructure|dresden, saxony, germany|https://www.linkedin.com/jobs/view/4028383698|
 |canonical|graduate/associate software engineer - build & release infrastructure|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4028381896|
+|canonical|graduate/associate software engineer - build & release infrastructure|düsseldorf, north rhine-westphalia, germany|https://www.linkedin.com/jobs/view/4028384295|
 |canonical|graduate/associate software engineer - build & release infrastructure|edinburgh, scotland, united kingdom|https://www.linkedin.com/jobs/view/4028384290|
 |canonical|graduate/associate software engineer - build & release infrastructure|frankfurt am main, hesse, germany|https://www.linkedin.com/jobs/view/4028384277|
-|canonical|graduate/associate software engineer - build & release infrastructure|glasgow, scotland, united kingdom|https://www.linkedin.com/jobs/view/4028384289|
 |canonical|graduate/associate software engineer - build & release infrastructure|granada, andalusia, spain|https://www.linkedin.com/jobs/view/4028382635|
-|canonical|graduate/associate software engineer - build & release infrastructure|grenoble, auvergne-rhône-alpes, france|https://www.linkedin.com/jobs/view/4028382636|
 |canonical|graduate/associate software engineer - build & release infrastructure|hamburg, hamburg, germany|https://www.linkedin.com/jobs/view/4028381902|
 |canonical|graduate/associate software engineer - build & release infrastructure|helsinki, uusimaa, finland|https://www.linkedin.com/jobs/view/4028384278|
 |canonical|graduate/associate software engineer - build & release infrastructure|leipzig, saxony, germany|https://www.linkedin.com/jobs/view/4028384285|
@@ -82,6 +80,7 @@
 |canonical|graduate/associate software engineer - build & release infrastructure|madrid, community of madrid, spain|https://www.linkedin.com/jobs/view/4028383686|
 |canonical|graduate/associate software engineer - build & release infrastructure|manchester, england, united kingdom|https://www.linkedin.com/jobs/view/4028385285|
 |canonical|graduate/associate software engineer - build & release infrastructure|marousi, attiki, greece|https://www.linkedin.com/jobs/view/4028384279|
+|canonical|graduate/associate software engineer - build & release infrastructure|marseille, provence-alpes-côte d'azur, france|https://www.linkedin.com/jobs/view/4028384318|
 |canonical|graduate/associate software engineer - build & release infrastructure|metz, grand est, france|https://www.linkedin.com/jobs/view/4028387032|
 |canonical|graduate/associate software engineer - build & release infrastructure|milan, lombardy, italy|https://www.linkedin.com/jobs/view/4028388007|
 |canonical|graduate/associate software engineer - build & release infrastructure|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4028384286|
@@ -112,14 +111,11 @@
 |canonical|graduate/associate software engineer - build & release infrastructure|vienna, vienna, austria|https://www.linkedin.com/jobs/view/4028387053|
 |canonical|graduate/associate software engineer - build & release infrastructure|warsaw, mazowieckie, poland|https://www.linkedin.com/jobs/view/4028388029|
 |canonical|graduate/associate software engineer - build & release infrastructure|wrocław, dolnośląskie, poland|https://www.linkedin.com/jobs/view/4028381900|
-|capua|software engineer (graduate/junior role visa sponsorship available)|london area, united kingdom|https://www.linkedin.com/jobs/view/4034007150|
+|capua|graduate software engineer (visa sponsoring)|london area, united kingdom|https://www.linkedin.com/jobs/view/4050561373|
+|centrica|dts software engineering graduate|united kingdom|https://www.linkedin.com/jobs/view/4038050134|
 |centrica|dts software engineering graduate|windsor, england, united kingdom|https://www.linkedin.com/jobs/view/4038046377|
 |chainalysis|software engineer, global intelligence (phd graduate)|copenhagen, capital region of denmark, denmark|https://www.linkedin.com/jobs/view/4038973744|
-|chillifrog|neat - graduate software engineer|cambridge, england, united kingdom|https://www.linkedin.com/jobs/view/4045107456|
 |cisco|ensoft - early in career /graduate software engineering –uk|harpenden, england, united kingdom|https://www.linkedin.com/jobs/view/4034656265|
-|citi|eo&t, graduate software engineer (2025) (2024 citi summer intern applicants only)|london, england, united kingdom|https://www.linkedin.com/jobs/view/4044899420|
-|clickjobs.io|graduate embedded software engineer|warwick, england, united kingdom|https://www.linkedin.com/jobs/view/4040375115|
-|client server|graduate software engineer computer science|newcastle upon tyne, england, united kingdom|https://www.linkedin.com/jobs/view/4046614282|
 |cobblestone energy|graduate software engineer - dubai, uae|aarhus, central denmark region, denmark|https://www.linkedin.com/jobs/view/3957699761|
 |cobblestone energy|graduate software engineer - dubai, uae|amsterdam, north holland, netherlands|https://www.linkedin.com/jobs/view/3954180470|
 |cobblestone energy|graduate software engineer - dubai, uae|antwerp, flemish region, belgium|https://www.linkedin.com/jobs/view/3957699767|
@@ -140,7 +136,6 @@
 |cobblestone energy|graduate software engineer - dubai, uae|kharkiv, kharkiv, ukraine|https://www.linkedin.com/jobs/view/3957699948|
 |cobblestone energy|graduate software engineer - dubai, uae|kyiv, kyiv city, ukraine|https://www.linkedin.com/jobs/view/3958003183|
 |cobblestone energy|graduate software engineer - dubai, uae|lisboa, lisbon, portugal|https://www.linkedin.com/jobs/view/3958004209|
-|cobblestone energy|graduate software engineer - dubai, uae|london, england, united kingdom|https://www.linkedin.com/jobs/view/3958004212|
 |cobblestone energy|graduate software engineer - dubai, uae|luxembourg, luxembourg, luxembourg|https://www.linkedin.com/jobs/view/3958002440|
 |cobblestone energy|graduate software engineer - dubai, uae|lyon, auvergne-rhône-alpes, france|https://www.linkedin.com/jobs/view/3958003123|
 |cobblestone energy|graduate software engineer - dubai, uae|madrid, community of madrid, spain|https://www.linkedin.com/jobs/view/3957699813|
@@ -151,6 +146,7 @@
 |cobblestone energy|graduate software engineer - dubai, uae|oslo, oslo, norway|https://www.linkedin.com/jobs/view/3958001550|
 |cobblestone energy|graduate software engineer - dubai, uae|paris, île-de-france, france|https://www.linkedin.com/jobs/view/3958004219|
 |cobblestone energy|graduate software engineer - dubai, uae|porto, porto, portugal|https://www.linkedin.com/jobs/view/3957699817|
+|cobblestone energy|graduate software engineer - dubai, uae|poznań, wielkopolskie, poland|https://www.linkedin.com/jobs/view/3958003132|
 |cobblestone energy|graduate software engineer - dubai, uae|rome, latium, italy|https://www.linkedin.com/jobs/view/3958004109|
 |cobblestone energy|graduate software engineer - dubai, uae|sofia, sofia city, worldwide|https://www.linkedin.com/jobs/view/3957698930|
 |cobblestone energy|graduate software engineer - dubai, uae|stockholm, stockholm county, sweden|https://www.linkedin.com/jobs/view/3958003150|
@@ -158,8 +154,8 @@
 |cobblestone energy|graduate software engineer - dubai, uae|tilburg, north brabant, netherlands|https://www.linkedin.com/jobs/view/3958004148|
 |cobblestone energy|graduate software engineer - dubai, uae|vienna, vienna, austria|https://www.linkedin.com/jobs/view/3957698928|
 |cobblestone energy|graduate software engineer - dubai, uae|warsaw, mazowieckie, poland|https://www.linkedin.com/jobs/view/3958004151|
+|cobblestone energy|graduate software engineer - dubai, uae|wrocław, dolnośląskie, poland|https://www.linkedin.com/jobs/view/3957699778|
 |cobblestone energy|graduate software engineer - dubai, uae|łódź, łódzkie, poland|https://www.linkedin.com/jobs/view/3958003163|
-|coesia s.p.a.|automation and software engineers – ypp (graduate program)|bologna, emilia-romagna, italy|https://www.linkedin.com/jobs/view/4021437070|
 |cytiva|engineering graduate program - r&d software engineer, test automation|uppsala, uppsala county, sweden|https://www.linkedin.com/jobs/view/4045301558|
 |da vinci|graduate c++ software engineer|amsterdam, north holland, netherlands|https://www.linkedin.com/jobs/view/4041991450|
 |databricks|software engineer - new grad (2025 start)|amsterdam, north holland, netherlands|https://www.linkedin.com/jobs/view/4023888460|
@@ -167,104 +163,96 @@
 |dell technologies|software engineering graduate program 2025|warsaw, mazowieckie, poland|https://www.linkedin.com/jobs/view/4042813062|
 |doctor|2024 graduate software dev engineer|gdańsk, pomorskie, poland|https://www.linkedin.com/jobs/view/3897719549|
 |doctor|2024 graduate software dev engineer|madrid, community of madrid, spain|https://www.linkedin.com/jobs/view/3953090102|
-|doctor|2024 graduate software dev engineer|stockholm, stockholm county, sweden|https://www.linkedin.com/jobs/view/4022166150|
 |doctor|2025 graduate software dev engineer|madrid, community of madrid, spain|https://www.linkedin.com/jobs/view/4042406007|
-|dunelm|software engineering graduate scheme|harrow, england, united kingdom|https://www.linkedin.com/jobs/view/4038735609|
-|energy jobline|2024 graduate software developer - elite hedge fund (up to £150k + bonus + hybrid)|england, united kingdom|https://www.linkedin.com/jobs/view/4040379053|
-|energy jobline|graduate c++ software engineer|cambridge, england, united kingdom|https://www.linkedin.com/jobs/view/4020568165|
-|energy jobline|graduate embedded software engineer|warwick, england, united kingdom|https://www.linkedin.com/jobs/view/4040381606|
-|energy jobline|graduate software engineer - up to £150,000 + bonus + package|london, england, united kingdom|https://www.linkedin.com/jobs/view/4020571838|
-|energy jobline|graduate software engineer - up to £150,000 + bonus + package|london, england, united kingdom|https://www.linkedin.com/jobs/view/4032290624|
-|energy jobline|graduate software engineer - £30k - £40k|newcastle upon tyne, england, united kingdom|https://www.linkedin.com/jobs/view/4040373949|
-|energy jobline|graduate software engineer|london, england, united kingdom|https://www.linkedin.com/jobs/view/4032608504|
-|energy jobline|graduate software engineer|newcastle upon tyne, england, united kingdom|https://www.linkedin.com/jobs/view/4040383983|
-|energy jobline|graduate software engineer|tewkesbury, england, united kingdom|https://www.linkedin.com/jobs/view/4040386577|
 |enterprise recruitment ltd|graduate software engineer £45k|london, england, united kingdom|https://www.linkedin.com/jobs/view/3955558402|
-|enterprise recruitment ltd|graduate software engineer, c#, c++|oxford, england, united kingdom|https://www.linkedin.com/jobs/view/4015844011|
+|enterprise recruitment ltd|graduate software engineer, c#, c++|oxfordshire, england, united kingdom|https://www.linkedin.com/jobs/view/4017591567|
+|enterprise recruitment ltd|graduate software engineer|hampshire, england, united kingdom|https://www.linkedin.com/jobs/view/3955558396|
 |erasmus international sa de cv|graduate/junior/mid software developer (£50-80k) + bonus|london, england, united kingdom|https://www.linkedin.com/jobs/view/4046253420|
-|ernest gordon recruitment|junior/graduate it support (recovery management software)|ramsgate, england, united kingdom|https://www.linkedin.com/jobs/view/4044789155|
-|ernest gordon recruitment|junior/graduate it support recovery management software|ramsgate, england, united kingdom|https://www.linkedin.com/jobs/view/4045428428|
+|ernest gordon recruitment|junior/graduate it support recovery management software|ramsgate, england, united kingdom|https://www.linkedin.com/jobs/view/4036255961|
 |ernest gordon recruitment|part-time graduate software tutor further education}|london, england, united kingdom|https://www.linkedin.com/jobs/view/4039446719|
 |ernest gordon recruitment|part-time graduate software tutor {further education|tottenham, england, united kingdom|https://www.linkedin.com/jobs/view/4039839387|
 |ernest gordon recruitment|part-time graduate software tutor {further education}|tottenham, england, united kingdom|https://www.linkedin.com/jobs/view/4037511381|
-|esb|it graduate development programme 2025 - digital delivery & project management/ software|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4033143981|
 |euronet eft segment|software test engineers - entry level (horizon graduate program)|athens, attiki, greece|https://www.linkedin.com/jobs/view/4036369615|
 |european tech recruit|graduate it/software consultant|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4042318963|
 |european tech recruit|graduate software developer - stem / physics / mathematics|germany|https://www.linkedin.com/jobs/view/4044165105|
-|european tech recruit|software engineering consultant / stem graduates|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4040697232|
 |exact|graduate software engineer .net|delft, south holland, netherlands|https://www.linkedin.com/jobs/view/4000306284|
 |experis uk|graduate or junior full-stack software developer|tadworth, england, united kingdom|https://www.linkedin.com/jobs/view/4040595770|
-|fab lab abq|graduate software engineer computer science|newcastle upon tyne, england, united kingdom|https://www.linkedin.com/jobs/view/4041418684|
-|first actuarial|graduate or equivalent software developer|leeds, england, united kingdom|https://www.linkedin.com/jobs/view/4044000409|
 |flow traders|graduate software developer, c++|amsterdam, north holland, netherlands|https://www.linkedin.com/jobs/view/4037170198|
 |flow traders|graduate software developer, java|amsterdam, north holland, netherlands|https://www.linkedin.com/jobs/view/4037166862|
-|frazer-nash consultancy|electrical, electronic & embedded software engineering graduate|glasgow, scotland, united kingdom|https://www.linkedin.com/jobs/view/4016420401|
+|frazer-nash consultancy|electrical, electronic & embedded software engineering graduate|bristol, england, united kingdom|https://www.linkedin.com/jobs/view/4016417561|
 |frazer-nash consultancy|electrical, electronic & embedded software engineering graduate|leatherhead, england, united kingdom|https://www.linkedin.com/jobs/view/4016415942|
 |frazer-nash consultancy|electrical, electronic & embedded software engineering graduate|manchester, england, united kingdom|https://www.linkedin.com/jobs/view/4016421271|
 |frazer-nash consultancy|electrical, electronic & embedded software engineering graduate|oakham, england, united kingdom|https://www.linkedin.com/jobs/view/4016414985|
+|galliford try|graduate software engineer 2025 - environment - multiple locations|england, united kingdom|https://www.linkedin.com/jobs/view/4051008816|
+|galliford try|graduate software engineer 2025 - environment - multiple locations|scotland, united kingdom|https://www.linkedin.com/jobs/view/4051007917|
 |gn group|global embedded software engineering graduate|ballerup, capital region of denmark, denmark|https://www.linkedin.com/jobs/view/4045966318|
 |grb (graduate recruitment bureau)|graduate embedded software engineer|cambridge, england, united kingdom|https://www.linkedin.com/jobs/view/4010864915|
 |grb (graduate recruitment bureau)|graduate software engineer - cyber security|surrey, england, united kingdom|https://www.linkedin.com/jobs/view/4039510773|
-|grb (graduate recruitment bureau)|graduate software engineer|gloucestershire, england, united kingdom|https://www.linkedin.com/jobs/view/4038080547|
 |hawk-eye innovations ltd|software engineering graduate scheme 2025|basingstoke, england, united kingdom|https://www.linkedin.com/jobs/view/4016226564|
 |hawk-eye innovations ltd|software engineering graduate scheme 2025|bristol, england, united kingdom|https://www.linkedin.com/jobs/view/4016225586|
 |hawk-eye innovations ltd|software engineering graduate scheme 2025|london, england, united kingdom|https://www.linkedin.com/jobs/view/4016224990|
+|hewlett packard enterprise|fy25 hybrid cloud software grad|galway, county galway, ireland|https://www.linkedin.com/jobs/view/4047858825|
+|hewlett packard enterprise|fy25 hybrid cloud software grad|galway, county galway, ireland|https://www.linkedin.com/jobs/view/4051125996|
+|hewlett packard enterprise|fy25 hybrid cloud software grad|galway, county galway, ireland|https://www.linkedin.com/jobs/view/4051991742|
+|hewlett packard enterprise|fy25 hybrid cloud software grad|galway, county galway, ireland|https://www.linkedin.com/jobs/view/4051994593|
+|hewlett packard enterprise|fy25 hybrid cloud software grad|galway, county galway, ireland|https://www.linkedin.com/jobs/view/4051995519|
+|hewlett packard enterprise|fy25 hybrid cloud software grad|galway, county galway, ireland|https://www.linkedin.com/jobs/view/4051998220|
 |hp|graduate software quality automation engineer|valencia, valencian community, spain|https://www.linkedin.com/jobs/view/4005960002|
-|hunter bond|2024 graduate software developer – elite market maker (up to £150k + bonus + hybrid)|london area, united kingdom|https://www.linkedin.com/jobs/view/4044935098|
+|huawei technologies research & development (uk) ltd|graduate gpu software engineer (contractor)|cambridge, england, united kingdom|https://www.linkedin.com/jobs/view/4051241269|
+|hunter bond|2024 graduate software engineer – elite startup (up to £150k + bonus + hybrid)|london area, united kingdom|https://www.linkedin.com/jobs/view/4050260621|
 |hunter bond|graduate software engineer - hybrid working - £50,000 - £100,000 base (+bonus)|greater london, england, united kingdom|https://www.linkedin.com/jobs/view/4042200032|
-|hunter bond|graduate software engineer - up to £150,000 + bonus + package|london area, united kingdom|https://www.linkedin.com/jobs/view/4041675598|
 |ibm|graduate software developer|mulhuddart, fingal, ireland|https://www.linkedin.com/jobs/view/4006477333|
-|ic resources|graduate c++ software engineer|cambridge, england, united kingdom|https://www.linkedin.com/jobs/view/4027232794|
 |ion|software developer/engineer - graduate development program|collecchio, emilia-romagna, italy|https://www.linkedin.com/jobs/view/4016659478|
 |ion|software developer/engineer - graduate development program|milan, lombardy, italy|https://www.linkedin.com/jobs/view/4016661317|
 |ion|software developer/engineer - graduate development program|pisa, tuscany, italy|https://www.linkedin.com/jobs/view/4016658786|
 |ion|software developer/engineer - graduate development program|turin, piedmont, italy|https://www.linkedin.com/jobs/view/4016657990|
+|jam management consultancy|gradate technical engineer, software applications|hampshire, england, united kingdom|https://www.linkedin.com/jobs/view/4050793332|
+|jlr|product engineering: software undergraduate programme - manchester|manchester, england, united kingdom|https://www.linkedin.com/jobs/view/4048818175|
+|jobs via efinancialcareers|graduate software engineer - hybrid working - £35,000 - £100,000 base (+bonus)|london, england, united kingdom|https://www.linkedin.com/jobs/view/4009436048|
+|jobs via efinancialcareers|graduate software engineer - up to £150,000 + bonus + package|london, england, united kingdom|https://www.linkedin.com/jobs/view/4009434346|
+|jobs via efinancialcareers|software developer graduate: 2025|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4041689224|
+|jobs via efinancialcareers|software engineer – 2025 university graduate (europe)|london, england, united kingdom|https://www.linkedin.com/jobs/view/4007833787|
+|jpmorganchase|2025 glasgow graduate software apprenticeship - emerging talent programme|glasgow, scotland, united kingdom|https://www.linkedin.com/jobs/view/4048234371|
 |kainos|graduate software engineer (belfast) - june 2025|belfast, northern ireland, united kingdom|https://www.linkedin.com/jobs/view/4038486910|
 |klickstarters|graduate software developer|crewe-by-farndon, england, united kingdom|https://www.linkedin.com/jobs/view/4022438036|
 |l3harris technologies|graduate software engineer|tewkesbury, england, united kingdom|https://www.linkedin.com/jobs/view/4046047939|
 |mediatek|graduate software engineer 2025|cambourne, england, united kingdom|https://www.linkedin.com/jobs/view/4043519831|
 |mediatek|graduate wireless software engineer 2025|cambourne, england, united kingdom|https://www.linkedin.com/jobs/view/4044612141|
-|mhr|software graduate engineer|ruddington, england, united kingdom|https://www.linkedin.com/jobs/view/4045101142|
+|moody's corporation|moody's graduate program 2025- software engineering|edinburgh, scotland, united kingdom|https://www.linkedin.com/jobs/view/4052149466|
 |mygwork - lgbtq+ business community|2025 graduate software dev engineer|berlin, berlin, germany|https://www.linkedin.com/jobs/view/4045382988|
 |mygwork - lgbtq+ business community|2025 graduate software dev engineer|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4044200977|
+|mygwork - lgbtq+ business community|2025 graduate software dev engineer|london, england, united kingdom|https://www.linkedin.com/jobs/view/4048012706|
+|mygwork - lgbtq+ business community|2025 graduate software dev engineer|madrid, community of madrid, spain|https://www.linkedin.com/jobs/view/4044211379|
 |mygwork - lgbtq+ business community|2025 software developer graduate programme - reigate (ict_tech 202405757)|reigate, england, united kingdom|https://www.linkedin.com/jobs/view/4041973597|
-|mygwork - lgbtq+ business community|graduate software developer|birmingham, england, united kingdom|https://www.linkedin.com/jobs/view/4043301787|
-|mygwork - lgbtq+ business community|graduate software engineer (starting q1 2025)|birmingham, england, united kingdom|https://www.linkedin.com/jobs/view/4038068161|
-|mygwork - lgbtq+ business community|graduate software engineer|budapest, budapest, hungary|https://www.linkedin.com/jobs/view/4044020046|
-|mygwork - lgbtq+ business community|graduate software engineer|filton, england, united kingdom|https://www.linkedin.com/jobs/view/4043303204|
-|mygwork - lgbtq+ business community|graduate software engineer|london, england, united kingdom|https://www.linkedin.com/jobs/view/4043305302|
-|national grid|graduate software and data engineer, national grid ventures it and digital|warwick, england, united kingdom|https://www.linkedin.com/jobs/view/4036635167|
+|mygwork - lgbtq+ business community|graduate software developer|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4049175995|
+|mygwork - lgbtq+ business community|graduate software engineer (starting summer 2025)|birmingham, england, united kingdom|https://www.linkedin.com/jobs/view/4038067192|
+|mygwork - lgbtq+ business community|graduate software engineer|budapest, budapest, hungary|https://www.linkedin.com/jobs/view/4046492994|
+|natwest group|graduate trainee – software engineering|edinburgh, scotland, united kingdom|https://www.linkedin.com/jobs/view/4031888340|
 |natwest group|graduate trainee – software engineering|london, england, united kingdom|https://www.linkedin.com/jobs/view/4042518373|
+|ncr atleos|graduate software engineer|dundee, scotland, united kingdom|https://www.linkedin.com/jobs/view/4050589338|
 |netlight|software developer (consultant, graduate)|stockholm, stockholm county, sweden|https://www.linkedin.com/jobs/view/3686111631|
 |neuphonic|graduate software engineer|london area, united kingdom|https://www.linkedin.com/jobs/view/4039867796|
-|oho group ltd|graduate software engineer|greater london, england, united kingdom|https://www.linkedin.com/jobs/view/3591583953|
+|nvidia|vehicle software engineer - new college graduate|stuttgart, baden-württemberg, germany|https://www.linkedin.com/jobs/view/4052817991|
+|oho group ltd|graduate software engineer|cambridge, england, united kingdom|https://www.linkedin.com/jobs/view/4044368069|
 |oho group ltd|graduate software engineer|greater london, england, united kingdom|https://www.linkedin.com/jobs/view/4041001534|
-|oliver bernard|graduate software developer|newcastle upon tyne, england, united kingdom|https://www.linkedin.com/jobs/view/4022329484|
+|oliver bernard|graduate software developer|newcastle upon tyne, england, united kingdom|https://www.linkedin.com/jobs/view/4045514695|
 |oracle|erp foundations: software engineer - fresh graduate|prague, prague, worldwide|https://www.linkedin.com/jobs/view/3959366976|
+|oracle|graduate software developer|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4048261944|
 |pa consulting|digital software graduate programme|london, england, united kingdom|https://www.linkedin.com/jobs/view/4044866330|
+|pa consulting|graduate software engineer|melbourn, england, united kingdom|https://www.linkedin.com/jobs/view/4052139035|
 |palantir technologies|forward deployed software engineer, new grad - uk government|london, england, united kingdom|https://www.linkedin.com/jobs/view/3988303357|
 |palantir technologies|forward deployed software engineer, new grad|london, england, united kingdom|https://www.linkedin.com/jobs/view/3988302426|
 |palantir technologies|software engineer, new grad|london, england, united kingdom|https://www.linkedin.com/jobs/view/3988300913|
-|platform recruitment|graduate software engineer|cambridge, england, united kingdom|https://www.linkedin.com/jobs/view/4024950684|
-|redtech recruitment|graduate software engineer|cambridge, england, united kingdom|https://www.linkedin.com/jobs/view/4044935322|
 |reply|graduate software developer|sheffield, england, united kingdom|https://www.linkedin.com/jobs/view/4004441048|
 |revolut|rev-celerator graduate programme: android software engineer|barcelona, catalonia, spain|https://www.linkedin.com/jobs/view/4033426245|
 |revolut|rev-celerator graduate programme: android software engineer|cracow, małopolskie, poland|https://www.linkedin.com/jobs/view/4043698694|
 |revolut|rev-celerator graduate programme: android software engineer|lisboa, lisbon, portugal|https://www.linkedin.com/jobs/view/4033421535|
+|revolut|rev-celerator graduate programme: android software engineer|london, england, united kingdom|https://www.linkedin.com/jobs/view/4034085577|
 |revolut|rev-celerator graduate programme: android software engineer|madrid, community of madrid, spain|https://www.linkedin.com/jobs/view/4033425309|
 |revolut|rev-celerator graduate programme: android software engineer|poland|https://www.linkedin.com/jobs/view/4033424317|
 |revolut|rev-celerator graduate programme: android software engineer|porto, porto, portugal|https://www.linkedin.com/jobs/view/4033423439|
-|revolut|rev-celerator graduate programme: android software engineer|portugal|https://www.linkedin.com/jobs/view/4033426243|
 |revolut|rev-celerator graduate programme: android software engineer|spain|https://www.linkedin.com/jobs/view/4033425312|
 |revolut|rev-celerator graduate programme: android software engineer|united kingdom|https://www.linkedin.com/jobs/view/4034089410|
-|revolut|rev-celerator graduate programme: backend java software engineer|barcelona, catalonia, spain|https://www.linkedin.com/jobs/view/4045915158|
-|revolut|rev-celerator graduate programme: backend java software engineer|cracow, małopolskie, poland|https://www.linkedin.com/jobs/view/4045909882|
-|revolut|rev-celerator graduate programme: backend java software engineer|london, england, united kingdom|https://www.linkedin.com/jobs/view/4045911736|
-|revolut|rev-celerator graduate programme: backend java software engineer|madrid, community of madrid, spain|https://www.linkedin.com/jobs/view/4045912437|
-|revolut|rev-celerator graduate programme: backend java software engineer|porto, porto, portugal|https://www.linkedin.com/jobs/view/4045910766|
-|revolut|rev-celerator graduate programme: backend java software engineer|portugal|https://www.linkedin.com/jobs/view/4045914373|
-|revolut|rev-celerator graduate programme: backend java software engineer|spain|https://www.linkedin.com/jobs/view/4045909883|
-|revolut|rev-celerator graduate programme: backend java software engineer|united kingdom|https://www.linkedin.com/jobs/view/4045909881|
 |revolut|rev-celerator graduate programme: python software engineer|barcelona, catalonia, spain|https://www.linkedin.com/jobs/view/4033424314|
 |revolut|rev-celerator graduate programme: python software engineer|cracow, małopolskie, poland|https://www.linkedin.com/jobs/view/4033426247|
 |revolut|rev-celerator graduate programme: python software engineer|lisboa, lisbon, portugal|https://www.linkedin.com/jobs/view/4033427012|
@@ -274,40 +262,29 @@
 |revolut|rev-celerator graduate programme: python software engineer|portugal|https://www.linkedin.com/jobs/view/4033425315|
 |revolut|rev-celerator graduate programme: python software engineer|spain|https://www.linkedin.com/jobs/view/4033423447|
 |revolut|rev-celerator graduate programme: python software engineer|united kingdom|https://www.linkedin.com/jobs/view/4033422503|
-|revolut|rev-celerator graduate programme: software engineer (frontend)|barcelona, catalonia, spain|https://www.linkedin.com/jobs/view/4045940310|
-|revolut|rev-celerator graduate programme: software engineer (frontend)|cracow, małopolskie, poland|https://www.linkedin.com/jobs/view/4045939620|
-|revolut|rev-celerator graduate programme: software engineer (frontend)|london, england, united kingdom|https://www.linkedin.com/jobs/view/4045940312|
-|revolut|rev-celerator graduate programme: software engineer (frontend)|madrid, community of madrid, spain|https://www.linkedin.com/jobs/view/4045936836|
-|revolut|rev-celerator graduate programme: software engineer (frontend)|poland|https://www.linkedin.com/jobs/view/4045943214|
-|rio hondo college|graduate software developer - fully remote/ work from home|london, england, united kingdom|https://www.linkedin.com/jobs/view/4040262252|
-|rldatix|consultant hr software (university graduates and young professionals welcome)|frankfurt am main, hesse, germany|https://www.linkedin.com/jobs/view/4036181630|
-|robustelli ∙ soucy ∙ hussey, p.a.|graduate software engineer|cambridge, england, united kingdom|https://www.linkedin.com/jobs/view/4048381529|
 |ryanair - europe's favourite airline|software development – graduate programme|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4036987788|
-|samsung cambridge solution centre|graduate embedded software engineer|cambridge, england, united kingdom|https://www.linkedin.com/jobs/view/4028293132|
-|sentry|software engineer, new grad (2025)|vienna, vienna, austria|https://www.linkedin.com/jobs/view/3990425120|
+|s1jobs|2025 graduate software dev engineer|edinburgh, scotland, united kingdom|https://www.linkedin.com/jobs/view/4052049779|
+|samsung cambridge solution centre|graduate embedded software engineer (wi-fi firmware)|cambridge, england, united kingdom|https://www.linkedin.com/jobs/view/4052006164|
+|searchability®|graduate software developer|crewe, england, united kingdom|https://www.linkedin.com/jobs/view/4048690837|
+|siemens digital industries software|placement and graduate opportunities 2025 – register your interest (various locations) siemens digital industries software|city of london, england, united kingdom|https://www.linkedin.com/jobs/view/4031961384|
 |siluettispa|stem graduate software sales development representative|london, england, united kingdom|https://www.linkedin.com/jobs/view/4043406484|
-|solirius consulting|graduate software engineer|london, england, united kingdom|https://www.linkedin.com/jobs/view/4047711808|
-|squeaky wheel promotions|graduate software engineer|didcot, england, united kingdom|https://www.linkedin.com/jobs/view/4039245479|
-|stem solutions group|graduate software developer - summer 2025|manchester area, united kingdom|https://www.linkedin.com/jobs/view/4030814609|
 |stg aerospace|graduate/junior software engineer|cwmbrân, wales, united kingdom|https://www.linkedin.com/jobs/view/4045735808|
 |stripe|software engineer, new grad|bucharest, bucharest, romania|https://www.linkedin.com/jobs/view/4008213454|
 |stripe|software engineer, new grad|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4008213456|
 |stryker|research & development graduate programme - (software/ electrical engineering) - september 2025|cork, county cork, ireland|https://www.linkedin.com/jobs/view/4031989901|
 |susquehanna international group|software developer graduate: 2025|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4017342546|
+|systems engineering & assessment ltd|graduate programme - software engineering|barnstaple, england, united kingdom|https://www.linkedin.com/jobs/view/4053470535|
 |tesco|graduate software development engineer|welwyn garden city, england, united kingdom|https://www.linkedin.com/jobs/view/4026494186|
-|the trade desk|graduate software engineer, london (2025 start)|london, england, united kingdom|https://www.linkedin.com/jobs/view/3998808493|
 |the trade desk|graduate software engineer, madrid (2025 start)|madrid, community of madrid, spain|https://www.linkedin.com/jobs/view/4010176592|
-|tietalent|graduate software engineer - munich - german speaking|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4046363486|
-|tietalent|vehicle software engineer - new college graduate|stuttgart, baden-württemberg, germany|https://www.linkedin.com/jobs/view/4046090917|
-|tietalent|young graduate in data and software engineering (zurich or lausanne, switzerland|lausanne, vaud, switzerland|https://www.linkedin.com/jobs/view/4045247127|
+|tiptopjob|graduate software developer|london, england, united kingdom|https://www.linkedin.com/jobs/view/4049794637|
+|tiptopjob|graduate software engineer|london, england, united kingdom|https://www.linkedin.com/jobs/view/4053017001|
+|tpp|graduate software developer|leeds, england, united kingdom|https://www.linkedin.com/jobs/view/4040440956|
+|ubs|2025 graduate talent program – technology – software engineer – zh|zurich, zurich, switzerland|https://www.linkedin.com/jobs/view/4010300902|
 |understanding recruitment|graduate software engineer|london area, united kingdom|https://www.linkedin.com/jobs/view/4028278538|
-|understanding recruitment|graduate/junior c# software developer|london, england, united kingdom|https://www.linkedin.com/jobs/view/4030718794|
-|understanding recruitment|graduate/junior c# software developer|st albans, england, united kingdom|https://www.linkedin.com/jobs/view/4047956893|
-|unit8|young graduate in data and software engineering (zurich or lausanne, ch)|lausanne, vaud, switzerland|https://www.linkedin.com/jobs/view/4041707947|
-|unit8|young graduate in data and software engineering (zurich or lausanne, ch)|zurich, zurich, switzerland|https://www.linkedin.com/jobs/view/4041713213|
+|understanding recruitment|graduate software engineer|london area, united kingdom|https://www.linkedin.com/jobs/view/4033961299|
+|understanding recruitment|graduate software engineer|st albans, england, united kingdom|https://www.linkedin.com/jobs/view/4051057409|
 |vanderlande|graduation: test generation software upgrade for automated testing|veghel, north brabant, netherlands|https://www.linkedin.com/jobs/view/3778648220|
-|visa|graduate software engineer|warsaw, mazowieckie, poland|https://www.linkedin.com/jobs/view/4047928980|
-|vivid resourcing|graduate/ junior-  software .net developer|ghent, flemish region, belgium|https://www.linkedin.com/jobs/view/4025143907|
+|vivid resourcing|graduate/ junior-  software .net developer|ghent, flemish region, belgium|https://www.linkedin.com/jobs/view/4050933905|
 |vodafone|uk software engineering graduate programme|london, england, united kingdom|https://www.linkedin.com/jobs/view/4024863572|
 |williams racing|software engineer graduate|oxfordshire, england, united kingdom|https://www.linkedin.com/jobs/view/4020985524|
 |wise|graduate software engineer|budapest, budapest, hungary|https://www.linkedin.com/jobs/view/4036934439|
