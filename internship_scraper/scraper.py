@@ -33,16 +33,20 @@ async def find_internships(job_categories: list[str], job_titles: list[str], job
                 # extra_keywords += [f"{company} {new_keyword}" for company in COMPANIES]
 
     for keyword in extra_keywords:
-        results = await asyncio.gather(
-            *[
-                scraper.scrape(
-                    ScraperInput(keywords=keyword, location=location, limit=50),
-                    concurrent=False,
-                    retry_delay=1,
-                )
-                for location in EUROPEAN_COUNTRIES
-            ],
-        )
+        try:
+            results = await asyncio.gather(
+                *[
+                    scraper.scrape(
+                        ScraperInput(keywords=keyword, location=location, limit=50),
+                        concurrent=False,
+                        retry_delay=1,
+                    )
+                    for location in EUROPEAN_COUNTRIES
+                ],
+            )
+        except Exception as e:
+            print(f"An error occurred during the scraping phase: {e}, skipping...") # or maybe I can find a way to keep internet results
+            continue
 
         for result in results:
             dump_results(result)
