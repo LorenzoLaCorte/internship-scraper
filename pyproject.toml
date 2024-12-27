@@ -8,6 +8,9 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = ">=3.11,<3.13"
 jobpilot = "^0.5.1"
+sqlalchemy = "1.4.22"
+python-dotenv = "^1.0.1"
+psycopg2-binary = "^2.9.10"
 
 
 [tool.poetry.group.dev.dependencies]
