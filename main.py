@@ -16,17 +16,17 @@ if __name__ == "__main__":
     job_categories: list[str] = args.job_categories
     job_titles: list[str] = args.job_titles
     job_types: list[str] = args.job_types
-    
-    # try for a maximum of 3 times with timeout
 
+    # try for a maximum of 3 times with timeout
     for _ in range(3):
         timeout = 110 * 60 # secs
         try:
             asyncio.run(asyncio.wait_for(find_internships(job_categories, job_titles, job_types), timeout))
+            break
         except asyncio.TimeoutError:
-            raise Exception("Exceeded timeout for the attempt.")
+            print("Timeout error occurred, retrying...")
         except Exception as e:
-            print(f"An error occurred during the scraping phase: {e}")
+            print(f"An error occurred during the scraping phase: {e}, retrying...")
     try:
         filter_internships(job_categories, job_titles, job_types)
         csv_to_markdown_table(FILTERED_RESULTS_FILE, TABLE_FILE)
