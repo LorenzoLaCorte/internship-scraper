@@ -1,16 +1,18 @@
 |company|title|location|link|
 |---|---|---|---|
 |meta|software engineer intern, machine learning (phd)|london, england, united kingdom|https://www.linkedin.com/jobs/view/4120824650|
-|abb|phd candidate (m/f/d) for software architecture (abb/kit)|mannheim, baden-württemberg, germany|https://www.linkedin.com/jobs/view/4121188352|
-|chalmers university of technology|phd ai and llm for automated design and validation of automotive software systems|gothenburg, västra götaland county, sweden|https://www.linkedin.com/jobs/view/4088716600|
+|chalmers university of technology|industrial phd student in automotive cybersecurity with focus on ai and cyber forensics|gothenburg, västra götaland county, sweden|https://www.linkedin.com/jobs/view/4127843249|
+|chalmers university of technology|phd student position in software engineering for regenerative agriculture|gothenburg, västra götaland county, sweden|https://www.linkedin.com/jobs/view/4131402985|
 |huawei|industrial phd students in system software research (m/f/d)|munich, bavaria, germany|https://www.linkedin.com/jobs/view/3664562551|
+|ku leuven|phd on extending functional safety approaches in the process industry for cybersecurity risks|leuven, flemish region, belgium|https://www.linkedin.com/jobs/view/4129341632|
 |leiden university|dual-appointment phd candidate and junior system administrator, software optimization and compiler|leiden, south holland, netherlands|https://www.linkedin.com/jobs/view/4118950787|
+|luleå university of technology|phd student in cybersecurity|luleå, norrbotten county, sweden|https://www.linkedin.com/jobs/view/4127734030|
 |max planck society|phd candidate (m/f/d)  software security|bochum, north rhine-westphalia, germany|https://www.linkedin.com/jobs/view/4091989904|
 |mälardalen university|phd student in computer science with specialization in safe partitioning in cloud-/edge-systems|västerås, västmanland county, sweden|https://www.linkedin.com/jobs/view/4125502262|
-|niantic, inc.|2025 r&d software engineering intern (phd, publishing)|london, england, united kingdom|https://www.linkedin.com/jobs/view/4086263893|
+|numind (yc s22)|phd software engineer|paris, île-de-france, france|https://www.linkedin.com/jobs/view/4138252024|
 |nvidia|system software architecture researcher- phd program|roskilde, region zealand, denmark|https://www.linkedin.com/jobs/view/4053602369|
-|technische universität dresden|phd student software developement - c, c++ (m/f/d)- technische universität dresden|dresden, saxony, germany|https://www.linkedin.com/jobs/view/4125122905|
-|uber|2025 phd software engineering internship - amsterdam/aarhus|amsterdam, north holland, netherlands|https://www.linkedin.com/jobs/view/4031102198|
+|university of groningen|phd positions in software engineering (2.0 fte)|groningen, groningen, netherlands|https://www.linkedin.com/jobs/view/4119736375|
+|university of luxembourg|doctoral candidate (phd) in computer science / software engineering on differential privacy and secure computation|luxembourg|https://www.linkedin.com/jobs/view/4125871552|
 |university of luxembourg|phd candidate in gamification in cybersecurity|luxembourg|https://www.linkedin.com/jobs/view/4079203049|
 |university of luxembourg|phd candidate in quantum software engineering|luxembourg|https://www.linkedin.com/jobs/view/4078636832|
 |volvo group|phd student in automotive cybersecurity with focus on ai and cyber forensics|gothenburg, västra götaland county, sweden|https://www.linkedin.com/jobs/view/4126536266|
