@@ -34,10 +34,10 @@ jobs:
 
     - name: Move output files
       run: |
-        mkdir -p output/output-internships
-        mv -f output/filtered_results.csv output/output-internships/filtered_results.csv || true
-        mv -f output/results.csv output/output-internships/results.csv || true
-        mv -f output/table.md output/output-internships/table.md || true
+        mkdir -p output/output-business
+        mv -f output/filtered_results.csv output/output-business/filtered_results.csv || true
+        mv -f output/results.csv output/output-business/results.csv || true
+        mv -f output/table.md output/output-business/table.md || true
 
     # TODO: merge from origin/main before committing
     - name: Commit changes
@@ -52,6 +52,6 @@ jobs:
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
         commit-message: "Update Results"
-        title: "Update Internship Results"
+        title: "Update Business Internship Results"
         body: ""
-        branch: "update-results-internships"
+        branch: "update-results-business-internships"
