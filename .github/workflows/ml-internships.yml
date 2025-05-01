@@ -1,8 +1,8 @@
-name: Collect Business Internship Results
+name: Collect ML Internship Results
 
 on:
   schedule:
-    - cron: '0 0 * * 5'  # This line schedules the workflow to run at 00:00 every Friday
+    - cron: '0 0 * * 4'  # This line schedules the workflow to run at 00:00 every Thursday
   workflow_dispatch:
 
 jobs:
@@ -30,14 +30,17 @@ jobs:
 
     - name: Run Script
       run: |
-        poetry run python main.py --job_categories "business" "finance" "marketing" --job_titles "analyst" "consultant" "coordinator" --job_types "intern"
+        poetry run python main.py \
+          --job_categories "machine learning" "deep learning" "ai" "genai" "mlops" \
+          --job_titles  " " "engineer" "scientist" "research" \
+          --job_types "intern"
 
     - name: Move output files
       run: |
-        mkdir -p output/output-internships
-        mv -f output/filtered_results.csv output/output-internships/filtered_results.csv || true
-        mv -f output/results.csv output/output-internships/results.csv || true
-        mv -f output/table.md output/output-internships/table.md || true
+        mkdir -p output/output-ml
+        mv -f output/filtered_results.csv output/output-ml/filtered_results.csv || true
+        mv -f output/results.csv output/output-ml/results.csv || true
+        mv -f output/table.md output/output-ml/table.md || true
 
     # TODO: merge from origin/main before committing
     - name: Commit changes
@@ -52,6 +55,6 @@ jobs:
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
         commit-message: "Update Results"
-        title: "Update Internship Results"
+        title: "Update ML Internship Results"
         body: ""
-        branch: "update-results-internships"
+        branch: "update-results-ml-internships"
