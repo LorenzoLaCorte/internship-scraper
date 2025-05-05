@@ -25,6 +25,9 @@ if __name__ == "__main__":
             break
         except asyncio.TimeoutError:
             print("Timeout error occurred, retrying...")
+        except KeyboardInterrupt:
+            print("KeyboardInterrupt encountered, skipping to the post processing phase.")
+            break
         except Exception as e:
             print(f"An error occurred during the scraping phase: {e}, retrying...")
     try:
