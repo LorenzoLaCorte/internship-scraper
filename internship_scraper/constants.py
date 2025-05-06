@@ -9,7 +9,7 @@ TABLE_FILE = OUTPUT_DIR / "table.md"
 
 RESULTS_HEADER = "company|title|location|link\n"
 
-COMPANIES = [ 
+COMPANIES: list[str] = [ 
     "amazon",
     "apple",
     "meta",
