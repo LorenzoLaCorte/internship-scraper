@@ -1,9 +1,11 @@
 import os
-from sqlalchemy import create_engine
+from sqlalchemy import create_engine # type: ignore
+from sqlalchemy.engine import Engine
 from dotenv import load_dotenv
 from sqlalchemy.orm import sessionmaker
 from sqlalchemy import Column, String, Text
 from sqlalchemy.ext.declarative import declarative_base
+from sqlalchemy.orm import Session
 
 load_dotenv()
 database_url = os.getenv('DATABASE_URL')
@@ -11,18 +13,18 @@ database_url = os.getenv('DATABASE_URL')
 
 if not database_url:
     raise ValueError("DATABASE_URL environment variable not set")
-engine = create_engine(database_url, pool_pre_ping=True)
+engine: Engine = create_engine(database_url, pool_pre_ping=True)
 
 
 Base = declarative_base()
 
-def create_session():
+def create_session() -> Session:
     Session = sessionmaker(bind=engine)
     session = Session()
     return session
 
 
-def create_tables():
+def create_tables() -> None:
     Base.metadata.create_all(engine)
 
 
@@ -39,7 +41,7 @@ class Job(Base):
     industries = Column(String)
 
 
-def empty_jobs_table():
+def empty_jobs_table() -> None:
     """
     Delete all records from the jobs table.
     """
@@ -49,7 +51,7 @@ def empty_jobs_table():
     session.close()
 
 
-def reset_jobs_table():
+def reset_jobs_table() -> None:
     """
     Reset the jobs table by deleting all records and then creating the table again.
     """

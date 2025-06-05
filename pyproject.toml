@@ -11,6 +11,7 @@ jobpilot = "^0.5.1"
 sqlalchemy = "1.4.22"
 python-dotenv = "^1.0.1"
 psycopg2-binary = "^2.9.10"
+types-sqlalchemy = "^1.4.53.38"
 
 
 [tool.poetry.group.dev.dependencies]

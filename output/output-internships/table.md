@@ -185,6 +185,7 @@
 |rocket factory augsburg - rfa|intern (m/f/d) hardware-in-the-loop software engineering|augsburg, bavaria, germany|https://www.linkedin.com/jobs/view/4211752058|
 |rocket factory augsburg - rfa|intern (m/f/d) software engineer mission analysis|augsburg, bavaria, germany|https://www.linkedin.com/jobs/view/4223477466|
 |rohde & schwarz|intern emc software development (m/f/d)|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4095297793|
+|s[&]t norway|software engineer intern|delft, south holland, netherlands|https://www.linkedin.com/jobs/view/4221351027|
 |saeki|software engineering intern|bäretswil, zurich, switzerland|https://www.linkedin.com/jobs/view/3834272104|
 |sap|cloud software developer internship at kyma open source|gliwice, śląskie, poland|https://www.linkedin.com/jobs/view/4232690599|
 |sap|full stack cloud native development ixp intern (f/m/d) - software developer|sankt leon-rot, baden-württemberg, germany|https://www.linkedin.com/jobs/view/4229266066|
