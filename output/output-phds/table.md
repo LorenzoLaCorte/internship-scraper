@@ -7,4 +7,5 @@
 |google|software engineer, early careers, phd, xborg|warsaw, mazowieckie, poland|https://www.linkedin.com/jobs/view/4231945561|
 |google|software engineer, gce control plane, early careers, phd|warsaw, mazowieckie, poland|https://www.linkedin.com/jobs/view/4256555514|
 |google|software engineer, performance, reliability, observability, phd, early career|warsaw, mazowieckie, poland|https://www.linkedin.com/jobs/view/4259197049|
-|perkss|phd en desarrollo de software, criptografía o machine learning|spain|https://www.linkedin.com/jobs/view/4253304831|
+|google|software engineer, workload characterizations, early careers, phd|warsaw, mazowieckie, poland|https://www.linkedin.com/jobs/view/4262557524|
+|employability ltd|software engineering / site reliability engineering phd internships|warsaw, mazowieckie, poland|https://www.linkedin.com/jobs/view/4267196106|
