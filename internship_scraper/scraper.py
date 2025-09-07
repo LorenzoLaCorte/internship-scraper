@@ -24,13 +24,11 @@ async def find_internships(job_categories: list[str], job_titles: list[str], job
         for job_type in job_types:
             new_keyword = f"{category} {job_type}"
             keywords.append(new_keyword)
-            # extra_keywords += [f"{company} {new_keyword}" for company in COMPANIES]
 
         for title in job_titles:
             for job_type in job_types:
                 new_keyword = f"{category} {title} {job_type}"
                 keywords.append(new_keyword)
-                # extra_keywords += [f"{company} {new_keyword}" for company in COMPANIES]
 
     for keyword in extra_keywords:
         try:
@@ -40,6 +38,8 @@ async def find_internships(job_categories: list[str], job_titles: list[str], job
                         ScraperInput(keywords=keyword, location=location, limit=50),
                         concurrent=False,
                         retry_delay=1,
+                        job_details=True,
+                        max_retries=20,
                     )
                     for location in EUROPEAN_COUNTRIES
                 ],
@@ -57,6 +57,8 @@ async def find_internships(job_categories: list[str], job_titles: list[str], job
                     ScraperInput(keywords=keyword, location=location, limit=25),
                     concurrent=False,
                     retry_delay=1,
+                    job_details=True,
+                    max_retries=20,
                 )
                 for location in EUROPEAN_CITIES
             ],
@@ -70,6 +72,7 @@ async def find_internships(job_categories: list[str], job_titles: list[str], job
                 ScraperInput(keywords=keyword, location=EUROPEAN_AREA, limit=1000),
                 max_retries=20,
                 retry_delay=1,
+                job_details=True,
             ),
         )
 
@@ -80,6 +83,7 @@ async def find_internships(job_categories: list[str], job_titles: list[str], job
                     ScraperInput(keywords=keyword, location=location, limit=1000),
                     max_retries=20,
                     retry_delay=1,
+                    job_details=True,
                 ),
             )
         for location in EUROPEAN_CITIES:
@@ -88,6 +92,7 @@ async def find_internships(job_categories: list[str], job_titles: list[str], job
                     ScraperInput(keywords=keyword, location=location, limit=200),
                     max_retries=20,
                     retry_delay=1,
+                    job_details=True,
                 ),
             )
         dump_results(
@@ -95,5 +100,6 @@ async def find_internships(job_categories: list[str], job_titles: list[str], job
                 ScraperInput(keywords=keyword, location=EUROPEAN_AREA, limit=1000),
                 max_retries=20,
                 retry_delay=1,
+                job_details=True,
             ),
         )

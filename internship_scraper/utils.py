@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 from typing import TYPE_CHECKING
+from sqlalchemy.orm import Query, Session
 
 from internship_scraper.constants import (
     COMPANIES,
@@ -9,10 +10,10 @@ from internship_scraper.constants import (
     RESULTS_FILE,
     RESULTS_HEADER,
 )
+from internship_scraper.db import create_session, Job as DBJob
 
 if TYPE_CHECKING:
     from pathlib import Path
-
     from jobpilot.models import Job
 
 
@@ -26,7 +27,29 @@ def setup_output() -> None:
             f.write(RESULTS_HEADER)
 
 
+def push_results(jobs: list[Job]) -> None:
+    session: Session = create_session()
+    for job in jobs:
+        db_jobs: Query[DBJob] = session.query(DBJob).filter_by(link=job.link) # type: ignore
+
+        if db_jobs.count() == 0:
+            new_db_job = DBJob(
+                link=job.link,
+                title=job.title,
+                location=str(job.location),
+                company=job.company.name,
+                description=job.details.description if job.details else None,
+                employment_type=str(job.details.employment_type) if job.details and job.details.employment_type else None,
+                seniority_level=job.details.seniority_level if job.details else None,
+                job_function=job.details.job_function if job.details else None,
+                industries=job.details.industries if job.details else None,
+            )
+            session.add(new_db_job) # type: ignore
+    session.commit()
+
+
 def dump_results(jobs: list[Job]) -> None:
+    push_results(jobs)
     with RESULTS_FILE.open("r+") as f:
         content = f.read()
 
