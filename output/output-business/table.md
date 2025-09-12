@@ -1,25 +1,19 @@
 |company|title|location|link|
 |---|---|---|---|
-|arreglio|business development intern (commission-based)|solna, stockholm county, sweden|https://www.linkedin.com/jobs/view/4292754220|
-|auto1 group|intern business analyst (f/m/x)|warsaw, mazowieckie, poland|https://www.linkedin.com/jobs/view/4278529443|
-|avanade|intern business analyst_software engineering|rome, latium, italy|https://www.linkedin.com/jobs/view/4280316580|
-|chanel|client engagement business analyst intern|genève, geneva, switzerland|https://www.linkedin.com/jobs/view/4283020756|
-|emma – the sleep company|business performance analysis intern|lisboa, lisbon, portugal|https://www.linkedin.com/jobs/view/4225739454|
-|everphone|intern- business development (w/m/d)|berlin, berlin, germany|https://www.linkedin.com/jobs/view/4283297815|
-|ey-parthenon|corporate finance analyst intern - ey-parthenon, finland|helsinki, uusimaa, finland|https://www.linkedin.com/jobs/view/4290832261|
-|ey|digital factory - it business analyst - internship|luxembourg, luxembourg, luxembourg|https://www.linkedin.com/jobs/view/4293952249|
-|fluke corporation|business data analysis intern - fp&a department|eindhoven, north brabant, netherlands|https://www.linkedin.com/jobs/view/4286955426|
-|kapsch group|business intelligence/data analyst intern|madrid, community of madrid, spain|https://www.linkedin.com/jobs/view/4295367119|
-|kpmg italy|business analyst (intern) - microsoft dynamics|milan, lombardy, italy|https://www.linkedin.com/jobs/view/4270299616|
-|kpmg italy|it business analyst intern sap - financial services|milan, lombardy, italy|https://www.linkedin.com/jobs/view/4266189232|
-|medigo gmbh|business development & strategy intern (f/m/d)|berlin, berlin, germany|https://www.linkedin.com/jobs/view/4230838075|
-|mister sandman gmbh|intern business development - french market|berlin, berlin, germany|https://www.linkedin.com/jobs/view/4278048224|
+|bmw group|sales & marketing analytics intern|kifisiá, attiki, greece|https://www.linkedin.com/jobs/view/4294980248|
+|bolton|consumer & marketing insights data analyst intern home care|milan, lombardy, italy|https://www.linkedin.com/jobs/view/4288287357|
+|bridgestone americas|internship - marketing analyst|barcelona, catalonia, spain|https://www.linkedin.com/jobs/view/4296305700|
+|bridgestone mobility solutions|internship - marketing analyst|barcelona, catalonia, spain|https://www.linkedin.com/jobs/view/4294704113|
+|chanel|f&b forecast and marketing intern|genève, geneva, switzerland|https://www.linkedin.com/jobs/view/4291937086|
+|flummox|intern - performance marketing analyst (amazon)|germany|https://www.linkedin.com/jobs/view/4289624790|
+|gf piping systems|internship data science/digital marketing (m/f/d) 100%|schaffhausen, schaffhausen, switzerland|https://www.linkedin.com/jobs/view/4297094694|
+|haier europe|marketing data analyst intern|vimercate, lombardy, italy|https://www.linkedin.com/jobs/view/4296799004|
 |nova founders capital|business analyst internship at nova founders|london, england, united kingdom|https://www.linkedin.com/jobs/view/4270264449|
-|plancraft|business development intern poland - saas/ b2b (f/m/d)|hamburg, hamburg, germany|https://www.linkedin.com/jobs/view/4228951346|
+|papernest|growth marketing analyst intern - spanish market - barcelona|barcelona, catalonia, spain|https://www.linkedin.com/jobs/view/4298359917|
+|picnic technologies|business analyst - internship (m/w/d)|düsseldorf, north rhine-westphalia, germany|https://www.linkedin.com/jobs/view/4190609916|
+|picnic technologies|business analyst - thesis internship (m/w/d)|düsseldorf, north rhine-westphalia, germany|https://www.linkedin.com/jobs/view/4190487310|
 |pwc italy|advisory intern - digital process & hyperautomation: focus business analyst - milano|milan, lombardy, italy|https://www.linkedin.com/jobs/view/4266636864|
-|qomodo|business development intern|milan, lombardy, italy|https://www.linkedin.com/jobs/view/4282111663|
-|snowit|discovera business development intern|milan, lombardy, italy|https://www.linkedin.com/jobs/view/4291708699|
-|sparkers|business analyst intern (student)|brussels, brussels region, belgium|https://www.linkedin.com/jobs/view/4263982961|
-|stratx|business analyst internship|italy|https://www.linkedin.com/jobs/view/4295359043|
-|uber|2025 business development intern,  uber for business, berlin|berlin, berlin, germany|https://www.linkedin.com/jobs/view/4294674719|
-|vesper|business development intern|amsterdam, north holland, netherlands|https://www.linkedin.com/jobs/view/4289234041|
+|richemont|internship - marketing analyst consumer insight|paris, île-de-france, france|https://www.linkedin.com/jobs/view/4289943249|
+|richemont|internship - marketing data analyst|paris, île-de-france, france|https://www.linkedin.com/jobs/view/4277243165|
+|spain internship|front desk assistant and marketing internship in alicante, spain|alicante, valencian community, spain|https://www.linkedin.com/jobs/view/4061492677|
+|sygnum bank|internship - business analyst, marketing|zurich, switzerland|https://www.linkedin.com/jobs/view/4299407449|
