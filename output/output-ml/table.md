@@ -1,17 +1,27 @@
 |company|title|location|link|
 |---|---|---|---|
 |meta|research scientist intern, 3d computer vision and generative ai (phd)|paris, île-de-france, france|https://www.linkedin.com/jobs/view/4297098959|
+|meta|research scientist intern, 3d computer vision and generative ai (phd)|zurich, zurich, switzerland|https://www.linkedin.com/jobs/view/4306506280|
 |meta|research scientist intern, 3d computer vision and machine learning (phd)|zurich, zurich, switzerland|https://www.linkedin.com/jobs/view/4297404922|
 |meta|research scientist intern, 3d world modelling, robotics and generative ai (phd)|london, england, united kingdom|https://www.linkedin.com/jobs/view/4295889706|
 |meta|research scientist intern, ai-driven neural interfaces (phd)|paris, île-de-france, france|https://www.linkedin.com/jobs/view/4292755942|
 |meta|research scientist intern, audio, machine learning and computer vision (phd)|cambridge, england, united kingdom|https://www.linkedin.com/jobs/view/4294760052|
+|meta|research scientist intern, machine learning, character animation (phd)|london, england, united kingdom|https://www.linkedin.com/jobs/view/4303755722|
+|meta|software engineer intern, machine learning (phd)|london, england, united kingdom|https://www.linkedin.com/jobs/view/4306109884|
+|alki|full stack machine learning engineer intern (time series forecasting)|paris, île-de-france, france|https://www.linkedin.com/jobs/view/4308935204|
+|anritsu|ai/ml intern – enterprise intelligent automation|bucharest, romania|https://www.linkedin.com/jobs/view/4305343452|
 |avanade|graduation internship analytics  open assignment on data & ai|amsterdam, north holland, netherlands|https://www.linkedin.com/jobs/view/4300727156|
 |bmw group|intern ai-based recommender systems (f/m/x)|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4264451343|
+|helm ag|ai innovation intern (m/f/d)|hamburg, hamburg, germany|https://www.linkedin.com/jobs/view/4306619827|
 |instadeep|ai & genomics intern|paris, île-de-france, france|https://www.linkedin.com/jobs/view/4303093574|
 |instadeep|research engineer intern in bioai|london, england, united kingdom|https://www.linkedin.com/jobs/view/4283928978|
+|instadeep|research engineer intern, deep learning for protein structure modelling|london, england, united kingdom|https://www.linkedin.com/jobs/view/4308077226|
+|kering|kering ai intern|paris, île-de-france, france|https://www.linkedin.com/jobs/view/4308927560|
 |leeroo|research scientist intern – phd (ai agentic systems)|london, england, united kingdom|https://www.linkedin.com/jobs/view/4270923748|
+|lightly|marketing intern (ai startup)|zurich, zurich, switzerland|https://www.linkedin.com/jobs/view/4305810490|
 |merck healthcare|internship - ai & ml - operational excellence ai & ml - all genders|corsier, vaud, switzerland|https://www.linkedin.com/jobs/view/4289265527|
 |stellantis|ai & data analytics intern|gliwice, śląskie, poland|https://www.linkedin.com/jobs/view/4302335936|
 |tailormade logistics|internship - fleet trainee|ghent, flemish region, belgium|https://www.linkedin.com/jobs/view/4294716780|
 |tailormade logistics|internship - transport trainee|ghent, flemish region, belgium|https://www.linkedin.com/jobs/view/4294709956|
+|unit8|young talent in data & ai consulting (6-month internship, krakow, poland)|cracow, małopolskie, poland|https://www.linkedin.com/jobs/view/4307022467|
 |waymo|2026 summer intern, phd, machine learning engineer, simulation|london, england, united kingdom|https://www.linkedin.com/jobs/view/4301605050|
