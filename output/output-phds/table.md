@@ -8,3 +8,4 @@
 |google|software engineer, gce control plane, early careers, phd|warsaw, mazowieckie, poland|https://www.linkedin.com/jobs/view/4256555514|
 |google|software engineer, performance, reliability, observability, phd, early career|warsaw, mazowieckie, poland|https://www.linkedin.com/jobs/view/4259197049|
 |google|software engineer, workload characterizations, early careers, phd|warsaw, mazowieckie, poland|https://www.linkedin.com/jobs/view/4262557524|
+|meta|software engineer intern, machine learning (phd)|london, england, united kingdom|https://www.linkedin.com/jobs/view/4306109884|
