@@ -4,39 +4,36 @@
 |arm|graduate graphics software engineer, vulkan team|trondheim, trøndelag, norway|https://www.linkedin.com/jobs/view/4307059664|
 |arm|graduate software engineer|budapest, budapest, hungary|https://www.linkedin.com/jobs/view/4307639496|
 |arm|graduate software tools engineer|trondheim, trøndelag, norway|https://www.linkedin.com/jobs/view/4299390474|
-|barco|software developer - early career, graduate|kortrijk, flemish region, belgium|https://www.linkedin.com/jobs/view/4283353049|
-|bending spoons|2026 grad program, software engineering|barcelona, catalonia, spain|https://www.linkedin.com/jobs/view/4307925899|
-|bending spoons|2026 grad program, software engineering|bologna, emilia-romagna, italy|https://www.linkedin.com/jobs/view/4307916961|
-|bending spoons|2026 grad program, software engineering|bucharest, bucharest, romania|https://www.linkedin.com/jobs/view/4307918922|
-|bending spoons|2026 grad program, software engineering|cluj-napoca, cluj, romania|https://www.linkedin.com/jobs/view/4307927485|
-|bending spoons|2026 grad program, software engineering|edinburgh, scotland, united kingdom|https://www.linkedin.com/jobs/view/4307927484|
-|bending spoons|2026 grad program, software engineering|france|https://www.linkedin.com/jobs/view/4307933156|
-|bending spoons|2026 grad program, software engineering|italy|https://www.linkedin.com/jobs/view/4307929234|
-|bending spoons|2026 grad program, software engineering|london, england, united kingdom|https://www.linkedin.com/jobs/view/4307938014|
-|bending spoons|2026 grad program, software engineering|lyon, auvergne-rhône-alpes, france|https://www.linkedin.com/jobs/view/4307937029|
-|bending spoons|2026 grad program, software engineering|madrid, community of madrid, spain|https://www.linkedin.com/jobs/view/4307936057|
-|bending spoons|2026 grad program, software engineering|manchester, england, united kingdom|https://www.linkedin.com/jobs/view/4307932135|
-|bending spoons|2026 grad program, software engineering|marseille, provence-alpes-côte d'azur, france|https://www.linkedin.com/jobs/view/4307922938|
-|bending spoons|2026 grad program, software engineering|milan, lombardy, italy|https://www.linkedin.com/jobs/view/4307929235|
-|bending spoons|2026 grad program, software engineering|orsay, île-de-france, france|https://www.linkedin.com/jobs/view/4307924909|
-|bending spoons|2026 grad program, software engineering|padua, veneto, italy|https://www.linkedin.com/jobs/view/4307929233|
-|bending spoons|2026 grad program, software engineering|paris, île-de-france, france|https://www.linkedin.com/jobs/view/4307914992|
-|bending spoons|2026 grad program, software engineering|pisa, tuscany, italy|https://www.linkedin.com/jobs/view/4307926626|
-|bending spoons|2026 grad program, software engineering|romania|https://www.linkedin.com/jobs/view/4307923922|
-|bending spoons|2026 grad program, software engineering|rome, latium, italy|https://www.linkedin.com/jobs/view/4307921940|
-|bending spoons|2026 grad program, software engineering|seville, andalusia, spain|https://www.linkedin.com/jobs/view/4307922937|
-|bending spoons|2026 grad program, software engineering|spain|https://www.linkedin.com/jobs/view/4307920943|
-|bending spoons|2026 grad program, software engineering|toulouse, occitanie, france|https://www.linkedin.com/jobs/view/4307924908|
-|bending spoons|2026 grad program, software engineering|trento, trentino-alto adige, italy|https://www.linkedin.com/jobs/view/4307937027|
-|bending spoons|2026 grad program, software engineering|turin, piedmont, italy|https://www.linkedin.com/jobs/view/4307931167|
-|bending spoons|2026 grad program, software engineering|united kingdom|https://www.linkedin.com/jobs/view/4307935094|
-|bending spoons|2026 grad program, software engineering|valencia, valencian community, spain|https://www.linkedin.com/jobs/view/4307920944|
-|bitpanda|graduate, java software engineer (core trading services)|vienna, vienna, austria|https://www.linkedin.com/jobs/view/4308001006|
-|canonical|graduate software engineer, open source and linux, canonical ubuntu|sofia, sofia city, worldwide|https://www.linkedin.com/jobs/view/4290902301|
-|canonical|graduate software engineer, open source and linux, canonical ubuntu|vienna, vienna, austria|https://www.linkedin.com/jobs/view/4290697585|
+|bending spoons|2026 grad program, software engineering|barcelona, catalonia, spain|https://www.linkedin.com/jobs/view/4311699898|
+|bending spoons|2026 grad program, software engineering|bologna, emilia-romagna, italy|https://www.linkedin.com/jobs/view/4311820503|
+|bending spoons|2026 grad program, software engineering|bucharest, bucharest, romania|https://www.linkedin.com/jobs/view/4311809653|
+|bending spoons|2026 grad program, software engineering|cluj-napoca, cluj, romania|https://www.linkedin.com/jobs/view/4311818550|
+|bending spoons|2026 grad program, software engineering|durham, england, united kingdom|https://www.linkedin.com/jobs/view/4311822329|
+|bending spoons|2026 grad program, software engineering|edinburgh, scotland, united kingdom|https://www.linkedin.com/jobs/view/4311810734|
+|bending spoons|2026 grad program, software engineering|france|https://www.linkedin.com/jobs/view/4311802789|
+|bending spoons|2026 grad program, software engineering|italy|https://www.linkedin.com/jobs/view/4311811585|
+|bending spoons|2026 grad program, software engineering|london, england, united kingdom|https://www.linkedin.com/jobs/view/4311815585|
+|bending spoons|2026 grad program, software engineering|lyon, auvergne-rhône-alpes, france|https://www.linkedin.com/jobs/view/4311819463|
+|bending spoons|2026 grad program, software engineering|madrid, community of madrid, spain|https://www.linkedin.com/jobs/view/4311805754|
+|bending spoons|2026 grad program, software engineering|manchester, england, united kingdom|https://www.linkedin.com/jobs/view/4311800840|
+|bending spoons|2026 grad program, software engineering|marseille, provence-alpes-côte d'azur, france|https://www.linkedin.com/jobs/view/4311811581|
+|bending spoons|2026 grad program, software engineering|milan, lombardy, italy|https://www.linkedin.com/jobs/view/4311804799|
+|bending spoons|2026 grad program, software engineering|orsay, île-de-france, france|https://www.linkedin.com/jobs/view/4311803757|
+|bending spoons|2026 grad program, software engineering|padua, veneto, italy|https://www.linkedin.com/jobs/view/4311816535|
+|bending spoons|2026 grad program, software engineering|paris, île-de-france, france|https://www.linkedin.com/jobs/view/4311817499|
+|bending spoons|2026 grad program, software engineering|pisa, tuscany, italy|https://www.linkedin.com/jobs/view/4311802788|
+|bending spoons|2026 grad program, software engineering|romania|https://www.linkedin.com/jobs/view/4311807686|
+|bending spoons|2026 grad program, software engineering|rome, latium, italy|https://www.linkedin.com/jobs/view/4311820513|
+|bending spoons|2026 grad program, software engineering|seville, andalusia, spain|https://www.linkedin.com/jobs/view/4311800841|
+|bending spoons|2026 grad program, software engineering|spain|https://www.linkedin.com/jobs/view/4311805746|
+|bending spoons|2026 grad program, software engineering|toulouse, occitanie, france|https://www.linkedin.com/jobs/view/4311815572|
+|bending spoons|2026 grad program, software engineering|trento, trentino-alto adige, italy|https://www.linkedin.com/jobs/view/4311800851|
+|bending spoons|2026 grad program, software engineering|turin, piedmont, italy|https://www.linkedin.com/jobs/view/4311802790|
+|bending spoons|2026 grad program, software engineering|valencia, valencian community, spain|https://www.linkedin.com/jobs/view/4311809650|
 |canonical|software engineer - python - ubuntu pro client - graduate level|antwerp, flemish region, belgium|https://www.linkedin.com/jobs/view/4233271679|
 |canonical|software engineer - python - ubuntu pro client - graduate level|sofia, sofia city, worldwide|https://www.linkedin.com/jobs/view/4233273373|
 |canonical|software engineer - python - ubuntu pro client - graduate level|vienna, vienna, austria|https://www.linkedin.com/jobs/view/4233273386|
+|ciena|new grad software engineer - uk|london, england, united kingdom|https://www.linkedin.com/jobs/view/4304549162|
 |databricks|software engineer - new grad (2026 start) - aarhus|aarhus, central denmark region, denmark|https://www.linkedin.com/jobs/view/4297744052|
 |databricks|software engineer - new grad (2026 start)|amsterdam, north holland, netherlands|https://www.linkedin.com/jobs/view/4297756009|
 |databricks|software engineer - new grad (2026 start)|berlin, berlin, germany|https://www.linkedin.com/jobs/view/4297749056|
@@ -45,9 +42,13 @@
 |palantir technologies|software engineer, new grad - infrastructure|london, england, united kingdom|https://www.linkedin.com/jobs/view/4277542207|
 |palantir technologies|software engineer, new grad - production infrastructure|london, england, united kingdom|https://www.linkedin.com/jobs/view/4277540268|
 |palantir technologies|software engineer, new grad|london, england, united kingdom|https://www.linkedin.com/jobs/view/4277536943|
-|plusminusone|software engineer(ios) - new grad|istanbul, istanbul, worldwide|https://www.linkedin.com/jobs/view/4301066275|
 |sentry|software engineer, new grad (2026)|innere stadt, vienna, austria|https://www.linkedin.com/jobs/view/4309395825|
 |stripe|software engineer, new grad|barcelona, catalonia, spain|https://www.linkedin.com/jobs/view/4294957463|
 |stripe|software engineer, new grad|bucharest, bucharest, romania|https://www.linkedin.com/jobs/view/4294962318|
 |stripe|software engineer, new grad|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4294949931|
+|targetjobs uk|birmingham software engineering graduate programme 2026 - 2027|birmingham, england, united kingdom|https://www.linkedin.com/jobs/view/4311629160|
+|targetjobs uk|edinburgh software engineering graduate programme 2026 - 2027|edinburgh, scotland, united kingdom|https://www.linkedin.com/jobs/view/4311845318|
+|targetjobs uk|leeds software engineering graduate programme 2026 - 2027|leeds, england, united kingdom|https://www.linkedin.com/jobs/view/4311641053|
+|targetjobs uk|london software engineering graduate programme 2026 - 2027|london, england, united kingdom|https://www.linkedin.com/jobs/view/4311630372|
+|targetjobs uk|manchester software engineering graduate programme 2026 - 2027|manchester, england, united kingdom|https://www.linkedin.com/jobs/view/4311631058|
 |vivid resourcing|graduate/ junior-  software .net developer|ghent, flemish region, belgium|https://www.linkedin.com/jobs/view/4307883071|
