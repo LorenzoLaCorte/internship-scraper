@@ -21,16 +21,12 @@
 |electrochemical flow systems laboratory|phd position in digital ai chips for next-gen analog/rf systems (tudelft - nxp)|delft, south holland, netherlands|https://www.linkedin.com/jobs/view/4313272728|
 |ey|cloud architect|amsterdam, north holland, netherlands|https://www.linkedin.com/jobs/view/4252674311|
 |ge healthcare|software engineering intern|budapest, budapest, hungary|https://www.linkedin.com/jobs/view/4300035903|
-|iteratec|praktikant (m/w/d) softwareentwicklung|stuttgart, baden-württemberg, germany|https://www.linkedin.com/jobs/view/4299975726|
+|keysight technologies|software development intern|barcelona, catalonia, spain|https://www.linkedin.com/jobs/view/4313358184|
 |knightec group|thesis: assessing the reliability of ai tools for software project time prediction|sundsvall municipality, västernorrland county, sweden|https://www.linkedin.com/jobs/view/4310864732|
+|leibniz-rechenzentrum|it-system developer (f/m/d) for workflow & data infrastructure –  focus: environmental-science (cloud/hpc) applications|garching, bavaria, germany|https://www.linkedin.com/jobs/view/4313048281|
 |lindner group|master's thesis pricing model for short-lived cloud services (agw*)|germany|https://www.linkedin.com/jobs/view/4296220043|
 |mongodb|2026 - software engineering intern, dublin|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4299787109|
 |monzo bank|associate software engineer - intern|london, england, united kingdom|https://www.linkedin.com/jobs/view/4301309975|
-|naptha ai|software engineer (intern)|amsterdam, north holland, netherlands|https://www.linkedin.com/jobs/view/4151316672|
-|naptha ai|software engineer (intern)|berlin, berlin, germany|https://www.linkedin.com/jobs/view/4151321449|
-|naptha ai|software engineer (intern)|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4151323166|
-|naptha ai|software engineer (intern)|london, england, united kingdom|https://www.linkedin.com/jobs/view/4151319483|
-|naptha ai|software engineer (intern)|paris, île-de-france, france|https://www.linkedin.com/jobs/view/4151316671|
 |nextaudit|praktikum (w/m/d) softwareentwickler - vue.js|aachen, north rhine-westphalia, germany|https://www.linkedin.com/jobs/view/4301804936|
 |ntt data europe & latam|new graduate - cloud engineer|bari, apulia, italy|https://www.linkedin.com/jobs/view/4312339827|
 |ntt data europe & latam|new graduate - cloud engineer|cosenza, calabria, italy|https://www.linkedin.com/jobs/view/4312344635|
@@ -40,16 +36,16 @@
 |ntt data europe & latam|new graduate - cloud engineer|rome, latium, italy|https://www.linkedin.com/jobs/view/4312344636|
 |ntt data europe & latam|new graduate - cloud engineer|salerno, campania, italy|https://www.linkedin.com/jobs/view/4312352174|
 |objektkultur software gmbh|praktikum, werkstudent, thesis - cloud infrastruktur & security (m/w/d) - einstieg ab 2026 möglich|karlsruhe, baden-württemberg, germany|https://www.linkedin.com/jobs/view/3906671872|
+|opplane|iefp internship - software developer|lisbon, lisbon, portugal|https://www.linkedin.com/jobs/view/4312289858|
 |phdfinder|france – postdoctoral position in battery management systems at aix-marseille university|aix-marseille-provence metropolis, france|https://www.linkedin.com/jobs/view/4304084521|
 |pigment|internship - software engineer (back, fullstack)|paris, île-de-france, france|https://www.linkedin.com/jobs/view/4303067905|
 |pwc switzerland|associate / senior associate - cloud, data and ai (cd&ai) - ai engineer|zurich, zurich, switzerland|https://www.linkedin.com/jobs/view/4305283022|
 |pwc switzerland|associate / senior associate - cloud, data and ai – finops engineer|zurich, zurich, switzerland|https://www.linkedin.com/jobs/view/4308515706|
-|sap|working student (f/m/d) - cloud erp private product success & project management support|walldorf, baden-württemberg, germany|https://www.linkedin.com/jobs/view/4305722831|
 |snowflake|software engineer intern - berlin (2025)|berlin, berlin, germany|https://www.linkedin.com/jobs/view/4205341606|
 |snowflake|software engineer intern - berlin (2026)|berlin, berlin, germany|https://www.linkedin.com/jobs/view/4311124015|
-|stibo systems|industrial master - software developer|aarhus, central denmark region, denmark|https://www.linkedin.com/jobs/view/4298209154|
 |targetjobs uk|summer 2026 software engineering intern|cambridge, england, united kingdom|https://www.linkedin.com/jobs/view/4312608813|
 |tata consultancy services|software engineer intern|zurich, switzerland|https://www.linkedin.com/jobs/view/4311871299|
 |undp careers|software developer internship|copenhagen, capital region of denmark, denmark|https://www.linkedin.com/jobs/view/4303232813|
 |undp in the arab states region|software developer internship|copenhagen, capital region of denmark, denmark|https://www.linkedin.com/jobs/view/4303836192|
+|waymo|2026 summer intern, bs/ms, software engineer, simulation multiverse|warsaw, mazowieckie, poland|https://www.linkedin.com/jobs/view/4314053939|
 |waymo|2026 summer intern, bs/ms, software engineering, commercialization|warsaw, mazowieckie, poland|https://www.linkedin.com/jobs/view/4311207640|
