@@ -1,30 +1,47 @@
 |company|title|location|link|
 |---|---|---|---|
+|amazon|business analyst intern 2026|barcelona, catalonia, spain|https://www.linkedin.com/jobs/view/4333276327|
 |amazon|business analyst intern 2026|london, england, united kingdom|https://www.linkedin.com/jobs/view/4331606037|
 |amazon|business analyst intern 2026|luxembourg, luxembourg, luxembourg|https://www.linkedin.com/jobs/view/4332315109|
-|amazon|business analyst intern 2026|madrid, community of madrid, spain|https://www.linkedin.com/jobs/view/4315871742|
+|amazon|business analyst intern 2026|madrid, community of madrid, spain|https://www.linkedin.com/jobs/view/4333415196|
 |amazon|business analyst intern 2026|milan, lombardy, italy|https://www.linkedin.com/jobs/view/4331399259|
+|amazon|financial analyst intern|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4331793393|
+|amazon|financial analyst intern|frankfurt, hesse, germany|https://www.linkedin.com/jobs/view/4333385682|
+|amazon|financial analyst intern|luxembourg, luxembourg, luxembourg|https://www.linkedin.com/jobs/view/4333107455|
+|amazon|financial analyst intern|madrid, community of madrid, spain|https://www.linkedin.com/jobs/view/4333077652|
+|amazon|financial analyst intern|milan, lombardy, italy|https://www.linkedin.com/jobs/view/4334092320|
+|acca careers|business analyst intern 2026|kirchberg, luxembourg, luxembourg|https://www.linkedin.com/jobs/view/4332857868|
 |acca careers|business analyst intern 2026|london, england, united kingdom|https://www.linkedin.com/jobs/view/4332032556|
 |acca careers|business analyst intern 2026|london, england, united kingdom|https://www.linkedin.com/jobs/view/4332047148|
+|acca careers|business analyst intern 2026|madrid, community of madrid, spain|https://www.linkedin.com/jobs/view/4332718195|
 |acca careers|business analyst intern 2026|milan, lombardy, italy|https://www.linkedin.com/jobs/view/4332046291|
+|acca careers|financial analyst intern|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4333639439|
+|acca careers|financial analyst intern|frankfurt am main, hesse, germany|https://www.linkedin.com/jobs/view/4333750103|
+|acca careers|financial analyst intern|kirchberg, luxembourg, luxembourg|https://www.linkedin.com/jobs/view/4333680566|
+|acca careers|financial analyst intern|london, england, united kingdom|https://www.linkedin.com/jobs/view/4333700336|
+|acca careers|financial analyst intern|london, england, united kingdom|https://www.linkedin.com/jobs/view/4333720183|
+|acca careers|financial analyst intern|madrid, community of madrid, spain|https://www.linkedin.com/jobs/view/4333690528|
+|acca careers|financial analyst intern|milan, lombardy, italy|https://www.linkedin.com/jobs/view/4333760045|
+|acca careers|financial analyst intern|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4333680612|
+|awakn|business analyst internship|southampton, england, united kingdom|https://www.linkedin.com/jobs/view/4320277455|
 |beqom|data analyst intern - gtm operations (sales & marketing) - 12 months|nyon, vaud, switzerland|https://www.linkedin.com/jobs/view/4300681629|
-|cercle brugge ksv|cercle is looking for an intern performance analyst|bruges, flemish region, belgium|https://www.linkedin.com/jobs/view/4314861334|
 |cls  cgt logistica sistemi|marketing data analyst intern|segrate, lombardy, italy|https://www.linkedin.com/jobs/view/4314979000|
 |dashmote|data analyst intern|amsterdam, north holland, netherlands|https://www.linkedin.com/jobs/view/4332004647|
+|edreams odigeo|accommodation business analyst intern (hybrid)|barcelona, catalonia, spain|https://www.linkedin.com/jobs/view/4319978847|
 |electra|operations performance analyst intern|paris, île-de-france, france|https://www.linkedin.com/jobs/view/4267395305|
-|essilorluxottica|e-commerce analyst internship|milan, lombardy, italy|https://www.linkedin.com/jobs/view/4314727268|
-|flummox|intern - performance marketing analyst (amazon)|germany|https://www.linkedin.com/jobs/view/4317622001|
 |glovo|data analyst intern (they/she/he)|barcelona, catalonia, spain|https://www.linkedin.com/jobs/view/4317362459|
 |grupo fire|operations data analyst intern|madrid, community of madrid, spain|https://www.linkedin.com/jobs/view/4318023850|
 |hellofresh|growth data analyst - intern (m/f/n)|paris, île-de-france, france|https://www.linkedin.com/jobs/view/4297605856|
+|just eat takeaway.com|data analyst intern|berlin, berlin, germany|https://www.linkedin.com/jobs/view/4320015874|
 |la french tech taiwan|strategy &amp; business analyst intern|paris, île-de-france, france|https://www.linkedin.com/jobs/view/4318668871|
 |livo health|operations analyst intern|barcelona, catalonia, spain|https://www.linkedin.com/jobs/view/4304082308|
 |roche|cx designer/data analyst graduate intern|sant cugat del vallès, catalonia, spain|https://www.linkedin.com/jobs/view/4317334511|
 |roche|user experience design and design management/ service design graduate intern|sant cugat del vallès, catalonia, spain|https://www.linkedin.com/jobs/view/4317345346|
 |saint laurent|saint laurent analyst engineer intern w/m|paris, île-de-france, france|https://www.linkedin.com/jobs/view/4314361238|
 |startup geeks|startup analyst and business development intern|italy|https://www.linkedin.com/jobs/view/4332337625|
-|station f|business & strategy analyst intern|paris, île-de-france, france|https://www.linkedin.com/jobs/view/4316481989|
-|station f|fp&a analyst - internship|paris, île-de-france, france|https://www.linkedin.com/jobs/view/4315507794|
+|the heineken company|internship - talent acquisition data analyst|amsterdam, north holland, netherlands|https://www.linkedin.com/jobs/view/4332476816|
+|vamo|visiting financial analyst (m/w/d) - intern/working student|cologne, north rhine-westphalia, germany|https://www.linkedin.com/jobs/view/4296776392|
+|vamo|visiting financial analyst (m/w/d) - intern/working student|cologne, north rhine-westphalia, germany|https://www.linkedin.com/jobs/view/4337373524|
 |veepee|sales analyst - internship (x/m/w)|barcelona, catalonia, spain|https://www.linkedin.com/jobs/view/4314449729|
 |wastehero|growth & tender analyst (internship)|aarhus, central denmark region, denmark|https://www.linkedin.com/jobs/view/4312482783|
 |welcome to the jungle france|fp&a analyst - internship|paris, île-de-france, france|https://www.linkedin.com/jobs/view/4315850607|
