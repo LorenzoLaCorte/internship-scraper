@@ -13,11 +13,8 @@
 |meta|research scientist intern, machine learning, character animation (phd)|london, england, united kingdom|https://www.linkedin.com/jobs/view/4303755722|
 |meta|research scientist intern, machine learning, human motion models (phd)|zurich, zurich, switzerland|https://www.linkedin.com/jobs/view/4313317108|
 |meta|software engineer intern, machine learning (phd)|london, england, united kingdom|https://www.linkedin.com/jobs/view/4306109884|
-|microsoft|internship opportunities – multimodal deep learning for healthcare – microsoft research|cambridge, england, united kingdom|https://www.linkedin.com/jobs/view/4331620808|
 |microsoft|national technology officer intern - generative ai|issy-les-moulineaux, île-de-france, france|https://www.linkedin.com/jobs/view/4316388392|
 |microsoft|research intern in machine learning, machine intelligence|cambridge, england, united kingdom|https://www.linkedin.com/jobs/view/4314147524|
-|accenture the netherlands|data & ai - data science/ml engineering graduation internship|amsterdam, north holland, netherlands|https://www.linkedin.com/jobs/view/4315715796|
-|avanade|graduation internship analytics  open assignment on data & ai|amsterdam, north holland, netherlands|https://www.linkedin.com/jobs/view/4300727156|
 |avanade|graduation internship data & ai  development of ai knowledge agent|ghent, flemish region, belgium|https://www.linkedin.com/jobs/view/4316946005|
 |bmw group|intern ai-based recommender systems (f/m/x)|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4264451343|
 |cognite|atlas ai training data curation internship: fueling knowledge graph intelligence|oslo, oslo, norway|https://www.linkedin.com/jobs/view/4317491073|
@@ -25,7 +22,6 @@
 |dojo|intern, associate ai engineer|london, england, united kingdom|https://www.linkedin.com/jobs/view/4319090050|
 |expedia group|machine learning science intern - june 2026 - london - masters|london, england, united kingdom|https://www.linkedin.com/jobs/view/4318697202|
 |expedia group|machine learning science intern - june 2026 - london - phd|london, england, united kingdom|https://www.linkedin.com/jobs/view/4318690363|
-|founderful|marketing intern (ai startup)|zurich, zurich, switzerland|https://www.linkedin.com/jobs/view/4310677970|
 |hearst networks emea|tv scheduling and navigation (on-air) placement intern|london area, united kingdom|https://www.linkedin.com/jobs/view/4313358808|
 |instadeep|research engineer intern bioai|london, england, united kingdom|https://www.linkedin.com/jobs/view/4283928978|
 |instadeep|research engineer intern, deep learning for protein structure modelling|london, england, united kingdom|https://www.linkedin.com/jobs/view/4308077226|
@@ -33,12 +29,12 @@
 |jus mundi|internship in legaltech – jus ai arbitration legal expert intern (6 months)|paris, île-de-france, france|https://www.linkedin.com/jobs/view/4315412312|
 |kerry|2026 agribusiness farm& home store internship programme - kerry dairy ireland|listowel, county kerry, ireland|https://www.linkedin.com/jobs/view/4318529017|
 |leeroo|research scientist intern – phd (ai agentic systems)|london, england, united kingdom|https://www.linkedin.com/jobs/view/4270923748|
-|lightly|marketing intern (ai startup)|zurich, zurich, switzerland|https://www.linkedin.com/jobs/view/4324741915|
 |medis medical imaging|generative ai intern|leiden, south holland, netherlands|https://www.linkedin.com/jobs/view/4317057645|
 |merck healthcare|internship - ai & ml - operational excellence ai & ml - all genders|corsier, vaud, switzerland|https://www.linkedin.com/jobs/view/4289265527|
 |sanofi|medical affairs intern|warsaw, mazowieckie, poland|https://www.linkedin.com/jobs/view/4313099163|
-|tailormade logistics|internship - fleet trainee|ghent, flemish region, belgium|https://www.linkedin.com/jobs/view/4294716780|
-|tailormade logistics|internship - transport trainee|ghent, flemish region, belgium|https://www.linkedin.com/jobs/view/4294709956|
 |targetjobs uk|machine learning science intern - june 2026 - london - masters|london, england, united kingdom|https://www.linkedin.com/jobs/view/4319229381|
+|targetjobs uk|machine learning science intern - june 2026 - london - phd|london, england, united kingdom|https://www.linkedin.com/jobs/view/4319286042|
+|thales|internship (6 months full-time) improving webui user experience thanks to ai voice-llm|prague, prague, worldwide|https://www.linkedin.com/jobs/view/4333596896|
 |tourism marketing agency|intern, associate ai engineer|london, england, united kingdom|https://www.linkedin.com/jobs/view/4319133657|
 |vanderlande|internship: empowering service excellence through ai innovation & sustainability at amazon dedicated service desk|veghel, north brabant, netherlands|https://www.linkedin.com/jobs/view/4315937323|
+|xiaomi technology|ecommerce operation intern/stagiaire en opérations e-commerce|paris, île-de-france, france|https://www.linkedin.com/jobs/view/4320932509|
