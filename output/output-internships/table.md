@@ -4,10 +4,16 @@
 |amazon web services (aws)|2026 software dev engineer intern - spain|madrid, community of madrid, spain|https://www.linkedin.com/jobs/view/4308986222|
 |amazon|2026 software dev engineer intern - austria|graz, styria, austria|https://www.linkedin.com/jobs/view/4335887120|
 |amazon|2026 software dev engineer intern - ireland|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4308442126|
+|amazon|2026 software dev engineer intern - luxembourg|luxembourg, luxembourg, luxembourg|https://www.linkedin.com/jobs/view/4338262127|
+|amazon|2026 software dev engineer intern - netherlands|amsterdam, north holland, netherlands|https://www.linkedin.com/jobs/view/4338385192|
 |amazon|2026 software dev engineer intern - romania|iaşi, iaşi, romania|https://www.linkedin.com/jobs/view/4318251005|
+|amazon|2026 software dev engineer intern - romania|iaşi, iaşi, romania|https://www.linkedin.com/jobs/view/4337635886|
+|amazon|2026 software dev engineer intern - sweden|stockholm, stockholm county, sweden|https://www.linkedin.com/jobs/view/4337167035|
+|amazon|2026 software dev engineer intern - uk|edinburgh, scotland, united kingdom|https://www.linkedin.com/jobs/view/4308093564|
+|amazon|2026 software dev engineer intern - uk|london, england, united kingdom|https://www.linkedin.com/jobs/view/4308097460|
 |amazon|software development intern, intech|deventer, overijssel, netherlands|https://www.linkedin.com/jobs/view/4334183568|
 |abn amro bank n.v.|junior software developer intern (mbo)|amsterdam, north holland, netherlands|https://www.linkedin.com/jobs/view/4335994265|
-|adobe|2026 intern - software development engineer|hamburg, hamburg, germany|https://www.linkedin.com/jobs/view/4316702766|
+|adobe|2026 intern - software development engineer (javascript/typescript)|hamburg, hamburg, germany|https://www.linkedin.com/jobs/view/4316702766|
 |beyond now|spring-internship 2026: software developer (m/f/x) for customer projects|raaba, styria, austria|https://www.linkedin.com/jobs/view/4301001642|
 |beyond now|spring-internship 2026: software developer (m/f/x) in r&d|raaba, styria, austria|https://www.linkedin.com/jobs/view/4300688852|
 |beyond now|summer-internship 2026: software developer (m/f/x) for customer projects|raaba, styria, austria|https://www.linkedin.com/jobs/view/4304001477|
@@ -18,12 +24,16 @@
 |comena|software engineering intern|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4309748645|
 |consultancy.uk|2026 summer internship - software & controls engineer – cambridge|melbourn, england, united kingdom|https://www.linkedin.com/jobs/view/4321171485|
 |deductive ai|software engineer intern, london|london, england, united kingdom|https://www.linkedin.com/jobs/view/4318516271|
+|dynatrace|software engineering - summer internships 2026 (m/f/x)|linz, upper austria, austria|https://www.linkedin.com/jobs/view/4338874450|
 |european space agency - esa|intern in the engineering, software development and visualization tools|darmstadt, hesse, germany|https://www.linkedin.com/jobs/view/4333409612|
 |ge healthcare|software engineering intern|budapest, budapest, hungary|https://www.linkedin.com/jobs/view/4300035903|
+|inetum|intern .net software engineer|warsaw, mazowieckie, poland|https://www.linkedin.com/jobs/view/4338818664|
+|inetum|intern frontend software engineer / n|warsaw, mazowieckie, poland|https://www.linkedin.com/jobs/view/4338206568|
+|irdeto|software engineering intern|salzburg, salzburg, austria|https://www.linkedin.com/jobs/view/4338326006|
 |keysight technologies|software development intern|barcelona, catalonia, spain|https://www.linkedin.com/jobs/view/4313358184|
+|la french tech taiwan|internship - software engineer (back, fullstack)|paris, île-de-france, france|https://www.linkedin.com/jobs/view/4324507457|
 |match group|software engineer internship|ghent, flemish region, belgium|https://www.linkedin.com/jobs/view/4314505518|
 |mongodb|2026 - software engineering intern - internal engineering, dublin|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4334079726|
-|odoo|software engineer intern|ramillies, walloon region, belgium|https://www.linkedin.com/jobs/view/4336493151|
 |pa consulting|2026 summer internship - software & controls engineer – cambridge|melbourn, england, united kingdom|https://www.linkedin.com/jobs/view/4320945209|
 |pigment|internship - software engineer (back, fullstack)|paris, île-de-france, france|https://www.linkedin.com/jobs/view/4303067905|
 |procter & gamble|software engineering internship|mechelen, flemish region, belgium|https://www.linkedin.com/jobs/view/4287143227|
@@ -33,10 +43,11 @@
 |septentrio part of hexagon|internship  embedded software ecosystems integrator  leuven|leuven, flemish region, belgium|https://www.linkedin.com/jobs/view/4095600538|
 |septentrio part of hexagon|internship  innovative software application/ tooling  leuven|leuven, flemish region, belgium|https://www.linkedin.com/jobs/view/4186594874|
 |siemens|train software engineer intern  - 3 months|city of london, england, united kingdom|https://www.linkedin.com/jobs/view/4321796506|
+|sits  traxion|internship - software engineering|waardenburg, gelderland, netherlands|https://www.linkedin.com/jobs/view/4337017535|
+|sits  traxion|software engineer intern|waardenburg, gelderland, netherlands|https://www.linkedin.com/jobs/view/4336986733|
 |slb|cloud software engineer intern (12 months)|abingdon-on-thames, england, united kingdom|https://www.linkedin.com/jobs/view/4307282227|
 |slb|embedded software engineer intern (12 months)|stonehouse, england, united kingdom|https://www.linkedin.com/jobs/view/4310090388|
 |snowflake|software engineer intern - berlin (2026)|berlin, berlin, germany|https://www.linkedin.com/jobs/view/4311124015|
 |taktile|software engineer working student/intern|iaşi, iaşi, romania|https://www.linkedin.com/jobs/view/4318298888|
 |van lanschot kempen|software developer – internship(en)|amsterdam, north holland, netherlands|https://www.linkedin.com/jobs/view/4334137930|
 |waymo|2026 summer intern, bs/ms, software engineer, simulation multiverse|warsaw, mazowieckie, poland|https://www.linkedin.com/jobs/view/4314053939|
-|waymo|2026 summer intern, bs/ms, software engineering, commercialization|warsaw, mazowieckie, poland|https://www.linkedin.com/jobs/view/4311207640|
