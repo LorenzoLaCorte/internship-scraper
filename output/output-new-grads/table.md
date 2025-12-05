@@ -1,6 +1,5 @@
 |company|title|location|link|
 |---|---|---|---|
-|arm|graduate graphics software engineer, vulkan team|trondheim, trøndelag, norway|https://www.linkedin.com/jobs/view/4307059664|
 |arm|graduate ml software engineer|lund, skåne county, sweden|https://www.linkedin.com/jobs/view/4321097214|
 |arm|graduate software engineer – system test directx (gpu)|lund, skåne county, sweden|https://www.linkedin.com/jobs/view/4321117200|
 |arm|graduate software engineer|budapest, budapest, hungary|https://www.linkedin.com/jobs/view/4307639496|
@@ -14,9 +13,10 @@
 |databricks|software engineer - new grad (2026 start) - aarhus|aarhus, central denmark region, denmark|https://www.linkedin.com/jobs/view/4297744052|
 |databricks|software engineer - new grad (2026 start)|amsterdam, north holland, netherlands|https://www.linkedin.com/jobs/view/4297756009|
 |databricks|software engineer - new grad (2026 start)|berlin, berlin, germany|https://www.linkedin.com/jobs/view/4297749056|
-|gn group|global software engineering graduate|ballerup, capital region of denmark, denmark|https://www.linkedin.com/jobs/view/4319341683|
 |imc trading|graduate software engineer (2025)|aarhus, central denmark region, denmark|https://www.linkedin.com/jobs/view/4320513073|
 |imc trading|graduate software engineer (2026)|aarhus, central denmark region, denmark|https://www.linkedin.com/jobs/view/4323134476|
+|man group|graduate programme – software engineer (c# .net)|sofia, sofia city, worldwide|https://www.linkedin.com/jobs/view/4308721297|
+|man group|graduate programme – software engineer (python, java))|sofia, sofia city, worldwide|https://www.linkedin.com/jobs/view/4310305735|
 |man group|technology graduate programme – software engineer (c++)|sofia, sofia city, worldwide|https://www.linkedin.com/jobs/view/4340840817|
 |palantir technologies|forward deployed software engineer, new grad - commercial|london, england, united kingdom|https://www.linkedin.com/jobs/view/4280355917|
 |palantir technologies|forward deployed software engineer, new grad - uk government|london, england, united kingdom|https://www.linkedin.com/jobs/view/4277538770|
