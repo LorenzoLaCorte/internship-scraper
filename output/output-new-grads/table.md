@@ -30,4 +30,4 @@
 |stripe|software engineer, new grad|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4294949931|
 |targetjobs uk|glasgow software engineering graduate programme 2026 - 2027|glasgow, scotland, united kingdom|https://www.linkedin.com/jobs/view/4311625798|
 |targetjobs uk|leeds software engineering graduate programme 2026 - 2027|leeds, england, united kingdom|https://www.linkedin.com/jobs/view/4311641053|
-|vivid resourcing|graduate/ junior-  software .net developer|ghent, flemish region, belgium|https://www.linkedin.com/jobs/view/4339236735|
+|vivid resourcing|graduate/ junior-  software .net developer|ghent, flemish region, belgium|https://www.linkedin.com/jobs/view/4342848216|
