@@ -1,9 +1,5 @@
 |company|title|location|link|
 |---|---|---|---|
-|arm|graduate ml software engineer|lund, skåne county, sweden|https://www.linkedin.com/jobs/view/4321097214|
-|arm|graduate software engineer – system test directx (gpu)|lund, skåne county, sweden|https://www.linkedin.com/jobs/view/4321117200|
-|arm|graduate software engineer|budapest, budapest, hungary|https://www.linkedin.com/jobs/view/4307639496|
-|arm|graduate software engineer|lund, skåne county, sweden|https://www.linkedin.com/jobs/view/4321257065|
 |barco|software engineer, early career, graduate|kortrijk, flemish region, belgium|https://www.linkedin.com/jobs/view/4316949012|
 |canonical|software engineer - python - ubuntu pro client - graduate level|antwerp, flemish region, belgium|https://www.linkedin.com/jobs/view/4233271679|
 |canonical|software engineer - python - ubuntu pro client - graduate level|brussels, brussels region, belgium|https://www.linkedin.com/jobs/view/4233271689|
@@ -13,11 +9,9 @@
 |databricks|software engineer - new grad (2026 start) - aarhus|aarhus, central denmark region, denmark|https://www.linkedin.com/jobs/view/4297744052|
 |databricks|software engineer - new grad (2026 start)|amsterdam, north holland, netherlands|https://www.linkedin.com/jobs/view/4297756009|
 |databricks|software engineer - new grad (2026 start)|berlin, berlin, germany|https://www.linkedin.com/jobs/view/4297749056|
-|imc trading|graduate software engineer (2025)|aarhus, central denmark region, denmark|https://www.linkedin.com/jobs/view/4320513073|
 |imc trading|graduate software engineer (2026)|aarhus, central denmark region, denmark|https://www.linkedin.com/jobs/view/4323134476|
 |man group|graduate programme – software engineer (c# .net)|sofia, sofia city, worldwide|https://www.linkedin.com/jobs/view/4308721297|
 |man group|graduate programme – software engineer (python, java))|sofia, sofia city, worldwide|https://www.linkedin.com/jobs/view/4310305735|
-|man group|technology graduate programme – software engineer (c++)|sofia, sofia city, worldwide|https://www.linkedin.com/jobs/view/4340840817|
 |palantir technologies|forward deployed software engineer, new grad - commercial|london, england, united kingdom|https://www.linkedin.com/jobs/view/4280355917|
 |palantir technologies|forward deployed software engineer, new grad - uk government|london, england, united kingdom|https://www.linkedin.com/jobs/view/4277538770|
 |palantir technologies|software engineer, new grad - infrastructure|london, england, united kingdom|https://www.linkedin.com/jobs/view/4277542207|
@@ -26,8 +20,7 @@
 |samsara|(new grad) software engineering|harrow, england, united kingdom|https://www.linkedin.com/jobs/view/4318468297|
 |sentry|software engineer, new grad (2026)|innere stadt, vienna, austria|https://www.linkedin.com/jobs/view/4309395825|
 |stripe|software engineer, new grad|barcelona, catalonia, spain|https://www.linkedin.com/jobs/view/4294957463|
-|stripe|software engineer, new grad|bucharest, bucharest, romania|https://www.linkedin.com/jobs/view/4294962318|
 |stripe|software engineer, new grad|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4294949931|
-|targetjobs uk|glasgow software engineering graduate programme 2026 - 2027|glasgow, scotland, united kingdom|https://www.linkedin.com/jobs/view/4311625798|
+|studentventure|graduate software engineer|united kingdom|https://www.linkedin.com/jobs/view/4343465766|
 |targetjobs uk|leeds software engineering graduate programme 2026 - 2027|leeds, england, united kingdom|https://www.linkedin.com/jobs/view/4311641053|
 |vivid resourcing|graduate/ junior-  software .net developer|ghent, flemish region, belgium|https://www.linkedin.com/jobs/view/4342848216|
