@@ -2,48 +2,35 @@
 |---|---|---|---|
 |amazon web services (aws)|2026 software dev engineer intern - spain|barcelona, catalonia, spain|https://www.linkedin.com/jobs/view/4308986221|
 |amazon web services (aws)|2026 software dev engineer intern - spain|madrid, community of madrid, spain|https://www.linkedin.com/jobs/view/4308986222|
+|amazon|software dev engineer internship - machine learning|luxembourg, luxembourg, luxembourg|https://www.linkedin.com/jobs/view/4345917594|
 |amazon|software dev intern - ai / machine learning|cambridge, england, united kingdom|https://www.linkedin.com/jobs/view/4341060523|
 |amazon|software dev intern - ai / machine learning|london, england, united kingdom|https://www.linkedin.com/jobs/view/4340789851|
 |meta|research scientist intern, 3d computer vision and generative ai (phd)|london, england, united kingdom|https://www.linkedin.com/jobs/view/4339791069|
 |meta|research scientist intern, 3d computer vision and generative ai (phd)|zurich, zurich, switzerland|https://www.linkedin.com/jobs/view/4306506280|
 |meta|research scientist intern, 3d generative ai for digital humans (phd)|zurich, zurich, switzerland|https://www.linkedin.com/jobs/view/4340966909|
 |meta|research scientist intern, 3d perception, understanding and generative ai (phd)|london, england, united kingdom|https://www.linkedin.com/jobs/view/4318945364|
-|meta|research scientist intern, 3d world modelling, robotics and generative ai (phd)|london, england, united kingdom|https://www.linkedin.com/jobs/view/4295889706|
+|meta|research scientist intern, ai alignment (phd) paris|paris, île-de-france, france|https://www.linkedin.com/jobs/view/4350195377|
 |meta|research scientist intern, ai core machine learning (phd)|paris, île-de-france, france|https://www.linkedin.com/jobs/view/4313321055|
 |meta|research scientist intern, alignment - brain and ai (phd) (paris)|paris, île-de-france, france|https://www.linkedin.com/jobs/view/4312444506|
 |meta|research scientist intern, audio, machine learning and computer vision (phd)|cambridge, england, united kingdom|https://www.linkedin.com/jobs/view/4294760052|
 |meta|research scientist intern, fair embodiment & actions (phd)|paris, île-de-france, france|https://www.linkedin.com/jobs/view/4311910449|
-|meta|research scientist intern, generative ai (phd)|london, england, united kingdom|https://www.linkedin.com/jobs/view/4339951008|
-|meta|research scientist intern, generative ai (phd)|zurich, zurich, switzerland|https://www.linkedin.com/jobs/view/4311344188|
+|meta|research scientist intern, machine learning, character animation (phd)|zurich, zurich, switzerland|https://www.linkedin.com/jobs/view/4350195353|
 |meta|research scientist intern, machine learning, human motion models (phd)|zurich, zurich, switzerland|https://www.linkedin.com/jobs/view/4313317108|
-|microsoft|research intern - ai agents & efficiency|cambridge, england, united kingdom|https://www.linkedin.com/jobs/view/4341085471|
 |microsoft|research intern - machine learning - people centric ai|cambridge, england, united kingdom|https://www.linkedin.com/jobs/view/4341285192|
-|airbus aircraft|stage 2026 - ai product marketing intern: launching next-gen communication tools (f/h)|toulouse, occitanie, france|https://www.linkedin.com/jobs/view/4348380171|
-|akdo (prev. empacto)|ai & fullstack intern (full-time) @ genai-startup|germany|https://www.linkedin.com/jobs/view/4343874835|
-|alki|full stack machine learning engineer intern (time series forecasting)|paris, île-de-france, france|https://www.linkedin.com/jobs/view/4337124348|
+|arexons s.p.a|online channel, fairs & events intern|cernusco sul naviglio, lombardy, italy|https://www.linkedin.com/jobs/view/4345931748|
 |bmw group|intern ai-based recommender systems (f/m/x)|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4264451343|
-|cleeng|ai workflow automation intern|amsterdam, north holland, netherlands|https://www.linkedin.com/jobs/view/4338701939|
-|clerk.io|ai-powered / programmatic seo internship|copenhagen, capital region of denmark, denmark|https://www.linkedin.com/jobs/view/4342280334|
 |doctolib|ai data platform engineer intern (x/f/m)|paris, île-de-france, france|https://www.linkedin.com/jobs/view/4342450744|
 |dojo|intern, associate ai engineer|london, england, united kingdom|https://www.linkedin.com/jobs/view/4343444064|
-|edreams odigeo|campaign manager intern|barcelona, catalonia, spain|https://www.linkedin.com/jobs/view/4326564580|
 |electrolux professional group|people technology & ai developer intern|pordenone, friuli-venezia giulia, italy|https://www.linkedin.com/jobs/view/4344335057|
-|enpal|ai cro & web experience intern  italian required: at least b1 spoken. (m/f/d)|milan, lombardy, italy|https://www.linkedin.com/jobs/view/4324969334|
-|firsty.app|product analyst intern (ai, cx)|amsterdam, north holland, netherlands|https://www.linkedin.com/jobs/view/4338330368|
-|fore ai|business development intern fr at xgoogle ai startup|france|https://www.linkedin.com/jobs/view/4344435037|
-|fore ai|business development intern uk at xgoogle ai startup|united kingdom|https://www.linkedin.com/jobs/view/4344360916|
-|foreo|ai/python intern: passionate about agent development kit, open source, edge ei, gke (remote, 6 months, unpaid internship)|berlin, germany|https://www.linkedin.com/jobs/view/4322959972|
-|gradeaid|some intern at gradeaid|copenhagen, capital region of denmark, denmark|https://www.linkedin.com/jobs/view/4342840610|
-|haan|graphic design intern & strong ai skills|barcelona, catalonia, spain|https://www.linkedin.com/jobs/view/4327887270|
-|kering|kering ai intern|paris, île-de-france, france|https://www.linkedin.com/jobs/view/4340731912|
-|kerry|2026 agribusiness farm& home store internship programme - kerry dairy ireland|listowel, county kerry, ireland|https://www.linkedin.com/jobs/view/4318529017|
-|kerry|2026 engineering internship programme - kerry dairy ireland|county cork, ireland|https://www.linkedin.com/jobs/view/4339832815|
-|kerry|agribusiness internship - farm& homestore - kerry dairy ireland|listowel, county kerry, ireland|https://www.linkedin.com/jobs/view/4343027384|
+|hearst networks emea|tv scheduling and navigation (on-air) placement intern|london area, united kingdom|https://www.linkedin.com/jobs/view/4327916855|
+|instadeep|research engineer intern in ai for biology|paris, île-de-france, france|https://www.linkedin.com/jobs/view/4328802215|
+|jet aviation|internship - it ai & bi solutions development|basel, basel, switzerland|https://www.linkedin.com/jobs/view/4339335988|
 |leeroo|research scientist intern – phd (ai agentic systems)|london, england, united kingdom|https://www.linkedin.com/jobs/view/4270923748|
+|m365consult|ai content & copywriting internship|lisbon, lisbon, portugal|https://www.linkedin.com/jobs/view/4325843902|
 |moloco|machine learning engineer intern|london, england, united kingdom|https://www.linkedin.com/jobs/view/4343431140|
 |netmind.ai|artificial intelligence engineer intern(applied genai)|london area, united kingdom|https://www.linkedin.com/jobs/view/4342733105|
-|preventai|internship machine learning / computer vision|stockholm, stockholm county, sweden|https://www.linkedin.com/jobs/view/4349586140|
-|swed fintech ab|ai and automation intern|stockholm, stockholm county, sweden|https://www.linkedin.com/jobs/view/4324950171|
+|siemens|mandatory internship in genai methods for process automation|karlsruhe, baden-württemberg, germany|https://www.linkedin.com/jobs/view/4328756101|
 |the heineken company|internship - sustainable production|amsterdam, north holland, netherlands|https://www.linkedin.com/jobs/view/4340361962|
 |vanderlande|internship: empowering service excellence through ai innovation & sustainability at amazon dedicated service desk|veghel, north brabant, netherlands|https://www.linkedin.com/jobs/view/4340630266|
 |waymo|2026 summer intern, phd, machine learning engineer, simulation|london, england, united kingdom|https://www.linkedin.com/jobs/view/4301605050|
+|xiaomi technology|ecommerce operation intern/stagiaire en opérations e-commerce|paris, île-de-france, france|https://www.linkedin.com/jobs/view/4327915936|
