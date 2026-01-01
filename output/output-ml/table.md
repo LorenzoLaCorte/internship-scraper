@@ -6,19 +6,21 @@
 |amazon|software dev intern - ai / machine learning|cambridge, england, united kingdom|https://www.linkedin.com/jobs/view/4341060523|
 |amazon|software dev intern - ai / machine learning|london, england, united kingdom|https://www.linkedin.com/jobs/view/4340789851|
 |meta|research scientist intern, 3d computer vision and generative ai (phd)|london, england, united kingdom|https://www.linkedin.com/jobs/view/4339791069|
-|meta|research scientist intern, 3d computer vision and generative ai (phd)|zurich, zurich, switzerland|https://www.linkedin.com/jobs/view/4306506280|
 |meta|research scientist intern, 3d generative ai for digital humans (phd)|zurich, zurich, switzerland|https://www.linkedin.com/jobs/view/4340966909|
 |meta|research scientist intern, 3d perception, understanding and generative ai (phd)|london, england, united kingdom|https://www.linkedin.com/jobs/view/4318945364|
 |meta|research scientist intern, ai alignment (phd) paris|paris, île-de-france, france|https://www.linkedin.com/jobs/view/4350195377|
 |meta|research scientist intern, ai core machine learning (phd)|paris, île-de-france, france|https://www.linkedin.com/jobs/view/4313321055|
+|meta|research scientist intern, ai/ml, core ads growth (phd)|london, england, united kingdom|https://www.linkedin.com/jobs/view/4350561859|
+|meta|research scientist intern, ai/ml, core ads growth (phd)|zurich, zurich, switzerland|https://www.linkedin.com/jobs/view/4350551757|
 |meta|research scientist intern, alignment - brain and ai (phd) (paris)|paris, île-de-france, france|https://www.linkedin.com/jobs/view/4312444506|
 |meta|research scientist intern, audio, machine learning and computer vision (phd)|cambridge, england, united kingdom|https://www.linkedin.com/jobs/view/4294760052|
 |meta|research scientist intern, fair embodiment & actions (phd)|paris, île-de-france, france|https://www.linkedin.com/jobs/view/4311910449|
 |meta|research scientist intern, machine learning, character animation (phd)|zurich, zurich, switzerland|https://www.linkedin.com/jobs/view/4350195353|
 |meta|research scientist intern, machine learning, human motion models (phd)|zurich, zurich, switzerland|https://www.linkedin.com/jobs/view/4313317108|
-|microsoft|research intern - machine learning - people centric ai|cambridge, england, united kingdom|https://www.linkedin.com/jobs/view/4341285192|
 |arexons s.p.a|online channel, fairs & events intern|cernusco sul naviglio, lombardy, italy|https://www.linkedin.com/jobs/view/4345931748|
+|bmw group|intern ai engineer agentic applications (f/m/x)|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4349424601|
 |bmw group|intern ai-based recommender systems (f/m/x)|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4264451343|
+|citi|ukraine internship program - 2026|kyiv, kyiv city, ukraine|https://www.linkedin.com/jobs/view/4329880108|
 |doctolib|ai data platform engineer intern (x/f/m)|paris, île-de-france, france|https://www.linkedin.com/jobs/view/4342450744|
 |dojo|intern, associate ai engineer|london, england, united kingdom|https://www.linkedin.com/jobs/view/4343444064|
 |electrolux professional group|people technology & ai developer intern|pordenone, friuli-venezia giulia, italy|https://www.linkedin.com/jobs/view/4344335057|
@@ -29,7 +31,6 @@
 |m365consult|ai content & copywriting internship|lisbon, lisbon, portugal|https://www.linkedin.com/jobs/view/4325843902|
 |moloco|machine learning engineer intern|london, england, united kingdom|https://www.linkedin.com/jobs/view/4343431140|
 |netmind.ai|artificial intelligence engineer intern(applied genai)|london area, united kingdom|https://www.linkedin.com/jobs/view/4342733105|
-|siemens|mandatory internship in genai methods for process automation|karlsruhe, baden-württemberg, germany|https://www.linkedin.com/jobs/view/4328756101|
 |the heineken company|internship - sustainable production|amsterdam, north holland, netherlands|https://www.linkedin.com/jobs/view/4340361962|
 |vanderlande|internship: empowering service excellence through ai innovation & sustainability at amazon dedicated service desk|veghel, north brabant, netherlands|https://www.linkedin.com/jobs/view/4340630266|
 |waymo|2026 summer intern, phd, machine learning engineer, simulation|london, england, united kingdom|https://www.linkedin.com/jobs/view/4301605050|
