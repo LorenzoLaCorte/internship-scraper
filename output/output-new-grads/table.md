@@ -1,5 +1,10 @@
 |company|title|location|link|
 |---|---|---|---|
+|arm|graduate ml software engineer|lund, skåne county, sweden|https://www.linkedin.com/jobs/view/4329674371|
+|arm|graduate software engineer – system test directx (gpu)|lund, skåne county, sweden|https://www.linkedin.com/jobs/view/4329644804|
+|arm|graduate software engineer|budapest, budapest, hungary|https://www.linkedin.com/jobs/view/4329733807|
+|arm|graduate software engineer|lund, skåne county, sweden|https://www.linkedin.com/jobs/view/4329557441|
+|arm|graduate software engineer|sophia antipolis, provence-alpes-côte d'azur, france|https://www.linkedin.com/jobs/view/4329742652|
 |barco|software engineer, early career, graduate|kortrijk, flemish region, belgium|https://www.linkedin.com/jobs/view/4316949012|
 |canonical|software engineer - python - ubuntu pro client - graduate level|antwerp, flemish region, belgium|https://www.linkedin.com/jobs/view/4233271679|
 |canonical|software engineer - python - ubuntu pro client - graduate level|brussels, brussels region, belgium|https://www.linkedin.com/jobs/view/4233271689|
