@@ -6,3 +6,4 @@
 |google|software engineer, performance, reliability, observability, phd, early career|warsaw, mazowieckie, poland|https://www.linkedin.com/jobs/view/4259197049|
 |google|software engineer, phd, early career, 2026 start|warsaw, mazowieckie, poland|https://www.linkedin.com/jobs/view/4343919471|
 |employability ltd|software engineer - phd early career|warsaw, mazowieckie, poland|https://www.linkedin.com/jobs/view/4361211387|
+|ntnu faculty of natural sciences|phd candidate in cybersecurity and human-ai teaming for critical infrastructures|gjøvik, innlandet, norway|https://www.linkedin.com/jobs/view/4364329587|
