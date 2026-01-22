@@ -2,7 +2,7 @@ company|title|location|link
 amazon web services (aws)|2026 applied scientist intern, amazon university talent acquisition|tallinn, harjumaa, worldwide|https://www.linkedin.com/jobs/view/4331395235
 bigblue|data science internship - warehouse optimisation|paris, île-de-france, france|https://www.linkedin.com/jobs/view/4334828942
 amazon web services (aws)|associate professional services consultant intern 2026|courbevoie, île-de-france, france|https://www.linkedin.com/jobs/view/4362332806
-bmw group|intern ai-based recommender systems (f/m/x)|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4264451343
+bmw group|intern ai solution factory (f/m/x)|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4353949855
 amazon web services (aws)|2026 applied scientist intern, amazon university talent acquisition|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4336105542
 amazon web services (aws)|2026 applied scientist intern, amazon university talent acquisition|berlin, berlin, germany|https://www.linkedin.com/jobs/view/4336135337
 amazon web services (aws)|2026 applied scientist intern, amazon university talent acquisition|aachen, north rhine-westphalia, germany|https://www.linkedin.com/jobs/view/4336125371
@@ -17,8 +17,8 @@ motorola solutions|cloud devops intern|cracow, małopolskie, poland|https://www.
 amazon|2026 applied scientist intern, amazon university talent acquisition|iaşi, iaşi, romania|https://www.linkedin.com/jobs/view/4331395233
 taktile|software engineer intern|iaşi, iaşi, romania|https://www.linkedin.com/jobs/view/4318298888
 amazon web services (aws)|research scientist intern, quantum algorithms, center for quantum computing|pasadena, canada|https://www.linkedin.com/jobs/view/4359651569
-amazon|mba intern, prime video & amazon mgm studios|culver city, canada|https://www.linkedin.com/jobs/view/4346211069
 amazon|2026 applied scientist intern, amazon university talent acquisition|barcelona, catalonia, spain|https://www.linkedin.com/jobs/view/4339455675
+roche|data scientist intern - post market quality|sant cugat del vallès, catalonia, spain|https://www.linkedin.com/jobs/view/4364628213
 etecnic|data scientist intern|reus, catalonia, spain|https://www.linkedin.com/jobs/view/4303989967
 amazon web services (aws)|associate professional services consultant intern 2026|madrid, community of madrid, spain|https://www.linkedin.com/jobs/view/4362362610
 amazon web services (aws)|associate professional services consultant intern 2026|stockholm, stockholm county, sweden|https://www.linkedin.com/jobs/view/4362402410
@@ -33,10 +33,25 @@ amazon|software dev intern - ai / machine learning|london, england, united kingd
 amazon|software dev intern - ai / machine learning|cambridge, england, united kingdom|https://www.linkedin.com/jobs/view/4341060523
 adesso austria gmbh|lead data engineer (all genders) [wien]|vienna, austria|https://www.linkedin.com/jobs/view/3866805015
 adesso austria gmbh|lead data engineer (all genders) [graz]|graz, styria, austria|https://www.linkedin.com/jobs/view/3866802372
+apple|creativity apps engineer intern - copenhagen, denmark|copenhagen, capital region of denmark, denmark|https://www.linkedin.com/jobs/view/4360063940
 bigblue|software engineer intern|paris, île-de-france, france|https://www.linkedin.com/jobs/view/3575815459
 arago|system software engineer intern|paris, île-de-france, france|https://www.linkedin.com/jobs/view/4361395617
+apple|internship - aiml software development engineer|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4360101203
+apple|machine learning intern|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4359196732
+apple|internship - software engineering - arkit|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4359285084
+apple|research scientist intern – human-centric generative ai|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4360015036
+apple|internship - cellular protocol aiml engineer|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4360035025
+apple|design for test intern (m/f/d)|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4360054904
+apple|internship - ai cellular protocol engineer|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4360101426
+apple|test automation intern - hamburg, germany|rellingen, schleswig-holstein, germany|https://www.linkedin.com/jobs/view/4360083756
+apple|rf datapath correction algorithms - engineering intern/co-op (m/f/d)|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4359255249
 universal music group|universal music group 2026 summer internship program: corporate opportunities: creative (multiple locations: ca & ny)|santa monica, canada|https://www.linkedin.com/jobs/view/4345202532
+apple|research intern - human-centric computer vision|zurich, zurich, switzerland|https://www.linkedin.com/jobs/view/4359215311
+apple|research scientist intern – human-centric generative ai|zurich, zurich, switzerland|https://www.linkedin.com/jobs/view/4359255077
+apple|ai research intern - foundation models & multimodal intelligence|zurich, zurich, switzerland|https://www.linkedin.com/jobs/view/4359205332
 university of cambridge|phd studentship in theory and practice of high dynamic range imaging (fixed term)|cambridge, england, united kingdom|https://www.linkedin.com/jobs/view/4342075212
+apple|6g cellular internship (m/f/d)|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4359187986
+apple|cad emir intern (m/f/d)|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4360093001
 meta|research scientist intern, rl and agents team (msc)|paris, île-de-france, france|https://www.linkedin.com/jobs/view/4350381375
 meta|research scientist intern, comms & language (phd) language research scientist|paris, île-de-france, france|https://www.linkedin.com/jobs/view/4310297381
 meta|research scientist intern, ai core machine learning (phd)|paris, île-de-france, france|https://www.linkedin.com/jobs/view/4313321055
@@ -54,39 +69,41 @@ meta|research scientist intern, consumer agents team phd (zurich)|zurich, zurich
 meta|research scientist intern, machine learning, human motion models (phd)|zurich, zurich, switzerland|https://www.linkedin.com/jobs/view/4313317108
 meta|research scientist intern, perception for human inputs and interactions (phd)|zurich, zurich, switzerland|https://www.linkedin.com/jobs/view/4302967562
 meta|research scientist intern, video & image generation (phd)|zurich, zurich, switzerland|https://www.linkedin.com/jobs/view/4350215412
-meta|research scientist intern, machine learning, character animation (phd)|zurich, zurich, switzerland|https://www.linkedin.com/jobs/view/4350195353
 meta|research scientist intern, 3d generative ai for digital humans (phd)|zurich, zurich, switzerland|https://www.linkedin.com/jobs/view/4340966909
+meta|research scientist intern, neural rendering, digital avatars (phd)|zurich, zurich, switzerland|https://www.linkedin.com/jobs/view/4341156718
+meta|research scientist intern, machine learning, character animation (phd)|zurich, zurich, switzerland|https://www.linkedin.com/jobs/view/4350195353
 meta|research scientist intern, physics-based simulation, mesh processing for avatars|zurich, zurich, switzerland|https://www.linkedin.com/jobs/view/4350145396
 meta|research scientist intern, multimedia vertical efficiency (phd), zurich|zurich, zurich, switzerland|https://www.linkedin.com/jobs/view/4341952863
-meta|research scientist intern, neural rendering, digital avatars (phd)|zurich, zurich, switzerland|https://www.linkedin.com/jobs/view/4341156718
 meta|detection & response security engineer, intern|london, england, united kingdom|https://www.linkedin.com/jobs/view/4350145389
 meta|production engineer, intern|london, england, united kingdom|https://www.linkedin.com/jobs/view/4350381376
 meta|network production engineer, intern|london, england, united kingdom|https://www.linkedin.com/jobs/view/4350165372
 meta|research scientist intern, ai/ml, core ads growth (phd)|london, england, united kingdom|https://www.linkedin.com/jobs/view/4350561859
-meta|research scientist intern, llm agents, phd (london)|london, england, united kingdom|https://www.linkedin.com/jobs/view/4350165363
 meta|research scientist intern, voice modeling team (phd) london|london, england, united kingdom|https://www.linkedin.com/jobs/view/4341873050
 meta|research scientist intern, monetization computer vision (phd)|london, england, united kingdom|https://www.linkedin.com/jobs/view/4301485470
 meta|research scientist intern, consumer agents team phd|london, england, united kingdom|https://www.linkedin.com/jobs/view/4350381370
 meta|research scientist intern, 3d computer vision and generative ai (phd)|london, england, united kingdom|https://www.linkedin.com/jobs/view/4339791069
 meta|research scientist intern, 3d perception, understanding and generative ai (phd)|london, england, united kingdom|https://www.linkedin.com/jobs/view/4318945364
-clerk.io|ai-powered / programmatic seo internship|copenhagen, capital region of denmark, denmark|https://www.linkedin.com/jobs/view/4342280334
-instadeep|research engineer intern in ai for biology|paris, île-de-france, france|https://www.linkedin.com/jobs/view/4328802215
-hireshire|business analytics intern|france|https://www.linkedin.com/jobs/view/4352096394
-genbio ai|research scientist intern|paris, île-de-france, france|https://www.linkedin.com/jobs/view/4361358931
-skello|growth & acquisition intern|paris, île-de-france, france|https://www.linkedin.com/jobs/view/4318402098
+dailymotion|intern machine learning engineer - recommender systems (all genders)|issy-les-moulineaux, île-de-france, france|https://www.linkedin.com/jobs/view/4359027957
+genbio ai|research scientist intern|paris, île-de-france, france|https://www.linkedin.com/jobs/view/4365017646
+skello|growth marketing intern|paris, île-de-france, france|https://www.linkedin.com/jobs/view/4318402098
 genuine parts company|software engineering intern - summer 2026|ga, atlanta, worldwide|https://www.linkedin.com/jobs/view/4337014755
-cisco|software engineer data/ai/intelligent systems i (intern) - united states|ga, alpharetta, worldwide|https://www.linkedin.com/jobs/view/4340788033
+cisco|software engineer data/ai/intelligent systems ii (intern) – united states|ga, atlanta, worldwide|https://www.linkedin.com/jobs/view/4364998174
+cisco|software engineer data/ai/intelligent systems ii (intern) – united states|ga, alpharetta, worldwide|https://www.linkedin.com/jobs/view/4364992762
 cisco|software engineer data/ai/intelligent systems i (intern) - united states|ga, atlanta, worldwide|https://www.linkedin.com/jobs/view/4336086762
+cisco|software engineer data/ai/intelligent systems i (intern) - united states|ga, alpharetta, worldwide|https://www.linkedin.com/jobs/view/4340788033
+google|lead, phd outreach and recruiting|ga, atlanta, worldwide|https://www.linkedin.com/jobs/view/4361923855
+the coca-cola company|packaging research & engineering intern, design & digital|ga, atlanta, worldwide|https://www.linkedin.com/jobs/view/4360017368
 genuine parts company|technology intern – supply chain- summer 2026|ga, atlanta, worldwide|https://www.linkedin.com/jobs/view/4340396086
-cisco|software engineer data/ai/intelligent systems phd (intern) – united states|ga, alpharetta, worldwide|https://www.linkedin.com/jobs/view/4336565516
 cisco|software engineer data/ai/intelligent systems phd (intern) – united states|ga, atlanta, worldwide|https://www.linkedin.com/jobs/view/4336685197
+cisco|software engineer data/ai/intelligent systems phd (intern) – united states|ga, alpharetta, worldwide|https://www.linkedin.com/jobs/view/4336565516
 bmw group|intern data science (f/m/x)|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4352774134
-hireshire|business analytics intern|germany|https://www.linkedin.com/jobs/view/4352017195
 merantix momentum|founder's associate intern (m/f/d)|berlin, berlin, germany|https://www.linkedin.com/jobs/view/4351952249
 proxima fusion|it operations intern|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4344261796
 melotech|content operations specialist intern|berlin, berlin, germany|https://www.linkedin.com/jobs/view/4322513593
+airbus defence and space|internship: quantum technologies in materials (d/f/m)|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4353961438
 msci inc.|data science intern|budapest, budapest, hungary|https://www.linkedin.com/jobs/view/4299592350
 yellow tech|marketing & growth intern|milan, lombardy, italy|https://www.linkedin.com/jobs/view/4359487058
+max mara fashion group|business competence center - ai specialist intern|reggio nell'emilia, emilia-romagna, italy|https://www.linkedin.com/jobs/view/4364831105
 skilllab|data science internship|amsterdam, north holland, netherlands|https://www.linkedin.com/jobs/view/4346534996
 heeyoo|data solution architect|hengelo, overijssel, netherlands|https://www.linkedin.com/jobs/view/4320407988
 wind mee|medior/senior sea specialist|rotterdam, south holland, netherlands|https://www.linkedin.com/jobs/view/4261492684
@@ -100,9 +117,10 @@ thomson reuters|research engineering intern|zug, zug, switzerland|https://www.li
 moloco|machine learning engineer intern|london, england, united kingdom|https://www.linkedin.com/jobs/view/4343431140
 moloco|data science intern|london, england, united kingdom|https://www.linkedin.com/jobs/view/4342625869
 quilter|early careers programme - ai summer internship|london, england, united kingdom|https://www.linkedin.com/jobs/view/4361153248
-hireshire|business analytics intern|united kingdom|https://www.linkedin.com/jobs/view/4352025460
-hireshire|business analytics intern|united kingdom|https://www.linkedin.com/jobs/view/4350921282
-hireshire|business analytics intern|london area, united kingdom|https://www.linkedin.com/jobs/view/4352165684
-thomson reuters|research intern - machine learning and natural language processing|london, england, united kingdom|https://www.linkedin.com/jobs/view/4332211120
 quilter|early careers programme - ai summer internship|southampton, england, united kingdom|https://www.linkedin.com/jobs/view/4361223307
-hireshire|business analytics intern|birmingham, england, united kingdom|https://www.linkedin.com/jobs/view/4352165621
+hireshire|business analytics intern|united kingdom|https://www.linkedin.com/jobs/view/4354032481
+thomson reuters|research intern - machine learning and natural language processing|london, england, united kingdom|https://www.linkedin.com/jobs/view/4332211120
+thomson reuters|research engineering intern|london, england, united kingdom|https://www.linkedin.com/jobs/view/4326464492
+geotab|marketing support intern|london, england, united kingdom|https://www.linkedin.com/jobs/view/4323330853
+amazon|mba intern, prime video & amazon mgm studios|culver city, canada|https://www.linkedin.com/jobs/view/4346211069
+meta|research scientist intern, optical fiber sensors (phd)|pasadena, canada|https://www.linkedin.com/jobs/view/4355242056
