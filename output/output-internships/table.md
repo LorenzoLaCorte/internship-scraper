@@ -1,6 +1,5 @@
 |company|title|location|link|
 |---|---|---|---|
-|amazon web services (aws)|2026 software dev engineer intern - germany|aachen, north rhine-westphalia, germany|https://www.linkedin.com/jobs/view/4341052969|
 |amazon web services (aws)|2026 software dev engineer intern - germany|berlin, berlin, germany|https://www.linkedin.com/jobs/view/4341262687|
 |amazon web services (aws)|2026 software dev engineer intern - germany|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4341003147|
 |amazon web services (aws)|2026 software dev engineer intern - spain|barcelona, catalonia, spain|https://www.linkedin.com/jobs/view/4308986221|
@@ -17,10 +16,10 @@
 |amazon|2026 software dev engineer intern - netherlands|amsterdam, north holland, netherlands|https://www.linkedin.com/jobs/view/4338385192|
 |amazon|2026 software dev engineer intern - poland|gdańsk, pomorskie, poland|https://www.linkedin.com/jobs/view/4341572145|
 |amazon|2026 software dev engineer intern - poland|warsaw, mazowieckie, poland|https://www.linkedin.com/jobs/view/4342051541|
-|amazon|2026 software dev engineer intern - romania|iaşi, iaşi, romania|https://www.linkedin.com/jobs/view/4318251005|
+|amazon|2026 software dev engineer intern - romania|bucharest, bucharest, romania|https://www.linkedin.com/jobs/view/4365501783|
 |amazon|2026 software dev engineer intern - romania|iaşi, iaşi, romania|https://www.linkedin.com/jobs/view/4337635886|
+|amazon|2026 software dev engineer intern - romania|iaşi, iaşi, romania|https://www.linkedin.com/jobs/view/4365512131|
 |amazon|2026 software dev engineer intern - sweden|stockholm, stockholm county, sweden|https://www.linkedin.com/jobs/view/4337167035|
-|amazon|2026 software dev engineer intern - uk|cambridge, england, united kingdom|https://www.linkedin.com/jobs/view/4308092612|
 |amazon|2026 software dev engineer intern - uk|edinburgh, scotland, united kingdom|https://www.linkedin.com/jobs/view/4308093564|
 |amazon|2026 software dev engineer intern - uk|london, england, united kingdom|https://www.linkedin.com/jobs/view/4308097460|
 |amazon|software dev engineer internship - ai|madrid, community of madrid, spain|https://www.linkedin.com/jobs/view/4362975946|
@@ -39,22 +38,19 @@
 |bitmovin|software engineer intern|vienna, austria|https://www.linkedin.com/jobs/view/4341732688|
 |comena|software engineering intern|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4309748645|
 |deductive ai|software engineer intern, london|london, england, united kingdom|https://www.linkedin.com/jobs/view/4318516271|
-|dentsu|software developer intern|aarhus, central denmark region, denmark|https://www.linkedin.com/jobs/view/4359100081|
 |erste digital|internship software engineer (all genders) - #work&study #cobol / db2 #natural/adabas|vienna, vienna, austria|https://www.linkedin.com/jobs/view/4351214800|
 |ge healthcare|software engineering intern|budapest, budapest, hungary|https://www.linkedin.com/jobs/view/4300035903|
 |genesys|software engineer intern|brest, brittany, france|https://www.linkedin.com/jobs/view/4325957319|
 |inetum|intern .net software engineer|warsaw, mazowieckie, poland|https://www.linkedin.com/jobs/view/4338818664|
-|intermarket bank ag - factoring, supply chain finance und liquidity|internship software engineer (all humans) - #work&study #cobol / db2 #natural/adabas|vienna, vienna, austria|https://www.linkedin.com/jobs/view/4351144320|
-|match group|software engineer internship|ghent, flemish region, belgium|https://www.linkedin.com/jobs/view/4324653871|
-|nokia bell labs|bell labs master student internship on building novel software development tools (master)|antwerp, flemish region, belgium|https://www.linkedin.com/jobs/view/4349723696|
 |nviso security|internship labs - software engineering & ai|brussels, brussels region, belgium|https://www.linkedin.com/jobs/view/4353845999|
 |nviso security|internship labs - software engineering|brussels, brussels region, belgium|https://www.linkedin.com/jobs/view/4353696161|
-|odoo|software engineer intern|ramillies, walloon region, belgium|https://www.linkedin.com/jobs/view/4349323559|
-|procter & gamble|software engineering internship|mechelen, flemish region, belgium|https://www.linkedin.com/jobs/view/4287143227|
+|odoo|software engineer intern|ramillies, walloon region, belgium|https://www.linkedin.com/jobs/view/4365446966|
+|procter & gamble|software engineering internship|mechelen, flemish region, belgium|https://www.linkedin.com/jobs/view/4365519019|
+|red bull media house|internship ai in software development|elsbethen, salzburg, austria|https://www.linkedin.com/jobs/view/4356163799|
 |septentrio part of hexagon|internship  embedded software ecosystems integrator  leuven|leuven, flemish region, belgium|https://www.linkedin.com/jobs/view/4330461583|
-|septentrio part of hexagon|internship  innovative software application/ tooling  leuven|leuven, flemish region, belgium|https://www.linkedin.com/jobs/view/4330541050|
 |siemens|train software engineer intern  - 3 months|city of london, england, united kingdom|https://www.linkedin.com/jobs/view/4321796506|
 |sits  traxion|internship - software engineering|waardenburg, gelderland, netherlands|https://www.linkedin.com/jobs/view/4337017535|
 |stmicroelectronics|nfc software application intern (part time)|graz, styria, austria|https://www.linkedin.com/jobs/view/4354631347|
 |taktile|software engineer intern|berlin, berlin, germany|https://www.linkedin.com/jobs/view/4342501529|
 |taktile|software engineer intern|iaşi, iaşi, romania|https://www.linkedin.com/jobs/view/4318298888|
+|wise|software engineering intern|tallinn, harjumaa, worldwide|https://www.linkedin.com/jobs/view/4321484315|
