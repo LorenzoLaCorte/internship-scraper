@@ -1,5 +1,6 @@
 |company|title|location|link|
 |---|---|---|---|
+|google|software engineer, ai/ml, phd, early career|london, england, united kingdom|https://www.linkedin.com/jobs/view/4369576892|
 |google|software engineer, early careers, phd, cloud ai|warsaw, mazowieckie, poland|https://www.linkedin.com/jobs/view/4320919263|
 |google|software engineer, early careers, phd, gsoc server software|warsaw, mazowieckie, poland|https://www.linkedin.com/jobs/view/4365575666|
 |google|software engineer, gce control plane, early careers, phd|warsaw, mazowieckie, poland|https://www.linkedin.com/jobs/view/4365587218|
