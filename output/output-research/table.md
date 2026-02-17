@@ -1,6 +1,5 @@
 |company|title|location|link|
 |---|---|---|---|
-|amazon|business analyst intern 2026|berlin, germany|https://www.linkedin.com/jobs/view/4369041190|
 |amazon|financial analyst intern|clichy, île-de-france, france|https://www.linkedin.com/jobs/view/4335233610|
 |amazon|financial analyst intern|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4331793393|
 |amazon|financial analyst intern|dudelange, luxembourg, luxembourg|https://www.linkedin.com/jobs/view/4342239154|
@@ -13,11 +12,9 @@
 |amazon|financial analyst intern|milan, lombardy, italy|https://www.linkedin.com/jobs/view/4334092320|
 |amazon|financial analyst intern|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4334430524|
 |amazon|financial analyst intern|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4341566719|
-|apple|cellular rf systems engineering intern – phase lock loop|linz, upper austria, austria|https://www.linkedin.com/jobs/view/4360015068|
 |apple|research intern - human-centric computer vision|zurich, zurich, switzerland|https://www.linkedin.com/jobs/view/4359215311|
 |microsoft|research intern - multi-agent systems|cambridge, england, united kingdom|https://www.linkedin.com/jobs/view/4363816644|
-|ab inbev|key account manager intern|leuven, flemish region, belgium|https://www.linkedin.com/jobs/view/4334735829|
-|abb|supply chain management internship|evergem, flemish region, belgium|https://www.linkedin.com/jobs/view/4333864841|
+|microsoft|research intern on bioemu|berlin, berlin, germany|https://www.linkedin.com/jobs/view/4371853379|
 |acca careers|business analyst intern 2026|berlin, berlin, germany|https://www.linkedin.com/jobs/view/4370145809|
 |acca careers|financial analyst intern|clichy, île-de-france, france|https://www.linkedin.com/jobs/view/4365741298|
 |acca careers|financial analyst intern|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4365760241|
@@ -25,298 +22,143 @@
 |acca careers|financial analyst intern|kirchberg, luxembourg, luxembourg|https://www.linkedin.com/jobs/view/4369068455|
 |acca careers|financial analyst intern|london, england, united kingdom|https://www.linkedin.com/jobs/view/4365747311|
 |acca careers|financial analyst intern|london, england, united kingdom|https://www.linkedin.com/jobs/view/4368659273|
-|acca careers|financial analyst intern|london, england, united kingdom|https://www.linkedin.com/jobs/view/4370521354|
+|acca careers|financial analyst intern|london, england, united kingdom|https://www.linkedin.com/jobs/view/4373568516|
 |acca careers|financial analyst intern|madrid, community of madrid, spain|https://www.linkedin.com/jobs/view/4366839799|
 |acca careers|financial analyst intern|madrid, community of madrid, spain|https://www.linkedin.com/jobs/view/4369059606|
 |acca careers|financial analyst intern|milan, lombardy, italy|https://www.linkedin.com/jobs/view/4365759293|
 |acca careers|financial analyst intern|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4365759294|
 |acca careers|financial analyst intern|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4368642440|
 |acca careers|investment banking analyst/intern|kyiv, ukraine|https://www.linkedin.com/jobs/view/4369071421|
-|accenture belgium|genai & automated testing intern (sql integration)|brussels, brussels region, belgium|https://www.linkedin.com/jobs/view/4369117946|
-|accenture belgium|java development intern – insurance industry projects|brussels, brussels region, belgium|https://www.linkedin.com/jobs/view/4369131372|
-|agilytic|business development intern|brussels, brussels region, belgium|https://www.linkedin.com/jobs/view/4285092963|
-|ai-d|ai consultant internship|hasselt, flemish region, belgium|https://www.linkedin.com/jobs/view/4355769378|
-|alpla group|intern change management and organizational development (all gender)|hard, vorarlberg, austria|https://www.linkedin.com/jobs/view/4342177912|
 |alten|business controller & analyst internship|madrid, community of madrid, spain|https://www.linkedin.com/jobs/view/4359531863|
-|anchr|intern m&a|mechelen, flemish region, belgium|https://www.linkedin.com/jobs/view/4355916941|
-|apptweak|graphic design intern|brussels, brussels region, belgium|https://www.linkedin.com/jobs/view/4369536741|
 |arcelormittal treasury|internship analyst bank & corporate guarantees (w/m)|paris, île-de-france, france|https://www.linkedin.com/jobs/view/4353705186|
 |argenx|research internship for masters ay 2026-2027|ghent, flemish region, belgium|https://www.linkedin.com/jobs/view/4357490869|
-|arla foods|intern as a consultant / analyst - aarhus|aarhus, central denmark region, denmark|https://www.linkedin.com/jobs/view/4354103052|
-|asm|intern - computational chemistry|leuven, flemish region, belgium|https://www.linkedin.com/jobs/view/4367613916|
-|asm|intern - computational materials science|leuven, flemish region, belgium|https://www.linkedin.com/jobs/view/4369673530|
+|ashoka|volunteer business and partnership intern for research and analysis on investment impacts of social entrepreneurs with ashoka global|france|https://www.linkedin.com/jobs/view/4373208045|
+|ashoka|volunteer business and partnership intern for research and analysis on investment impacts of social entrepreneurs with ashoka global|germany|https://www.linkedin.com/jobs/view/4372986867|
+|ashoka|volunteer business and partnership intern for research and analysis on investment impacts of social entrepreneurs with ashoka global|spain|https://www.linkedin.com/jobs/view/4372992659|
+|ashoka|volunteer business and partnership intern for research and analysis on investment impacts of social entrepreneurs with ashoka global|switzerland|https://www.linkedin.com/jobs/view/4372988697|
 |assa abloy group|eudi wallet researcher intern|zabierzów, małopolskie, poland|https://www.linkedin.com/jobs/view/4361431126|
-|astrazeneca|self-evolving evaluation benchmarks research internship|cambridge, england, united kingdom|https://www.linkedin.com/jobs/view/4367704223|
 |atradius the netherlands|data analyst intern (strategy & corporate development)  - amsterdam|amsterdam, north holland, netherlands|https://www.linkedin.com/jobs/view/4352528534|
-|austrian airlines|internship aircraft maintenance (all genders)|vienna, vienna, austria|https://www.linkedin.com/jobs/view/4361701090|
 |austrian airlines|internship communication in technical environment (all genders) start: july 2026 - 6 to 12 months fixed-term|vienna, vienna, austria|https://www.linkedin.com/jobs/view/4367490177|
 |austrian airlines|internship recruiting and talent acquisition (all genders)|vienna, vienna, austria|https://www.linkedin.com/jobs/view/4356202303|
 |avanade|intern business analyst_software engineering|milan, lombardy, italy|https://www.linkedin.com/jobs/view/4355968417|
-|avanade|intern finance business analyst - erp microsoft dynamics 365|perugia, umbria, italy|https://www.linkedin.com/jobs/view/4336231208|
-|avanade|intern scm business analyst - erp microsoft dynamics 365|milan, lombardy, italy|https://www.linkedin.com/jobs/view/4370149429|
-|avertim|internship - legal counsel|brussels, brussels region, belgium|https://www.linkedin.com/jobs/view/4330386288|
-|awwg|business analyst intern - pvh (calvin klein & tommy hilfiger) - madrid|madrid, community of madrid, spain|https://www.linkedin.com/jobs/view/4369108406|
+|bain & company|associate consultant intern (m/w/d)|vienna, austria|https://www.linkedin.com/jobs/view/4309546044|
 |balenciaga|balenciaga - sustainable materials research intern - march 2026 (f/m)|paris, île-de-france, france|https://www.linkedin.com/jobs/view/4365078644|
 |banque centrale du luxembourg (bcl)|internship in procurement / analyst trainee (m/f/d)|luxembourg, luxembourg|https://www.linkedin.com/jobs/view/4362170195|
-|barco|internship - sustainability (stieg)|kortrijk, flemish region, belgium|https://www.linkedin.com/jobs/view/4344386933|
-|bdo belgium|internship business risk advisor (2026)|zaventem, flemish region, belgium|https://www.linkedin.com/jobs/view/4318776727|
-|bematrix|internal sales uk|roeselare, flemish region, belgium|https://www.linkedin.com/jobs/view/4367106672|
-|bnewable|esg & sustainability intern|mechelen, flemish region, belgium|https://www.linkedin.com/jobs/view/4352624569|
+|bitpanda|intern, engineering|vienna, vienna, austria|https://www.linkedin.com/jobs/view/4369483641|
+|bitpanda|intern, talent acquisition|vienna, vienna, austria|https://www.linkedin.com/jobs/view/4371026420|
 |bnp paribas asset management|reward analyst intern h/f|puteaux, île-de-france, france|https://www.linkedin.com/jobs/view/4361271373|
 |bnp paribas cib|operational conduct risk analyst intern|porto, porto, portugal|https://www.linkedin.com/jobs/view/4361145867|
 |bnp paribas|operational  conduct risk analyst intern|porto, porto, portugal|https://www.linkedin.com/jobs/view/4360743749|
 |bnp paribas|reward analyst intern h/f|puteaux, île-de-france, france|https://www.linkedin.com/jobs/view/4361166710|
-|bof careers|awwg business analyst intern - pvh (calvin klein & tommy hilfiger) - madrid|madrid, community of madrid, spain|https://www.linkedin.com/jobs/view/4369356246|
-|bof careers|moncler performance testing analyst intern|trebaseleghe, veneto, italy|https://www.linkedin.com/jobs/view/4360861557|
 |britannica capital|investor engagement & research intern|stockholm, stockholm county, sweden|https://www.linkedin.com/jobs/view/4324269887|
-|bruna|social media & content intern (m/w/d)|austria|https://www.linkedin.com/jobs/view/4357541613|
-|burson|internship - eu public affairs - technology|brussels, brussels region, belgium|https://www.linkedin.com/jobs/view/4353929171|
-|burson|internship - eu public affairs – energy & industrials practice, belgium - burson|brussels, brussels region, belgium|https://www.linkedin.com/jobs/view/4351316152|
+|british and irish association of zoos and aquariums (biaza)|conservation and research internship|london, england, united kingdom|https://www.linkedin.com/jobs/view/4370748432|
 |bvlgari|internship - merchandising- and retail performance analyst - (f/m/d)|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4367891916|
-|cadence|ai / ml intern for computational fluid dynamics (6 months)|brussels, brussels region, belgium|https://www.linkedin.com/jobs/view/4360484920|
 |candriam|systematic quant research intern - multi-asset f/m|paris, île-de-france, france|https://www.linkedin.com/jobs/view/4369289406|
 |capital value|intern research - on hold|utrecht, utrecht, netherlands|https://www.linkedin.com/jobs/view/4324979820|
 |census|internship vulnerability researcher|thessaloniki, central macedonia, greece|https://www.linkedin.com/jobs/view/4161577082|
 |chanel|data analyst support intern|geneva, geneva, switzerland|https://www.linkedin.com/jobs/view/4370452535|
-|circular innovation lab aps|circular economy research internship (united nations project)|copenhagen, capital region of denmark, denmark|https://www.linkedin.com/jobs/view/4361220388|
-|cobefa|internal sales|comines-warneton, walloon region, belgium|https://www.linkedin.com/jobs/view/4370239467|
+|citi|banking, capital markets, debt capital markets, placement analyst internship, paris, france 2026|paris, île-de-france, france|https://www.linkedin.com/jobs/view/4372520666|
+|citi|banking, capital markets, equity capital markets, placement analyst internship, paris, france 2026|paris, île-de-france, france|https://www.linkedin.com/jobs/view/4371145781|
 |cogito markets|quant research intern in short-term power|paris, île-de-france, france|https://www.linkedin.com/jobs/view/4366126512|
 |coima|research & valuation intern - real estate|milan, lombardy, italy|https://www.linkedin.com/jobs/view/4345841571|
 |comms8|media assistant - intern|austria|https://www.linkedin.com/jobs/view/4365785955|
-|companions|intern|kontich, flemish region, belgium|https://www.linkedin.com/jobs/view/4366860605|
 |constructor tech|ml research intern in agentic runtime systems|bremen, bremen, germany|https://www.linkedin.com/jobs/view/4368340297|
+|costello medical|analyst/medical writer internship|london, england, united kingdom|https://www.linkedin.com/jobs/view/4371853034|
+|costello medical|analyst/medical writer internship|manchester, england, united kingdom|https://www.linkedin.com/jobs/view/4371840844|
 |de nora|financial planning analyst intern.|milan, lombardy, italy|https://www.linkedin.com/jobs/view/4359576198|
 |de nora|product management analyst intern.|rodenbach, rhineland-palatinate, germany|https://www.linkedin.com/jobs/view/4360524919|
-|deezer|qa analyst - intern (m/f/d)|paris, île-de-france, france|https://www.linkedin.com/jobs/view/4353223574|
-|degroof petercam|internship as legal counsel - regulatory & asset management|brussels, brussels region, belgium|https://www.linkedin.com/jobs/view/4312684116|
-|degroof petercam|internship in hospitality|brussels, brussels region, belgium|https://www.linkedin.com/jobs/view/4307012460|
-|delvaux|business performance & client - intern|brussels, brussels region, belgium|https://www.linkedin.com/jobs/view/4366894424|
 |dhl|innovation & trend research intern (d/f/m) - dhl customer solutions & innovation|troisdorf, north rhine-westphalia, germany|https://www.linkedin.com/jobs/view/4366474564|
 |dow jones|summer 2026 internship -- research analyst, opis|london, england, united kingdom|https://www.linkedin.com/jobs/view/4360724377|
 |dow jones|summer 2026 internship – data analyst intern (syngas chemicals)|london, england, united kingdom|https://www.linkedin.com/jobs/view/4361204384|
 |dow jones|summer 2026 internship – research analyst, opis|london, england, united kingdom|https://www.linkedin.com/jobs/view/4360754422|
-|dow jones|summer 2026 internship – research analyst, opis|london, england, united kingdom|https://www.linkedin.com/jobs/view/4361134419|
 |dropbox|global collections analyst intern (summer 2026)|ireland|https://www.linkedin.com/jobs/view/4351846308|
-|dynatrace|software engineering - summer internships 2026 (m/f/x)|linz, upper austria, austria|https://www.linkedin.com/jobs/view/4369239938|
-|dynatrace|workplace experience (front desk support) - summer internship 2026 (m/f/x)|linz, upper austria, austria|https://www.linkedin.com/jobs/view/4369765161|
-|easyfairs|career crafter - internship|brussels, brussels region, belgium|https://www.linkedin.com/jobs/view/4205811466|
-|easyfairs|group strategy and m&a intern|brussels, brussels region, belgium|https://www.linkedin.com/jobs/view/4015070707|
-|edelman|public affairs health - intern|brussels, brussels region, belgium|https://www.linkedin.com/jobs/view/4365239810|
-|edgard & cooper   b corp|impact internship|kortrijk, flemish region, belgium|https://www.linkedin.com/jobs/view/4324646990|
-|edhec climate institute|internship - decarbonisation & climate risk – research & outreach intern|london area, united kingdom|https://www.linkedin.com/jobs/view/4356480561|
-|elite events international|event and social media intern|brussels, brussels region, belgium|https://www.linkedin.com/jobs/view/4304655111|
-|engelhart|compliance analyst intern (sandwich placement year)|london, england, united kingdom|https://www.linkedin.com/jobs/view/4368822868|
-|engelhart|credit risk analyst intern (sandwich placement year)|london, england, united kingdom|https://www.linkedin.com/jobs/view/4368828485|
+|edhec climate institute|internship - 6 months - decarbonisation & climate risk – research & outreach intern|london area, united kingdom|https://www.linkedin.com/jobs/view/4356480561|
+|electra|business development intern - austria 🇦🇹|vienna, vienna, austria|https://www.linkedin.com/jobs/view/4243913268|
 |engelhart|people analyst intern (hr sandwich placement year)|london, england, united kingdom|https://www.linkedin.com/jobs/view/4368813997|
-|enneagram academy|social media marketing intern|brussels region, belgium|https://www.linkedin.com/jobs/view/4369612128|
-|eurofins|6-month internship – group permanent improvement programmes|brussels, brussels region, belgium|https://www.linkedin.com/jobs/view/4369098127|
+|euronext securities|euronext securities - functional analyst data automation messaging, intern|milan, lombardy, italy|https://www.linkedin.com/jobs/view/4371118978|
 |euronext|business development analyst intern|paris, île-de-france, france|https://www.linkedin.com/jobs/view/4362615763|
-|european hematology association (eha)|student intern - research programs data analyst|the hague, south holland, netherlands|https://www.linkedin.com/jobs/view/4367855640|
-|exxonmobil|internship engineer belgium - 2026|antwerp, flemish region, belgium|https://www.linkedin.com/jobs/view/4358242590|
-|ey|study & work program i international account management & operations coordinator  ey wavespace|vienna, vienna, austria|https://www.linkedin.com/jobs/view/4369148123|
-|frontier economics|2026 economic analyst intern - brussels|brussels, brussels region, belgium|https://www.linkedin.com/jobs/view/4310006478|
-|groep huyzentruyt|intern projectleider|waregem, flemish region, belgium|https://www.linkedin.com/jobs/view/4367457995|
-|group-ips|internship in human resources|walloon region, belgium|https://www.linkedin.com/jobs/view/4366851529|
-|gs1|public policy intern|brussels, brussels region, belgium|https://www.linkedin.com/jobs/view/4364910706|
-|gsk|internship: infectious disease research intern, italy, 2026|siena, tuscany, italy|https://www.linkedin.com/jobs/view/4367369011|
-|gsk|internship: supranational supply operations support, belgium – 2026|wavre, walloon region, belgium|https://www.linkedin.com/jobs/view/4334031641|
-|guerlain|business analyst assistant (internship)|milan, lombardy, italy|https://www.linkedin.com/jobs/view/4354298668|
-|henkel|internship in category management - henkel consumer brands (m/f/x) - july 2026|brussels, brussels region, belgium|https://www.linkedin.com/jobs/view/4365579661|
-|henkel|internship in category management – henkel adhesives technologies (m/f/x) – july 2026|brussels, brussels region, belgium|https://www.linkedin.com/jobs/view/4366754856|
-|henkel|internship in communications and marketing – hair care professional (m/f/x) – march 2026|brussels, brussels region, belgium|https://www.linkedin.com/jobs/view/4359400741|
-|henkel|internship in engineering - process improvement - 1 year - june/july 2026 (m/f/x)|drogenbos, flemish region, belgium|https://www.linkedin.com/jobs/view/4337185195|
-|henkel|internship in engineering - production - 1 year - june/july 2026 (m/f/x)|drogenbos, flemish region, belgium|https://www.linkedin.com/jobs/view/4362454070|
-|henkel|internship in key account management - henkel consumer brands (m/f/x) - july 2026|brussels, brussels region, belgium|https://www.linkedin.com/jobs/view/4365369711|
-|henkel|internship in maintenance and engineering (f/m/x) - april 2026|drogenbos, flemish region, belgium|https://www.linkedin.com/jobs/view/4368837987|
-|henkel|internship in net revenue management – henkel consumer brands (m/f/x) - july 2026|brussels, brussels region, belgium|https://www.linkedin.com/jobs/view/4366224717|
-|henkel|internship in talent acquisition and employer branding (m/f/x) - july 2026|brussels, brussels region, belgium|https://www.linkedin.com/jobs/view/4367340833|
-|hosted power|internship|merelbeke, flemish region, belgium|https://www.linkedin.com/jobs/view/4315920680|
+|europ assistance|compliance analyst intern|st.-denis, île-de-france, france|https://www.linkedin.com/jobs/view/4371501145|
+|ey|digital factory - architecture research - intern|luxembourg, luxembourg, luxembourg|https://www.linkedin.com/jobs/view/4326276384|
+|fresenius kabi swissbiosim|business analyst global alliance management & business development intern|eysins, vaud, switzerland|https://www.linkedin.com/jobs/view/4371145820|
 |hrflow.ai|data science & ai research internship - ai startup - paris|paris, île-de-france, france|https://www.linkedin.com/jobs/view/4366043252|
-|hrf|service technieker intern transport|diest, flemish region, belgium|https://www.linkedin.com/jobs/view/4368680073|
-|hrf|service technieker intern transport|diest, flemish region, belgium|https://www.linkedin.com/jobs/view/4368683063|
-|hrf|service technieker intern transport|halle, flemish region, belgium|https://www.linkedin.com/jobs/view/4368665314|
-|hrf|service technieker intern transport|hasselt, flemish region, belgium|https://www.linkedin.com/jobs/view/4368686020|
-|hrf|service technieker intern transport|leuven, flemish region, belgium|https://www.linkedin.com/jobs/view/4368680074|
-|hrf|service technieker intern transport|lommel, flemish region, belgium|https://www.linkedin.com/jobs/view/4368684067|
-|hrf|service technieker intern transport|maaseik, flemish region, belgium|https://www.linkedin.com/jobs/view/4368679085|
 |huawei ireland research center|2026 - ai research intern - llms|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4362100204|
 |huawei technologies research & development (uk) ltd|research intern - computer vision (visuals)|london, england, united kingdom|https://www.linkedin.com/jobs/view/4368290351|
-|huawei technologies research & development (uk) ltd|research intern -robotics|london, england, united kingdom|https://www.linkedin.com/jobs/view/4304060653|
-|huawei|ai architectures research for safety related systems intern|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4369155167|
+|huawei|intern - ai architectures research for safety related systems (m/f/d)|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4369155167|
 |huawei|intern - power electronics/magnetic simulation (m/f/d)|vienna, vienna, austria|https://www.linkedin.com/jobs/view/4186467786|
-|hyundai motor company|business intelligence & market analyst intern|madrid, community of madrid, spain|https://www.linkedin.com/jobs/view/4352810894|
-|indie campers|tourism & operations internship - erasmus+|brussels, brussels region, belgium|https://www.linkedin.com/jobs/view/4367168977|
+|huawei|research intern – cpu microarchitecture and memory hierarchy|dübendorf, zurich, switzerland|https://www.linkedin.com/jobs/view/4371797988|
 |infineon technologies|internship - application engineering (f/m/div)|villach, carinthia, austria|https://www.linkedin.com/jobs/view/4040672951|
-|infineon technologies|internship - application engineering (f/m/div)|villach, carinthia, austria|https://www.linkedin.com/jobs/view/4251636171|
-|infineon technologies|internship - electro‑acoustics and signal processing (f/m/div)|villach, carinthia, austria|https://www.linkedin.com/jobs/view/4342190291|
-|infineon technologies|internship - machine learning operations engineer – generative ai and large language models (f/m/div)|klagenfurt, carinthia, austria|https://www.linkedin.com/jobs/view/4339185297|
-|infineon technologies|internship - post silicon validation for automotive microcontroller (f/m/div)|villach, carinthia, austria|https://www.linkedin.com/jobs/view/4242593220|
-|infineon technologies|internship - product engineering (f/m/div)|villach, carinthia, austria|https://www.linkedin.com/jobs/view/4365477963|
-|infineon technologies|internship - project engineer (m/f/div)|villach, carinthia, austria|https://www.linkedin.com/jobs/view/4369729986|
-|infineon technologies|internship - quality management (f/m/div)|villach, carinthia, austria|https://www.linkedin.com/jobs/view/4363584801|
-|infineon technologies|internship - software and web interface developer (f/m/div)|villach, carinthia, austria|https://www.linkedin.com/jobs/view/4367455093|
+|infineon technologies|internship - digitalization and automation support (f/m/div)|villach, carinthia, austria|https://www.linkedin.com/jobs/view/4368661802|
+|infineon technologies|internship - lab verification engineer in the ams lab of the development center villach (f/m/div)|villach, carinthia, austria|https://www.linkedin.com/jobs/view/4242586960|
+|infineon technologies|internship - product marketing (f/m/div)|villach, carinthia, austria|https://www.linkedin.com/jobs/view/4309618365|
+|infineon technologies|internship - project management office support (f/m/div)|villach, carinthia, austria|https://www.linkedin.com/jobs/view/4356525810|
+|infineon technologies|internship - project management support (f/m/div)|villach, carinthia, austria|https://www.linkedin.com/jobs/view/4368650913|
+|infineon technologies|internship - sales assistant (f/m/div)|villach, carinthia, austria|https://www.linkedin.com/jobs/view/4335135863|
 |infineon technologies|internship - software development support (f/m/div)|villach, carinthia, austria|https://www.linkedin.com/jobs/view/4310158553|
-|infineon technologies|internship - technical support on reliability pcb developments (f/m/div)|villach, carinthia, austria|https://www.linkedin.com/jobs/view/4365477965|
-|infineon technologies|internship - unit process engineer (chemical / physical vapor deposition) (f/m/div)|villach, carinthia, austria|https://www.linkedin.com/jobs/view/4343145968|
-|infineon technologies|internship - web development (f/m/div)|klagenfurt, carinthia, austria|https://www.linkedin.com/jobs/view/4335314373|
-|ing belgium|cybersecurity intern (penetration testing & red team) – ciso team|brussels, brussels region, belgium|https://www.linkedin.com/jobs/view/4354796808|
-|ing belgium|cybersecurity intern (penetration testing & red team) – ciso team|brussels, brussels region, belgium|https://www.linkedin.com/jobs/view/4354880585|
-|interdigital, inc.|intern, 6g research|london, england, united kingdom|https://www.linkedin.com/jobs/view/4346900558|
+|instadeep|research intern in science (atomistic modelling)|paris, île-de-france, france|https://www.linkedin.com/jobs/view/4371059149|
 |international atomic energy agency (iaea)|internship - global distribution and application of radio-sulfur in hydrology studies|innere stadt, vienna, austria|https://www.linkedin.com/jobs/view/4361037997|
-|international atomic energy agency (iaea)|internship - nuclear medicine data|innere stadt, vienna, austria|https://www.linkedin.com/jobs/view/4361441046|
 |international atomic energy agency (iaea)|internship – control of radiation sources|innere stadt, vienna, austria|https://www.linkedin.com/jobs/view/4357423371|
+|international atomic energy agency (iaea)|internship – imagery science and analytics|innere stadt, vienna, austria|https://www.linkedin.com/jobs/view/4363036719|
 |intrinsic|intern: ai-enabled robotic and dexterous manipulation research|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4344366897|
+|inverto  a bcg company|consulting intern - data & insights in procurement / supply chain management (f/m/d)|vienna, vienna, austria|https://www.linkedin.com/jobs/view/4249594051|
 |inverto  a bcg company|consulting intern in procurement / supply chain management (f/m/d)|vienna, vienna, austria|https://www.linkedin.com/jobs/view/4141975459|
 |ipsen|data analyst / data visualization intern|paris, île-de-france, france|https://www.linkedin.com/jobs/view/4324826717|
-|iterate match gmbh|international sales & business development manager (w/m/d)|vienna, vienna, austria|https://www.linkedin.com/jobs/view/4365869023|
-|itineris|internship: functional analyst|ghent, flemish region, belgium|https://www.linkedin.com/jobs/view/4362378993|
-|jde peet's|brand manager assistant intern|brussels, brussels region, belgium|https://www.linkedin.com/jobs/view/4369124846|
-|jobloom|interne auditor drietalig fr/nl/en|wavre, walloon region, belgium|https://www.linkedin.com/jobs/view/4345858453|
-|jobloom|internship offer – communications & content|ixelles, belgium|https://www.linkedin.com/jobs/view/4369056353|
-|kbc bank & verzekering|actuary internship asset management (2026-2027)|flemish region, belgium|https://www.linkedin.com/jobs/view/4369068469|
-|kepler cheuvreux|internship - etf research : quant analyst - nyon|nyon, vaud, switzerland|https://www.linkedin.com/jobs/view/4330578042|
+|italian hospitality collection|sales analyst intern - ihc|milan, lombardy, italy|https://www.linkedin.com/jobs/view/4372379846|
 |kering|kering supply chain analyst intern|scandicci, tuscany, italy|https://www.linkedin.com/jobs/view/4366780803|
-|kiska|product design intern|salzburg, salzburg, austria|https://www.linkedin.com/jobs/view/4358298667|
-|kpmg italy|it business analyst intern - financial services|turin, piedmont, italy|https://www.linkedin.com/jobs/view/4321217542|
-|kpmg italy|it business analyst intern - financial services|turin, piedmont, italy|https://www.linkedin.com/jobs/view/4324280323|
 |kpmg italy|it business analyst intern sap - financial services|rome, latium, italy|https://www.linkedin.com/jobs/view/4369521972|
-|kraft heinz|global finance analyst capex intern|amsterdam, north holland, netherlands|https://www.linkedin.com/jobs/view/4314263894|
-|kraft heinz|trade category elevation intern|berchem, flemish region, belgium|https://www.linkedin.com/jobs/view/4324998936|
-|larian studios|level design internship|ghent, flemish region, belgium|https://www.linkedin.com/jobs/view/4368733377|
-|lizy|delivery intern be|hôpital etterbeek-ixelles, brussels region, belgium|https://www.linkedin.com/jobs/view/4333851110|
-|lizy|sales intern (inbound)|hôpital etterbeek-ixelles, brussels region, belgium|https://www.linkedin.com/jobs/view/4343747232|
-|lizy|sales intern (outbound)|brussels, brussels region, belgium|https://www.linkedin.com/jobs/view/4354449103|
-|lomography|graphic design intern (m/f/x)|vienna, vienna, austria|https://www.linkedin.com/jobs/view/4337258119|
-|loop earplugs|internship supply chain|antwerp, flemish region, belgium|https://www.linkedin.com/jobs/view/4338789897|
-|louis vuitton|accounting internship - june 2026|brussels, brussels region, belgium|https://www.linkedin.com/jobs/view/4366983631|
-|louis vuitton|client development intern - june 2026|brussels, brussels region, belgium|https://www.linkedin.com/jobs/view/4365718610|
-|louis vuitton|e-commerce internship - july 2026|brussels, brussels region, belgium|https://www.linkedin.com/jobs/view/4365708843|
-|louis vuitton|stock support internship - july 2026|brussels, brussels region, belgium|https://www.linkedin.com/jobs/view/4342690502|
-|louis vuitton|supply chain internship - june 2026|brussels, brussels region, belgium|https://www.linkedin.com/jobs/view/4365591551|
-|louis vuitton|visual merchandising intern - june 2026|brussels, brussels region, belgium|https://www.linkedin.com/jobs/view/4365711841|
-|lvmh perfumes & cosmetics|internship - hr assistant benelux - january 2026|brussels, brussels region, belgium|https://www.linkedin.com/jobs/view/4342422588|
+|la doublej|digital operations analyst intern|milan, lombardy, italy|https://www.linkedin.com/jobs/view/4364473148|
+|loop®|digital media intern|salzburg, salzburg, austria|https://www.linkedin.com/jobs/view/4371896215|
 |lyceum|ml research intern – runtime prediction|zurich, switzerland|https://www.linkedin.com/jobs/view/4323511885|
+|max mara fashion group|sales business analyst & planning - internship|reggio nell'emilia, emilia-romagna, italy|https://www.linkedin.com/jobs/view/4371921572|
+|max mara fashion group|sales business analyst & planning - internship|reggio nell'emilia, emilia-romagna, italy|https://www.linkedin.com/jobs/view/4373801711|
 |mckinsey & company|fellow intern - mckinsey digital|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4291533663|
-|merchery|content marketing intern|brussels, brussels region, belgium|https://www.linkedin.com/jobs/view/4365524316|
-|minor hotels europe and americas|content creator intern (m/f/d) - nhow brussels|brussels, brussels region, belgium|https://www.linkedin.com/jobs/view/4365957207|
-|minor hotels europe and americas|management internship food & beverage (m/f/d) nhow brussels- 3 to 6 months|brussels region, belgium|https://www.linkedin.com/jobs/view/4324315749|
 |mirakl|ai research intern|paris, île-de-france, france|https://www.linkedin.com/jobs/view/4356216353|
 |mongodb|2026 - ux research intern, dublin|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4334696591|
-|moore belgium|business & international tax (sr) consultant|ghent, flemish region, belgium|https://www.linkedin.com/jobs/view/4366387578|
-|moore belgium|business & international tax consultant - start sept/okt 2026|kortrijk, flemish region, belgium|https://www.linkedin.com/jobs/view/4366393363|
-|morningstar|data analyst intern- spanish speaker|madrid, community of madrid, spain|https://www.linkedin.com/jobs/view/4361917826|
+|morningstar|data analyst intern- spanish speaker|madrid, community of madrid, spain|https://www.linkedin.com/jobs/view/4370726298|
 |morningstar|multilingual data analyst intern|madrid, community of madrid, spain|https://www.linkedin.com/jobs/view/4289024990|
 |munich re|munich re investment partners: intern analyst - portfolio management 3-6 months (m/f/d)*|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4362763438|
-|nato communications and information agency (nci agency)|change & configuration management intern|braine-le-comte, walloon region, belgium|https://www.linkedin.com/jobs/view/4361826951|
-|nato communications and information agency (nci agency)|communications intern|brussels, brussels region, belgium|https://www.linkedin.com/jobs/view/4361895102|
-|nato communications and information agency (nci agency)|database services intern (paas service area)|braine-le-comte, walloon region, belgium|https://www.linkedin.com/jobs/view/4361845834|
-|nato communications and information agency (nci agency)|it change coordinator internship|mons, walloon region, belgium|https://www.linkedin.com/jobs/view/4361768660|
-|nato communications and information agency (nci agency)|procurement policy intern|brussels, brussels region, belgium|https://www.linkedin.com/jobs/view/4361739695|
-|nato communications and information agency (nci agency)|resource and portfolio management intern|brussels, brussels region, belgium|https://www.linkedin.com/jobs/view/4362251019|
-|nato|business intelligence intern|braine-le-comte, walloon region, belgium|https://www.linkedin.com/jobs/view/4370486822|
-|nato|business support intern|braine-le-comte, walloon region, belgium|https://www.linkedin.com/jobs/view/4370491759|
-|nato|change & configuration management intern|braine-le-comte, walloon region, belgium|https://www.linkedin.com/jobs/view/4370606289|
-|nato|communications intern|brussels, brussels region, belgium|https://www.linkedin.com/jobs/view/4370496711|
-|nato|configuration management engineer intern|mons, walloon region, belgium|https://www.linkedin.com/jobs/view/4370496710|
-|nato|data analyst intern|braine-le-comte, walloon region, belgium|https://www.linkedin.com/jobs/view/4370495627|
-|nato|database services intern (paas service area)|braine-le-comte, walloon region, belgium|https://www.linkedin.com/jobs/view/4370603393|
-|nato|industry relations intern|brussels, brussels region, belgium|https://www.linkedin.com/jobs/view/4370411395|
-|nato|project management intern|braine-le-comte, walloon region, belgium|https://www.linkedin.com/jobs/view/4370495628|
-|nato|resource and portfolio management intern|brussels, brussels region, belgium|https://www.linkedin.com/jobs/view/4370420009|
-|nestlé|communications intern - nestlé eu government relations|brussels, brussels region, belgium|https://www.linkedin.com/jobs/view/4364336036|
-|newport tank containers|internship|duisburg, flemish region, belgium|https://www.linkedin.com/jobs/view/4185912037|
-|nokia|bell labs master student internship on building novel software development tools (master)|antwerp, flemish region, belgium|https://www.linkedin.com/jobs/view/4349723696|
-|nordex group|p&c compensation intern (m/f/d)|es, flemish region, belgium|https://www.linkedin.com/jobs/view/4278761521|
-|novable|client success executive (internship)|brussels, brussels region, belgium|https://www.linkedin.com/jobs/view/4219137945|
+|mygwork - lgbtq+ business community|data analyst intern- spanish speaker|madrid, community of madrid, spain|https://www.linkedin.com/jobs/view/4364722475|
 |nvidia|accelerated computing research intern|roskilde, region zealand, denmark|https://www.linkedin.com/jobs/view/4368447275|
-|nvidia|applied deep learning research intern, vision language models and computer graphics - 2026|amsterdam, north holland, netherlands|https://www.linkedin.com/jobs/view/4365639139|
-|nvidia|applied deep learning research intern, vision language models and computer graphics - 2026|helsinki, uusimaa, finland|https://www.linkedin.com/jobs/view/4365636175|
 |nvidia|next-generation 6g & ai research intern|roskilde, region zealand, denmark|https://www.linkedin.com/jobs/view/4368464161|
-|nviso security|internship - red team automation|brussels, brussels region, belgium|https://www.linkedin.com/jobs/view/4352993794|
-|nviso security|internship in cyber strategy & architecture - incident readiness|brussels, brussels region, belgium|https://www.linkedin.com/jobs/view/4358891166|
-|nviso security|internship labs - software engineering & ai|brussels, brussels region, belgium|https://www.linkedin.com/jobs/view/4353845999|
-|nviso security|internship labs - software engineering|brussels, brussels region, belgium|https://www.linkedin.com/jobs/view/4353696161|
-|obelis group|commercial internship (sales & customer relations)|brussels, brussels region, belgium|https://www.linkedin.com/jobs/view/4365835302|
-|odoo|software engineer intern|ramillies, walloon region, belgium|https://www.linkedin.com/jobs/view/4365446966|
-|odoo|web designer intern|ottignies-louvain-la-neuve, walloon region, belgium|https://www.linkedin.com/jobs/view/4343095564|
-|otiv|internship product and r&d|ghent, flemish region, belgium|https://www.linkedin.com/jobs/view/4284086124|
-|otiv|internship sales & business development|ghent, flemish region, belgium|https://www.linkedin.com/jobs/view/4287912148|
-|peripass|data science intern|ghent, flemish region, belgium|https://www.linkedin.com/jobs/view/4369064006|
+|nxp semiconductors|internship: global marketing & communications intern (f/m/d) – automotive|gratkorn, styria, austria|https://www.linkedin.com/jobs/view/4368437114|
+|oracle|oracle ai db internship|innere stadt, vienna, austria|https://www.linkedin.com/jobs/view/4364477835|
 |philips|internship - controlling|klagenfurt, carinthia, austria|https://www.linkedin.com/jobs/view/4354460225|
-|pierre fabre laboratories|stage (6 mois) - digital marketing intern ducray - aderma - oral care - (juillet 2026)|brussels region, belgium|https://www.linkedin.com/jobs/view/4366464729|
-|pierre marcolini - chocolatier|international sales intern|brussels, brussels region, belgium|https://www.linkedin.com/jobs/view/4363882390|
 |pimco|2026 summer internship – client solutions & analytics analyst, emea|london, england, united kingdom|https://www.linkedin.com/jobs/view/4302198279|
-|plastipak|procurement intern - corporate|flemish region, belgium|https://www.linkedin.com/jobs/view/4321427365|
-|political intelligence españa|eu public affairs intern in digital policy (brussels)|brussels, brussels region, belgium|https://www.linkedin.com/jobs/view/4344543727|
-|procter & gamble|data science internship|brussels, brussels region, belgium|https://www.linkedin.com/jobs/view/4271496878|
-|procter & gamble|r&d data science internship|brussels, brussels region, belgium|https://www.linkedin.com/jobs/view/4299201896|
-|procter & gamble|supply chain & manufacturing intern|brussels, brussels region, belgium|https://www.linkedin.com/jobs/view/4285894874|
-|proximus ada|internship - frontend designer|brussels, brussels region, belgium|https://www.linkedin.com/jobs/view/4360469849|
-|puratos|internship : r&d ingredient and processing aid screening for bakery improvers|groot-bijgaarden, flemish region, belgium|https://www.linkedin.com/jobs/view/4359521735|
-|pwc belgium|actuarial intern|brussels, brussels region, belgium|https://www.linkedin.com/jobs/view/4318031866|
-|pwc belgium|school internship - smart manufacturing implementation (as of june 2026)|brussels, brussels region, belgium|https://www.linkedin.com/jobs/view/4278905269|
-|pwc belgium|school internship - smart manufacturing strategy (as of june 2026)|brussels, brussels region, belgium|https://www.linkedin.com/jobs/view/4278905270|
-|pwc belgium|school internship in communications|brussels, brussels region, belgium|https://www.linkedin.com/jobs/view/4353934737|
-|pwc belgium|school internship in deals analytics (2026-2027)|brussels, brussels region, belgium|https://www.linkedin.com/jobs/view/4352392022|
-|pwc belgium|school internship in deals analytics (as of april '26)|brussels, brussels region, belgium|https://www.linkedin.com/jobs/view/4165418558|
-|pwc belgium|school internship in payroll (2025-2026)|brussels, brussels region, belgium|https://www.linkedin.com/jobs/view/4309984853|
-|pwc belgium|school internship in valuation & modelling (2026-2027)|brussels, brussels region, belgium|https://www.linkedin.com/jobs/view/4352292286|
+|procter & gamble|strategic finance internship (m/f/d)|vienna, vienna, austria|https://www.linkedin.com/jobs/view/4259885049|
 |pwc italy|advisory intern - digital process & hyperautomation: focus business analyst - milano|milan, lombardy, italy|https://www.linkedin.com/jobs/view/4266636864|
+|qualcomm|fy26 intern - ml compiler research intern (megakernels) - 6 months, strasbourg, france|strasbourg, grand est, france|https://www.linkedin.com/jobs/view/4371795071|
 |qualcomm|fy26 intern – research deep learning & 3d computer vision - 6 months, amsterdam|amsterdam, north holland, netherlands|https://www.linkedin.com/jobs/view/4359011404|
-|radisson hotel group|general manager assistant intern (6-month internship)|sterrebeek, flemish region, belgium|https://www.linkedin.com/jobs/view/4369837208|
-|radisson hotel group|meetings & events intern|sterrebeek, flemish region, belgium|https://www.linkedin.com/jobs/view/4369838141|
+|rankscale ai|sales & customer success intern|vienna, vienna, austria|https://www.linkedin.com/jobs/view/4364549759|
 |red bull media house|internship ai in software development|elsbethen, salzburg, austria|https://www.linkedin.com/jobs/view/4356163799|
 |red bull media house|internship game art & video editing|elsbethen, salzburg, austria|https://www.linkedin.com/jobs/view/4369251378|
 |red bull media house|internship generative ai engineer|elsbethen, salzburg, austria|https://www.linkedin.com/jobs/view/4363684148|
 |red bull media house|internship media automation engineer|elsbethen, salzburg, austria|https://www.linkedin.com/jobs/view/4356183423|
 |red bull|internship global partnerships|fuschl am see, salzburg, austria|https://www.linkedin.com/jobs/view/4369943062|
-|red bull|internship operations data & process development|elsbethen, salzburg, austria|https://www.linkedin.com/jobs/view/4367439868|
 |reevo cloud & cyber security|process analyst & technical writer intern|vimercate, lombardy, italy|https://www.linkedin.com/jobs/view/4293834818|
+|revo foods|student internship in 3d food printing|vienna, vienna, austria|https://www.linkedin.com/jobs/view/4294430389|
 |revo foods|student internship in sales|vienna, vienna, austria|https://www.linkedin.com/jobs/view/4359816108|
 |ripple|ubri research associate intern, ripple impact (summer 2026)|london, england, united kingdom|https://www.linkedin.com/jobs/view/4327606631|
 |roland berger|intern research (all genders)|kyiv, ukraine|https://www.linkedin.com/jobs/view/4355768523|
-|rosendahl nextrom gmbh|robot learning intern|pischelsdorf in der steiermark, styria, austria|https://www.linkedin.com/jobs/view/4357151769|
-|rsm belgium|internship accountancy - zaventem - academic year 2025- 2026|aalst, flemish region, belgium|https://www.linkedin.com/jobs/view/4315926689|
-|rsm belgium|internship accountancy - zaventem - academic year 2025- 2026|aalst, flemish region, belgium|https://www.linkedin.com/jobs/view/4356551382|
-|rsm belgium|internship transactions - academic year 2026 - 2027|zaventem, flemish region, belgium|https://www.linkedin.com/jobs/view/4337376768|
+|rosewood schloss fuschl|f&b service intern|salzburg, salzburg, austria|https://www.linkedin.com/jobs/view/4358594150|
+|safilo|sales data analyst - intern|padua, veneto, italy|https://www.linkedin.com/jobs/view/4369604016|
 |saint laurent|saint laurent raw material research intern|scandicci, tuscany, italy|https://www.linkedin.com/jobs/view/4361832941|
 |sap|sap ixp intern (f/m/d) - adoption & consumption business intelligence analyst|walldorf, baden-württemberg, germany|https://www.linkedin.com/jobs/view/4369155871|
 |sap|sap ixp intern (w/m/d)- business intelligence analyst für adoption & consumption|walldorf, baden-württemberg, germany|https://www.linkedin.com/jobs/view/4369155870|
-|septentrio part of hexagon|internship  test automation engineer  leuven|leuven, flemish region, belgium|https://www.linkedin.com/jobs/view/4356223351|
-|sia|hr intern|brussels, brussels region, belgium|https://www.linkedin.com/jobs/view/4363593949|
+|servus intralogistics gmbh|mechanische montage im anlagenbau  intern und extern|dornbirn, vorarlberg, austria|https://www.linkedin.com/jobs/view/4354695258|
 |siemens digital industries software|research intern aero virtual sensing - strategic student program|rome, latium, italy|https://www.linkedin.com/jobs/view/4319272944|
-|siemens digital industries software|technical marketing internship – digital manufacturing engineering|leuven, flemish region, belgium|https://www.linkedin.com/jobs/view/4319946902|
-|snap inc.|computer vision engineering intern|vienna, vienna, austria|https://www.linkedin.com/jobs/view/4345170458|
-|snap inc.|computer vision engineering intern|vienna, vienna, austria|https://www.linkedin.com/jobs/view/4345440232|
-|spadel|marketing intern|brussels, brussels region, belgium|https://www.linkedin.com/jobs/view/4370396492|
-|stmicroelectronics|nfc software application intern (part time)|graz, styria, austria|https://www.linkedin.com/jobs/view/4354631347|
-|strabag|kaufmännische:r projektleiter:in für internationale großprojekte|vienna, vienna, austria|https://www.linkedin.com/jobs/view/4298493420|
-|syensqo|commercial excellence analyst intern|brussels, brussels region, belgium|https://www.linkedin.com/jobs/view/4368858415|
-|syensqo|data analyst intern|brussels, brussels region, belgium|https://www.linkedin.com/jobs/view/4365442102|
-|targetjobs uk|2026 economic intern (short-term) - brussels|brussels, brussels region, belgium|https://www.linkedin.com/jobs/view/4315720357|
+|taleo consulting|it analyst intern (end-of-studies internship)|luxembourg, luxembourg|https://www.linkedin.com/jobs/view/4363101176|
 |targetjobs uk|2026 summer internship – client solutions & analytics analyst|london, england, united kingdom|https://www.linkedin.com/jobs/view/4327180898|
-|tata consultancy services|sustainability intern|brussels, brussels region, belgium|https://www.linkedin.com/jobs/view/4368203807|
+|teciem|financial quality assurance analyst - internship program|bucharest, bucharest, romania|https://www.linkedin.com/jobs/view/4370426747|
 |tencent|ai agent research & application intern|london, england, united kingdom|https://www.linkedin.com/jobs/view/4366734278|
-|tencent|nlp research intern|london area, united kingdom|https://www.linkedin.com/jobs/view/4351872695|
 |tencent|nlp research intern|london, england, united kingdom|https://www.linkedin.com/jobs/view/4364274149|
-|terumo europe|data portal & data literacy intern|leuven, flemish region, belgium|https://www.linkedin.com/jobs/view/4337470555|
 |the ocean cleanup|internship &#8211; ocean research|rotterdam, south holland, netherlands|https://www.linkedin.com/jobs/view/4359873041|
 |the walt disney company germany|disney research intern|zurich, zurich, switzerland|https://www.linkedin.com/jobs/view/4305603218|
 |the walt disney company|disney research intern|zurich, zurich, switzerland|https://www.linkedin.com/jobs/view/4322758875|
-|thon hotels brussels & rotterdam|front office intern|brussels, brussels region, belgium|https://www.linkedin.com/jobs/view/4367418903|
+|toddle gmbh|e-commerce internship|vienna, vienna, austria|https://www.linkedin.com/jobs/view/4364546805|
 |toddle gmbh|marketing and content creation intern|vienna, vienna, austria|https://www.linkedin.com/jobs/view/4356002970|
-|toyota motor europe|big data analysis for future vehicles r&d internship|zaventem, flemish region, belgium|https://www.linkedin.com/jobs/view/4360464953|
-|toyota motor europe|purchasing intern – profit management & sustainability|zaventem, flemish region, belgium|https://www.linkedin.com/jobs/view/4370412704|
-|ul solutions|internship, data analyst|barcelona, catalonia, spain|https://www.linkedin.com/jobs/view/4345021333|
-|undp careers|research and data analysis intern|berlin, berlin, germany|https://www.linkedin.com/jobs/view/4366742705|
-|undp in the arab states region|research and data analysis intern|berlin, berlin, germany|https://www.linkedin.com/jobs/view/4367033341|
-|unilever|internship human resources|anderlecht, brussels region, belgium|https://www.linkedin.com/jobs/view/4369830905|
-|unodc careers|crime prevention and criminal justice intern (anti-corruption)|vienna, vienna, austria|https://www.linkedin.com/jobs/view/4369934466|
-|vanheede environment group|logistiek medewerker afvalbeheer (intern & bij klanten)|roeselare, flemish region, belgium|https://www.linkedin.com/jobs/view/4368088930|
-|viatris|it business analyst - internship|milan, lombardy, italy|https://www.linkedin.com/jobs/view/4345725336|
+|uniqa insurance group|intern group strategy & transformation (m/w/d) (befristet für 6 monate)|vienna, vienna, austria|https://www.linkedin.com/jobs/view/4366209225|
 |visa|consulting & analytics intern (for students graduating in 2027)|vienna, vienna, austria|https://www.linkedin.com/jobs/view/4359252699|
-|weber shandwick|junior associate (internship for graduates) - belgian market fr|brussels, brussels region, belgium|https://www.linkedin.com/jobs/view/4353440234|
-|windeurope|education and skills - project intern|brussels, brussels region, belgium|https://www.linkedin.com/jobs/view/4356875360|
+|volkswagen algérie|intern / thesis accident research driver assistance system assessment|wolfsburg, lower saxony, germany|https://www.linkedin.com/jobs/view/4371613687|
+|volkswagen group|intern / thesis accident research driver assistance system assessment|wolfsburg, lower saxony, germany|https://www.linkedin.com/jobs/view/4371161403|
+|waagner-biro stage systems|supervisor elektrotechnik - international mfd|vienna, vienna, austria|https://www.linkedin.com/jobs/view/4311112556|
 |worldline|sales data analyst intern|rome, latium, italy|https://www.linkedin.com/jobs/view/4281869115|
 |yinson production|corporate treasury analyst intern|the hague, south holland, netherlands|https://www.linkedin.com/jobs/view/4368013632|
-|zf group|intern purchasing (m/f/d)|lommel, flemish region, belgium|https://www.linkedin.com/jobs/view/4360562278|
