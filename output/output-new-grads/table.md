@@ -8,10 +8,6 @@
 |databricks|software engineer - new grad (2026 start) - aarhus|aarhus, central denmark region, denmark|https://www.linkedin.com/jobs/view/4297744052|
 |databricks|software engineer - new grad (2026 start)|amsterdam, north holland, netherlands|https://www.linkedin.com/jobs/view/4297756009|
 |deliveroo|software engineer, new grad|london, england, united kingdom|https://www.linkedin.com/jobs/view/4379662791|
-|institute of communication|software engineer- grad|london, england, united kingdom|https://www.linkedin.com/jobs/view/4378655595|
-|mistral ai|software engineer, new grad|paris, île-de-france, france|https://www.linkedin.com/jobs/view/4346224554|
-|palantir technologies|forward deployed software engineer, new grad - commercial|london, england, united kingdom|https://www.linkedin.com/jobs/view/4280355917|
-|palantir technologies|forward deployed software engineer, new grad - uk government|london, england, united kingdom|https://www.linkedin.com/jobs/view/4277538770|
 |palantir technologies|software engineer, new grad - infrastructure|london, england, united kingdom|https://www.linkedin.com/jobs/view/4277542207|
 |palantir technologies|software engineer, new grad - production infrastructure|london, england, united kingdom|https://www.linkedin.com/jobs/view/4277540268|
 |palantir technologies|software engineer, new grad|london, england, united kingdom|https://www.linkedin.com/jobs/view/4277536943|
