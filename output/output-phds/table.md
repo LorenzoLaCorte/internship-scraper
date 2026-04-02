@@ -9,4 +9,5 @@
 |google|software engineer, performance, reliability, observability, phd, early career|warsaw, mazowieckie, poland|https://www.linkedin.com/jobs/view/4321301694|
 |google|software engineer, phd, early career, 2026 start|warsaw, mazowieckie, poland|https://www.linkedin.com/jobs/view/4365572950|
 |google|software engineer, phd, early career, compute infrastructure, spatial flexibility|cracow, małopolskie, poland|https://www.linkedin.com/jobs/view/4383209565|
+|google|software engineer, phd, early career, compute infrastructure, spatial flexibility|warsaw, mazowieckie, poland|https://www.linkedin.com/jobs/view/4382459042|
 |google|software engineer, tpu compiler, phd, early careers|london, england, united kingdom|https://www.linkedin.com/jobs/view/4366898452|
