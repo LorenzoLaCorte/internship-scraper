@@ -18,16 +18,14 @@
 |acca careers|financial analyst intern|kirchberg, luxembourg, luxembourg|https://www.linkedin.com/jobs/view/4387829044|
 |acca careers|financial analyst intern|london, england, united kingdom|https://www.linkedin.com/jobs/view/4387808944|
 |acca careers|financial analyst intern|london, england, united kingdom|https://www.linkedin.com/jobs/view/4387814607|
-|acca careers|financial analyst intern|london, england, united kingdom|https://www.linkedin.com/jobs/view/4392354081|
+|acca careers|financial analyst intern|london, england, united kingdom|https://www.linkedin.com/jobs/view/4397725306|
 |acca careers|financial analyst intern|madrid, community of madrid, spain|https://www.linkedin.com/jobs/view/4387812669|
 |acca careers|financial analyst intern|madrid, community of madrid, spain|https://www.linkedin.com/jobs/view/4387830016|
 |acca careers|financial analyst intern|milan, lombardy, italy|https://www.linkedin.com/jobs/view/4387824194|
 |acca careers|financial analyst intern|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4387821350|
 |acca careers|financial analyst intern|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4387823205|
 |argenx|research internship for bachelors ay 2026-2027|ghent, flemish region, belgium|https://www.linkedin.com/jobs/view/4374227694|
-|argenx|research internship for masters ay 2026-2027|ghent, flemish region, belgium|https://www.linkedin.com/jobs/view/4357490869|
 |autodesk|intern, ai research|united kingdom|https://www.linkedin.com/jobs/view/4380995892|
-|autodesk|intern, ai research|united kingdom|https://www.linkedin.com/jobs/view/4381112061|
 |britannica capital|investor engagement & research intern|stockholm, stockholm county, sweden|https://www.linkedin.com/jobs/view/4391649361|
 |census|internship vulnerability researcher|thessaloniki, central macedonia, greece|https://www.linkedin.com/jobs/view/4161577082|
 |constructor tech|ml research intern in agentic runtime systems|bremen, bremen, germany|https://www.linkedin.com/jobs/view/4368340297|
@@ -37,10 +35,15 @@
 |graphcore|intern - research|london, england, united kingdom|https://www.linkedin.com/jobs/view/4388953441|
 |harmattan ai|ai research intern|lausanne, vaud, switzerland|https://www.linkedin.com/jobs/view/4388596035|
 |harmattan ai|ai research intern|paris, île-de-france, france|https://www.linkedin.com/jobs/view/4387995341|
+|hp|threat research intern|bristol, england, united kingdom|https://www.linkedin.com/jobs/view/4382489208|
 |huawei ireland research center|2026 - ai research intern - llms|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4362100204|
 |huawei technologies research & development (uk) ltd|research intern - computer vision (visuals)|london, england, united kingdom|https://www.linkedin.com/jobs/view/4368290351|
-|huawei|research intern – cpu microarchitecture and memory hierarchy|dübendorf, zurich, switzerland|https://www.linkedin.com/jobs/view/4371797988|
-|kubota holdings europe|precision farming research internship|nieuw-vennep, north holland, netherlands|https://www.linkedin.com/jobs/view/4379643439|
+|huawei|intern - ai architectures research for safety related systems|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4393803558|
+|huawei|intern - optics research|jena, thuringia, germany|https://www.linkedin.com/jobs/view/4393025727|
+|jump crypto|campus intern crypto researcher 2026 ldn|london, england, united kingdom|https://www.linkedin.com/jobs/view/4393923770|
+|kubota holdings europe|precision farming research internship|nieuw-vennep, north holland, netherlands|https://www.linkedin.com/jobs/view/4393882317|
+|kubota in europe|precision farming research internship|nieuw-vennep, north holland, netherlands|https://www.linkedin.com/jobs/view/4397330249|
+|kyndryl|cyber analyst intern|wrocław, dolnośląskie, poland|https://www.linkedin.com/jobs/view/4393850481|
 |la doublej|digital operations analyst intern|milan, lombardy, italy|https://www.linkedin.com/jobs/view/4364473148|
 |mckinsey & company|fellow intern - mckinsey digital|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4291533663|
 |mind friend|psychology research intern|birmingham, england, united kingdom|https://www.linkedin.com/jobs/view/4389000571|
@@ -49,15 +52,18 @@
 |mind friend|psychology research intern|liverpool, england, united kingdom|https://www.linkedin.com/jobs/view/4389002500|
 |mind friend|psychology research intern|london, england, united kingdom|https://www.linkedin.com/jobs/view/4389009227|
 |mind friend|psychology research intern|manchester, england, united kingdom|https://www.linkedin.com/jobs/view/4389015140|
+|msd netherlands|intern - bachelor/master applied sciences- r&d discovery & technology|boxmeer, north brabant, netherlands|https://www.linkedin.com/jobs/view/4394393750|
 |neulabs|business analyst intern|milan, lombardy, italy|https://www.linkedin.com/jobs/view/4395023029|
 |nvidia|accelerated computing research intern|roskilde, region zealand, denmark|https://www.linkedin.com/jobs/view/4377489608|
 |nvidia|robotics research intern - 2026|zurich, zurich, switzerland|https://www.linkedin.com/jobs/view/4384541692|
 |qualcomm|fy26 intern - ml compiler research intern (megakernels) - 6 months, strasbourg, france|strasbourg, grand est, france|https://www.linkedin.com/jobs/view/4371795071|
 |qualcomm|fy26 intern – research deep learning & 3d computer vision - 6 months, amsterdam|amsterdam, north holland, netherlands|https://www.linkedin.com/jobs/view/4359011404|
 |samsung electronics uk|intern - ai research|cambridge, england, united kingdom|https://www.linkedin.com/jobs/view/4380369656|
-|superhuman|applied research intern (summer 2026)|berlin, germany|https://www.linkedin.com/jobs/view/4390133188|
+|socio-legal consulting|gk research internship 2026|leiden, south holland, netherlands|https://www.linkedin.com/jobs/view/4397796943|
+|superhuman|applied research intern (summer 2026)|berlin, berlin, germany|https://www.linkedin.com/jobs/view/4393456994|
 |tencent|ai agent research & application intern|london, england, united kingdom|https://www.linkedin.com/jobs/view/4366734278|
 |tencent|game research intern|amsterdam, north holland, netherlands|https://www.linkedin.com/jobs/view/4387833822|
+|tencent|generative ai research intern|london, england, united kingdom|https://www.linkedin.com/jobs/view/4393591549|
 |tencent|nlp research intern|london, england, united kingdom|https://www.linkedin.com/jobs/view/4364274149|
 |the walt disney company germany|disney research intern|zurich, zurich, switzerland|https://www.linkedin.com/jobs/view/4305603218|
 |the walt disney company|disney research intern|zurich, zurich, switzerland|https://www.linkedin.com/jobs/view/4322758875|
