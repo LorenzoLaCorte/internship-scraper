@@ -18,9 +18,10 @@
 |hewlett packard enterprise|junior software support engineer graduate|sofia, sofia city, worldwide|https://www.linkedin.com/jobs/view/4385183630|
 |man group|graduate programme – software engineer (python, java))|sofia, sofia city, worldwide|https://www.linkedin.com/jobs/view/4310305735|
 |man group|technology graduate programme – software engineer (c#/.net)|sofia, sofia city, worldwide|https://www.linkedin.com/jobs/view/4365478310|
-|palantir technologies|forward deployed software engineer, new grad - commercial|london, england, united kingdom|https://www.linkedin.com/jobs/view/4280355917|
+|palantir technologies|forward deployed software engineer, new grad - uk government|london, england, united kingdom|https://www.linkedin.com/jobs/view/4277538770|
 |palantir technologies|software engineer, new grad - infrastructure|london, england, united kingdom|https://www.linkedin.com/jobs/view/4277542207|
 |palantir technologies|software engineer, new grad - production infrastructure|london, england, united kingdom|https://www.linkedin.com/jobs/view/4277540268|
 |palantir technologies|software engineer, new grad|london, england, united kingdom|https://www.linkedin.com/jobs/view/4277536943|
 |stripe|software engineer, new grad|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4294949931|
+|toyota motor europe, bureau de paris|graduate - software quality engineer for connected services|zaventem, flemish region, belgium|https://www.linkedin.com/jobs/view/4395965647|
 |twipe|young graduate – software engineer|leuven, flemish region, belgium|https://www.linkedin.com/jobs/view/4373610069|
