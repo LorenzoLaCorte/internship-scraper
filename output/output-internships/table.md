@@ -1,8 +1,8 @@
 |company|title|location|link|
 |---|---|---|---|
-|amazon|2026 software dev engineer intern - france|clichy, île-de-france, france|https://www.linkedin.com/jobs/view/4342023786|
 |amazon|2026 software dev engineer intern - ireland|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4392944927|
 |amazon|2026 software dev engineer intern - luxembourg|luxembourg, luxembourg, luxembourg|https://www.linkedin.com/jobs/view/4338262127|
+|amazon|2026 software dev engineer intern - uk|cambridge, england, united kingdom|https://www.linkedin.com/jobs/view/4308092612|
 |amazon|2026 software dev engineer intern - uk|edinburgh, scotland, united kingdom|https://www.linkedin.com/jobs/view/4308093564|
 |amazon|2026 software dev engineer intern - uk|london, england, united kingdom|https://www.linkedin.com/jobs/view/4308097460|
 |amazon|software dev intern - ai / machine learning|cambridge, england, united kingdom|https://www.linkedin.com/jobs/view/4341060523|
