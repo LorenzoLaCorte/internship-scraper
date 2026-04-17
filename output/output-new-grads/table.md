@@ -1,7 +1,6 @@
 |company|title|location|link|
 |---|---|---|---|
 |arm|graduate gpu software developer|lund, skåne county, sweden|https://www.linkedin.com/jobs/view/4381872729|
-|arm|graduate ml software engineer|lund, skåne county, sweden|https://www.linkedin.com/jobs/view/4329674371|
 |arm|graduate software and automation / devops engineer|sophia antipolis, provence-alpes-côte d'azur, france|https://www.linkedin.com/jobs/view/4365892575|
 |barco|new graduate-software engineer|kortrijk, flemish region, belgium|https://www.linkedin.com/jobs/view/4391866229|
 |canonical|software engineer - python - cloud - graduate level|antwerp, flemish region, belgium|https://www.linkedin.com/jobs/view/4389963229|
@@ -19,9 +18,5 @@
 |man group|graduate programme – software engineer (python, java))|sofia, sofia city, worldwide|https://www.linkedin.com/jobs/view/4310305735|
 |man group|technology graduate programme – software engineer (c#/.net)|sofia, sofia city, worldwide|https://www.linkedin.com/jobs/view/4365478310|
 |palantir technologies|forward deployed software engineer, new grad - uk government|london, england, united kingdom|https://www.linkedin.com/jobs/view/4277538770|
-|palantir technologies|software engineer, new grad - infrastructure|london, england, united kingdom|https://www.linkedin.com/jobs/view/4277542207|
-|palantir technologies|software engineer, new grad - production infrastructure|london, england, united kingdom|https://www.linkedin.com/jobs/view/4277540268|
 |palantir technologies|software engineer, new grad|london, england, united kingdom|https://www.linkedin.com/jobs/view/4277536943|
-|stripe|software engineer, new grad|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4294949931|
-|toyota motor europe, bureau de paris|graduate - software quality engineer for connected services|zaventem, flemish region, belgium|https://www.linkedin.com/jobs/view/4395965647|
 |twipe|young graduate – software engineer|leuven, flemish region, belgium|https://www.linkedin.com/jobs/view/4373610069|
