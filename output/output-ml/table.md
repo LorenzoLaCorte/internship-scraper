@@ -4,14 +4,3 @@
 |amazon|software dev intern - ai / machine learning|london, england, united kingdom|https://www.linkedin.com/jobs/view/4340789851|
 |meta|research scientist intern, ai/ml, core ads growth (phd)|london, england, united kingdom|https://www.linkedin.com/jobs/view/4350561859|
 |meta|research scientist intern, ai/ml, core ads growth (phd)|zurich, zurich, switzerland|https://www.linkedin.com/jobs/view/4350551757|
-|alcon|ai engineer intern - early careers program|warsaw, mazowieckie, poland|https://www.linkedin.com/jobs/view/4398379938|
-|clarios|intern (m/f/d) for ai and data analysis in vehicle lab|hannover, lower saxony, germany|https://www.linkedin.com/jobs/view/4359253694|
-|engelhart|ai & agentic platform intern (ai & software engineering sandwich placement year)|london, england, united kingdom|https://www.linkedin.com/jobs/view/4393597663|
-|fanuc europe|intern sustainability|contern, luxembourg, luxembourg|https://www.linkedin.com/jobs/view/4390376031|
-|interpath|internship - procurement & supply chain management  consulting (m/f/d)|düsseldorf, north rhine-westphalia, germany|https://www.linkedin.com/jobs/view/4385763140|
-|interpath|internship - procurement & supply chain management  consulting|berlin, berlin, germany|https://www.linkedin.com/jobs/view/4398398378|
-|interpath|internship - procurement & supply chain management  consulting|düsseldorf, north rhine-westphalia, germany|https://www.linkedin.com/jobs/view/4398388769|
-|interpath|internship - procurement & supply chain management  consulting|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4398397560|
-|interpath|internship - procurement & supply chain management  consulting|vienna, vienna, austria|https://www.linkedin.com/jobs/view/4398501342|
-|jobs via efinancialcareers|internship - procurement & supply chain management  consulting - interpath advisory|düsseldorf, north rhine-westphalia, germany|https://www.linkedin.com/jobs/view/4399406427|
-|leeroo|research scientist intern – phd (ai agentic systems)|london, england, united kingdom|https://www.linkedin.com/jobs/view/4270923748|
