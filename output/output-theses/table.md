@@ -1,15 +1,13 @@
 |company|title|location|link|
 |---|---|---|---|
 |amazon|2026 software dev engineer intern - ireland|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4392944927|
-|amazon|2026 software dev engineer intern - luxembourg|luxembourg, luxembourg, luxembourg|https://www.linkedin.com/jobs/view/4338262127|
 |amazon|2026 software dev engineer intern - uk|cambridge, england, united kingdom|https://www.linkedin.com/jobs/view/4308092612|
 |amazon|2026 software dev engineer intern - uk|edinburgh, scotland, united kingdom|https://www.linkedin.com/jobs/view/4308093564|
 |amazon|2026 software dev engineer intern - uk|london, england, united kingdom|https://www.linkedin.com/jobs/view/4308097460|
 |amazon|software development engineer internship - vaga para mulheres, ies- latech|deventer, overijssel, netherlands|https://www.linkedin.com/jobs/view/4342905273|
-|amazon|software development intern, intech|deventer, overijssel, netherlands|https://www.linkedin.com/jobs/view/4334183568|
 |devoteam  google cloud partner|young graduates - google cloud, data & ai|machelen, flemish region, belgium|https://www.linkedin.com/jobs/view/4386162331|
 |devoteam  google cloud partner|young graduates – google cloud, data & ai|amsterdam, north holland, netherlands|https://www.linkedin.com/jobs/view/4395006944|
-|acemate.ai|software developer (intern)|berlin, berlin, germany|https://www.linkedin.com/jobs/view/4399011215|
+|acemate.ai|software developer (intern / working student)|berlin, berlin, germany|https://www.linkedin.com/jobs/view/4399011215|
 |air space intelligence|internship - software engineer|gdańsk, pomorskie, poland|https://www.linkedin.com/jobs/view/4392918629|
 |airbus defence and space|internship (d/f/m) within satellite onboard software|immenstaad am bodensee, baden-württemberg, germany|https://www.linkedin.com/jobs/view/4402810166|
 |airbus defence and space|working student (d/f/m) procurement commodity it & ground systems|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4404114970|
@@ -24,10 +22,10 @@
 |nextaudit|praktikum (w/m/d) softwareentwickler - vue.js|aachen, north rhine-westphalia, germany|https://www.linkedin.com/jobs/view/4401224662|
 |niologic gmbh|physiker (m/w/d) als trainee software engineering for ai-systems|hürth, north rhine-westphalia, germany|https://www.linkedin.com/jobs/view/4401693326|
 |objektkultur software gmbh|praktikum, werkstudierende - cloud infrastruktur & security (m/w/d)|karlsruhe, baden-württemberg, germany|https://www.linkedin.com/jobs/view/4404191036|
+|sequence|senior software engineer - london|london, england, united kingdom|https://www.linkedin.com/jobs/view/4372210752|
 |siemens digital industries software|embedded software qa engineer, internship|poznań, wielkopolskie, poland|https://www.linkedin.com/jobs/view/4390997804|
 |snowflake|software engineer intern (backend) - warsaw 2026|warsaw, mazowieckie, poland|https://www.linkedin.com/jobs/view/4343110115|
 |snowflake|software engineer intern - berlin (2026)|berlin, berlin, germany|https://www.linkedin.com/jobs/view/4311124015|
 |taktile|software engineer intern|berlin, berlin, germany|https://www.linkedin.com/jobs/view/4342501529|
 |taktile|software engineer intern|iaşi, iaşi, romania|https://www.linkedin.com/jobs/view/4318298888|
-|undp careers|software developer internship|copenhagen, capital region of denmark, denmark|https://www.linkedin.com/jobs/view/4391731630|
 |winnow|summer intern - software engineer (2026/2027 graduates)|cluj-napoca, cluj, romania|https://www.linkedin.com/jobs/view/4384304692|
