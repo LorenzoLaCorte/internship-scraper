@@ -10,6 +10,7 @@
 |amazon|financial analyst intern|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4334430524|
 |amazon|financial analyst intern|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4341566719|
 |amazon|ux researcher intern|madrid, community of madrid, spain|https://www.linkedin.com/jobs/view/4402067590|
+|bigblue|data analyst intern — ops excellence|paris, île-de-france, france|https://www.linkedin.com/jobs/view/4410799533|
 |kyndryl|cyber analyst intern|wrocław, dolnośląskie, poland|https://www.linkedin.com/jobs/view/4393850481|
 |la doublej|digital operations analyst intern|milan, lombardy, italy|https://www.linkedin.com/jobs/view/4364473148|
 |thomson reuters|phd research scientist intern - foundational research|london, england, united kingdom|https://www.linkedin.com/jobs/view/4373381635|
