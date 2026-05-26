@@ -1,7 +1,9 @@
 |company|title|location|link|
 |---|---|---|---|
+|amazon|2026 applied scientist intern, amazon university talent acquisition|berlin, berlin, germany|https://www.linkedin.com/jobs/view/4369755791|
 |amazon|business analyst intern 2026|milan, lombardy, italy|https://www.linkedin.com/jobs/view/4407453799|
 |amazon|ux researcher intern|madrid, community of madrid, spain|https://www.linkedin.com/jobs/view/4402067590|
+|apple|phy systems engineer – demodulation internship (m/f/d)|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4414165430|
 |apple|phy systems engineer – demodulation internship (m/f/d)|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4414165430|
 |apple|soc performance modeling internship - platform architecture (m/f/d)|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4414155766|
 |apple|soc performance modeling internship - platform architecture (m/f/d)|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4414155766|
