@@ -2,30 +2,32 @@
 |---|---|---|---|
 |amazon|amazon business development intern|getafe, community of madrid, spain|https://www.linkedin.com/jobs/view/4412935299|
 |amazon|business analyst intern 2026|milan, lombardy, italy|https://www.linkedin.com/jobs/view/4407453799|
-|amazon|business analyst intern 2026|milan, lombardy, italy|https://www.linkedin.com/jobs/view/4407453799|
 |amazon|business intelligence intern|luxembourg, luxembourg, luxembourg|https://www.linkedin.com/jobs/view/4416060799|
-|amazon|business intelligence intern|luxembourg, luxembourg, luxembourg|https://www.linkedin.com/jobs/view/4416060799|
-|amazon|deu business development intern - 12 months, amazon university talent acquisition|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4364026859|
 |amazon|deu business development intern - 12 months, amazon university talent acquisition|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4364026859|
 |amazon|deu business development intern - 6 months, amazon university talent acquisition|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4413974057|
-|amazon|financial analyst, international theatrical finance, international theatrical finance|berlin, germany|https://www.linkedin.com/jobs/view/4412412343|
 |amazon|ita business development intern - 6 months, amazon university talent acquisition|milan, lombardy, italy|https://www.linkedin.com/jobs/view/4386962489|
-|acca careers|business analyst intern 2026|milan, lombardy, italy|https://www.linkedin.com/jobs/view/4420406350|
+|acca careers|business analyst intern 2026|milan, lombardy, italy|https://www.linkedin.com/jobs/view/4423379126|
+|alantra|marketing & communications intern / analyst (madrid, spain)|madrid, community of madrid, spain|https://www.linkedin.com/jobs/view/4420122433|
 |arthur d. little|uk business analyst intern|city of london, england, united kingdom|https://www.linkedin.com/jobs/view/4413021331|
-|bitmovin|business internship|klagenfurt, carinthia, austria|https://www.linkedin.com/jobs/view/4395289654|
+|bishvili innovation group inc.|marketing intern|vienna, austria|https://www.linkedin.com/jobs/view/4420763169|
+|bitmovin|ai business internship|klagenfurt, carinthia, austria|https://www.linkedin.com/jobs/view/4395289654|
 |blp|internship business|vienna, vienna, austria|https://www.linkedin.com/jobs/view/4414472854|
+|coopervision|marketing assistant intern|lainate, lombardy, italy|https://www.linkedin.com/jobs/view/4411496551|
 |electra|business development intern - austria 🇦🇹|vienna, vienna, austria|https://www.linkedin.com/jobs/view/4243913268|
-|henkel|compulsory internship regional marketing eu (d/f/m) - start june 2026|innere stadt, vienna, austria|https://www.linkedin.com/jobs/view/4411348830|
+|jaeger-lecoultre|marketing business analyst intern|meyrin, geneva, switzerland|https://www.linkedin.com/jobs/view/4424225840|
+|jakala|intern  business analyst (maize)|milan, lombardy, italy|https://www.linkedin.com/jobs/view/4420197363|
+|jobster|business analyst internship at nova founders - studentjob.co.uk|london, england, united kingdom|https://www.linkedin.com/jobs/view/4424376582|
 |kpmg italy|it business analyst intern sap - financial services|milan, lombardy, italy|https://www.linkedin.com/jobs/view/4392873977|
 |kpmg italy|it business analyst intern sap - financial services|rome, latium, italy|https://www.linkedin.com/jobs/view/4392890558|
-|kraft heinz|global finance analyst capex intern|amsterdam, north holland, netherlands|https://www.linkedin.com/jobs/view/4412128415|
-|kraft heinz|global supply chain finance intern|amsterdam, north holland, netherlands|https://www.linkedin.com/jobs/view/4415602820|
+|lvmh fragrance brands|trade marketing assistant (internship)|milan, lombardy, italy|https://www.linkedin.com/jobs/view/4417968037|
+|miratech|sales & marketing coordinator intern|kyiv, kyiv city, ukraine|https://www.linkedin.com/jobs/view/4398212931|
 |parfums christian dior|marketing operations intern (m/w/d) vollzeit, in wien|vienna, austria|https://www.linkedin.com/jobs/view/4414014212|
 |parfums christian dior|marketing operations intern (m/w/d) vollzeit, in wien|vienna, vienna, austria|https://www.linkedin.com/jobs/view/4393593035|
 |philip morris international|pmi internship program - b2b digital marketing intern (m/w/d)|vienna, vienna, austria|https://www.linkedin.com/jobs/view/4411625687|
 |pure storage|finance analyst - internship|prague, prague, worldwide|https://www.linkedin.com/jobs/view/4390726999|
 |sap|sap ixp intern (f/m/d) - adoption & consumption business intelligence analyst|walldorf, baden-württemberg, germany|https://www.linkedin.com/jobs/view/4369155871|
 |sap|sap ixp intern (w/m/d)- business intelligence analyst für adoption & consumption|walldorf, baden-württemberg, germany|https://www.linkedin.com/jobs/view/4369155870|
-|ses satellites|intern, sap finance & controlling junior analyst|betzdorf, grevenmacher, luxembourg|https://www.linkedin.com/jobs/view/4415799720|
+|shiseido|internship - operational marketing product manager assistant fragrance - july 2026|neuilly-sur-seine, île-de-france, france|https://www.linkedin.com/jobs/view/4416140835|
+|sol de janeiro|intern, marketing assistant - meai|paris, île-de-france, france|https://www.linkedin.com/jobs/view/4414311898|
+|unique job cooperations|international sales & business development manager (m/w/d)|vienna, austria|https://www.linkedin.com/jobs/view/4412904416|
 |voodoo|business development & strategic partnerships intern|paris, île-de-france, france|https://www.linkedin.com/jobs/view/4419928827|
-|wolf theiss|business development & marketing intern - client initiatives (m/f/d)|vienna, vienna, austria|https://www.linkedin.com/jobs/view/4419873895|
