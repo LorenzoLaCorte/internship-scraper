@@ -1,110 +1,25 @@
 |company|title|location|link|
 |---|---|---|---|
-|amazon science|2026 applied scientist intern, amazon university talent acquisition|berlin, berlin, germany|https://www.linkedin.com/jobs/view/4411986113|
-|amazon science|2026 applied scientist intern, amazon university talent acquisition|echternach, grevenmacher, luxembourg|https://www.linkedin.com/jobs/view/4411985155|
+|amazon science|2026 applied scientist intern, amazon university talent acquisition|barcelona, catalonia, spain|https://www.linkedin.com/jobs/view/4411978348|
+|amazon science|2026 applied scientist intern, amazon university talent acquisition|berlin, berlin, germany|https://www.linkedin.com/jobs/view/4428249010|
 |amazon science|2026 applied scientist intern, amazon university talent acquisition|turin, piedmont, italy|https://www.linkedin.com/jobs/view/4411990070|
-|amazon science|2026 data scientist internship , amazon university talent acquisition|echternach, grevenmacher, luxembourg|https://www.linkedin.com/jobs/view/4411979305|
 |amazon science|sr. applied scientist, alexa international|turin, piedmont, italy|https://www.linkedin.com/jobs/view/4420752670|
+|amazon|2026 applied scientist intern, amazon university talent acquisition|aachen, north rhine-westphalia, germany|https://www.linkedin.com/jobs/view/4369769443|
 |amazon|2026 applied scientist intern, amazon university talent acquisition|barcelona, catalonia, spain|https://www.linkedin.com/jobs/view/4400324136|
+|amazon|2026 applied scientist intern, amazon university talent acquisition|berlin, berlin, germany|https://www.linkedin.com/jobs/view/4369755791|
+|amazon|2026 applied scientist intern, amazon university talent acquisition|luxembourg, luxembourg, luxembourg|https://www.linkedin.com/jobs/view/4336689485|
 |amazon|2026 applied scientist intern, amazon university talent acquisition|madrid, community of madrid, spain|https://www.linkedin.com/jobs/view/4400325015|
-|amazon|2026 applied scientist intern, amazon university talent acquisition|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4369763629|
 |amazon|2026 applied scientist intern, amazon university talent acquisition|turin, piedmont, italy|https://www.linkedin.com/jobs/view/4335966728|
-|amazon|safety specialist internship- werne|werne an der lippe, north rhine-westphalia, germany|https://www.linkedin.com/jobs/view/4344632420|
 |amazon|senior international tax analyst, emea frc|cork, county cork, ireland|https://www.linkedin.com/jobs/view/4414240160|
 |amazon|sr. applied scientist, alexa international|turin, piedmont, italy|https://www.linkedin.com/jobs/view/4423009135|
 |amazon|ux researcher intern|madrid, community of madrid, spain|https://www.linkedin.com/jobs/view/4402067590|
 |amazon|vat compliance analyst, international indirect tax compliance|warsaw, mazowieckie, poland|https://www.linkedin.com/jobs/view/4386766296|
+|google|head of measurement foundations, international|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4427230531|
+|google|international growth consultant (english)|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4414469828|
 |meta|research scientist intern, ai/ml, core ads growth (phd)|zurich, zurich, switzerland|https://www.linkedin.com/jobs/view/4350551757|
-|microsoft|ai for science internship - machine learning intern|berlin, berlin, germany|https://www.linkedin.com/jobs/view/4420414612|
-|microsoft|applied science intern|london, england, united kingdom|https://www.linkedin.com/jobs/view/4426330068|
-|microsoft|applied science intern|london, england, united kingdom|https://www.linkedin.com/jobs/view/4429194068|
-|afs intercultural programs austria|programmadministration (20 stunden/woche) - internship|vienna, vienna, austria|https://www.linkedin.com/jobs/view/4413313105|
-|allianz österreich|internship - compliance team of allianz central europe (m/f/d)|vienna, vienna, austria|https://www.linkedin.com/jobs/view/4423002229|
-|arquimea|ai research internship|madrid, community of madrid, spain|https://www.linkedin.com/jobs/view/4423575024|
-|austrian airlines|internship austrian uniform (all genders)|schwechat, lower austria, austria|https://www.linkedin.com/jobs/view/4424887314|
-|axiomatic_ai|internship - research intern (agentic learning, memory & neurosymbolic reasoning)|castelldefels, catalonia, spain|https://www.linkedin.com/jobs/view/4402782985|
-|axiomatic_ai|internship – research intern (ai for scientific reasoning)|castelldefels, catalonia, spain|https://www.linkedin.com/jobs/view/4402796776|
-|axiomatic_ai|internship – research intern (formal methods for science)|castelldefels, catalonia, spain|https://www.linkedin.com/jobs/view/4402799564|
+|meta|research scientist intern, photorealistic telepresence (phd)|london, england, united kingdom|https://www.linkedin.com/jobs/view/4427343085|
 |bigblue|data analyst intern — ops excellence|paris, île-de-france, france|https://www.linkedin.com/jobs/view/4427998192|
-|bitmovin|ai business internship|klagenfurt, carinthia, austria|https://www.linkedin.com/jobs/view/4395289654|
-|bitmovin|executive operations intern (office of the ceo)|innere stadt, vienna, austria|https://www.linkedin.com/jobs/view/4419888231|
-|bitmovin|project management internship|klagenfurt, carinthia, austria|https://www.linkedin.com/jobs/view/4407428296|
-|bitpanda|intern, internal audit|vienna, austria|https://www.linkedin.com/jobs/view/4422418459|
 |blockchain.com|consumer operations data analyst intern|paris, île-de-france, france|https://www.linkedin.com/jobs/view/4409064795|
-|bmw group|intern, european accounting hub|salzburg, austria|https://www.linkedin.com/jobs/view/4173783177|
-|britannica capital|investor engagement & research intern|stockholm, stockholm county, sweden|https://www.linkedin.com/jobs/view/4391649361|
 |bynder|ai research intern|amsterdam, north holland, netherlands|https://www.linkedin.com/jobs/view/4420960197|
-|census|internship vulnerability researcher|thessaloniki, central macedonia, greece|https://www.linkedin.com/jobs/view/4161577082|
-|comms8|media assistant - intern|austria|https://www.linkedin.com/jobs/view/4365785955|
-|constructor tech|ml research intern in agentic runtime systems|bremen, bremen, germany|https://www.linkedin.com/jobs/view/4368340297|
-|danone|internship (research & innovation): protein processing and application|utrecht, utrecht, netherlands|https://www.linkedin.com/jobs/view/4422476112|
-|danone|internship (research & innovation): protein processing|utrecht, utrecht, netherlands|https://www.linkedin.com/jobs/view/4422453347|
-|danone|research & innovation intern|milan, lombardy, italy|https://www.linkedin.com/jobs/view/4416650716|
-|datamaran|sustainability research internship|leeuwarden, friesland, netherlands|https://www.linkedin.com/jobs/view/4391786338|
-|electra|business development intern - austria 🇦🇹|vienna, vienna, austria|https://www.linkedin.com/jobs/view/4243913268|
-|ge healthcare|internship - ai infrastructure|vöcklamarkt, upper austria, austria|https://www.linkedin.com/jobs/view/4400610501|
-|ge healthcare|systems engineering intern (f/m/d) for 3-4 months|vöcklamarkt, upper austria, austria|https://www.linkedin.com/jobs/view/4404850769|
-|givaudan|research intern / masterthesis (m/w/d)|baierbrunn, bavaria, germany|https://www.linkedin.com/jobs/view/4407471044|
-|harmattan ai|ai research intern|lausanne, vaud, switzerland|https://www.linkedin.com/jobs/view/4388596035|
-|harmattan ai|ai research intern|paris, île-de-france, france|https://www.linkedin.com/jobs/view/4427988444|
-|hp|threat research intern|bristol, england, united kingdom|https://www.linkedin.com/jobs/view/4382489208|
-|huawei ireland research center|2026 - ai research intern - llms|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4362100204|
-|huawei technologies research & development (uk) ltd|research intern - computer vision (visuals)|london, england, united kingdom|https://www.linkedin.com/jobs/view/4368290351|
-|huawei technologies research & development (uk) ltd|research intern - proactive interaction agents|london, england, united kingdom|https://www.linkedin.com/jobs/view/4410420190|
-|huawei|intern - ai architectures research for safety related systems|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4393803558|
-|huawei|intern - ai research for optical field manipulation algorithms|jena, thuringia, germany|https://www.linkedin.com/jobs/view/4425288934|
-|huawei|intern - ai systems research|dresden, saxony, germany|https://www.linkedin.com/jobs/view/4423251665|
-|huawei|intern - optics research|jena, thuringia, germany|https://www.linkedin.com/jobs/view/4393025727|
-|huawei|intern - power electronics/magnetic simulation|vienna, vienna, austria|https://www.linkedin.com/jobs/view/4186467786|
-|huber holding ag|intern ecommerce (m/w/d)|mäder, vorarlberg, austria|https://www.linkedin.com/jobs/view/4419236584|
-|infineon technologies|internship - electro‑acoustics and signal processing (f/m/div)|villach, carinthia, austria|https://www.linkedin.com/jobs/view/4342190291|
-|infineon technologies|internship - high speed and rf lab validation engineer in development center villach (f/m/div)|villach, carinthia, austria|https://www.linkedin.com/jobs/view/4424710494|
-|innio group|internship - field validation (m/f/d)|jenbach, tyrol, austria|https://www.linkedin.com/jobs/view/4415797474|
-|innio group|internship - hmi and scada software engineering (m/f/d)|jenbach, tyrol, austria|https://www.linkedin.com/jobs/view/4417178558|
-|innio group|internship - it leadership team (m/f/d)|jenbach, tyrol, austria|https://www.linkedin.com/jobs/view/4426292841|
-|international atomic energy agency (iaea)|internship - isotope hydrology research, multi-tracer application|innere stadt, vienna, austria|https://www.linkedin.com/jobs/view/4423674415|
-|international cultural diversity organization (icdo)|videographer & media assistant (volunteer / internship)|vienna, vienna, austria|https://www.linkedin.com/jobs/view/4392428122|
-|interpath|internship - procurement & scm  consulting (from august 2026)|vienna, austria|https://www.linkedin.com/jobs/view/4421970538|
-|interpath|internship - procurement & scm  consulting (from august 2026)|vienna, vienna, austria|https://www.linkedin.com/jobs/view/4425644220|
-|inverto  a bcg company|consulting intern - data & insights in procurement / supply chain management (f/m/d)|vienna, vienna, austria|https://www.linkedin.com/jobs/view/4249594051|
-|inverto  a bcg company|consulting intern in procurement / supply chain management (f/m/d)|vienna, vienna, austria|https://www.linkedin.com/jobs/view/4141975459|
-|jobster|intern (m/f/d) in strategy consulting (full-time) - studentjob.at|vienna, vienna, austria|https://www.linkedin.com/jobs/view/4426297115|
-|jobster|intern, european accounting hub - studentjob.at|salzburg, salzburg, austria|https://www.linkedin.com/jobs/view/4426269006|
-|jump crypto|campus intern crypto researcher 2026 ldn|london, england, united kingdom|https://www.linkedin.com/jobs/view/4393923770|
-|keenfinity group|research intern – multimodal computer vision (rgb–thermal fusion)|eindhoven, north brabant, netherlands|https://www.linkedin.com/jobs/view/4421698949|
-|keenfinity group|research intern – smartphone-based identification systems|eindhoven, north brabant, netherlands|https://www.linkedin.com/jobs/view/4422468321|
-|keune haircosmetics  b corp|intern innovation & research - hair care & styling|soest, utrecht, netherlands|https://www.linkedin.com/jobs/view/4413972879|
-|keune haircosmetics  b corp|intern innovation & research - hair color|soest, utrecht, netherlands|https://www.linkedin.com/jobs/view/4413971889|
-|kiska|transportation design intern|salzburg, salzburg, austria|https://www.linkedin.com/jobs/view/4410065602|
-|livin farms|biology intern|vienna, vienna, austria|https://www.linkedin.com/jobs/view/4426492290|
-|max planck institute for intelligent systems|intern (f/m/div) or student assistant (f/m/div) at the optics & sensing laboratory|tübingen, baden-württemberg, germany|https://www.linkedin.com/jobs/view/4428836824|
-|maxenergy deutschland|venture builder intern (w/m/d) (werksstudent)|vienna, vienna, austria|https://www.linkedin.com/jobs/view/4417917372|
-|mvdm archi-techs|research intern philanthropy fundraising|geneva, geneva, switzerland|https://www.linkedin.com/jobs/view/4422968802|
-|naver labs europe|research internship — constraining large language models at scale f/m|meylan, auvergne-rhône-alpes, france|https://www.linkedin.com/jobs/view/4419807413|
-|nvidia|robotics research intern - 2026|zurich, zurich, switzerland|https://www.linkedin.com/jobs/view/4395489124|
-|owkin|research intern (flow matching models)|paris, île-de-france, france|https://www.linkedin.com/jobs/view/4422888572|
-|parfums christian dior|marketing operations intern (m/w/d) vollzeit, in wien|vienna, austria|https://www.linkedin.com/jobs/view/4414014212|
-|parfums christian dior|marketing operations intern (m/w/d) vollzeit, in wien|vienna, vienna, austria|https://www.linkedin.com/jobs/view/4393593035|
-|phagos|ai research intern (all genders)|suresnes, île-de-france, france|https://www.linkedin.com/jobs/view/4410590233|
-|podero|junior sales intern (m/f/d)|vienna, vienna, austria|https://www.linkedin.com/jobs/view/4418294788|
-|proceedit  ai market analytics|accounting intern|austria|https://www.linkedin.com/jobs/view/4426457396|
-|quoniam asset management|intern (d/f/m) - research forecasts|frankfurt am main, hesse, germany|https://www.linkedin.com/jobs/view/4424216156|
-|red bull|internship global music marketing|fuschl am see, salzburg, austria|https://www.linkedin.com/jobs/view/4422411265|
-|reps gmbh|intern – marketing & communications (m/f/d)|mils bei solbad hall, tyrol, austria|https://www.linkedin.com/jobs/view/4398470860|
-|samsung electronics uk|ai research intern - agentic ai|staines-upon-thames, england, united kingdom|https://www.linkedin.com/jobs/view/4409029174|
-|samsung electronics uk|ai research intern - knowledge graphs|staines-upon-thames, england, united kingdom|https://www.linkedin.com/jobs/view/4409015989|
-|tencent|ai agent research & application intern|london, england, united kingdom|https://www.linkedin.com/jobs/view/4416901615|
-|tencent|game research intern|amsterdam, north holland, netherlands|https://www.linkedin.com/jobs/view/4414641677|
-|tencent|nlp research intern|london, england, united kingdom|https://www.linkedin.com/jobs/view/4414651468|
-|the hoxton|people & culture intern|vienna, vienna, austria|https://www.linkedin.com/jobs/view/4412094213|
-|the walt disney company germany|disney research studio intern|zurich, zurich, switzerland|https://www.linkedin.com/jobs/view/4413913760|
-|the walt disney company germany|disney research studio intern|zurich, zurich, switzerland|https://www.linkedin.com/jobs/view/4418479293|
-|the walt disney company|disney research studio intern|zurich, zurich, switzerland|https://www.linkedin.com/jobs/view/4415759507|
-|the walt disney company|disney research studio intern|zurich, zurich, switzerland|https://www.linkedin.com/jobs/view/4417596376|
+|european space agency - esa|internal research fellow (postdoc) in eo for earth system science (2 posts)|frascati, latium, italy|https://www.linkedin.com/jobs/view/4430560210|
 |thomson reuters|phd research scientist intern - foundational research|london, england, united kingdom|https://www.linkedin.com/jobs/view/4373381635|
-|uniqa insurance group|intern group strategy & transformation (m/w/d) (befristet für 6 monate)|vienna, vienna, austria|https://www.linkedin.com/jobs/view/4366209225|
-|uniqa insurance group|intern market intelligence & transformation (group asset management) vz befristet für 6 monate|vienna, vienna, austria|https://www.linkedin.com/jobs/view/4403789550|
-|voestalpine|buchhalter:in mit internationaler erfahrung|krems an der donau, lower austria, austria|https://www.linkedin.com/jobs/view/4410722849|
-|wall street oasis|quant research intern|united kingdom|https://www.linkedin.com/jobs/view/4425376328|
-|zumtobel group|intern (m/f/d) people development & talent management - 50%|dornbirn, vorarlberg, austria|https://www.linkedin.com/jobs/view/4421821574|
-|zumtobel lighting|intern launch & lifecycle management (m/f/d)|dornbirn, vorarlberg, austria|https://www.linkedin.com/jobs/view/4424162213|
