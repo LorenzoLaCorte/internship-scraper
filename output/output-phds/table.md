@@ -10,5 +10,4 @@
 |google|software engineer, phd, early career, compute infrastructure, spatial flexibility|cracow, małopolskie, poland|https://www.linkedin.com/jobs/view/4383209565|
 |google|software engineer, phd, early career, compute infrastructure, spatial flexibility|warsaw, mazowieckie, poland|https://www.linkedin.com/jobs/view/4382459042|
 |google|software engineer, phd, performance, reliability, observability, early careers|warsaw, mazowieckie, poland|https://www.linkedin.com/jobs/view/4393818003|
-|google|software engineer, tpu compiler, phd, early careers|london, england, united kingdom|https://www.linkedin.com/jobs/view/4366898452|
 |volkswagen group|phd student industrial cybersecurity (f/m/d)|wolfsburg, lower saxony, germany|https://www.linkedin.com/jobs/view/4411707766|
