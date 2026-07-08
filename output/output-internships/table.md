@@ -1,17 +1,30 @@
 |company|title|location|link|
 |---|---|---|---|
+|amazon web services (aws)|software dev engineer internship - embedded development|berlin, germany|https://www.linkedin.com/jobs/view/4436371938|
 |amazon|2026 software dev engineer intern - ireland|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4392944927|
 |amazon|2027 software dev engineer intern|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4434735213|
+|amazon|software dev engineer intern machine learning, amazon robotics|berlin, germany|https://www.linkedin.com/jobs/view/4436437756|
+|amazon|software dev engineer, international localization|luxembourg, luxembourg, luxembourg|https://www.linkedin.com/jobs/view/4436384477|
+|amazon|software dev intern - ai / machine learning|berlin, germany|https://www.linkedin.com/jobs/view/4436446404|
 |amazon|software development engineer internship - vaga para mulheres, ies- latech|deventer, overijssel, netherlands|https://www.linkedin.com/jobs/view/4342905273|
-|amazon|software development intern, intech|deventer, overijssel, netherlands|https://www.linkedin.com/jobs/view/4421204224|
 |auctane|software engineer intern|wrocław, dolnośląskie, poland|https://www.linkedin.com/jobs/view/4432545046|
+|cbre|internship it software engineer|brussels, brussels region, belgium|https://www.linkedin.com/jobs/view/4424744045|
 |cisco|software development intern (cracow, poland)|cracow, małopolskie, poland|https://www.linkedin.com/jobs/view/4416251921|
 |deductive ai|software engineer intern, london|london, england, united kingdom|https://www.linkedin.com/jobs/view/4318516271|
+|femtechconf®|software engineer intern|london area, united kingdom|https://www.linkedin.com/jobs/view/4434547287|
+|financial times|software engineer intern - ft core|sofia, sofia city, worldwide|https://www.linkedin.com/jobs/view/4430954995|
 |infineon technologies|internship: software developer with ai/ml focus for chip-package-board codesign (f/m/div)|villach, carinthia, austria|https://www.linkedin.com/jobs/view/4226449701|
+|jobster|internship software developer - studentjob.at|vienna, vienna, austria|https://www.linkedin.com/jobs/view/4436565495|
+|jobster|software engineer intern - zurich (2026) - studentjob.ch|zurich, zurich, switzerland|https://www.linkedin.com/jobs/view/4436575486|
+|mongodb|software engineer (internal query engine testing tools), query|cork, county cork, ireland|https://www.linkedin.com/jobs/view/4420470881|
 |mongodb|software engineer (internal query engine testing tools), query|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4411380156|
+|mongodb|software engineer (internal query engine testing tools), query|ireland|https://www.linkedin.com/jobs/view/4411381042|
 |motorola solutions|intern software developer (c/c++)|cracow, małopolskie, poland|https://www.linkedin.com/jobs/view/4426341019|
-|paypathiq|software engineering intern, ai (paid internship)|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4433340561|
-|sap|software engineering intern|kyiv, kyiv city, ukraine|https://www.linkedin.com/jobs/view/4434320775|
+|nxp semiconductors|software intern student - realtime drivers|bucharest, bucharest, romania|https://www.linkedin.com/jobs/view/4399250880|
+|qargo tms|software engineering internship|ghent, flemish region, belgium|https://www.linkedin.com/jobs/view/4432633847|
+|rsc|software developer intern (azure / azure functions / ad / next.js / mongodb / redis)|sofia, sofia city, worldwide|https://www.linkedin.com/jobs/view/4434050264|
+|septentrio|internship  innovative software application/tooling (with ai/ml component)  leuven|leuven, flemish region, belgium|https://www.linkedin.com/jobs/view/4397612707|
+|shuttlecloud corp.|software engineer (internship, 1.000€/month)|madrid, community of madrid, spain|https://www.linkedin.com/jobs/view/4437745977|
 |snowflake|software engineer intern - berlin (2026)|berlin, berlin, germany|https://www.linkedin.com/jobs/view/4311124015|
 |snowflake|software engineer intern - zurich (2026)|zurich, zurich, switzerland|https://www.linkedin.com/jobs/view/4414230417|
 |taktile|software engineer intern|berlin, berlin, germany|https://www.linkedin.com/jobs/view/4342501529|
