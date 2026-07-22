@@ -1,5 +1,8 @@
 |company|title|location|link|
 |---|---|---|---|
-|amazon|software dev engineer, international localization|luxembourg, luxembourg, luxembourg|https://www.linkedin.com/jobs/view/4436384477|
-|analog devices|embedded software apps engineering intern|cluj-napoca, cluj, romania|https://www.linkedin.com/jobs/view/4348957636|
-|deezer|ios software engineer intern (m/f/d)|paris, île-de-france, france|https://www.linkedin.com/jobs/view/4436852180|
+|amazon|software dev engineer, international localization|luxembourg, luxembourg, luxembourg|https://www.linkedin.com/jobs/view/4443039346|
+|amazon|software dev engineer, international localization|luxembourg, luxembourg, luxembourg|https://www.linkedin.com/jobs/view/4443039346|
+|amazon|software development engineer internship - vaga para mulheres, ies- latech|deventer, overijssel, netherlands|https://www.linkedin.com/jobs/view/4443310636|
+|amazon|software development engineer internship - vaga para mulheres, ies- latech|deventer, overijssel, netherlands|https://www.linkedin.com/jobs/view/4443310636|
+|amazon|software development intern, intech|deventer, overijssel, netherlands|https://www.linkedin.com/jobs/view/4443059091|
+|amazon|software development intern, intech|deventer, overijssel, netherlands|https://www.linkedin.com/jobs/view/4443059091|
