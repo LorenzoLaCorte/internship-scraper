@@ -1,5 +1,8 @@
 |company|title|location|link|
 |---|---|---|---|
-|mistral|software engineer, new grad|paris, île-de-france, france|https://www.linkedin.com/jobs/view/4439093092|
-|scholarship avenue|amazon graduate software development engineer program 2024|la grande béroche, neuchâtel, switzerland|https://www.linkedin.com/jobs/view/4438951270|
+|autodesk|graduate software engineer|oslo, oslo, norway|https://www.linkedin.com/jobs/view/4441157025|
+|autodesk|graduate software engineer|oslo, oslo, norway|https://www.linkedin.com/jobs/view/4441157025|
+|autodesk|graduate software engineer|oslo, oslo, norway|https://www.linkedin.com/jobs/view/4441161003|
+|autodesk|graduate software engineer|oslo, oslo, norway|https://www.linkedin.com/jobs/view/4441161003|
+|spott|software engineer (graduate)|leuven, flemish region, belgium|https://www.linkedin.com/jobs/view/4438983591|
 |spott|software engineer (graduate)|leuven, flemish region, belgium|https://www.linkedin.com/jobs/view/4438983591|
