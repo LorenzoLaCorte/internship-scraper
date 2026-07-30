@@ -1,4 +1,4 @@
 |company|title|location|link|
 |---|---|---|---|
+|cts ng|ai engineer / intern (zurich, nyc)|zurich, ontario, canada|https://www.linkedin.com/jobs/view/4446495592|
 |gemmo ai|machine learning engineer - internships and full-time positions|milan, lombardy, italy|https://www.linkedin.com/jobs/view/4406380480|
-|nokia|intern, visual ai|espoo, uusimaa, finland|https://www.linkedin.com/jobs/view/4417055510|
