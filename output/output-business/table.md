@@ -4,4 +4,5 @@
 |amazon|financial analyst, international theatrical finance, international theatrical finance|berlin, germany|https://www.linkedin.com/jobs/view/4455903810|
 |apple|international business planning process & analytics lead|london, england, united kingdom|https://www.linkedin.com/jobs/view/4440222415|
 |prime video & amazon mgm studios|business affairs executive, international originals|berlin, berlin, germany|https://www.linkedin.com/jobs/view/4455907405|
-|mckinsey & company|business analyst intern - tech & ai|paris, île-de-france, france|https://www.linkedin.com/jobs/view/4318157481|
+|prime video & amazon mgm studios|business affairs executive, international originals|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4455913335|
+|kaufland e-commerce|(senior) business analyst international|berlin, berlin, germany|https://www.linkedin.com/jobs/view/4369118923|
