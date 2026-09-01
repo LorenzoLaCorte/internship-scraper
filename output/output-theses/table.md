@@ -1,77 +1,58 @@
 |company|title|location|link|
 |---|---|---|---|
 |amazon science|applied scientist, silicon and systems group edge ai|cambridge, england, united kingdom|https://www.linkedin.com/jobs/view/4431980363|
-|amazon web services (aws)|principal software engineer, amazon dynamodb|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4455914376|
 |amazon web services (aws)|principal software engineer, aws lambda|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4455797435|
 |amazon web services (aws)|principal software engineer|berlin, germany|https://www.linkedin.com/jobs/view/4455795453|
 |amazon web services (aws)|security software development manager, operational research, aws security|courbevoie, île-de-france, france|https://www.linkedin.com/jobs/view/4455771979|
+|amazon web services (aws)|senior software development engineer , aws database migration service|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4455917307|
 |amazon web services (aws)|senior software development engineer - security automation, aws security opres|courbevoie, île-de-france, france|https://www.linkedin.com/jobs/view/4455791689|
 |amazon web services (aws)|senior software development engineer, aurora mysql,aurora postgresql|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4455914569|
 |amazon web services (aws)|senior software development engineer, aws rds sql server|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4455905198|
-|amazon web services (aws)|senior software development engineer, aws security|courbevoie, île-de-france, france|https://www.linkedin.com/jobs/view/4455915554|
 |amazon web services (aws)|senior software development engineer, data center builder tools|london, england, united kingdom|https://www.linkedin.com/jobs/view/4455789760|
 |amazon web services (aws)|software dev engineer - embedded development (linux), amazon linux|dresden, saxony, germany|https://www.linkedin.com/jobs/view/4455918326|
-|amazon web services (aws)|software dev engineer - embedded development (linux), aws|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4455798174|
+|amazon web services (aws)|software dev engineer - embedded development - low level, ec2 live migration|dresden, saxony, germany|https://www.linkedin.com/jobs/view/4458269362|
 |amazon web services (aws)|software dev engineer - embedded development|berlin, germany|https://www.linkedin.com/jobs/view/4455799297|
 |amazon web services (aws)|software dev engineer|berlin, berlin, germany|https://www.linkedin.com/jobs/view/4455920181|
-|amazon web services (aws)|software dev manager iii, aws developer tools|berlin, germany|https://www.linkedin.com/jobs/view/4455797220|
-|amazon web services (aws)|software developer engineer, l7 platform - aws load balancing|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4455796886|
 |amazon web services (aws)|software development engineer (open-source)|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4455794145|
 |amazon web services (aws)|software development engineer - 2026|berlin, berlin, germany|https://www.linkedin.com/jobs/view/4455937253|
 |amazon web services (aws)|software development engineer - 2026|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4455929350|
 |amazon web services (aws)|software development engineer - elasticache, aws elasticache|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4455774985|
 |amazon web services (aws)|software development engineer - elasticache, aws elasticache|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4455914266|
-|amazon web services (aws)|software development engineer - rds platform, rds|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4455795704|
 |amazon web services (aws)|software development engineer - rds platform, rds|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4455916822|
 |amazon web services (aws)|software development engineer - security automation, aws security epoxy|courbevoie, île-de-france, france|https://www.linkedin.com/jobs/view/4455799726|
 |amazon web services (aws)|software development engineer - security automation, aws security epoxy|courbevoie, île-de-france, france|https://www.linkedin.com/jobs/view/4455910842|
+|amazon web services (aws)|software development engineer - security automation, aws security epoxy|london, england, united kingdom|https://www.linkedin.com/jobs/view/4455903682|
 |amazon web services (aws)|software development engineer - security automation, aws security epoxy|london, england, united kingdom|https://www.linkedin.com/jobs/view/4455917107|
-|amazon web services (aws)|software development engineer ii, aurora control plane developer experience|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4455793874|
-|amazon web services (aws)|software development engineer ii, aws database migration service|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4455929465|
 |amazon web services (aws)|software development engineer – 2026|clichy, île-de-france, france|https://www.linkedin.com/jobs/view/4455794175|
 |amazon web services (aws)|software development engineer, aws database migration service|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4455794059|
 |amazon web services (aws)|software development engineer, aws database migration service|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4455904131|
-|amazon web services (aws)|software development engineer, aws database migration service|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4455906064|
 |amazon web services (aws)|software development engineer, aws dms|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4455797052|
 |amazon web services (aws)|software development engineer, aws dms|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4455900162|
-|amazon web services (aws)|software development engineer, aws incident tooling & response|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4455796396|
 |amazon web services (aws)|software development engineer, aws security|berlin, germany|https://www.linkedin.com/jobs/view/4456758682|
 |amazon web services (aws)|software development engineer, aws security|courbevoie, île-de-france, france|https://www.linkedin.com/jobs/view/4455920160|
-|amazon web services (aws)|software development engineer, aws security|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4456778542|
+|amazon web services (aws)|software development engineer, firecracker|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4459630286|
 |amazon web services (aws)|software development engineer, lambda - experience|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4455908115|
+|amazon web services (aws)|software development engineer, lambda - experience|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4459631287|
 |amazon web services (aws)|software development engineer, network lifecycle management|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4455775810|
-|amazon web services (aws)|software development engineer, shield (anti-ddos)|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4455901512|
-|amazon web services (aws)|software development engineer|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4455795124|
-|amazon web services (aws)|software development manager - dynamodb, dynamodb|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4455786759|
-|amazon web services (aws)|software development manager iii, simple email service|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4455782999|
-|amazon web services (aws)|software development manager, amazon linux|dresden, saxony, germany|https://www.linkedin.com/jobs/view/4455911399|
-|amazon web services (aws)|software development manager, aws support kumo|cork, county cork, ireland|https://www.linkedin.com/jobs/view/4455911410|
-|amazon web services (aws)|software development manager, network capacity services|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4455793450|
-|amazon web services (aws)|software development manager, network monitoring and remediation|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4455901291|
-|amazon web services (aws)|software development manager, optical network capacity delivery, gcna|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4455904328|
-|amazon web services (aws)|sr software dev engineer, network capacity services|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4455903451|
-|amazon web services (aws)|sr. software development engineer, aurora open source engines|berlin, germany|https://www.linkedin.com/jobs/view/4455771952|
+|amazon web services (aws)|software development engineer, penrose networks|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4460549047|
+|amazon web services (aws)|software development engineer, trafficshift|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4457044145|
+|amazon web services (aws)|software development manager , aws dms|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4459165906|
+|amazon web services (aws)|solutions architect, software and technology companies (isv)|stockholm, stockholm county, sweden|https://www.linkedin.com/jobs/view/4455905253|
 |amazon web services (aws)|sr. software development engineer, aws dms|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4455775801|
-|amazon web services (aws)|systems development engineer, aws incident response (air)|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4455795762|
-|amazon web services (aws)|systems engineer, esc managed operations|madrid, community of madrid, spain|https://www.linkedin.com/jobs/view/4455790883|
-|amazon web services (aws)|systems engineer, managed operations|berlin, germany|https://www.linkedin.com/jobs/view/4455795164|
-|amazon web services (aws)|systems engineer, managed operations|madrid, community of madrid, spain|https://www.linkedin.com/jobs/view/4455793569|
-|amazon web services (aws)|systems engineer/devops eng, managed operations|berlin, germany|https://www.linkedin.com/jobs/view/4455903350|
-|amazon|2027 software dev engineer intern|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4455798905|
-|amazon|embedded software engineer, ring|cambridge, england, united kingdom|https://www.linkedin.com/jobs/view/4455781898|
-|amazon|jr. software develoment engineer, jr. developer program|madrid, community of madrid, spain|https://www.linkedin.com/jobs/view/4455796419|
+|amazon web services (aws)|sr. system dev engineer (sap), aws sap engineering, aws ec2 commercial software services|walldorf, baden-württemberg, germany|https://www.linkedin.com/jobs/view/4455793765|
+|amazon web services (aws)|systems engineer, european sovereign cloud|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4455980836|
 |amazon|robotics software engineer, amazon robotics r&d|berlin, germany|https://www.linkedin.com/jobs/view/4455925228|
 |amazon|senior software development engineer,nextgen security, zerofriction|london, england, united kingdom|https://www.linkedin.com/jobs/view/4455901231|
 |amazon|software dev engineer (devops), amazon prime air|graz, styria, austria|https://www.linkedin.com/jobs/view/4455933176|
-|amazon|software dev engineer (ios), amazon devices - ring & blink|cambridge, england, united kingdom|https://www.linkedin.com/jobs/view/4455797653|
-|amazon|software dev engineer intern machine learning, amazon robotics|berlin, germany|https://www.linkedin.com/jobs/view/4455793689|
+|amazon|software dev engineer (ed), amazon devices - ring & blink|cambridge, england, united kingdom|https://www.linkedin.com/jobs/view/4458259409|
+|amazon|software dev engineer (ml)|luxembourg, luxembourg, luxembourg|https://www.linkedin.com/jobs/view/4459868932|
 |amazon|software dev engineer machine learning|madrid, community of madrid, spain|https://www.linkedin.com/jobs/view/4455909014|
 |amazon|software dev engineer, amazon security automation|london, england, united kingdom|https://www.linkedin.com/jobs/view/4455787851|
-|amazon|software dev engineer, international localization|luxembourg, luxembourg, luxembourg|https://www.linkedin.com/jobs/view/4455909095|
+|amazon|software dev engineer, amazon security automation|london, england, united kingdom|https://www.linkedin.com/jobs/view/4459002445|
+|amazon|software dev engineer, siege|iaşi, iaşi, romania|https://www.linkedin.com/jobs/view/4455799575|
 |amazon|software dev engineer|luxembourg, luxembourg, luxembourg|https://www.linkedin.com/jobs/view/4455901168|
 |amazon|software dev. engineer in test, conversational shopping|london, england, united kingdom|https://www.linkedin.com/jobs/view/4455796794|
 |amazon|software development engineer , amazon university talent aquisition (auta)|asti, piedmont, italy|https://www.linkedin.com/jobs/view/4455799073|
-|amazon|software development engineer , cadence team|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4455902072|
 |amazon|software development engineer - 2026|berlin, berlin, germany|https://www.linkedin.com/jobs/view/4455796562|
 |amazon|software development engineer - 2026|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4455901436|
 |amazon|software development engineer - automation, fire tv - berlin|berlin, germany|https://www.linkedin.com/jobs/view/4456408632|
@@ -89,50 +70,44 @@
 |amazon|software development engineer – 2026|madrid, community of madrid, spain|https://www.linkedin.com/jobs/view/4455799871|
 |amazon|software development engineer – 2026|stockholm, stockholm county, sweden|https://www.linkedin.com/jobs/view/4455782803|
 |amazon|software development engineer, adsp|edinburgh, scotland, united kingdom|https://www.linkedin.com/jobs/view/4455794772|
-|amazon|software development engineer, amazon foundational security services|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4455914312|
-|amazon|software development engineer, amazon fulfillment technologies (aft)|berlin, germany|https://www.linkedin.com/jobs/view/4455912375|
-|amazon|software development engineer, amazon optics|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4455919301|
+|amazon|software development engineer, amazon optics|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4455907077|
 |amazon|software development engineer, amazon privacy|iaşi, iaşi, romania|https://www.linkedin.com/jobs/view/4455798557|
 |amazon|software development engineer, amazon stores|iaşi, iaşi, romania|https://www.linkedin.com/jobs/view/4455906396|
 |amazon|software development engineer, compliance & safety services|iaşi, iaşi, romania|https://www.linkedin.com/jobs/view/4455971964|
-|amazon|software development engineer, fire tv|berlin, germany|https://www.linkedin.com/jobs/view/4455905959|
-|amazon|software development engineer, iam, authorization management|iaşi, iaşi, romania|https://www.linkedin.com/jobs/view/4455917128|
-|amazon|software development engineer, intelligent talent acquisition - lead generation & detection services|edinburgh, scotland, united kingdom|https://www.linkedin.com/jobs/view/4455789877|
 |amazon|software development engineer, ring|cambridge, england, united kingdom|https://www.linkedin.com/jobs/view/4455939002|
 |amazon|software development engineer|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4455900064|
 |amazon|software development engineer|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4455914665|
 |amazon|software development intern, intech|deventer, overijssel, netherlands|https://www.linkedin.com/jobs/view/4455904920|
 |amazon|software development manager, aft external fulfillment|luxembourg, luxembourg, luxembourg|https://www.linkedin.com/jobs/view/4455906222|
 |amazon|sr software development engineer, buyer safety experience|bucharest, bucharest, romania|https://www.linkedin.com/jobs/view/4455793956|
-|amazon|sr. robotics software engineer, amazon robotics|berlin, germany|https://www.linkedin.com/jobs/view/4455919636|
 |amazon|sr. software development engineer, amazon optics|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4455903505|
 |amazon|systems development engineer , enterprise collaboration platforms|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4455915392|
 |amazon|systems development engineer, amazon foundational security services|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4455798349|
-|amazon|systems development engineer, amazon foundational security services|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4455912060|
-|amazon|systems development engineer|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4455904400|
 |amazon|systems development engineer|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4455982822|
 |amazon|systems development engineer|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4455994024|
 |amazon|systems engineer, amazon foundational security services|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4455900499|
 |amazon|systems engineer, amazon foundational security services|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4456710128|
-|apple|aiml - sr. software development engineer, evaluation|heidelberg, baden-württemberg, germany|https://www.linkedin.com/jobs/view/4452114813|
+|apple|aiml - senior software engineer, on-device - priml|london, england, united kingdom|https://www.linkedin.com/jobs/view/4434186631|
 |apple|analog mixed-signal modeling software engineer (m/f/d)|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4414172038|
+|apple|camera software engineer, camera & photos|cambridge, england, united kingdom|https://www.linkedin.com/jobs/view/4414172020|
 |apple|cellular rf transmitter systems engineer|linz, upper austria, austria|https://www.linkedin.com/jobs/view/4454271163|
 |apple|devops software engineer - security research, sear|paris, île-de-france, france|https://www.linkedin.com/jobs/view/4454956039|
+|apple|early career - graphics software engineer|london, england, united kingdom|https://www.linkedin.com/jobs/view/4446071599|
 |apple|lead infrastructure software engineer|london, england, united kingdom|https://www.linkedin.com/jobs/view/4444521785|
-|apple|machine learning research engineer, camera software|cambridge, england, united kingdom|https://www.linkedin.com/jobs/view/4446944994|
 |apple|macos software engineer - audio & music apps - m/f/d|hamburg, hamburg, germany|https://www.linkedin.com/jobs/view/4414154713|
 |apple|macos software engineer - audio & music apps - m/f/d|rellingen, schleswig-holstein, germany|https://www.linkedin.com/jobs/view/4414156773|
 |apple|ml software engineer, london|london, england, united kingdom|https://www.linkedin.com/jobs/view/4414171025|
+|apple|phy systems engineer – demodulation internship (m/f/d)|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4414165430|
 |apple|security tooling - senior software engineer, sear|paris, île-de-france, france|https://www.linkedin.com/jobs/view/4414154737|
-|apple|site reliability engineer, icloud|london, england, united kingdom|https://www.linkedin.com/jobs/view/4418876267|
+|apple|site reliability engineer - private cloud compute|london, england, united kingdom|https://www.linkedin.com/jobs/view/4457658763|
 |apple|software automation engineer, localisation & release engineering|cork, county cork, ireland|https://www.linkedin.com/jobs/view/4414161558|
 |apple|software build engineer, software delivery|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4414152852|
-|apple|software engineer (data apps + frontend), ai & data platforms|cork, county cork, ireland|https://www.linkedin.com/jobs/view/4414166441|
 |apple|software engineer - private cloud compute, on-device client frameworks|london, england, united kingdom|https://www.linkedin.com/jobs/view/4434117148|
-|apple|software engineer - ui developer (web & native), insights & release technologies|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4428431217|
+|apple|software engineer workflow automation|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4458631093|
 |apple|software engineer — triage intelligence and debug engineering|cork, county cork, ireland|https://www.linkedin.com/jobs/view/4436898963|
 |apple|software engineer — triage intelligence and debug engineering|london, england, united kingdom|https://www.linkedin.com/jobs/view/4451695032|
 |apple|software engineer- silicon engineering documentation tools|cambridge, england, united kingdom|https://www.linkedin.com/jobs/view/4414169250|
+|apple|software engineering manager - kubernetes, london|london, england, united kingdom|https://www.linkedin.com/jobs/view/4435012264|
 |apple|software engineering manager – system applications (paris)|paris, île-de-france, france|https://www.linkedin.com/jobs/view/4414159647|
 |apple|software engineering tech lead, batch compute|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4444663863|
 |apple|software formal verification engineer|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4432894892|
@@ -140,527 +115,382 @@
 |apple|system software engineer|cambridge, england, united kingdom|https://www.linkedin.com/jobs/view/4423405123|
 |apple|systems engineer - enterprise and education sales|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4414166450|
 |apple|systems sw engineer|madrid, community of madrid, spain|https://www.linkedin.com/jobs/view/4439957279|
-|google deepmind|staff software engineer, performance and kernel, deepmind|zurich, zurich, switzerland|https://www.linkedin.com/jobs/view/4446797601|
 |google|forward deployed engineer iii, generative ai, google cloud|stockholm, stockholm county, sweden|https://www.linkedin.com/jobs/view/4450336000|
+|google|forward deployed engineer iii, google cloud consulting (german)|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4458635140|
+|google|senior software engineer, gemini and search|zurich, zurich, switzerland|https://www.linkedin.com/jobs/view/4454409161|
+|google|senior software engineer, google cloud generative ai blackbelt team|stockholm, stockholm county, sweden|https://www.linkedin.com/jobs/view/4426603430|
 |google|senior software engineer, operations research and gemini|zurich, zurich, switzerland|https://www.linkedin.com/jobs/view/4449131312|
-|google|software engineer ii, full stack, core systems|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4454490804|
+|google|senior software engineer, xr world context|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4458618832|
+|google|senior software engineer, xr world context|zurich, zurich, switzerland|https://www.linkedin.com/jobs/view/4458634145|
+|google|software engineer ii, google cloud|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4458658064|
+|google|software engineer ii, sustainability, full stack|zurich, zurich, switzerland|https://www.linkedin.com/jobs/view/4456847824|
+|google|software engineer ii, youtube studio, full stack|zurich, zurich, switzerland|https://www.linkedin.com/jobs/view/4458660025|
 |google|software engineer iii, agent development lifecycle|warsaw, mazowieckie, poland|https://www.linkedin.com/jobs/view/4454416162|
-|google|software engineer iii, ai/ml, chrome autofill|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4456017452|
+|google|software engineer iii, agent quality and efficiency optimization|warsaw, mazowieckie, poland|https://www.linkedin.com/jobs/view/4458984627|
+|google|software engineer iii, ai/ml, dsp/htp optimisation|zurich, zurich, switzerland|https://www.linkedin.com/jobs/view/4425092838|
 |google|software engineer iii, ai/ml, threat intelligence|málaga, andalusia, spain|https://www.linkedin.com/jobs/view/4452382106|
 |google|software engineer iii, android launcher|cracow, małopolskie, poland|https://www.linkedin.com/jobs/view/4454762168|
-|google|software engineer iii, android settings|bucharest, bucharest, romania|https://www.linkedin.com/jobs/view/4441347342|
 |google|software engineer iii, cloud ai|warsaw, mazowieckie, poland|https://www.linkedin.com/jobs/view/4456219377|
 |google|software engineer iii, customer services edge, global infrastructure|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4449767311|
 |google|software engineer iii, embedded, pixel kernel and codebase|cracow, małopolskie, poland|https://www.linkedin.com/jobs/view/4456269169|
 |google|software engineer iii, fitbit subscriptions experience|warsaw, mazowieckie, poland|https://www.linkedin.com/jobs/view/4455698980|
+|google|software engineer iii, generative ai safety|zurich, zurich, switzerland|https://www.linkedin.com/jobs/view/4458649230|
+|google|software engineer iii, google cloud, google threat intelligence|málaga, andalusia, spain|https://www.linkedin.com/jobs/view/4456873927|
 |google|software engineer iii, health and home|warsaw, mazowieckie, poland|https://www.linkedin.com/jobs/view/4454251610|
 |google|software engineer iii, infrastructure, account and device integrity|zurich, zurich, switzerland|https://www.linkedin.com/jobs/view/4456207512|
-|google|software engineer iii, open cloud networking|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4454747572|
+|google|software engineer iii, mobile (android), web and tablets|cracow, małopolskie, poland|https://www.linkedin.com/jobs/view/4458665820|
 |google|software engineer iii, pixel graphics|warsaw, mazowieckie, poland|https://www.linkedin.com/jobs/view/4451437294|
-|google|software engineer iii, wan core, network engineering|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4445728850|
+|google|software engineer manager, pixel kernel and codebase|cracow, małopolskie, poland|https://www.linkedin.com/jobs/view/4456883314|
+|google|software engineer manager, pixel kernel and codebase|warsaw, mazowieckie, poland|https://www.linkedin.com/jobs/view/4456886351|
 |google|software engineer, early careers, phd, cloud ai|warsaw, mazowieckie, poland|https://www.linkedin.com/jobs/view/4320919263|
 |google|software engineer, early careers, phd, gsoc server software|warsaw, mazowieckie, poland|https://www.linkedin.com/jobs/view/4365575666|
-|google|software engineer, flexibility advisory|warsaw, mazowieckie, poland|https://www.linkedin.com/jobs/view/4444915484|
+|google|software engineer, gce control plane, early careers, phd|warsaw, mazowieckie, poland|https://www.linkedin.com/jobs/view/4365587218|
 |google|software engineer, performance, reliability, observability, phd, early careers|warsaw, mazowieckie, poland|https://www.linkedin.com/jobs/view/4374056681|
 |google|software engineer, performance, reliability, observability, phd, early career|warsaw, mazowieckie, poland|https://www.linkedin.com/jobs/view/4321301694|
-|google|software engineering manager, android automotive ai/ml|cracow, małopolskie, poland|https://www.linkedin.com/jobs/view/4447165122|
 |google|software engineering manager, gemini app sre|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4447148946|
 |google|software engineering manager, google messages wear|cracow, małopolskie, poland|https://www.linkedin.com/jobs/view/4448507387|
-|google|software engineering manager, site reliability engineering, ai security|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4456209511|
-|google|staff forward deployed engineer, google cloud consulting (multiple languages)|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4443819547|
+|google|software engineering manager, site reliability engineering, turnup org|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4458375471|
 |google|staff software engineer (ai/ml), security/privacy|málaga, andalusia, spain|https://www.linkedin.com/jobs/view/4439883306|
 |google|staff software engineer, chrome enterprise|warsaw, mazowieckie, poland|https://www.linkedin.com/jobs/view/4452729829|
-|google|staff software engineer, gemini enterprise mobile|warsaw, mazowieckie, poland|https://www.linkedin.com/jobs/view/4444330507|
+|google|staff software engineer, gemini enterprise mobile|warsaw, mazowieckie, poland|https://www.linkedin.com/jobs/view/4456882990|
 |google|staff software engineer, pixel graphics|warsaw, mazowieckie, poland|https://www.linkedin.com/jobs/view/4448209124|
-|google|staff software engineer, site reliability engineering, alphanet sre|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4446405554|
-|google|systems development engineer, edge infrastructure operations|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4454761446|
-|meta|audio software engineer, applied scientist|athens, attiki, greece|https://www.linkedin.com/jobs/view/4453879650|
-|meta|audio software engineer, applied scientist|greece|https://www.linkedin.com/jobs/view/4453849006|
-|microsoft ai|member of technical staff - software engineer (ai infra)- mai superintelligence team|zurich, zurich, switzerland|https://www.linkedin.com/jobs/view/4444940799|
-|microsoft ai|member of technical staff, software engineer|zurich, zurich, switzerland|https://www.linkedin.com/jobs/view/4445272112|
+|google|technical program manager, ai systems|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4458962188|
+|meta|audio software engineer, applied scientist|athens, attiki, greece|https://www.linkedin.com/jobs/view/4453849006|
+|meta|software engineer (leadership) - machine learning|london, england, united kingdom|https://www.linkedin.com/jobs/view/4431570372|
+|meta|software engineer (leadership) - product|london, england, united kingdom|https://www.linkedin.com/jobs/view/4458099893|
+|meta|software engineer, infrastructure|athens, attiki, greece|https://www.linkedin.com/jobs/view/4453430530|
+|meta|software engineer, infrastructure|london, england, united kingdom|https://www.linkedin.com/jobs/view/4440437623|
+|meta|software engineer, ios|london, england, united kingdom|https://www.linkedin.com/jobs/view/4448706544|
+|meta|software engineer, product|london, england, united kingdom|https://www.linkedin.com/jobs/view/4443730769|
 |microsoft|compiler software engineer|prague, prague, worldwide|https://www.linkedin.com/jobs/view/4381975375|
-|microsoft|principal software engineering manager|kongens lyngby, capital region of denmark, denmark|https://www.linkedin.com/jobs/view/4456300549|
+|microsoft|principal software engineering manager - w+d|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4457814553|
 |microsoft|senior quantum software engineer - bring-up software infrastructure|kongens lyngby, capital region of denmark, denmark|https://www.linkedin.com/jobs/view/4457326087|
 |microsoft|senior software engineering manager|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4454527494|
-|microsoft|senior software engineer|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4454515542|
+|microsoft|software engineer - identity|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4442137790|
 |microsoft|software engineer ii|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4454512556|
 |microsoft|software engineering - devdiv core ai|prague, prague, worldwide|https://www.linkedin.com/jobs/view/4344495809|
-|we are meta|staff software engineer|portugal|https://www.linkedin.com/jobs/view/4457339789|
+|we are meta|senior ai engineer (ai systems)|portugal|https://www.linkedin.com/jobs/view/4460375118|
 |3shape|experienced software developer for wireless communication|copenhagen municipality, capital region of denmark, denmark|https://www.linkedin.com/jobs/view/4451443328|
 |3shape|experienced software developer for wireless communication|copenhagen, capital region of denmark, denmark|https://www.linkedin.com/jobs/view/4451517253|
-|aarhus universitetshospital|experienced software developer for clinical bioinformatics and personalized medicine, aarhus university hospital|aarhus, central denmark region, denmark|https://www.linkedin.com/jobs/view/4439212762|
 |aarhus universitetshospital|softwareudvikler til laboratorieinformationssystemet mads, auh.|aarhus, central denmark region, denmark|https://www.linkedin.com/jobs/view/4433183552|
-|abbott|software development engineer (m/w/d)|hamburg, hamburg, germany|https://www.linkedin.com/jobs/view/4447702699|
 |abbott|student r&d software development (m/w/d)|hamburg, hamburg, germany|https://www.linkedin.com/jobs/view/4335627228|
-|abbott|studentische aushilfe on-market software development (m/w/d)|hamburg, hamburg, germany|https://www.linkedin.com/jobs/view/4378840544|
-|abbyy|senior software engineer – c++|budapest, budapest, hungary|https://www.linkedin.com/jobs/view/4413481817|
 |abbyy|staff software engineer - c++|budapest, budapest, hungary|https://www.linkedin.com/jobs/view/4413481819|
 |abb|robotics calibration software engineer|sant quirze del vallès, catalonia, spain|https://www.linkedin.com/jobs/view/4431724828|
 |abb|robotics calibration software engineer|sant quirze del vallès, catalonia, spain|https://www.linkedin.com/jobs/view/4431738467|
-|abb|robotics visual slam software engineer|sant quirze del vallès, catalonia, spain|https://www.linkedin.com/jobs/view/4438294633|
+|abb|robotics visual slam software engineer|sant quirze del vallès, catalonia, spain|https://www.linkedin.com/jobs/view/4438267207|
 |acast|software engineer - ad capabilities|stockholm, stockholm county, sweden|https://www.linkedin.com/jobs/view/4426637873|
 |accenture dach|sap software engineer (all genders)|vienna, vienna, austria|https://www.linkedin.com/jobs/view/4437067907|
-|accenture españa|microservices software engineering|madrid, community of madrid, spain|https://www.linkedin.com/jobs/view/4409708721|
-|accenture italia|ai native software engineering analyst|rome, latium, italy|https://www.linkedin.com/jobs/view/4441363569|
 |accenture poland|senior embedded c++ software engineer - networking (ethernet)|wrocław, dolnośląskie, poland|https://www.linkedin.com/jobs/view/4382497076|
-|accolade, inc.|senior software engineer|prague, prague, worldwide|https://www.linkedin.com/jobs/view/4435448184|
-|actana consulting services gmbh|softwareentwickler (m/w/d) c++|wetzlar, hesse, germany|https://www.linkedin.com/jobs/view/4412925950|
-|acuity|software engineer|cork, county cork, ireland|https://www.linkedin.com/jobs/view/4434333129|
-|adaption|agent systems engineer|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4454672959|
-|adb safegate|embedded software developer|malmo, skåne county, sweden|https://www.linkedin.com/jobs/view/4456748092|
-|adesso se|ai engineer / software engineer (all genders)|dortmund, north rhine-westphalia, germany|https://www.linkedin.com/jobs/view/4398103668|
-|adesso se|ai engineer / software engineer (all genders)|frankfurt, hesse, germany|https://www.linkedin.com/jobs/view/4397693734|
-|adesso se|ai engineer / software engineer (all genders)|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4397695688|
-|adesso se|senior software engineer ki (all genders)|aachen, north rhine-westphalia, germany|https://www.linkedin.com/jobs/view/3927692837|
-|adesso se|software engineer java cloud computing (all genders)|berlin, berlin, germany|https://www.linkedin.com/jobs/view/3733034964|
-|adesso se|software engineer java cloud computing (all genders)|coblenz, rhineland-palatinate, germany|https://www.linkedin.com/jobs/view/3786705852|
-|adesso se|software engineer java cloud computing (all genders)|hamburg, hamburg, germany|https://www.linkedin.com/jobs/view/3733038555|
-|adesso se|software engineer java cloud computing (all genders)|hannover, lower saxony, germany|https://www.linkedin.com/jobs/view/3733034970|
-|adesso se|software engineer java cloud computing (all genders)|leipzig, saxony, germany|https://www.linkedin.com/jobs/view/3733038559|
-|adesso se|software engineer java cloud computing (all genders)|rostock, mecklenburg-west pomerania, germany|https://www.linkedin.com/jobs/view/3733034950|
-|adesso se|software engineer java cloud computing (all genders)|stralsund, mecklenburg-west pomerania, germany|https://www.linkedin.com/jobs/view/3733040244|
-|adobe commerce|software development engineer|barcelona, catalonia, spain|https://www.linkedin.com/jobs/view/4452384129|
 |adobe|c++ software development engineer|hamburg, hamburg, germany|https://www.linkedin.com/jobs/view/4438998900|
 |adobe|ml services software development engineer|bucharest, bucharest, romania|https://www.linkedin.com/jobs/view/4385280060|
 |adobe|senior software engineer|basel, basel, switzerland|https://www.linkedin.com/jobs/view/4437927140|
 |adobe|software development engineer (frontend)|edinburgh, scotland, united kingdom|https://www.linkedin.com/jobs/view/4446417569|
 |adobe|software engineer - frontend focus|basel, basel, switzerland|https://www.linkedin.com/jobs/view/4437922560|
 |adobe|software quality engineer - adobe premiere pro|hamburg, hamburg, germany|https://www.linkedin.com/jobs/view/4453015028|
-|adobe|sr. software development engineer (java) - adobe experience platform|bucharest, bucharest, romania|https://www.linkedin.com/jobs/view/4388991797|
-|adswizz|senior staff software automation engineer|bucharest, bucharest, romania|https://www.linkedin.com/jobs/view/4398451974|
-|adswizz|senior staff software engineer|bucharest, romania|https://www.linkedin.com/jobs/view/4398469862|
-|adswizz|staff software engineer (java  podcast monetization)|bucharest, bucharest, romania|https://www.linkedin.com/jobs/view/4450120868|
-|adswizz|staff software engineer|bucharest, romania|https://www.linkedin.com/jobs/view/4398461936|
-|advantest|r&d engineer software, hw layer digital/embedded (c++) (m/f/d)|böblingen, baden-württemberg, germany|https://www.linkedin.com/jobs/view/4454819476|
-|advantest|r&d software engineer (m/f/d)|amerang, bavaria, germany|https://www.linkedin.com/jobs/view/4439381383|
+|adswizz|principal software engineer|bucharest, bucharest, romania|https://www.linkedin.com/jobs/view/4349601437|
+|adswizz|senior staff software engineer|bucharest, bucharest, romania|https://www.linkedin.com/jobs/view/4293194437|
+|adswizz|senior staff software engineer|bucharest, bucharest, romania|https://www.linkedin.com/jobs/view/4450123852|
 |aerovect|senior software engineer, simulation|italy|https://www.linkedin.com/jobs/view/4449900439|
-|aerovect|senior staff software engineer, perception|berlin, berlin, germany|https://www.linkedin.com/jobs/view/4401380355|
-|aerovect|senior staff software engineer, perception|frankfurt, hesse, germany|https://www.linkedin.com/jobs/view/4401365960|
 |aerovect|senior staff software engineer, perception|italy|https://www.linkedin.com/jobs/view/4401367939|
 |aerovect|senior staff software engineer, perception|paris, île-de-france, france|https://www.linkedin.com/jobs/view/4401364955|
+|aerovect|senior staff software engineer, perception|poland|https://www.linkedin.com/jobs/view/4401366957|
 |aerovect|senior staff software engineer, perception|stockholm, stockholm county, sweden|https://www.linkedin.com/jobs/view/4401371776|
 |aerovect|staff software engineer, localization|paris, île-de-france, france|https://www.linkedin.com/jobs/view/4430744192|
-|aerovect|staff software engineer, localization|poland|https://www.linkedin.com/jobs/view/4430728550|
-|affirm|senior software engineer, backend (ml feature platform)|london, ontario, canada|https://www.linkedin.com/jobs/view/4444646809|
-|affirm|senior software engineer, backend (reliability platform)|london, ontario, canada|https://www.linkedin.com/jobs/view/4448550861|
-|affirm|software engineer ii, backend (test infra)|london, ontario, canada|https://www.linkedin.com/jobs/view/4438350372|
 |affirm|software engineer ii, fullstack (app experience)|london, ontario, canada|https://www.linkedin.com/jobs/view/4456271769|
-|affirm|staff software engineer, backend (capacity modeling)|london, ontario, canada|https://www.linkedin.com/jobs/view/4410883162|
-|affirm|staff software engineer, backend (ledger engineering)|london, ontario, canada|https://www.linkedin.com/jobs/view/4442218304|
-|affirm|staff software engineer, backend (online storage)|london, ontario, canada|https://www.linkedin.com/jobs/view/4451481350|
-|affirm|staff software engineer, backend (search)|london, ontario, canada|https://www.linkedin.com/jobs/view/4443436856|
-|affirm|staff software engineer, frontend (app experience)|london, ontario, canada|https://www.linkedin.com/jobs/view/4447412627|
 |affirm|staff software engineer, mobile (app infrastructure)|london, ontario, canada|https://www.linkedin.com/jobs/view/4453745813|
-|aicorn|softwareentwickler:in embedded & cloud für die bahnbranche (m/w/d)|karlsruhe, baden-württemberg, germany|https://www.linkedin.com/jobs/view/4453427267|
 |ailleron|ios software developer|cracow, małopolskie, poland|https://www.linkedin.com/jobs/view/4457511607|
-|airbus defence and space|ai software developer (m,f)|toulouse, occitanie, france|https://www.linkedin.com/jobs/view/4454128743|
-|airbus defence and space|embedded platform support software architect|getafe, community of madrid, spain|https://www.linkedin.com/jobs/view/4444524599|
 |airbus defence and space|methods & tools software developer|getafe, community of madrid, spain|https://www.linkedin.com/jobs/view/4447306675|
-|airbus defence and space|mission systems sw development engineer|getafe, community of madrid, spain|https://www.linkedin.com/jobs/view/4432706479|
-|airbus defence and space|simulation software architect|manching, bavaria, germany|https://www.linkedin.com/jobs/view/4448724944|
-|airbus defence and space|simulation software engineer - eurofighter flight simulator|getafe, community of madrid, spain|https://www.linkedin.com/jobs/view/4439260287|
+|airbus defence and space|modelling and simulation junior software engineer|getafe, community of madrid, spain|https://www.linkedin.com/jobs/view/4447306676|
 |airbus defence and space|software engineer for aircraft simulator|getafe, community of madrid, spain|https://www.linkedin.com/jobs/view/4402415985|
-|airbus defence and space|software entwickler:in simulation: genai (d/f/m)|immenstaad am bodensee, baden-württemberg, germany|https://www.linkedin.com/jobs/view/4438022887|
-|airbus defence and space|software-/systemingenieur für ew datenservices (d/m/w)|immenstaad am bodensee, baden-württemberg, germany|https://www.linkedin.com/jobs/view/4446263397|
-|airbus upnext|uas embedded autonomy software developer|getafe, community of madrid, spain|https://www.linkedin.com/jobs/view/4448411448|
 |airbus|ai software developer & embedded systems (m/w/d)|stuttgart, baden-württemberg, germany|https://www.linkedin.com/jobs/view/4454192110|
-|airbus|on-board aircraft performance software developer - 1gzcf (d/f/m)|getafe, community of madrid, spain|https://www.linkedin.com/jobs/view/4419208581|
-|aizoon technology consulting|software engineer - cloud & ai systems (rif. 2026-168)|genoa, liguria, italy|https://www.linkedin.com/jobs/view/4401957137|
-|akamai technologies|senior software development engineer in test|cracow, małopolskie, poland|https://www.linkedin.com/jobs/view/4440990083|
-|akamai technologies|software development engineer in test ii|cracow, małopolskie, poland|https://www.linkedin.com/jobs/view/4447527390|
+|aizoon technology consulting|junior software engineer - cloud & ai systems (rif. 2026-169)|genoa, liguria, italy|https://www.linkedin.com/jobs/view/4401949500|
 |alarm.com|software engineer ii - ios|cracow, małopolskie, poland|https://www.linkedin.com/jobs/view/4443610104|
-|ali professional|embedded software engineer|caronno pertusella, lombardy, italy|https://www.linkedin.com/jobs/view/4447918232|
-|align technology|sr. software engineer|darmstadt, hesse, germany|https://www.linkedin.com/jobs/view/4429030230|
-|all for one|sap cloud & ai developer (human)|vienna, vienna, austria|https://www.linkedin.com/jobs/view/4454254479|
 |allwyn hellas|allwyn graduate program - technology stream (software development or ai engineering)|athens, attiki, greece|https://www.linkedin.com/jobs/view/4440514540|
-|almawave|junior ai software engineer|rome, latium, italy|https://www.linkedin.com/jobs/view/4434551730|
-|alstom|embedded software engineer|villeurbanne, auvergne-rhône-alpes, france|https://www.linkedin.com/jobs/view/4435919452|
-|alstom|software application engineer|stockholm, stockholm county, sweden|https://www.linkedin.com/jobs/view/4352523604|
-|alstom|software designer testplatform (f/h)|villeurbanne, auvergne-rhône-alpes, france|https://www.linkedin.com/jobs/view/4427865936|
-|alstom|software designer testplatform (f/h)|villeurbanne, auvergne-rhône-alpes, france|https://www.linkedin.com/jobs/view/4427876749|
+|alstom|software architect|stockholm, stockholm county, sweden|https://www.linkedin.com/jobs/view/4401976220|
 |alstom|software designer|charleroi, walloon region, belgium|https://www.linkedin.com/jobs/view/4406758416|
-|alstom|software development engineer - obstacle detection (f/h)|villeurbanne, auvergne-rhône-alpes, france|https://www.linkedin.com/jobs/view/4434578294|
 |alstom|software development engineer - remote driving (f/h)|villeurbanne, auvergne-rhône-alpes, france|https://www.linkedin.com/jobs/view/4341142606|
 |alten|c++ embedded software engineer|gothenburg, västra götaland county, sweden|https://www.linkedin.com/jobs/view/4449561944|
-|amadeus|senior software development engineer - airline solutions|villeneuve-loubet, provence-alpes-côte d'azur, france|https://www.linkedin.com/jobs/view/4449755560|
 |amaris consulting|ai software engineer|italy|https://www.linkedin.com/jobs/view/4446225485|
 |amaris consulting|experienced embedded software consultant (c++:17)|veghel, north brabant, netherlands|https://www.linkedin.com/jobs/view/4449482363|
-|amaris consulting|r&d software engineer - realtà aumentata|la spezia, liguria, italy|https://www.linkedin.com/jobs/view/4448327258|
-|amartus|senior software engineer (java)|cracow, małopolskie, poland|https://www.linkedin.com/jobs/view/4298789086|
-|amentis solutions gmbh|software engineer data & ml (m/w/d)|germany|https://www.linkedin.com/jobs/view/4443235075|
-|amo|software engineer, ai|paris, île-de-france, france|https://www.linkedin.com/jobs/view/4318507225|
-|amo|software engineer, backend (rust)|paris, île-de-france, france|https://www.linkedin.com/jobs/view/4318518230|
-|amo|software engineer, web (typescript)|paris, île-de-france, france|https://www.linkedin.com/jobs/view/4339187503|
-|amusnet|junior software engineer|sofia, sofia city, worldwide|https://www.linkedin.com/jobs/view/4434580429|
 |amusnet|software engineer (c++)|sofia, sofia city, worldwide|https://www.linkedin.com/jobs/view/4248679409|
-|analog devices|senior embedded software engineer + cloud computing (biomedical experience)|valencia, valencian community, spain|https://www.linkedin.com/jobs/view/4434654343|
-|analog devices|senior software verification engineer, datacenter software|valencia, valencian community, spain|https://www.linkedin.com/jobs/view/4419159615|
-|analog devices|senior software verification engineer, datacenter software|valencia, valencian community, spain|https://www.linkedin.com/jobs/view/4430246119|
-|analog devices|senior software verification engineer, datacenter software|valencia, valencian community, spain|https://www.linkedin.com/jobs/view/4430247095|
-|analog devices|staff engineer - embedded software test|valencia, valencian community, spain|https://www.linkedin.com/jobs/view/4448047448|
-|analog devices|staff engineer, embedded ai software engineer|cork, county cork, ireland|https://www.linkedin.com/jobs/view/4411714882|
 |annapurna|ai systems engineer|edinburgh, scotland, united kingdom|https://www.linkedin.com/jobs/view/4450237315|
-|antmicro|software engineer|gdańsk, pomorskie, poland|https://www.linkedin.com/jobs/view/3706086807|
+|anthropic|staff software engineer, inference|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4383257066|
 |antmicro|software engineer|gothenburg, västra götaland county, sweden|https://www.linkedin.com/jobs/view/3909564436|
-|apex.ai|senior software engineer — software platform & middleware|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4418159495|
-|applied intuition|machine learning software engineer|stuttgart, baden-württemberg, germany|https://www.linkedin.com/jobs/view/4423947986|
 |applied intuition|software integration engineer|stockholm, stockholm county, sweden|https://www.linkedin.com/jobs/view/4436242311|
-|arago|software engineer — computation kernels and performance|paris, île-de-france, france|https://www.linkedin.com/jobs/view/4456727874|
-|aresys|python software developer|rome, latium, italy|https://www.linkedin.com/jobs/view/4435967341|
-|arista networks|back end software engineer - c++ - spain|madrid, community of madrid, spain|https://www.linkedin.com/jobs/view/4428097310|
+|appsflyer|software engineer|kyiv, kyiv city, ukraine|https://www.linkedin.com/jobs/view/4387704083|
 |arista networks|c++ software engineer with linux - hungary, romania, greece & spain|budapest, budapest, hungary|https://www.linkedin.com/jobs/view/4454781368|
-|arista networks|senior software engineer - c++ - platform - romania|bucharest, bucharest, romania|https://www.linkedin.com/jobs/view/4438992091|
 |arista networks|senior software engineer - linux kernel - c++|athens, attiki, greece|https://www.linkedin.com/jobs/view/4426103513|
 |arista networks|software engineer - platform team - c++ on linux|budapest, budapest, hungary|https://www.linkedin.com/jobs/view/4451686851|
 |arista networks|software engineer - platform team - greece|athens, attiki, greece|https://www.linkedin.com/jobs/view/4455644170|
-|arista networks|software engineer - sonic|cracow, małopolskie, poland|https://www.linkedin.com/jobs/view/4426097737|
-|arista networks|software engineer cloud eos team (poland/romania/hungary/greece)|ireland|https://www.linkedin.com/jobs/view/4426099748|
 |arm|director of software architecture|budapest, budapest, hungary|https://www.linkedin.com/jobs/view/4454251932|
 |arm|senior software engineer - ci for performance tools|budapest, budapest, hungary|https://www.linkedin.com/jobs/view/4410406285|
 |arm|senior software engineer - system test (gpu)|lund, skåne county, sweden|https://www.linkedin.com/jobs/view/4454788138|
-|arm|senior software engineer — runtimes and architecture|manchester, england, united kingdom|https://www.linkedin.com/jobs/view/4436083983|
 |arm|senior software engineer|budapest, budapest, hungary|https://www.linkedin.com/jobs/view/4383991257|
 |arm|software engineer|budapest, budapest, hungary|https://www.linkedin.com/jobs/view/4451918541|
 |arm|staff software engineer — runtimes performance|cambridge, england, united kingdom|https://www.linkedin.com/jobs/view/4440208531|
-|arm|staff software engineer — runtimes performance|manchester, england, united kingdom|https://www.linkedin.com/jobs/view/4440215329|
 |arm|staff software engineer|budapest, budapest, hungary|https://www.linkedin.com/jobs/view/4385271877|
+|arm|staff software engineer|budapest, budapest, hungary|https://www.linkedin.com/jobs/view/4457615724|
 |arm|staff software ml engineer|galway, county galway, ireland|https://www.linkedin.com/jobs/view/4425056142|
-|arm|staff software performance engineer - team lead|manchester, england, united kingdom|https://www.linkedin.com/jobs/view/4363177049|
-|arquimea|robotics software engineer|torrejón de ardoz, community of madrid, spain|https://www.linkedin.com/jobs/view/4445224878|
-|arsys|ai-driven software engineer (node.js & c++)|valencia, valencian community, spain|https://www.linkedin.com/jobs/view/4452599221|
+|arondite|deployed software engineer - norway|oslo, oslo, norway|https://www.linkedin.com/jobs/view/4458735949|
 |arteris|lead développeur ia h/f - ai lead software engineer|paris, île-de-france, france|https://www.linkedin.com/jobs/view/4451163671|
-|arteris|staff ai software engineer h/f|biot, provence-alpes-côte d'azur, france|https://www.linkedin.com/jobs/view/4442084796|
-|asana|senior software engineer, ai retrieval|warsaw, mazowieckie, poland|https://www.linkedin.com/jobs/view/4419687225|
 |asana|staff software engineer, ai|warsaw, mazowieckie, poland|https://www.linkedin.com/jobs/view/4419676553|
-|assaia|software engineer|spain|https://www.linkedin.com/jobs/view/4406625924|
 |astemo ltd.|brake software model-based design apprenticeship - j0050910|drancy, île-de-france, france|https://www.linkedin.com/jobs/view/4456352355|
-|atlas titan|embedded softwareentwickler c++ / linux (m/w/d)|brunswick, lower saxony, germany|https://www.linkedin.com/jobs/view/4452540252|
-|ats corporation|software developer - industrial machine vision (m/w/d)|kirchheim bei münchen, bavaria, germany|https://www.linkedin.com/jobs/view/4433253530|
-|aubay portugal|ios solution & software architect|portugal|https://www.linkedin.com/jobs/view/4455341017|
+|atlas copco|algorithm software researcher|antwerp, flemish region, belgium|https://www.linkedin.com/jobs/view/4457497337|
 |aubay portugal|senior java software engineer – ai & generative ai solutions ( based in portugal)|portugal|https://www.linkedin.com/jobs/view/4454066097|
-|auctane|associate software engineer (hybrid remote)|wrocław, dolnośląskie, poland|https://www.linkedin.com/jobs/view/4453141024|
-|audatic|senior software engineer (python)|berlin, germany|https://www.linkedin.com/jobs/view/4439423180|
-|auo mobility solutions germany|bachelorand/masterand (m/w/d) im bereich r&d - software platform|lippstadt, north rhine-westphalia, germany|https://www.linkedin.com/jobs/view/4444434671|
-|aurora engineering ab|software engineer, devops – central execution environment|gothenburg, västra götaland county, sweden|https://www.linkedin.com/jobs/view/4456026437|
-|autodesk|graduate software engineer|oslo, oslo, norway|https://www.linkedin.com/jobs/view/4441157025|
 |autodesk|software engineer (all levels) - forma design apps|oslo, oslo, norway|https://www.linkedin.com/jobs/view/4424078429|
-|autodoc|senior software developer front-end (m/f/d)|lisboa, lisbon, portugal|https://www.linkedin.com/jobs/view/4448525706|
 |avanade|ai software engineer fullstack – (m/w/x)|vienna, vienna, austria|https://www.linkedin.com/jobs/view/4435851651|
 |avanade|ai software engineer fullstack|austria|https://www.linkedin.com/jobs/view/4435681298|
 |avanade|ai software engineering|kronberg, hesse, germany|https://www.linkedin.com/jobs/view/4455922488|
-|avl in sweden|automotive software engineer - asw (göteborg)|gothenburg, västra götaland county, sweden|https://www.linkedin.com/jobs/view/4444659997|
-|avl in sweden|automotive software engineer - autosar bsw|gothenburg, västra götaland county, sweden|https://www.linkedin.com/jobs/view/4447138275|
+|avanade|ai software engineering|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4455937158|
+|avl in sweden|automotive software engineer - asw (göteborg)|gothenburg, västra götaland county, sweden|https://www.linkedin.com/jobs/view/4456866339|
 |avl in sweden|software engineer - connected systems|gothenburg, västra götaland county, sweden|https://www.linkedin.com/jobs/view/4452933437|
-|axitera gmbh|cloud entwickler (m/w/d)|frankfurt, hesse, germany|https://www.linkedin.com/jobs/view/4449439278|
 |ayesa digital|back-end software engineer|brussels, brussels region, belgium|https://www.linkedin.com/jobs/view/4450464779|
 |ayesa digital|full stack software engineer|brussels, brussels region, belgium|https://www.linkedin.com/jobs/view/4450455767|
-|ayesa digital|python software engineer|bizkaia, basque country, spain|https://www.linkedin.com/jobs/view/4452245267|
 |basware|senior cloud developer|espoo, uusimaa, finland|https://www.linkedin.com/jobs/view/4433815983|
-|bbc|junior software engineer|salford, england, united kingdom|https://www.linkedin.com/jobs/view/4448774822|
-|bending spoons|graduate ai software engineer|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4455474310|
+|basware|senior cloud developer|pori, satakunta, finland|https://www.linkedin.com/jobs/view/4433830218|
+|basware|senior cloud developer|tampere, pirkanmaa, finland|https://www.linkedin.com/jobs/view/4433823458|
+|bending spoons|graduate ai software engineer|barcelona, catalonia, spain|https://www.linkedin.com/jobs/view/4457913015|
+|bending spoons|graduate ai software engineer|italy|https://www.linkedin.com/jobs/view/4459717335|
+|bending spoons|software engineer|padua, veneto, italy|https://www.linkedin.com/jobs/view/4457911055|
 |bitdefender|ios software developer|bucharest, bucharest, romania|https://www.linkedin.com/jobs/view/4445935434|
 |blackshark.ai|senior software engineer - data plane team|graz, styria, austria|https://www.linkedin.com/jobs/view/4399446277|
 |bleacher report|software engineer ii|amsterdam, north holland, netherlands|https://www.linkedin.com/jobs/view/4456402678|
-|blue yonder|software engineer i|hamburg, hamburg, germany|https://www.linkedin.com/jobs/view/4450345852|
-|bluetab, an ibm company|programador/a jr. data (big data, cloud, scala, python o java) - barcelona|barcelona, catalonia, spain|https://www.linkedin.com/jobs/view/4446608832|
-|bmw group|expert, it devops cloud|salzburg, salzburg, austria|https://www.linkedin.com/jobs/view/4456795387|
-|bmw group|werkstudent cloud engineering & ai-integration (w/m/x)|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4443623805|
-|borgwarner|software development engineer, senior ii ai agent (m/f/d)|darmstadt, hesse, germany|https://www.linkedin.com/jobs/view/4443818676|
-|bosch|premaster programm - gapyear - software engineer ci/cd|lohr, bavaria, germany|https://www.linkedin.com/jobs/view/4402388033|
-|cadence|software engineer ii - ai/ml for crash and electronics|mikra, central macedonia, greece|https://www.linkedin.com/jobs/view/4451914143|
-|canonical|python and kubernetes software engineer - data, ai/ml & analytics|lille, hauts-de-france, france|https://www.linkedin.com/jobs/view/4148912486|
-|canonical|python and kubernetes software engineer - data, ai/ml & analytics|lisboa, lisbon, portugal|https://www.linkedin.com/jobs/view/4148913321|
-|canonical|python and kubernetes software engineer - data, ai/ml & analytics|lyon, auvergne-rhône-alpes, france|https://www.linkedin.com/jobs/view/4148908941|
-|canonical|python and kubernetes software engineer - data, ai/ml & analytics|metz, grand est, france|https://www.linkedin.com/jobs/view/4148909860|
-|canonical|python and kubernetes software engineer - data, ai/ml & analytics|nantes, pays de la loire, france|https://www.linkedin.com/jobs/view/4148915148|
+|bmw group|embedded software graphic expert (f/m/x)|ulm, baden-württemberg, germany|https://www.linkedin.com/jobs/view/4390034731|
+|bmw group|phd large-scale agentic ai systems for automotive design (f/m/x)|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4446316465|
+|canonical|distributed systems software engineer, python / go|riga, riga, worldwide|https://www.linkedin.com/jobs/view/4199888282|
 |canonical|python and kubernetes software engineer - data, ai/ml & analytics|oslo, oslo, norway|https://www.linkedin.com/jobs/view/4148914196|
-|canonical|python and kubernetes software engineer - data, ai/ml & analytics|rennes, brittany, france|https://www.linkedin.com/jobs/view/4148911511|
-|canonical|python and kubernetes software engineer - data, ai/ml & analytics|riga, riga, worldwide|https://www.linkedin.com/jobs/view/4148908930|
-|canonical|python and kubernetes software engineer - data, ai/ml & analytics|strasbourg, grand est, france|https://www.linkedin.com/jobs/view/4148911526|
 |canonical|python and kubernetes software engineer - data, ai/ml & analytics|tallinn, harjumaa, worldwide|https://www.linkedin.com/jobs/view/4148913347|
-|canonical|python and kubernetes software engineer - data, ai/ml & analytics|toulouse, occitanie, france|https://www.linkedin.com/jobs/view/4148910619|
-|canonical|python and kubernetes software engineer - data, ai/ml & analytics|valencia, valencian community, spain|https://www.linkedin.com/jobs/view/4148908927|
 |cern|software developer - beam optics (be-abp-lno-2026-132-grap)|geneva, geneva, switzerland|https://www.linkedin.com/jobs/view/4449566804|
 |cherry|software engineer (m/w/d) - systemnahe software|vienna, austria|https://www.linkedin.com/jobs/view/4444530635|
 |cisco|audio software developer|norway|https://www.linkedin.com/jobs/view/4434979342|
 |cisco|embedded software engineer wireless|norway|https://www.linkedin.com/jobs/view/4404071906|
 |cisco|embedded software engineer|norway|https://www.linkedin.com/jobs/view/4427501573|
 |cisco|embedded software engineer|norway|https://www.linkedin.com/jobs/view/4434711127|
-|cisco|embedded software test engineer|norway|https://www.linkedin.com/jobs/view/4427021833|
-|cisco|java software engineer|galway, county galway, ireland|https://www.linkedin.com/jobs/view/4449918322|
-|cisco|senior software engineer - apps|galway, county galway, ireland|https://www.linkedin.com/jobs/view/4404056919|
-|cisco|software engineer - platform services|galway, county galway, ireland|https://www.linkedin.com/jobs/view/4447206713|
+|cisco|graduate software cloud engineer|galway, county galway, ireland|https://www.linkedin.com/jobs/view/4460115570|
+|cisco|software engineer (shared components)|galway, county galway, ireland|https://www.linkedin.com/jobs/view/4437825320|
+|cisco|software engineer - application development|galway, county galway, ireland|https://www.linkedin.com/jobs/view/4460360854|
+|cisco|software engineer - application development|galway, county galway, ireland|https://www.linkedin.com/jobs/view/4460370678|
+|cisco|software engineer - application development|galway, county galway, ireland|https://www.linkedin.com/jobs/view/4460374042|
 |cisco|software engineer - webex|galway, county galway, ireland|https://www.linkedin.com/jobs/view/4452679754|
-|cisco|software engineering technical leader|galway, county galway, ireland|https://www.linkedin.com/jobs/view/4431736124|
-|cisco|software engineer|galway, county galway, ireland|https://www.linkedin.com/jobs/view/4438672337|
+|cisco|software engineer|galway, county galway, ireland|https://www.linkedin.com/jobs/view/4445236943|
 |cisco|software engineer|norway|https://www.linkedin.com/jobs/view/4454821036|
 |cisco|software engineer|stockholm, stockholm county, sweden|https://www.linkedin.com/jobs/view/4453368659|
+|cisco|software engineer|stockholm, stockholm county, sweden|https://www.linkedin.com/jobs/view/4453382488|
+|cisco|software engineer|stockholm, stockholm county, sweden|https://www.linkedin.com/jobs/view/4460367776|
+|cisco|software engineer|stockholm, stockholm county, sweden|https://www.linkedin.com/jobs/view/4460369733|
 |cisco|software machine learning engineer|norway|https://www.linkedin.com/jobs/view/4457509741|
-|cloudbeds|staff software engineer|amsterdam, north holland, netherlands|https://www.linkedin.com/jobs/view/4450714036|
-|cloudbeds|staff software engineer|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4450708373|
-|cloudbeds|staff software engineer|prague, prague, worldwide|https://www.linkedin.com/jobs/view/4450701709|
-|cloudbeds|staff software engineer|zurich, zurich, switzerland|https://www.linkedin.com/jobs/view/4450713074|
-|codewerk|junior softwareingenieur schwerpunkt llms (m/w/d)|berlin, berlin, germany|https://www.linkedin.com/jobs/view/4373503136|
+|cloudbeds|staff software engineer|amsterdam, north holland, netherlands|https://www.linkedin.com/jobs/view/4458768273|
+|cloudbeds|staff software engineer|basel, basel, switzerland|https://www.linkedin.com/jobs/view/4458759402|
+|cloudbeds|staff software engineer|geneva, geneva, switzerland|https://www.linkedin.com/jobs/view/4458763355|
+|cloudbeds|staff software engineer|lisbon, lisbon, portugal|https://www.linkedin.com/jobs/view/4450694866|
+|cloudbeds|staff software engineer|rotterdam, south holland, netherlands|https://www.linkedin.com/jobs/view/4458756423|
+|cloudbeds|staff software engineer|zurich, zurich, switzerland|https://www.linkedin.com/jobs/view/4458749480|
 |decathlon digital|ios software engineer – connected locker (dsu) (f/m/d)|lille, hauts-de-france, france|https://www.linkedin.com/jobs/view/4443160018|
-|deeprec.ai|lead software engineer|berlin, berlin, germany|https://www.linkedin.com/jobs/view/4453123147|
 |defsecintel solutions|senior software engineer|tallinn, harjumaa, worldwide|https://www.linkedin.com/jobs/view/4441184393|
 |delft university of technology|research software engineer|delft, south holland, netherlands|https://www.linkedin.com/jobs/view/4440039620|
-|delft university of technology|research software engineer|delft, south holland, netherlands|https://www.linkedin.com/jobs/view/4441902951|
+|deutsche telekom|ai engineering workflow developer - t cloud public (ref5739f)|budapest, budapest, hungary|https://www.linkedin.com/jobs/view/4450218759|
+|deutsche telekom|ai engineering workflow developer - t cloud public (ref5739f)|pécs, baranya, hungary|https://www.linkedin.com/jobs/view/4450217753|
+|deutsche telekom|ai engineering workflow developer - t cloud public (ref5739f)|szeged, csongrád, hungary|https://www.linkedin.com/jobs/view/4450231657|
 |deutsche telekom|ai swe / code quality validation engineer - t cloud public (ref5736m)|budapest, budapest, hungary|https://www.linkedin.com/jobs/view/4449660623|
 |deutsche telekom|ai swe / code quality validation engineer - t cloud public (ref5736m)|debrecen, hajdú-bihar, hungary|https://www.linkedin.com/jobs/view/4449662590|
 |deutsche telekom|ai swe / code quality validation engineer - t cloud public (ref5736m)|pécs, baranya, hungary|https://www.linkedin.com/jobs/view/4449655639|
 |deutsche telekom|ai swe / code quality validation engineer - t cloud public (ref5736m)|szeged, csongrád, hungary|https://www.linkedin.com/jobs/view/4449645769|
 |disney experiences|core systems engineer|sweden|https://www.linkedin.com/jobs/view/4449086753|
-|dolby laboratories|senior software engineer, application and os enablement|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4397335509|
-|dsk bank|senior software engineer for machine learning platform|sofia, sofia city, worldwide|https://www.linkedin.com/jobs/view/4433925494|
+|dolby laboratories|senior software security engineer|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4408245877|
+|dolby laboratories|software engineer agentic ai platform|wrocław, dolnośląskie, poland|https://www.linkedin.com/jobs/view/4454069591|
+|drop table|python software engineer|sofia, sofia city, worldwide|https://www.linkedin.com/jobs/view/4459150979|
 |dtu - technical university of denmark|postdoc in software engineering - dtu compute|kongens lyngby, capital region of denmark, denmark|https://www.linkedin.com/jobs/view/4453682632|
-|ea sports|senior software engineer, machine learning - ea sports™ fc|bucharest, bucharest, romania|https://www.linkedin.com/jobs/view/4405179066|
-|ebay|senior software engineer, infrastructure|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4438403383|
-|ebay|senior storage software engineer|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4353656252|
-|ebay|software engineer, search experience|amsterdam, north holland, netherlands|https://www.linkedin.com/jobs/view/4438416051|
-|ebay|software engineer|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4435989749|
-|ebay|staff security software engineer|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4452800956|
+|ebay|applied researcher - multi-agent systems|amsterdam, north holland, netherlands|https://www.linkedin.com/jobs/view/4456521267|
+|eight sleep|senior software engineer - mobile (ios) - (milan)|milan, lombardy, italy|https://www.linkedin.com/jobs/view/4445907809|
 |elastic|principal software engineer - performance tuning - elasticsearch|greece|https://www.linkedin.com/jobs/view/4455785199|
 |elastic|principal software engineer - performance tuning - elasticsearch|norway|https://www.linkedin.com/jobs/view/4455787212|
 |elastic|principal software engineer - performance tuning - elasticsearch|poland|https://www.linkedin.com/jobs/view/4455780288|
 |elastic|principal software engineer - performance tuning - elasticsearch|portugal|https://www.linkedin.com/jobs/view/4455792041|
-|elastic|principal software engineer - performance tuning - elasticsearch|romania|https://www.linkedin.com/jobs/view/4455779294|
-|elastic|principal software engineer - performance tuning - elasticsearch|spain|https://www.linkedin.com/jobs/view/4455774318|
+|elastic|principal software engineer - vector search - elasticsearch|greece|https://www.linkedin.com/jobs/view/4460113883|
 |electronic arts (ea)|software development engineer in test|bucharest, bucharest, romania|https://www.linkedin.com/jobs/view/4430609829|
 |electronic arts (ea)|software development engineer in test|bucharest, romania|https://www.linkedin.com/jobs/view/4455617820|
 |eltwin group|embedded software engineer|aarhus, central denmark region, denmark|https://www.linkedin.com/jobs/view/4434521102|
-|em&e group|senior embedded software engineer|valencia, valencian community, spain|https://www.linkedin.com/jobs/view/4444122181|
 |embark studios|ml research engineer - narrative & ai systems|stockholm, stockholm county, sweden|https://www.linkedin.com/jobs/view/4433528704|
-|employerland|junior software developer|rome, latium, italy|https://www.linkedin.com/jobs/view/4453875489|
-|esprit engineering|ai software engineer – agentic systems & rag (w/m/d)|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4404319268|
+|emedia monitor|software engineer - global media capture (f/m/d)|time, rogaland, norway|https://www.linkedin.com/jobs/view/4454436460|
+|enocean|software engineer - ai workflows (m/f/d)|utrecht, utrecht, netherlands|https://www.linkedin.com/jobs/view/4445878653|
+|entrust|ios software engineer|lisbon, portugal|https://www.linkedin.com/jobs/view/4452388862|
 |esri|product engineer ii - indoor positioning systems|vienna, vienna, austria|https://www.linkedin.com/jobs/view/4417038416|
-|esri|software development engineer ii - c++ for 3d/computer vision (m/f/d)|stuttgart, baden-württemberg, germany|https://www.linkedin.com/jobs/view/4417036448|
-|eteam|embedded software engineer|cork, county cork, ireland|https://www.linkedin.com/jobs/view/4446317557|
 |eurofunk kappacher gmbh|trainee softwareentwicklung (m/w/d)|sankt johann im pongau, salzburg, austria|https://www.linkedin.com/jobs/view/4143170633|
-|european centre for medium-range weather forecasts - ecmwf|research software engineer – forecast verification|bonn, north rhine-westphalia, germany|https://www.linkedin.com/jobs/view/4449206078|
-|european tech recruit|developer software tooling engineer - python / cicd / infrastructure|oslo, norway|https://www.linkedin.com/jobs/view/4451682479|
+|european tech recruit|developer software tooling engineer - python / cicd / infrastructure|oslo, norway|https://www.linkedin.com/jobs/view/4460322288|
 |european tech recruit|python engineer (robotics & autonomous systems)|oslo, norway|https://www.linkedin.com/jobs/view/4453151014|
-|european tech recruit|senior software engineer - python / production / product|oslo, norway|https://www.linkedin.com/jobs/view/4451683480|
-|european tech recruit|software development engineer in test automation - python / linux / hil|oslo, norway|https://www.linkedin.com/jobs/view/4451690416|
+|european tech recruit|senior software engineer - python / production / product|oslo, norway|https://www.linkedin.com/jobs/view/4460348527|
 |fender musical instruments corporation|software engineer ii, applications|hamburg, hamburg, germany|https://www.linkedin.com/jobs/view/4451538778|
-|flaschenpost se|jr1172 software engineer – operations research systeme (m/w/d)|münster, north rhine-westphalia, germany|https://www.linkedin.com/jobs/view/4434948516|
-|fujitsu|software developer (m/w/d)|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4448370645|
+|fico|software engineer - agentic development|sofia, sofia city, worldwide|https://www.linkedin.com/jobs/view/4450719523|
+|fico|software engineer - agentic development|sofia, sofia city, worldwide|https://www.linkedin.com/jobs/view/4450720493|
+|fico|software engineer - agentic development|sofia, sofia city, worldwide|https://www.linkedin.com/jobs/view/4450766996|
+|flanders make|research engineer manufacturing ecosystems and data spaces|leuven, flemish region, belgium|https://www.linkedin.com/jobs/view/4450496202|
+|freshtechit|software engineer|budapest, hungary|https://www.linkedin.com/jobs/view/4459407414|
+|fujitsu|software developer (m/w/d)|augsburg, bavaria, germany|https://www.linkedin.com/jobs/view/4448374566|
+|garmin cluj|ios software engineer  garmin connect team|cluj-napoca, cluj, romania|https://www.linkedin.com/jobs/view/4420272792|
+|globallogic|ai platform engineer, agent systems irc296274|kyiv, kyiv city, ukraine|https://www.linkedin.com/jobs/view/4425265400|
 |globallogic|software engineer (c/c++) irc297241|gothenburg, västra götaland county, sweden|https://www.linkedin.com/jobs/view/4430558586|
-|globallogic|software engineer (c/c++) irc297242|gothenburg, västra götaland county, sweden|https://www.linkedin.com/jobs/view/4426967445|
-|graphcore|senior software engineer|gdańsk, pomorskie, poland|https://www.linkedin.com/jobs/view/4415102462|
-|graphcore|staff software engineer - ai compute libraries & performance|gdańsk, pomorskie, poland|https://www.linkedin.com/jobs/view/4415108117|
-|graphcore|staff software engineer|gdańsk, pomorskie, poland|https://www.linkedin.com/jobs/view/4445159991|
+|graphcore|software engineer - triton|gdańsk, pomorskie, poland|https://www.linkedin.com/jobs/view/4385962446|
 |haier europe|software engineer intern|brugherio, lombardy, italy|https://www.linkedin.com/jobs/view/4435990763|
-|harman international|principal audio software engineer, dsp (m/f/d)|garching, bavaria, germany|https://www.linkedin.com/jobs/view/4441546370|
-|harmattan ai|embedded software engineer - som|lausanne, vaud, switzerland|https://www.linkedin.com/jobs/view/4457096729|
-|harmattan ai|software engineer (r&d hardware tooling)|paris, île-de-france, france|https://www.linkedin.com/jobs/view/4432404023|
-|harmattan ai|software engineer - drone simulator|paris, île-de-france, france|https://www.linkedin.com/jobs/view/4387851785|
-|hawk-eye innovations|full stack sdet (software development engineer in test)|budapest, budapest, hungary|https://www.linkedin.com/jobs/view/4424729578|
-|helsing|staff software engineer|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4435908273|
-|helsing|staff software engineer|paris, île-de-france, france|https://www.linkedin.com/jobs/view/4435909274|
-|helsing|staff software engineer|stockholm, stockholm county, sweden|https://www.linkedin.com/jobs/view/4435909275|
+|harman international|software engineer|bucharest, bucharest, romania|https://www.linkedin.com/jobs/view/4399759200|
+|harmattan ai|embedded software engineer - som|zurich, zurich, switzerland|https://www.linkedin.com/jobs/view/4458216574|
+|hays|software engineer & data analyst|turin, piedmont, italy|https://www.linkedin.com/jobs/view/4446641383|
+|hbk - hottinger brüel & kjær|software engineer|tavagnacco, friuli-venezia giulia, italy|https://www.linkedin.com/jobs/view/4344759829|
 |helsing|staff software engineer|tallinn, harjumaa, worldwide|https://www.linkedin.com/jobs/view/4435902379|
-|hewlett packard enterprise|cloud quality engineer - intern conversion|galway, county galway, ireland|https://www.linkedin.com/jobs/view/4457303491|
 |huawei italy research centers|ai software engineering & agent systems research engineer|pisa, tuscany, italy|https://www.linkedin.com/jobs/view/4430580628|
-|huawei sweden|principal research engineer – ran software architect|kista, stockholm county, sweden|https://www.linkedin.com/jobs/view/4262882655|
 |huawei technologies research & development (uk) ltd|agent-native database systems research/engineer|edinburgh, scotland, united kingdom|https://www.linkedin.com/jobs/view/4456044324|
 |huawei technologies research & development (uk) ltd|systems research engineer|edinburgh, scotland, united kingdom|https://www.linkedin.com/jobs/view/4354782468|
 |iceye|flight software engineer sar payload|espoo, uusimaa, finland|https://www.linkedin.com/jobs/view/4450291061|
 |ikea|software engineer – backend with ai - range experience|malmo, skåne county, sweden|https://www.linkedin.com/jobs/view/4456713777|
 |infineon technologies|internship: software developer with ai/ml focus for chip-package-board codesign (f/m/div)|villach, carinthia, austria|https://www.linkedin.com/jobs/view/4226449701|
-|innovative solutions|c++ software developer|piaseczno, mazowieckie, poland|https://www.linkedin.com/jobs/view/4452773105|
-|innoworks|ai engineer / software developer|enschede, overijssel, netherlands|https://www.linkedin.com/jobs/view/4447323674|
 |international test pilots school|mobile developer – erp & ai systems|london, ontario, canada|https://www.linkedin.com/jobs/view/4441489555|
-|isar aerospace|embedded software engineer (m/f/d)|ottobrunn, bavaria, germany|https://www.linkedin.com/jobs/view/4439093056|
 |jamf|software engineer ii  ai & agentic systems|poland|https://www.linkedin.com/jobs/view/4454563374|
-|jbt marel|senior software engineer|aarhus, central denmark region, denmark|https://www.linkedin.com/jobs/view/4426851429|
-|jobgether|senior software engineer (ydb team)|netherlands|https://www.linkedin.com/jobs/view/4454234842|
-|jobster|embedded software engineer - synsel techniek|almere, flevoland, netherlands|https://www.linkedin.com/jobs/view/4456634846|
-|jobster|embedded software engineer - synsel techniek|amersfoort, utrecht, netherlands|https://www.linkedin.com/jobs/view/4456638699|
-|jobster|embedded software engineer - synsel techniek|delft, south holland, netherlands|https://www.linkedin.com/jobs/view/4456635803|
-|jobster|embedded software engineer - synsel techniek|eindhoven, north brabant, netherlands|https://www.linkedin.com/jobs/view/4455651163|
-|jobster|embedded software engineer - synsel techniek|eindhoven, north brabant, netherlands|https://www.linkedin.com/jobs/view/4456641756|
-|jobster|embedded software engineer - synsel techniek|enschede, overijssel, netherlands|https://www.linkedin.com/jobs/view/4456631872|
-|jobster|embedded software engineer - synsel techniek|utrecht, utrecht, netherlands|https://www.linkedin.com/jobs/view/4455653037|
-|jobster|embedded software engineer - synsel techniek|utrecht, utrecht, netherlands|https://www.linkedin.com/jobs/view/4455669614|
-|johnson controls|software engineer - data scientist|budapest, budapest, hungary|https://www.linkedin.com/jobs/view/4440499772|
-|joko|software engineer (senior/staff level)|paris, île-de-france, france|https://www.linkedin.com/jobs/view/4420931854|
 |jpmorganchase|lead / senior c++ software engineer|athens, attiki, greece|https://www.linkedin.com/jobs/view/4413245443|
-|jpmorganchase|lead software engineer (backend, aws)|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4434785158|
 |jpmorganchase|python lead software engineer — electronic trading flows|athens, attiki, greece|https://www.linkedin.com/jobs/view/4446869036|
-|jpmorganchase|software engineer - associate - infrastructure platforms|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4449051936|
-|june gmbh|ai-native software entwickler (m/w/d)|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4448511882|
 |kaizen gaming|ios software engineer|athens, attiki, greece|https://www.linkedin.com/jobs/view/4436529544|
-|kalmar|senior software engineer, product division solutions|tampere, pirkanmaa, finland|https://www.linkedin.com/jobs/view/4456257666|
+|kapa.ai|software engineer (full-stack)|norway|https://www.linkedin.com/jobs/view/4231622408|
+|keysight technologies|software & telecommunications research intern (5g/6g)|aalborg, north denmark region, denmark|https://www.linkedin.com/jobs/view/4455875636|
 |kla|software engineer - ai/ml|leuven, flemish region, belgium|https://www.linkedin.com/jobs/view/4440184762|
-|knowit|software engineer within automotive|lund, skåne county, sweden|https://www.linkedin.com/jobs/view/4456736750|
 |ku leuven|phd in embedded software for dynamic neural networks|st-katelijne-waver, flemish region, belgium|https://www.linkedin.com/jobs/view/4453093855|
+|ku leuven|phd position in hardware-software co-design for bio-inspired ml models|leuven, flemish region, belgium|https://www.linkedin.com/jobs/view/4443581723|
 |l.e.a.se. s.a. (luxembourg engineering & application services)|développeur solutions de test software et hardware|liège, walloon region, belgium|https://www.linkedin.com/jobs/view/4452411969|
-|lam research|software engineer (all genders)|salzburg, austria|https://www.linkedin.com/jobs/view/4440673849|
 |lam research|software engineer (all genders)|villach, carinthia, austria|https://www.linkedin.com/jobs/view/4440673867|
 |lam research|software engineer (all genders)|villach, carinthia, austria|https://www.linkedin.com/jobs/view/4449751800|
-|lancesoft europe|senior software engineer|warsaw, mazowieckie, poland|https://www.linkedin.com/jobs/view/4454716720|
 |larkin lane films, llc|senior image sensor software engineer|budapest, budapest, hungary|https://www.linkedin.com/jobs/view/4424166945|
-|levi9 technology services|senior ai/ml software engineer|kyiv, kyiv city, ukraine|https://www.linkedin.com/jobs/view/4456752879|
-|levi9 technology services|senior ai/ml software engineer|kyiv, ukraine|https://www.linkedin.com/jobs/view/4448296245|
-|machine learning reply gmbh|agentic ai software engineer|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4455285130|
-|massive entertainment - a ubisoft studio|senior narrative systems programmer [snowdrop]|malmo, skåne county, sweden|https://www.linkedin.com/jobs/view/4412819507|
-|mastercard|principal software engineer|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4450160469|
-|max planck society|software developer / computer scientist (m/f/d) specialised in ai and machine learning|heidelberg, baden-württemberg, germany|https://www.linkedin.com/jobs/view/4448088811|
-|mc engineering|software engineer – semantic ai|turin, piedmont, italy|https://www.linkedin.com/jobs/view/4443959974|
+|mastercard|lead software engineer|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4442877833|
 |med-el|research software developer (m/f/d)|innsbruck, tyrol, austria|https://www.linkedin.com/jobs/view/4447275121|
+|med-el|research software developer (m/w/d)|innsbruck, tyrol, austria|https://www.linkedin.com/jobs/view/4447279042|
+|medtronic|software engineer i - mobile app|galway, county galway, ireland|https://www.linkedin.com/jobs/view/4455365547|
 |medtronic|sr software engineer - mobile app|galway, county galway, ireland|https://www.linkedin.com/jobs/view/4455369455|
-|meyer sound|software engineer|berlin, berlin, germany|https://www.linkedin.com/jobs/view/4452304423|
+|metropolia university of applied sciences|researcher, mobile robotics and intelligent systems|vantaa, uusimaa, finland|https://www.linkedin.com/jobs/view/4448149315|
 |microchip technology inc.|senior software development engineer|herlev, capital region of denmark, denmark|https://www.linkedin.com/jobs/view/4440536457|
-|mobizy|software engineer  sar|porto, portugal|https://www.linkedin.com/jobs/view/4445188242|
-|monk ai|backend software engineer|paris, île-de-france, france|https://www.linkedin.com/jobs/view/4394952288|
-|motor ai|lead software engineer (m/f/d) perception & autonomous systems|berlin, berlin, germany|https://www.linkedin.com/jobs/view/4449298852|
-|motor ai|working student (m/f/d) autonomous vehicle testing & software engineering|berlin, berlin, germany|https://www.linkedin.com/jobs/view/4446201545|
+|mistral|research software engineer|warsaw, mazowieckie, poland|https://www.linkedin.com/jobs/view/4439349398|
+|mobile career|ios software engineer|time, rogaland, norway|https://www.linkedin.com/jobs/view/4458357207|
+|moneybird|(afstudeer)stage software developer|enschede, overijssel, netherlands|https://www.linkedin.com/jobs/view/4300699770|
+|monumental|software engineer, computer vision|amsterdam, north holland, netherlands|https://www.linkedin.com/jobs/view/4417366720|
 |mozilla|senior software engineer, firefox desktop|finland|https://www.linkedin.com/jobs/view/4438344395|
 |mozilla|senior software engineer, firefox desktop|sweden|https://www.linkedin.com/jobs/view/4438350131|
-|mploy associates|software engineer (back-end)  talent program|the randstad, netherlands|https://www.linkedin.com/jobs/view/4446035427|
-|nagra|senior software engineer|rennes, brittany, france|https://www.linkedin.com/jobs/view/4445782040|
+|mp solutions ltd.|senior software engineer (c++) - machine learning & 3d technológiai környezet|budapest, budapest, hungary|https://www.linkedin.com/jobs/view/4459161786|
+|msab|software engineers|stockholm, stockholm county, sweden|https://www.linkedin.com/jobs/view/4392435158|
+|mta s.p.a.|software engineer|sesto san giovanni, lombardy, italy|https://www.linkedin.com/jobs/view/4455274348|
 |netapp|system software engineer c/c++|cork, county cork, ireland|https://www.linkedin.com/jobs/view/4450222637|
+|netapp|system software engineer c/c++|county cork, ireland|https://www.linkedin.com/jobs/view/4448474033|
+|niki digital engineering|ai engineer - connected & autonomous driving and software-defined vehicles|athens, attiki, greece|https://www.linkedin.com/jobs/view/4441983423|
+|niki digital engineering|software engineer - 3d/vr/ar developer autonomous driving|ioannina, epirus, greece|https://www.linkedin.com/jobs/view/4412551442|
+|nvidia|senior deep learning software engineer, inference|amsterdam, north holland, netherlands|https://www.linkedin.com/jobs/view/4451453915|
+|nvidia|senior hpc and ai network software architect|zurich, zurich, switzerland|https://www.linkedin.com/jobs/view/4395922294|
+|nvidia|senior software engineer aerial platform|espoo, uusimaa, finland|https://www.linkedin.com/jobs/view/4436876384|
 |nvidia|senior software engineer aerial platform|gothenburg, västra götaland county, sweden|https://www.linkedin.com/jobs/view/4450956139|
+|nvidia|senior software engineer aerial platform|helsinki, uusimaa, finland|https://www.linkedin.com/jobs/view/4436882085|
 |nvidia|senior software engineer aerial platform|lund, skåne county, sweden|https://www.linkedin.com/jobs/view/4395486222|
+|nvidia|senior software engineer, ai inference systems|italy|https://www.linkedin.com/jobs/view/4454444342|
 |nvidia|system software architecture researcher - phd program|roskilde, region zealand, denmark|https://www.linkedin.com/jobs/view/4450504287|
 |ocado group|senior software engineer (picking / orchestration)|sofia, sofia city, worldwide|https://www.linkedin.com/jobs/view/4407867686|
-|oesia|ingeniero/a de software ia|rivas-vaciamadrid, community of madrid, spain|https://www.linkedin.com/jobs/view/4449871098|
 |openai|software engineer, privacy engineering (lawful access)|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4444017990|
-|openai|software engineer, privacy|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4417171145|
+|openai|software engineer, privacy engineering (lawful access)|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4444031735|
+|openchip & software technologies|junior performance software engineer|limerick, county limerick, ireland|https://www.linkedin.com/jobs/view/4435460184|
+|openjobmetis spa|junior software engineer – ai-assisted development|biella, piedmont, italy|https://www.linkedin.com/jobs/view/4457622982|
+|optiver|graduate software engineer|amsterdam, north holland, netherlands|https://www.linkedin.com/jobs/view/4452269479|
 |ora computing|software engineer — ml infrastructure|vienna, vienna, austria|https://www.linkedin.com/jobs/view/4450051802|
+|otiv|robotics (software) engineer|ghent, flemish region, belgium|https://www.linkedin.com/jobs/view/4454512228|
+|porsche holding|software engineer - delphi (w/m/d)|salzburg, austria|https://www.linkedin.com/jobs/view/4438802090|
 |proton|senior ios software engineer - geneva|geneva, geneva, switzerland|https://www.linkedin.com/jobs/view/4423003142|
 |proton|software engineer (linux)|geneva, geneva, switzerland|https://www.linkedin.com/jobs/view/4398810661|
-|proton|software engineer|geneva, geneva, switzerland|https://www.linkedin.com/jobs/view/4444588571|
+|qbee|full-stack systems engineer|oslo, norway|https://www.linkedin.com/jobs/view/4458725615|
+|qblox|quantum system architect - software|delft, south holland, netherlands|https://www.linkedin.com/jobs/view/4422344664|
 |qblox|software architect|delft, south holland, netherlands|https://www.linkedin.com/jobs/view/4456375921|
-|qualcomm|ai performance engineer (cloud ai engineering), sr  staff  sr. staff - cork, ireland|cork, county cork, ireland|https://www.linkedin.com/jobs/view/4456679147|
-|qualcomm|ai software engineer, senior – sensors software  - cork, ireland|cork, county cork, ireland|https://www.linkedin.com/jobs/view/4433226970|
-|qualcomm|principal sw engineer - llm serving (cloud ai) - cork, ireland|cork, county cork, ireland|https://www.linkedin.com/jobs/view/4456679134|
-|qualcomm|senior staff software engineer/architect  - runtime engineer|cork, county cork, ireland|https://www.linkedin.com/jobs/view/4419077219|
-|qualcomm|software cad engineer - cork, ireland|cork, county cork, ireland|https://www.linkedin.com/jobs/view/4445752928|
-|qualcomm|systems engineer, staff - linkoping, sweden|linköping, östergötland county, sweden|https://www.linkedin.com/jobs/view/4343816666|
-|r8 technologies|full stack software engineer (ai-native)|tallinn, harjumaa, worldwide|https://www.linkedin.com/jobs/view/4454271077|
-|radeptus i sverige ab|senior software engineer,  machine learning & algorithms|lund, skåne county, sweden|https://www.linkedin.com/jobs/view/4451510142|
-|randall recruitment|senior software engineer|stockholm, stockholm county, sweden|https://www.linkedin.com/jobs/view/4435134595|
-|razer|ai engineer, multimodal systems|lille, hauts-de-france, france|https://www.linkedin.com/jobs/view/4440204240|
-|re:lab s.r.l.|c++ software developer|reggio nell'emilia, emilia-romagna, italy|https://www.linkedin.com/jobs/view/4450304314|
-|redwire europe|software architect|kruibeke, flemish region, belgium|https://www.linkedin.com/jobs/view/4424736045|
-|redwire|embedded software developers (junior & mid-senior)|riga, riga, worldwide|https://www.linkedin.com/jobs/view/4439894565|
+|qualcomm|senior systems engineer (ai and dsp) (cork)|cork, county cork, ireland|https://www.linkedin.com/jobs/view/4429657896|
+|qualcomm|staff software engineer – host & secure compute software - cork, ireland|cork, county cork, ireland|https://www.linkedin.com/jobs/view/4369541360|
+|quantumblack, ai by mckinsey|software engineer - quantumblack, ai by mckinsey|budapest, budapest, hungary|https://www.linkedin.com/jobs/view/4369287535|
+|quantumblack, ai by mckinsey|software engineer - quantumblack, ai by mckinsey|milan, lombardy, italy|https://www.linkedin.com/jobs/view/4439312763|
+|raptor|backend software engineer|aarhus, central denmark region, denmark|https://www.linkedin.com/jobs/view/4458191905|
+|redwire europe|embedded software developer (uas)|riga, riga, worldwide|https://www.linkedin.com/jobs/view/4458961199|
 |renesas electronics|staff embedded software engineer|athens, attiki, greece|https://www.linkedin.com/jobs/view/4453093385|
+|revolut|graduate programme 2027: software engineer (android)|portugal|https://www.linkedin.com/jobs/view/4418832556|
 |revolut|graduate programme 2027: software engineer (ios)|porto, porto, portugal|https://www.linkedin.com/jobs/view/4418824785|
 |revolut|graduate programme 2027: software engineer (ios)|portugal|https://www.linkedin.com/jobs/view/4418822810|
 |revolut|graduate programme 2027: software engineer (ios)|spain|https://www.linkedin.com/jobs/view/4418837401|
+|revolut|graduate programme 2027: software engineer (ios)|united kingdom|https://www.linkedin.com/jobs/view/4419301372|
 |revolut|ios software engineering|poland|https://www.linkedin.com/jobs/view/4452359673|
-|revolut|software engineer (python) - mlops platform|spain|https://www.linkedin.com/jobs/view/4406534440|
+|revolut|ios software engineer|portugal|https://www.linkedin.com/jobs/view/4458968915|
+|revolut|software engineer (python) - mlops platform|portugal|https://www.linkedin.com/jobs/view/4406532643|
+|rheinmetall|system & software engineer (m/w/d)|düsseldorf, north rhine-westphalia, germany|https://www.linkedin.com/jobs/view/4443495331|
 |ring|software development engineer (java&aws), ring|madrid, community of madrid, spain|https://www.linkedin.com/jobs/view/4455793954|
 |ring|software development engineer (java&aws), ring|madrid, community of madrid, spain|https://www.linkedin.com/jobs/view/4455915834|
-|ring|software development engineer, rbks dso eu|madrid, community of madrid, spain|https://www.linkedin.com/jobs/view/4456757724|
 |root3|apple systems engineer|halfweg, north holland, netherlands|https://www.linkedin.com/jobs/view/4441566858|
 |s[&]t|junior scientific software engineer|helmond, north brabant, netherlands|https://www.linkedin.com/jobs/view/4451102632|
-|s[&]t|software engineer|delft, south holland, netherlands|https://www.linkedin.com/jobs/view/4446734720|
-|s[&]t|technical software engineer (c++/python)|delft, south holland, netherlands|https://www.linkedin.com/jobs/view/4437975400|
-|saab|develop your passion for software into reality - be a part of saab!|gothenburg, västra götaland county, sweden|https://www.linkedin.com/jobs/view/4441234433|
-|safran - navigation & timing|r&t software engineer – gnss simulation|granada, andalusia, spain|https://www.linkedin.com/jobs/view/4437115093|
-|salamander mywindow|softwareentwickler (m/w/d) – türkheim|türkheim, bavaria, germany|https://www.linkedin.com/jobs/view/4456497562|
+|saab|software factory – build the future of software engineering|solna, stockholm county, sweden|https://www.linkedin.com/jobs/view/4459168941|
 |samba|software development engineer in test|porto, portugal|https://www.linkedin.com/jobs/view/4457377643|
+|samsung semiconductor|working student (f/m/d) automotive software systems munich on-site|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4433892303|
+|sap|sap ixp intern - software developer for circular economy cloud applications|sofia, sofia city, worldwide|https://www.linkedin.com/jobs/view/4454774353|
 |scania group|sw developer/tester for automotive embedded systems|södertälje, stockholm county, sweden|https://www.linkedin.com/jobs/view/4447721861|
 |schibsted|full stack software engineer affiliate technologies|oslo, oslo, norway|https://www.linkedin.com/jobs/view/4454775680|
-|scrl|software engineer, ios|stockholm, stockholm county, sweden|https://www.linkedin.com/jobs/view/4451537315|
+|scrl|senior software engineer, ios|stockholm, stockholm county, sweden|https://www.linkedin.com/jobs/view/4451545023|
 |sea.ai|software engineer (m/f/d)|lisbon, lisbon, portugal|https://www.linkedin.com/jobs/view/4446627099|
 |sea.ai|software engineer (m/f/d)|vienna, austria|https://www.linkedin.com/jobs/view/4446615261|
-|second window|ingeniero de software python / ia|madrid, community of madrid, spain|https://www.linkedin.com/jobs/view/4453857738|
-|sentinelone|staff software engineer - ai platform|prague, prague, worldwide|https://www.linkedin.com/jobs/view/4457300472|
-|siemens|ai framework developer, software engineer advanced|vienna, vienna, austria|https://www.linkedin.com/jobs/view/4456275203|
-|silicon labs|software engineer – embedded / wireless software|espoo, uusimaa, finland|https://www.linkedin.com/jobs/view/4450812370|
-|silver atena gmbh|senior softwareentwickler embedded systems  (m/w/d)|hamburg, hamburg, germany|https://www.linkedin.com/jobs/view/4324690358|
+|siemens|software engineer - c++|budapest, budapest, hungary|https://www.linkedin.com/jobs/view/4445170398|
+|siemens|software engineer - maths & systems|braşov, braşov, romania|https://www.linkedin.com/jobs/view/4425869109|
+|silicon labs|software engineer in test (python)|budapest, hungary|https://www.linkedin.com/jobs/view/4458003547|
 |sky spy|python software engineer — ai/ml integration & ai agents|tallinn, harjumaa, worldwide|https://www.linkedin.com/jobs/view/4449851472|
 |skydio|sr/staff embedded software engineer - camera systems|tampere, pirkanmaa, finland|https://www.linkedin.com/jobs/view/4407487106|
 |skylo|senior software engineer – nr-ntn protocols (l1 & l2)|espoo, uusimaa, finland|https://www.linkedin.com/jobs/view/4421869158|
-|skylo|senior software engineer – nr-ntn protocols (l2 & l3)|espoo, uusimaa, finland|https://www.linkedin.com/jobs/view/4422988090|
-|skytechnology srl|software engineer|rome, latium, italy|https://www.linkedin.com/jobs/view/4406165642|
-|smartly|senior software engineer (ai platform)|helsinki, uusimaa, finland|https://www.linkedin.com/jobs/view/4333948268|
+|skylo|senior software engineer – nr-ntn protocols (l3 & l4 / core interfaces)|espoo, uusimaa, finland|https://www.linkedin.com/jobs/view/4422983146|
 |snap inc.|software engineer, cv|vienna, vienna, austria|https://www.linkedin.com/jobs/view/4444708138|
 |snap inc.|spectacles student worker - software engineering - graphics|vienna, vienna, austria|https://www.linkedin.com/jobs/view/4345618378|
-|snappi|software engineer - predictive analytics|athens, attiki, greece|https://www.linkedin.com/jobs/view/4416272888|
+|softserve|middle big data software engineer (python + aws)|ukraine|https://www.linkedin.com/jobs/view/4437546690|
 |softserve|middle c++ software engineer (aosp)|ukraine|https://www.linkedin.com/jobs/view/4455424974|
-|sonar|graduate software engineer|geneva, geneva, switzerland|https://www.linkedin.com/jobs/view/4437426796|
+|softserve|senior python software engineer (aws + terraform)|romania|https://www.linkedin.com/jobs/view/4448526293|
+|software mind|ios software engineer|bucharest, romania|https://www.linkedin.com/jobs/view/4449006606|
 |sonar|senior software engineer (java) - remediation agent|geneva, geneva, switzerland|https://www.linkedin.com/jobs/view/4429934090|
-|sonos, inc.|software development engineer in test (sdet)|paris, île-de-france, france|https://www.linkedin.com/jobs/view/4448512274|
-|sonova group|software engineer (m/f/d) - audatic|berlin, berlin, germany|https://www.linkedin.com/jobs/view/4401339009|
-|sony interactive entertainment|principal software engineer|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4419218244|
-|sony interactive entertainment|software engineer - frontend/full stack|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4412042894|
-|sony interactive entertainment|software engineering manager|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4412043801|
+|sony interactive entertainment|software eng ii|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4452827409|
 |sony music entertainment|lead software engineer|tallinn, harjumaa, worldwide|https://www.linkedin.com/jobs/view/4445735344|
 |sony music entertainment|software engineer|tallinn, harjumaa, worldwide|https://www.linkedin.com/jobs/view/4450954497|
 |space inventor|senior software engineer|aalborg, north denmark region, denmark|https://www.linkedin.com/jobs/view/4454360712|
-|specs|software engineer, cv|vienna, austria|https://www.linkedin.com/jobs/view/4445710956|
-|sphere defense|embedded software engineer, robotics|brussels, brussels region, belgium|https://www.linkedin.com/jobs/view/4456446441|
+|speechify|software engineer, ios core product - antwerp, belgium|antwerp, flemish region, belgium|https://www.linkedin.com/jobs/view/4460359880|
+|speechify|software engineer, ios core product - edinburgh, united kingdom|edinburgh, scotland, united kingdom|https://www.linkedin.com/jobs/view/4460351995|
+|speechify|software engineer, ios core product - kharkiv, ukraine|kharkiv, kharkiv, ukraine|https://www.linkedin.com/jobs/view/4460361831|
+|speechify|software engineer, ios core product - lille, france|lille, hauts-de-france, france|https://www.linkedin.com/jobs/view/4460371634|
+|speechify|software engineer, ios core product - munich, germany|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4460366765|
+|speechify|software engineer, ios core product - riga, latvia|riga, riga, worldwide|https://www.linkedin.com/jobs/view/4460361828|
+|speechify|software engineer, ios core product - tallinn, estonia|tallinn, harjumaa, worldwide|https://www.linkedin.com/jobs/view/4460368705|
+|speechify|software engineer, ios core product - tampere, finland|tampere, pirkanmaa, finland|https://www.linkedin.com/jobs/view/4460144402|
 |sphere defense|senior embedded software engineer|brussels, brussels region, belgium|https://www.linkedin.com/jobs/view/4454340992|
 |spotwise.ai|software engineer — agentic systems & ai products|riga, riga, worldwide|https://www.linkedin.com/jobs/view/4449279907|
 |sprecher automation|senior softwareentwickler:in embedded systems|linz, upper austria, austria|https://www.linkedin.com/jobs/view/4443176445|
 |sprecher automation|software engineer embedded|linz, upper austria, austria|https://www.linkedin.com/jobs/view/4443164959|
-|sps consulting & services gmbh|java backend / aws (cloud) entwickler:in|baden-baden, baden-württemberg, germany|https://www.linkedin.com/jobs/view/4433164618|
+|squad|software engineer (c++)|kyiv, kyiv city, ukraine|https://www.linkedin.com/jobs/view/4460361420|
 |stackit|lead cloud software engineer caching databases - stackit (m/f/d)|sofia, sofia city, worldwide|https://www.linkedin.com/jobs/view/4453112201|
 |stackit|software test architect in iaas domain (m/f/d)|sofia, sofia city, worldwide|https://www.linkedin.com/jobs/view/4453098325|
 |stackit|stackit cloud network developer (m/f/d)|sofia, sofia city, worldwide|https://www.linkedin.com/jobs/view/4453121095|
-|stadler|software-entwickler (m/w/d) model-based design – testing / verifikation – mannheim|mannheim, baden-württemberg, germany|https://www.linkedin.com/jobs/view/4448284103|
 |starapple|junior software developer|utrecht, utrecht, netherlands|https://www.linkedin.com/jobs/view/4457313743|
 |starapple|junior software engineer (c#)|breda, north brabant, netherlands|https://www.linkedin.com/jobs/view/4455714056|
 |starapple|software developer|utrecht, netherlands|https://www.linkedin.com/jobs/view/4456167774|
-|starion|software engineer for ai/ml applications|darmstadt, hesse, germany|https://www.linkedin.com/jobs/view/4449619015|
-|stark|senior software engineer - mission autonomy (all genders)|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4456486999|
-|stellantis|software engineer – aws, python & java|poissy, île-de-france, france|https://www.linkedin.com/jobs/view/4435648789|
 |step up|ingénieur software / système embarqué|nice, provence-alpes-côte d'azur, france|https://www.linkedin.com/jobs/view/4447053121|
-|storytel|software engineer, ai agents|stockholm, stockholm county, sweden|https://www.linkedin.com/jobs/view/4434983317|
-|storytel|software engineer, ai agents|umeå, västerbotten county, sweden|https://www.linkedin.com/jobs/view/4434974431|
-|sundayy|software engineer (python, java)|île-de-france, france|https://www.linkedin.com/jobs/view/4457805337|
 |superhuman|software engineer, macos|berlin, berlin, germany|https://www.linkedin.com/jobs/view/4426827753|
 |supervisely|python developer, 3d point cloud|tallinn, harjumaa, worldwide|https://www.linkedin.com/jobs/view/4449406720|
-|surveymonkey|senior software engineer ii|italy|https://www.linkedin.com/jobs/view/4428086088|
-|systematic|software engineer - agentic ai & java, sitaware insight|copenhagen, capital region of denmark, denmark|https://www.linkedin.com/jobs/view/4440527218|
+|swisscom devops center riga|software developer (python)|riga, riga, worldwide|https://www.linkedin.com/jobs/view/4456580794|
 |tas|senior ai software engineer|bologna, emilia-romagna, italy|https://www.linkedin.com/jobs/view/4310735002|
 |tas|senior ai software engineer|rome, latium, italy|https://www.linkedin.com/jobs/view/4331741158|
-|tata technologies|software engineer - modem and wifi connectivity test automation|lund, skåne county, sweden|https://www.linkedin.com/jobs/view/4453072993|
-|technische universität dresden|doktorand informatik - softwareentwicklung (m/w/d)|hoyerswerda, saxony, germany|https://www.linkedin.com/jobs/view/4453076546|
-|technische universität münchen (technical university of munich)|doctoral student (m/f/d): agentic modernization of legacy enterprise systems|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4448912482|
-|tesco technology|software engineer (machine learning - mlops)|cracow, małopolskie, poland|https://www.linkedin.com/jobs/view/4454738474|
+|the flex|founding software engineer|austria|https://www.linkedin.com/jobs/view/4429170589|
+|the flex|founding software engineer|belgium|https://www.linkedin.com/jobs/view/4429161750|
+|the flex|founding software engineer|finland|https://www.linkedin.com/jobs/view/4429163720|
+|the flex|founding software engineer|portugal|https://www.linkedin.com/jobs/view/4429169609|
+|the flex|software engineer|norway|https://www.linkedin.com/jobs/view/4429157759|
 |the lego group|senior software engineer - digital compliance|billund, region of southern denmark, denmark|https://www.linkedin.com/jobs/view/4442804327|
-|theodo|ai-native software engineer - cdi paris - theodo|paris, île-de-france, france|https://www.linkedin.com/jobs/view/4367002186|
-|thomson reuters|manager, software engineering – mobile & desktop apps|zug, zug, switzerland|https://www.linkedin.com/jobs/view/4442689467|
-|toast|principal software engineer - ai foundations|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4411896004|
-|toast|principal software engineer, data platform|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4438698256|
-|toast|principal software engineer|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4443965312|
-|toast|staff software engineer, team agent|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4405828092|
-|topic embedded systems|senior c++ software engineer with devops ownership|best, north brabant, netherlands|https://www.linkedin.com/jobs/view/4449006202|
+|tmc|scientific software engineer|delft, south holland, netherlands|https://www.linkedin.com/jobs/view/4459044863|
 |topic embedded systems|senior c++ software engineer with devops ownership|breda, north brabant, netherlands|https://www.linkedin.com/jobs/view/4382056961|
-|topic embedded systems|senior software engineer|eindhoven, north brabant, netherlands|https://www.linkedin.com/jobs/view/4451180762|
-|topic embedded systems|software development engineer in test (sdet)|best, north brabant, netherlands|https://www.linkedin.com/jobs/view/4432362502|
-|topic embedded systems|software engineer in test|best, north brabant, netherlands|https://www.linkedin.com/jobs/view/4358857895|
-|trackman|embedded c++ & linux software engineer|hørsholm, capital region of denmark, denmark|https://www.linkedin.com/jobs/view/4441621457|
+|topic embedded systems|senior software engineer|best, north brabant, netherlands|https://www.linkedin.com/jobs/view/4451182785|
 |trener robotics|robotics software engineer vision-language-action models|trondheim, trøndelag, norway|https://www.linkedin.com/jobs/view/4435382222|
-|tripadvisor|software engineer ii - ios|cracow, małopolskie, poland|https://www.linkedin.com/jobs/view/4408845281|
-|unity south apac (sea, anz, ind subcont.)|senior software engineer, embedded|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4455005749|
-|unity south apac (sea, anz, ind subcont.)|senior software engineer, web platform|finland|https://www.linkedin.com/jobs/view/4452895891|
-|unity south apac (sea, anz, ind subcont.)|software engineer, tooling &amp; automation|copenhagen, capital region of denmark, denmark|https://www.linkedin.com/jobs/view/4455012790|
-|unity|software engineer, tooling & automation|copenhagen, capital region of denmark, denmark|https://www.linkedin.com/jobs/view/4456087036|
-|university of luxembourg|full stack software engineer - ai & 3d applications|luxembourg|https://www.linkedin.com/jobs/view/4410851791|
-|university of luxembourg|full stack software engineer|luxembourg|https://www.linkedin.com/jobs/view/4433297249|
+|unity|software engineer, tooling & automation|copenhagen, capital region of denmark, denmark|https://www.linkedin.com/jobs/view/4457154238|
+|university of luxembourg|doctoral researcher in geographic information systems and fintech|luxembourg|https://www.linkedin.com/jobs/view/4446793256|
+|university of luxembourg|doctoral researcher in reliable and explainable multi-agent ai systems|luxembourg|https://www.linkedin.com/jobs/view/4456009115|
 |university of luxembourg|research and development specialist in ai and software engineering for biomedical imaging|luxembourg|https://www.linkedin.com/jobs/view/4446780436|
 |university of luxembourg|research and development specialist in artificial intelligence and software engineering|luxembourg|https://www.linkedin.com/jobs/view/4437561475|
-|ust españa & latam|mid software engineer  python & aws  100% remote|spain|https://www.linkedin.com/jobs/view/4443145153|
-|ust|software engineer  python & aws  100% remote|madrid, community of madrid, spain|https://www.linkedin.com/jobs/view/4440469463|
-|veeam software|software developer in test (python)|lisboa, lisbon, portugal|https://www.linkedin.com/jobs/view/4440621554|
 |vodafone|2026 discover graduate program greece  software development @ athens, crete, thessaloniki|greece|https://www.linkedin.com/jobs/view/4425325130|
 |volvo cars|software engineer|gothenburg, västra götaland county, sweden|https://www.linkedin.com/jobs/view/4456328274|
-|wand ai|staff software engineer, ai (org & governance)|berlin, germany|https://www.linkedin.com/jobs/view/4454008849|
-|wave company|senior software engineer|uusimaa, finland|https://www.linkedin.com/jobs/view/4452598135|
 |waymo|software engineer, full stack|warsaw, mazowieckie, poland|https://www.linkedin.com/jobs/view/4370787055|
-|web eindhoven|software engineer (nl)|eindhoven, north brabant, netherlands|https://www.linkedin.com/jobs/view/4434191304|
 |wise|senior ii software engineer - machine learning platform|tallinn, harjumaa, worldwide|https://www.linkedin.com/jobs/view/4424427306|
 |yatta|software engineer (m/f/d)|frankfurt, hesse, germany|https://www.linkedin.com/jobs/view/4214844443|
-|yelp|senior software engineer - machine learning (marketplace dynamics) (remote - ireland)|dublin, county dublin, ireland|https://www.linkedin.com/jobs/view/4430179256|
-|zalando|senior ml software engineer - growth & lifecycle / lounge by zalando (all genders)|berlin, germany|https://www.linkedin.com/jobs/view/4446523945|
 |zenseact|software developer – ad/adas simulation|gothenburg, västra götaland county, sweden|https://www.linkedin.com/jobs/view/4438193539|
 |zerothird|senior c/c++ software engineer (all genders)|vienna, vienna, austria|https://www.linkedin.com/jobs/view/4431931356|
-|ziff davis|senior software engineer - ios|málaga, andalusia, spain|https://www.linkedin.com/jobs/view/4451812166|
-|ziff davis|senior software engineer - ios|málaga, andalusia, spain|https://www.linkedin.com/jobs/view/4451830024|
+|zooplus|lead ai systems engineer (all genders)|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4441573779|
+|zuru|c++ software engineer|modena, emilia-romagna, italy|https://www.linkedin.com/jobs/view/4411413205|
