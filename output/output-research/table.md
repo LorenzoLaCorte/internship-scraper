@@ -1,53 +1,40 @@
 |company|title|location|link|
 |---|---|---|---|
-|amazon web services (aws)|2026 applied scientist intern, amazon university talent acquisition|edinburgh, scotland, united kingdom|https://www.linkedin.com/jobs/view/4455905894|
-|amazon web services (aws)|operations & logistics internship - wrocław (bielany wrocławskie) - start 2027|bielany wrocławskie, dolnośląskie, poland|https://www.linkedin.com/jobs/view/4459864977|
-|amazon|2026 applied scientist intern, amazon university talent acquisition|aachen, north rhine-westphalia, germany|https://www.linkedin.com/jobs/view/4455916465|
 |amazon|2026 applied scientist intern, amazon university talent acquisition|barcelona, catalonia, spain|https://www.linkedin.com/jobs/view/4455914760|
-|amazon|2026 applied scientist intern, amazon university talent acquisition|berlin, berlin, germany|https://www.linkedin.com/jobs/view/4455798866|
-|amazon|2026 applied scientist intern, amazon university talent acquisition|luxembourg, luxembourg, luxembourg|https://www.linkedin.com/jobs/view/4457546518|
 |amazon|2026 applied scientist intern, amazon university talent acquisition|madrid, community of madrid, spain|https://www.linkedin.com/jobs/view/4455917268|
 |amazon|2026 applied scientist intern, amazon university talent acquisition|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4455917179|
-|amazon|applied scientist, alexa international tech|cambridge, england, united kingdom|https://www.linkedin.com/jobs/view/4458528585|
+|amazon|applied scientist, alexa international tech|cambridge, england, united kingdom|https://www.linkedin.com/jobs/view/4464063289|
 |amazon|area manager intern – summer 2027 (canada)|london, ontario, canada|https://www.linkedin.com/jobs/view/4455900566|
 |amazon|campaign manager, eu public policy digital, international public policy|brussels, brussels region, belgium|https://www.linkedin.com/jobs/view/4455799574|
 |amazon|international tax manager, emea consumer tax|luxembourg, luxembourg, luxembourg|https://www.linkedin.com/jobs/view/4455793300|
-|amazon|operations & logistics internship - poznań (sady) - start 2027|poznań, wielkopolskie, poland|https://www.linkedin.com/jobs/view/4459880422|
+|amazon|it legal intern|milan, lombardy, italy|https://www.linkedin.com/jobs/view/4460539791|
+|amazon|operations & logistics internship - gliwice - start 2027|gliwice, śląskie, poland|https://www.linkedin.com/jobs/view/4462180247|
+|amazon|operations & logistics internship - gorzyczki - start 2027|gorzyczki, śląskie, poland|https://www.linkedin.com/jobs/view/4462820137|
+|amazon|operations & logistics internship - sosnowiec - start 2027|sosnowiec, śląskie, poland|https://www.linkedin.com/jobs/view/4462187172|
+|amazon|operations & logistics internship - świebodzin - start 2027|świebodzin, lubuskie, poland|https://www.linkedin.com/jobs/view/4462806993|
 |amazon|operations & logistics internship lazio - talent pool|ardea, latium, italy|https://www.linkedin.com/jobs/view/4455933553|
 |amazon|operations & logistics internship lazio - talent pool|passo corese, latium, italy|https://www.linkedin.com/jobs/view/4455939520|
+|amazon|operations & logistics internship lazio - talent pool|rome, latium, italy|https://www.linkedin.com/jobs/view/4455921753|
+|amazon|operations & logistics internship toscana|calenzano, tuscany, italy|https://www.linkedin.com/jobs/view/4463146694|
+|amazon|operations & logistics internship toscana|pisa, tuscany, italy|https://www.linkedin.com/jobs/view/4463134827|
 |amazon|operations internship - andalucía - start 2027|dos hermanas, andalusia, spain|https://www.linkedin.com/jobs/view/4456427352|
 |amazon|operations internship - asturias - start 2027|siero, principality of asturias, spain|https://www.linkedin.com/jobs/view/4456761633|
 |amazon|operations internship - barcelona - start 2027|barberà del vallès, catalonia, spain|https://www.linkedin.com/jobs/view/4456770574|
 |amazon|operations internship - barcelona - start 2027|montcada i reixac, catalonia, spain|https://www.linkedin.com/jobs/view/4456780587|
-|amazon|operations internship - barcelona - start 2027|rubí, catalonia, spain|https://www.linkedin.com/jobs/view/4456779604|
-|amazon|operations internship - bilbao - start 2027|trapaga, basque country, spain|https://www.linkedin.com/jobs/view/4457526677|
+|amazon|operations internship - galicia - start 2027|porriño, galicia, spain|https://www.linkedin.com/jobs/view/4457036235|
 |amazon|operations internship - galicia - start 2027|vega del codorno, castile-la mancha, spain|https://www.linkedin.com/jobs/view/4457036236|
-|amazon|operations internship - getafe - start 2027|getafe, community of madrid, spain|https://www.linkedin.com/jobs/view/4458264440|
+|amazon|operations internship - getafe - start 2027|madrid, community of madrid, spain|https://www.linkedin.com/jobs/view/4458255565|
 |amazon|operations internship - illescas - start 2027|illescas, castile-la mancha, spain|https://www.linkedin.com/jobs/view/4458259410|
 |amazon|operations internship - madrid- start 2027|coslada, community of madrid, spain|https://www.linkedin.com/jobs/view/4458542353|
-|amazon|operations internship - murcia - start 2027|murcia, región de murcia, spain|https://www.linkedin.com/jobs/view/4458255566|
+|amazon|operations internship - móstoles, madrid - start 2027|móstoles, community of madrid, spain|https://www.linkedin.com/jobs/view/4458532463|
+|amazon|operations internship - valladolid - start 2027|valladolid, castilla and leon, spain|https://www.linkedin.com/jobs/view/4458262414|
 |amazon|solutions design engineer, robotic storage tech, international solutions|luxembourg, luxembourg, luxembourg|https://www.linkedin.com/jobs/view/4455905594|
-|apple|gpu internship - platform architecture|cambridge, england, united kingdom|https://www.linkedin.com/jobs/view/4414154729|
-|apple|phy systems engineer – demodulation internship (m/f/d)|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4414165430|
-|apple|soc performance modeling internship - platform architecture (m/f/d)|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4414155766|
+|apple|international tv - engagement optimisation manager|london, england, united kingdom|https://www.linkedin.com/jobs/view/4453902615|
+|meta|research scientist intern, ai/ml, core ads growth (phd)|london, england, united kingdom|https://www.linkedin.com/jobs/view/4350561859|
 |meta|research scientist intern, ai/ml, core ads growth (phd)|zurich, zurich, switzerland|https://www.linkedin.com/jobs/view/4350551757|
-|abb|internship / master thesis student (m/f/d) - simulation, prototyping and testing of next generation of agile actuator mechanisms|mannheim, baden-württemberg, germany|https://www.linkedin.com/jobs/view/4431732052|
-|abb|msc or bsc thesis / internship (m/f/d) ai for intent-based networking|mannheim, baden-württemberg, germany|https://www.linkedin.com/jobs/view/4450500026|
-|abb|msc or bsc thesis / internship (m/f/d) industrial internet speedtest|mannheim, baden-württemberg, germany|https://www.linkedin.com/jobs/view/4450395165|
-|accenture italia|tech intern - accenture customer innovation network|milan, lombardy, italy|https://www.linkedin.com/jobs/view/4414400002|
-|dolby laboratories|sound experiences lab phd intern|barcelona, catalonia, spain|https://www.linkedin.com/jobs/view/4450255108|
-|helsing|ai research intern (phd) – 3d computer vision|barcelona, catalonia, spain|https://www.linkedin.com/jobs/view/4445036646|
 |hewlett packard enterprise|hpe labs - ph.d. research intern|machelen, flemish region, belgium|https://www.linkedin.com/jobs/view/4443933856|
 |hewlett packard enterprise|hpe labs - ph.d. research intern|machelen, flemish region, belgium|https://www.linkedin.com/jobs/view/4443939749|
-|huawei italy research centers|internship opportunities at huawei italy research centers|vimodrone, lombardy, italy|https://www.linkedin.com/jobs/view/4174437247|
-|huawei sweden|high-performance cloud computing internship|kista, stockholm county, sweden|https://www.linkedin.com/jobs/view/4326218309|
-|infineon technologies|internship - ai optimized pcb development process engineer (f/m/div)|villach, carinthia, austria|https://www.linkedin.com/jobs/view/4440554465|
-|infineon technologies|internship - speech recognition for robotics (f/m/div)|villach, carinthia, austria|https://www.linkedin.com/jobs/view/4461098333|
-|international atomic energy agency (iaea)|internship - phytosanitary treatments|seibersdorf, lower austria, austria|https://www.linkedin.com/jobs/view/4454601403|
-|mondi group|r&d internship or master's thesis (between september 2026 - june 2027)|ulmerfeld, lower austria, austria|https://www.linkedin.com/jobs/view/4457935015|
-|procter & gamble|internship or thesis – research & development (m/f/d)|kronberg, hesse, germany|https://www.linkedin.com/jobs/view/4313375928|
-|procter & gamble|internship or thesis – research & development (m/f/d)|schwalbach, hesse, germany|https://www.linkedin.com/jobs/view/4313379766|
-|revel|machine learning intern|prague, prague, worldwide|https://www.linkedin.com/jobs/view/4442537150|
-|the walt disney company germany|disney research studio intern|zurich, zurich, switzerland|https://www.linkedin.com/jobs/view/4413913760|
-|the walt disney company germany|disney research studio intern|zurich, zurich, switzerland|https://www.linkedin.com/jobs/view/4418479293|
-|volkswagen group|internship / thesis robotic foundation models for automotive final assembly (m/f/d)|wolfsburg, lower saxony, germany|https://www.linkedin.com/jobs/view/4451919113|
+|huawei|intern/master thesis student for safe generative ai|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4426655268|
+|huawei|phd internship and visiting scholars program for 2026|helsinki, uusimaa, finland|https://www.linkedin.com/jobs/view/4393019936|
+|lionsgate|manager, international research|london area, united kingdom|https://www.linkedin.com/jobs/view/4443902045|
+|warner bros. discovery|aquisition intern|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4448144224|
